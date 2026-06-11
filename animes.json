@@ -1,5 +1,48 @@
 [
   {
+    "id": "lupin-iii-pilot-film",
+    "title": "Lupin III: Pilot Film",
+    "status": "Finalizado",
+    "synopsis": "Dos años después del nacimiento del manga, se lanzó un cortometraje piloto. Era un breve film de solo 13 minutos que tenía como propósito evaluar la respuesta a una posible futura realización de anime de Lupin III. El piloto comienza con un llamado a desafío de Lupin a Zenigata desde un teléfono público.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1882/145676l.webp",
+    "cover": "https://cdn.animeando.net/covers/5225.jpg",
+    "banner": "https://cdn.animeando.net/covers/5225.jpg",
+    "type": "Película",
+    "year": "1969",
+    "rating": 6.36,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4eb103fa389773883015dd4939936d8c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/GAEV0ZZB#kv9u3qz16HlP556Qls8IMMVKqqjRVmgXVzfe73U__Uo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uij87dhwris2.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/9uxoZaGn?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781155174130,
+    "hasLatino": false
+  },
+  {
     "id": "ore-dake-level-up-na-ken",
     "title": "Solo Leveling",
     "status": "Finalizado",
