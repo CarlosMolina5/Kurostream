@@ -17,6 +17,32 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0fa2f10cd9a1b4e219031b31b14ec5bd"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/FVsUmAhb#OaZD0PfVtQYg-d9izPLVKnE32yRHSAasE7BK6wqNKkY"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#j55sff"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-jfscgo28vve3.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/T3StYFu7?embed"
+          }
+        ]
+      },
+      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -407,7 +433,7 @@
         ]
       }
     ],
-    "timestamp": 1781181980658,
+    "timestamp": 1781181993294,
     "hasLatino": false
   },
   {
@@ -596,7 +622,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781181922643,
+    "timestamp": 1781181988534,
     "hasLatino": true
   },
   {
@@ -1241,7 +1267,7 @@
         ]
       }
     ],
-    "timestamp": 1781181919635,
+    "timestamp": 1781181985576,
     "hasLatino": true
   },
   {
@@ -1289,7 +1315,7 @@
         ]
       }
     ],
-    "timestamp": 1781181910643,
+    "timestamp": 1781181978931,
     "hasLatino": true
   },
   {
@@ -1328,7 +1354,7 @@
         ]
       }
     ],
-    "timestamp": 1781181909852,
+    "timestamp": 1781181978335,
     "hasLatino": false
   },
   {
