@@ -1,5 +1,906 @@
 [
   {
+    "id": "ashita-no-joe",
+    "title": "Ashita no Joe",
+    "status": "Finalizado",
+    "synopsis": "Joe Yabuki es un joven problemático, cuya única solución a los problemas es golpear. Lo que le falta en modales y disciplina, lo compensa con sus habilidades de lucha autodidactas.",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/64671l.jpg",
+    "cover": "https://cdn.animeando.net/covers/2402.jpg",
+    "banner": "https://cdn.animeando.net/covers/2402.jpg",
+    "type": "TV Anime",
+    "year": "1970",
+    "rating": 8.34,
+    "studio": "",
+    "episodesCount": 40,
+    "genres": [],
+    "currentEpisode": 40,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/33c59080fcf22315bbba8bba47cade1f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/L05klTwY#i56YXfo9wwa3Lzs4W1SHE69yY-D09AByhGso5QtVZD0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-pocroczin5kp.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/qpBmLsu7?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f19be6c3c4a01884077272229eef220f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/XoYABQoA#My_pqTv6AcKzM4yv0_D6tGvw2VEsnkjcxWPXDiUu6h4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-oinsd9fc6nr6.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/WDNSx8Lo?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/62d428411e6c83f47360abc158155bbc"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/m8oxRbya#HqU-Mi07VBmOhIbjCO0Eekv5EnMKhkYyKyNyur2wjlY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-0p53j1kmcz9m.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/YiQx8dUm?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/dc3adb6129118a0e83e1ac8127513acc"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ihQmRJAZ#Be3J63b1vFdOIFdUVYVU4lGNqOxktxz9RbN1DsrHqwM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-2giswoiyusra.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ZcESFVRY?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d290684bba1c30da87255affb8007b1c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/j5ZjVCxD#C471otaw3TqaJu1HnAYDZgOVVU8RwGuGjd_Vw_GUuFE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-b4lhekuv01l6.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/MAWtcSBt?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/26a0946a8ee8ba754f754104557bfdfb"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/aoIykB7D#SvS9-8aTKYgIfIPe9IOOtaCJW4aNSN1OVSb1AS7XXx8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4qpmdokv5aq1.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/7PrStq4A?embed"
+          }
+        ]
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4224e98a70c35682141271dc06b8c701"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/mt5G3CJC#Hoc82zorYmMfjwKj-CE9kQa3cKoAgcSfwEMyqZ2Menk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xt02pd3j5doo.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Fc8iSAms?embed"
+          }
+        ]
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4ea112dd58bad30bce471a220d581d64"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/XpZnja6I#CIAO7MsHm-llg92gLx3UhAtmxkmHQA_kyD_PbTFbGrM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-awvhglsu50kg.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Pf6tP7N4?embed"
+          }
+        ]
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d94ede5d2cb24c8083dba7ce5b8c6011"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ak4iyCbA#KxOzxZyS5rZNa5-lQBGUmQefsZVGiauHAx_0aE7KOSM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-egaq19qxr57k.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/bYP2gmiC?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f387d644e3deea5a19522d83b9fe17cd"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/XtYxnCDZ#Z8sUvCZAurAZWXnPWugFpkP5hJalDCzIl9gIzQD4Hq8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-kdnohj420m7b.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Ag446TdF?embed"
+          }
+        ]
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/afebf2445b855c65c42d0fefdbff2bff"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fh4DyK7T#IQmRoETqheZngOKZeg4E--0jLw46BPxEeJ498dJQRtw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xssr80bz28ya.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/zDdMk5LP?embed"
+          }
+        ]
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c8a235c0ed42c77fc3c8ef0daa3e361a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jx4H0L7a#jkg8S4YYH8dZcCI0igvks4nZU8dNugBNCgAFnT-1iRs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-2e2x3ys6m40h.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/9wjP61xd?embed"
+          }
+        ]
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4294b5502c8c373c17c14d275758cf45"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/HkhjlKoJ#eoTyUnOcpKuhH2DKlcUDpN6CO_AmUpP1oUlRxFKEFXE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-sw7ermzck8zr.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/vxa9BwTa?embed"
+          }
+        ]
+      },
+      {
+        "num": 14,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b5fc747e3f4bdbc2fc5c519642cbad4e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/f4g2VYyQ#C9cxNKEokaS8BJEEoLW2uwrBgStlKFRmqQyDDKRi3UI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-yutmvj0fj5ba.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ciiSCmro?embed"
+          }
+        ]
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7886cfa477e569b86804319f61a3284c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/CtgDnCpQ#PbrV6CMhndLMvYkSpztXoTOVM0UUJnKe_YzvstGgjA0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-sz4j0dz10fkl.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/iGqT8jRE?embed"
+          }
+        ]
+      },
+      {
+        "num": 16,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d25e619655508712384078e4e8dbd780"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ml4xiKaY#HgYJ9NH_XN_JHrkdybF0aomizYK_1oNHqugkfFodhmU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-wk2tifn61wvy.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/VXCPXmQm?embed"
+          }
+        ]
+      },
+      {
+        "num": 17,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/fcb261ab55187b86bc394c7a383fdb87"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/i1RClQaJ#hSaaF2mZoReX4ws1LMk94FVSceF1w1VxAxJn1WVwzAs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-jgbnsjvxa4nf.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/w6A4BsZK?embed"
+          }
+        ]
+      },
+      {
+        "num": 18,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/aca4f30ae745803f4a5a2b3acdfec6db"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/CoQQRaba#4JpvIQeykiblhYJM5sJ1AwEZ1oBjIvSlaSHuQs3qF5c"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-yk4ury1zid1k.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/sdfhsuct?embed"
+          }
+        ]
+      },
+      {
+        "num": 19,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/52005f191b280e035f30c2eed576a087"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/bgJTWCJK#O9ZD_BqKpABJYyiAyE7af85p4RQvsJHvffFXuRKPYVE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-qu36yok9lhqa.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Lg2ZHmzx?embed"
+          }
+        ]
+      },
+      {
+        "num": 20,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f9d852a538ae25b4f9fa640f98500197"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/2xBFUSZS#gEPcblXR-2X6DkKQ_UguDSerwXuFO04LINBhV87nQ0g"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fcm7tge3gece.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/igHJMcyJ?embed"
+          }
+        ]
+      },
+      {
+        "num": 21,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8e600934ebf7c37045337b5016a5f398"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/uopHgZTJ#txQr-kxv0FwhQQMkaJK5oCz7X90gGMqeCsS5Ox3hweE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-riz4po8ggfjz.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/E6Fd5J26?embed"
+          }
+        ]
+      },
+      {
+        "num": 22,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ce379ce0750b18b61831f4dbd867cdce"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/D84GDbRI#AfblMQOjKcYSmbpH9yA-Cfvw_DFsK9mYKx9KBonZNdI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-onuz4xt7pbfy.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/SubvjpB8?embed"
+          }
+        ]
+      },
+      {
+        "num": 23,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/88403d5e932aefe4448886ce3f625417"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/SsI3DbQZ#j9RgnjajvbN26ecCrOpmMhA3CIrwDxMNFo3_cgN3vw4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-6adjxhtrvtwl.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wdCwpBTD?embed"
+          }
+        ]
+      },
+      {
+        "num": 24,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/401168840b700216c458fa65857f5a4c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ysZgCLIa#CVJ6bEzhlCvB6Dl3eXqfWFnpMKf4iwgg1UNL4RytAbE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-f3vopsnxg9li.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/PAeEV9bP?embed"
+          }
+        ]
+      },
+      {
+        "num": 25,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/884e4975863189d574ee5d443ca54d17"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/S5B0xZrK#3txQXq3-_kr9eip35XWwxe8dhiSkSuoAEIPwKNXdiQQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-8vd5xtsxslao.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/74MdXDFo?embed"
+          }
+        ]
+      },
+      {
+        "num": 26,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6b45fbe5c3d44e219bf1696281afe126"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/SsJ2BQhK#qaqCKEzzeoJyKHezZDo4lF6kBS6c1AGwnJ8GZGCSSsU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-d33ufkt6h7q6.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/2ookvYj6?embed"
+          }
+        ]
+      },
+      {
+        "num": 27,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/fe15e14f75b3c4135dc542203e8002b1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/awAXEDpD#Ch3iOrZrpTjp45RQQwlZ_QtJpEoAR_gfxme7_6PuqjU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-emgynlgpwgrw.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/pr3fsDT2?embed"
+          }
+        ]
+      },
+      {
+        "num": 28,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d2746d0e5b1df41962c9379bcc9acc0b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zhBHxK4B#kf1TwNmKf_VxO4NVFT1UNgZ7ag5Yu-dTbP1f9Km5OzE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-7cxqoz9pjkik.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/mShyEZNi?embed"
+          }
+        ]
+      },
+      {
+        "num": 29,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/99e2a81a0744ea0dafdaed5abaf71f2d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/35olhJBJ#7CnigZ1059AKAF2vwFwVRiHDzZQFS-3CTwA8VdpAEMk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-1ibe9ivm8i4m.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/n7rWbUXz?embed"
+          }
+        ]
+      },
+      {
+        "num": 30,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b98b398e429c6d155de8a3e1d27384c4"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ux5REASR#S-Ra1rh2Vzi9oNuyRA3Dja3nIZiIFlzUPZkFBlvrRDY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-cu3n75p4fk1d.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/mhDZrNGJ?embed"
+          }
+        ]
+      },
+      {
+        "num": 31,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/405b59ff6dd91095f5a8f9288feff144"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/H9JGDDoI#5c-4JpFgWlUcqG9U6RY81q_zE63U4FkDFfnoIV3PupU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4b00dtb3zfvb.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/8mmXQTgh?embed"
+          }
+        ]
+      },
+      {
+        "num": 32,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/48af3c4d4512dc474b71557616875306"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/vsh3hYwR#QP0R20HTwxZcNBuF6uFbFFSa8BR3mwG5gdB4xh9yOuo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ai200e8gk9kw.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/bUTK73m9?embed"
+          }
+        ]
+      },
+      {
+        "num": 33,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b4d3c4b08b0cd4274d4520b4025159c3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ykYjGTwR#1gWUb-TjmlR46L1JpKxrvHNVYBp72R4JG5k3vBD8iGM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-joc82z9ou5xn.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wmLxLT3G?embed"
+          }
+        ]
+      },
+      {
+        "num": 34,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7fa151a0614446f96970884d5a2a0509"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/WwoSCQSD#3IZE-Rx7YfJY__-yDZ1fpzkbHBXtrOjcjzavHGsUUiU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-mjxxliaog4f9.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/mMhp7h6U?embed"
+          }
+        ]
+      },
+      {
+        "num": 35,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a620c739191a1c11f2e59e6612b1c9c5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/WhIwzBIC#CVGDevB3sR2cXkPwgawS5W6DloSLUBwdr1clNOTch8c"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-461tze81zz20.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/tD4Nw8ES?embed"
+          }
+        ]
+      },
+      {
+        "num": 36,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b3c5233e31c3a23120f22bb3910386f6"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fwpjmRYa#stnwGwNKo82uEY_8tJ31SaUOmvryTgK1jdl-EjdOYO4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ujvf0fs1fnpu.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/3zKKdwyh?embed"
+          }
+        ]
+      },
+      {
+        "num": 37,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/baab9de8fac9f2335bfeeb60492ab629"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ioIRxRaY#lbpgc47rJyGuu4Mq9zUGNrSNXRtTe9Sn1ziorRqjjnY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4cwtuhmeklj4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/n9kr9W49?embed"
+          }
+        ]
+      },
+      {
+        "num": 38,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/46abcaa90cd226106ed52f53fb5857d5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LhoWlJzA#bzLbtAUJU7m1YG63lsuY2yiS4Prb598G4YWXrkT-dx0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uezqmto33bk9.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/dRZ7h7YB?embed"
+          }
+        ]
+      },
+      {
+        "num": 39,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/225e27665249a95aa0308ed6361b2a70"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/S0wUjJCA#9emglk6oMhZWpgXfeAucXkjvaa4itFyZYvj066D4N7k"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-9150obcd7giv.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/nzVe9bYz?embed"
+          }
+        ]
+      },
+      {
+        "num": 40,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d7fd02378563c8e30c81aa67112e1a89"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/S4pRiBzB#1m6TF5uM_PltRhUUhHZ-sd_t0VTUMM-A1hzWM3kHlNc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-s1pgc6xrueui.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/VtA2FRrs?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781155282439,
+    "hasLatino": false
+  },
+  {
     "id": "lupin-iii-pilot-film",
     "title": "Lupin III: Pilot Film",
     "status": "Finalizado",
