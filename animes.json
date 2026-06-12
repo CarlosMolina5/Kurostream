@@ -1,5 +1,872 @@
 [
   {
+    "id": "steins-gate",
+    "title": "Steins;Gate",
+    "status": "Finalizado",
+    "synopsis": "El excéntrico científico Rintarou Okabe tiene una sed interminable de exploración científica. Junto con su tonta pero bien intencionada amiga Mayuri Shiina y su compañero de cuarto Itaru Hashida, Okabe funda el Future Gadget Laboratory con la esperanza de crear innovaciones tecnológicas que desconcierten a la psique humana. A pesar de las afirmaciones de grandeza, el único \"gadget\" notable que el trío ha creado es un microondas que tiene el poder desconcertante de convertir los plátanos en pegamento verde.\n\nSin embargo, cuando Okabe asiste a una conferencia sobre viajes en el tiempo, experimenta una serie de eventos extraños que lo llevan a creer que hay más en el dispositivo \"Teléfono Microondas\" de lo que parece. Aparentemente capaz de enviar mensajes de texto al pasado usando el microondas, Okabe incursiona aún más con la \"máquina del tiempo\", atrayendo la ira y la atención de la misteriosa organización sern.\n\nDebido al descubrimiento de la novela, Okabe y sus amigos se encuentran en un peligro siempre presente. Mientras trabaja para mitigar el daño que su invento ha causado a la línea de tiempo, Okabe libra una batalla no solo para salvar a sus seres queridos, sino también para preservar su degradante cordura.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
+    "type": "Serie",
+    "year": "2011",
+    "rating": 9.07,
+    "studio": "White Fox",
+    "episodesCount": 24,
+    "genres": [
+      "Drama",
+      "Ciencia Ficción",
+      "Suspenso",
+      "Psicológico",
+      "Time Travel"
+    ],
+    "currentEpisode": 24,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/ld7cg00v3txl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!t0MXhLpA!ruK14Popsr81NWT5qactk6lvbDb9GuL-BHaq4JUmBdM"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/bo2O0H5nH5A5"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/279048227442"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/dw9rk7q4pog"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=243255245223222230231235256246208260194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/j43LWAKG9Ruz0GG/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/s8cxl076kz2j"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!48ViFRYS!BBza9MTmfpkGc0G258BoPCMKE1dUWT_ohl9sjvmHgK0"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/Q31WWvpo6fco"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/282788432560"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8xopp41wqo7"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=211239277213206231278274228205257234194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/DzZa8jl6BvfBy2/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/3esphhnkc5hn"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!N9lVUKia!mTvS34YlylUnlUppLPebicqRwa2vs86c9_M8uteHnX0"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/U3B3W2y70cXu"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/276061555313"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/mzok6jwx19q"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=270242221263223254267211226263261260194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/LVgOax09DPtRdwx/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/err8blm7zwgc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!VgNHlDDC!4TEcAITHcja6vzgurvozEWUZ9bMlUEnDWZlFYRo_MjQ"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/6CE0r53jhPPI"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/251021822474"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/05ol7j38n96"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=271257229236206260205233223206258234194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/12mqXAVPdjtezYk/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/nu61jqhmk29g"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!UCcmWTDL!EvkPM4qqC25VGH6M1D71WSU0sZr72pp8yQ2hWuJHVDE"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/1TY5jA2K0O2d"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/283094682224"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/6mo2-6drd9r"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=212230204235204209226239211276245271194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/vLP7pMBOvgS49Wk/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/nwe94ubl89q5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!x0VFEZJJ!7DEve_NCHT_gb19cYhjhvMhVGtD6ppcj0ivTU99gNbU"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/X803eL67161M"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/277337344754"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/5jo4-d11xv0"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=244255244239231243267266269267278270194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/zw2pgrZKyXtYYDv/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/h9ssmekj3kn2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!swVXQabZ!Q7-XF9MjcJmN8B0KKH-M1iRltv9DEVJICV3Wgpw0OxA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/4q1kF5GyUIx3"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/279048358514"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/dw9rk7qqpog"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=266225221242232229274211277267236222194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/Mqd9YzRe9Pfm3ea/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/mwkie3c40idk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!w49h1ZyC!qJ0TUDatbbOcpY830KewHBZPniKxVIdSNR9_Vg2W_SA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/tWdElYxkJrqy"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/264010599001"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/3q91-4662oy"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=223232208221269226210275263260259271194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/LkYXwy1XoJFRqAK/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/8s034qwnpf5d"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!xgkmXZLA!62k-PGfIYdgqgddnjQCwagHMt-slShujfNTcUZhlLEA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/pbodyiFo1Epi"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/257788545626"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/7y9wl1wwxvj"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=243258255272208229237275210277277273194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/291D01Pd9ocVMg/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/eykhexw0fymp"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!011jnCiR!Mw0sOYwU5szB0UMUWoLGocX4VHxt8gfG9HvxwF2f-Ic"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/VrxLe0d7B20U"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/277337410290"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/6mo2-6ddd9r"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=224246258236226226269242223243255267194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/x2oR4K4lekHkg6p/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/vzigsqj5d499"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!1skliJKQ!fWNGsPri0L_vmg7nA51ciUAK1hYSpPEiupyx0IeSH3U"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/Clx81t576t4b"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/279048489586"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/yxv3-eqqqvl"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=269277230274253259269255207205238272194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/xPog2gYe7zCkOe0/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/te2v6m6snzxm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!JgsW0RLK!e3yObGlLeVLgNw2wEl4uLIRKOyySatyuFtGO1eAKlno"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/o7Oy2FwtrRy2"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/282788498096"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/4l90-q11x9q"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=267209263242241256254223263211206257194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/GpQJpRDYaZc1eOl/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/704dtie70vmy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!c4kyRRhT!808YlQOfePL-MbVEcw6L-LfLYdMk6ObbwTptGKFLA-Y"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/7xAnEKM66m0J"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/282788563632"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/549yygmmx9l"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=224241207244209240244275228226205213194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/kk1DjVGBpQFOLrB/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 14,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/t1n8xsfjhypu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!spVFGSBY!ZWm8Z63XIdvVV5bdmyngsfghn1om1STlvfj-UmrXR-M"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/m3YVa2IDEYYj"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/283094878832"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/en98-nww0v1"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=260243261231243211274278246262271232194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/gPmPa0Xq0ZsqyYw/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/7sc56vefkbcj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!ZwUg0AZB!UOO_WxnzXRP_MA9ZkjthQB6HK9DsBRD0aXItane77as"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/I8113RVQ787s"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/279829220048"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/p69gx4eexoj"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=270259228235235241241270244264269272194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/PkAKBVWrGXi00Pm/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 16,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/ajmd4zjptvwa"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!84Uy3LTQ!5BG7SUoNrUn5RMJ3KOrxABc435RlthTbIEBWuVO9k0M"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/MpxUKEUcaK61"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/271411579414"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/7zv-yk772ox"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=236234230213253272273232255264212267194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/6PGPOLX86rh912b/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 17,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/vayxzh06x8jz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!dpN2VYiY!dtdojSqCxn5yoG7L9AmQdGVHv1i1-OWG0TvvapvcyZY"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/3f6QX5hGlSId"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/279829285584"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/05vl7r41no6"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=267268235233226272236255238274231270194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/69jDPOwkAMHLZy/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 18,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/iqm05704n4ro"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!04dGXSBD!Ram__GXbmDRCSneiQrjv5qRjyIoE8-DrTgJln1CUZHA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/l2j0tIjp0iV4"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/255007394364"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/80vee-057vj"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=254241271244272226264227269257211208194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/ll09JKxmOMcZoW/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 19,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/cp4sutst1je1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!ggskwRBJ!S_hGooZEM1k9VliIaJMJyC8t-mDUcGBXsmC__aEQ5bM"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/Yn5308107V8w"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/257788676698"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/40vxe80my98"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=233255257205256275228265238271231259194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/WDBb9dLrZOSb963/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 20,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/vzar9eoumu6d"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!ApkxQajQ!I210HDcFDLCtuNunwtwnhiH7p_lJVicpVnhnSl4uCJw"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/K03aa6kxnSvA"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/265610005128"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/7zo-yk7n29x"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=278242222208229253232243242210237223194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/qgYG4ZW4leHK2v/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 21,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/l02bzbzhyo86"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!AkcHjZwL!DCugggwGo0zLhvTV22lEk3TgzasCXKSy81BVJbPdRgw"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/N2ConQ4pAatK"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/278180072019"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/2w9mdp2kl96"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=232243222272242243228268224238210265194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/lwvKD7pPjDT71Kj/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 22,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/pk7ik92gk9zf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!Jg0SWBiQ!hyR_y_exuhrcX7oXE084fMmQz5M12Msffk9aXeKaYzA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/04V74s33KwI7"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/277591558830"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8g9zxn-3yvd"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=261262262243236276240273264235273235194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/LJwzrkYW3DTR1ed/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 23,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/0mtapss49xkr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!otEDnZbT!q8LmZYbh9iREwMLqu-m_2bZoPAoNH7jlSyIk-T1HPzU"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/82v42FJ8pw34"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/277193493103"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/p6ogx4ewxvj"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=T2xCTXpiL0J6L3I1bDRKeGJ2eDFTUT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/gYYxWMGj3Afqyrj/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 24,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/iezxu9coqzn9"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!thlkTTxD!wGdAkjDuP46by8rsSjGrnt01eIFNc3L_NkTaxwLGC7c"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/VN7d6ewuoBp6"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/283095140976"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/80oee-0g7oj"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=238269273206242208205267272243205241194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/bk9KO8ZReKTPpg3/"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781281205269
+  },
+  {
     "id": "genocyber",
     "title": "Genocyber",
     "status": "Finalizado",
