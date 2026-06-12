@@ -12,7 +12,13 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Romance"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -433,7 +439,7 @@
         ]
       }
     ],
-    "timestamp": 1781300582313,
+    "timestamp": 1781300596991,
     "hasLatino": false
   },
   {
@@ -449,7 +455,12 @@
     "rating": 6.54,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -472,7 +483,7 @@
         ]
       }
     ],
-    "timestamp": 1781300581938,
+    "timestamp": 1781300596348,
     "hasLatino": false
   },
   {
@@ -488,7 +499,13 @@
     "rating": 8.55,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Suspenso",
+      "Terror",
+      "Elenco Adulto",
+      "Psicológico"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -515,7 +532,7 @@
         ]
       }
     ],
-    "timestamp": 1781300581866,
+    "timestamp": 1781300596311,
     "hasLatino": false
   },
   {
@@ -531,7 +548,13 @@
     "rating": 6.46,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Comedia",
+      "Shounen",
+      "Mecha",
+      "Parodia"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -558,7 +581,7 @@
         ]
       }
     ],
-    "timestamp": 1781300581883,
+    "timestamp": 1781300596318,
     "hasLatino": false
   },
   {
@@ -574,7 +597,14 @@
     "rating": 7.83,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Seinen",
+      "Espacial"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -867,7 +897,7 @@
         ]
       }
     ],
-    "timestamp": 1781300582405,
+    "timestamp": 1781300596863,
     "hasLatino": false
   },
   {
@@ -36591,7 +36621,13 @@
     "rating": 7.26,
     "studio": "",
     "episodesCount": 7,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Elenco Adulto",
+      "Mecha"
+    ],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
