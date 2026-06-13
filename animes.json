@@ -375,7 +375,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781311175926,
+    "timestamp": 1781311184430,
     "hasLatino": true
   },
   {
@@ -428,7 +428,7 @@
         ]
       }
     ],
-    "timestamp": 1781311164463,
+    "timestamp": 1781311173717,
     "hasLatino": false
   },
   {
@@ -476,7 +476,7 @@
         ]
       }
     ],
-    "timestamp": 1781311164463,
+    "timestamp": 1781311174941,
     "hasLatino": false
   },
   {
@@ -524,7 +524,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781311164619,
+    "timestamp": 1781311173844,
     "hasLatino": true
   },
   {
@@ -583,7 +583,7 @@
         ]
       }
     ],
-    "timestamp": 1781311164839,
+    "timestamp": 1781311174548,
     "hasLatino": false
   },
   {
@@ -30933,12 +30933,7 @@
     "rating": 6.62,
     "studio": "",
     "episodesCount": 15,
-    "genres": [
-      "Ciencia Ficción",
-      "Comedia",
-      "Romance",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -57282,7 +57277,10 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
