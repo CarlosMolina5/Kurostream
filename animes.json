@@ -312,7 +312,7 @@
         ]
       }
     ],
-    "timestamp": 1781378327432,
+    "timestamp": 1781378344073,
     "hasLatino": false
   },
   {
@@ -360,7 +360,7 @@
         ]
       }
     ],
-    "timestamp": 1781378326216,
+    "timestamp": 1781378340064,
     "hasLatino": false
   },
   {
@@ -450,7 +450,7 @@
         ]
       }
     ],
-    "timestamp": 1781378325744,
+    "timestamp": 1781378343683,
     "hasLatino": false
   },
   {
@@ -717,7 +717,7 @@
         ]
       }
     ],
-    "timestamp": 1781378330291,
+    "timestamp": 1781378345023,
     "hasLatino": false
   },
   {
@@ -789,7 +789,7 @@
         ]
       }
     ],
-    "timestamp": 1781378326216,
+    "timestamp": 1781378343693,
     "hasLatino": false
   },
   {
@@ -193348,7 +193348,11 @@
     "rating": 7.19,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Elenco Adulto",
+      "Histórico",
+      "Militar"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
