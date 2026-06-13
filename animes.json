@@ -377,7 +377,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367354071,
+    "timestamp": 1781367355041,
     "hasLatino": true
   },
   {
@@ -397,7 +397,7 @@
       "Comedia",
       "Escolares"
     ],
-    "currentEpisode": 16,
+    "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -729,31 +729,9 @@
             "url": "https://pixeldrain.com/u/UXa1NgPM?embed"
           }
         ]
-      },
-      {
-        "num": 16,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c733eb48a9ad2d8d4f4481a4d931c1a6"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/3BlDXAIA#ZT2xVIIHDalll8DhXgdpxZb3xaMEB-ABtSQXrbowtnw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-c5vtdhb713c6.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/PFWHjRyk?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781367353824,
+    "timestamp": 1781367355481,
     "hasLatino": false
   },
   {
@@ -1086,7 +1064,7 @@
         ]
       }
     ],
-    "timestamp": 1781367354356,
+    "timestamp": 1781367355573,
     "hasLatino": false
   },
   {
@@ -1464,7 +1442,7 @@
         ]
       }
     ],
-    "timestamp": 1781367354134,
+    "timestamp": 1781367358462,
     "hasLatino": false
   },
   {
@@ -1909,7 +1887,7 @@
         ]
       }
     ],
-    "timestamp": 1781367353555,
+    "timestamp": 1781367355663,
     "hasLatino": false
   },
   {
@@ -148674,14 +148652,7 @@
     "rating": 6.98,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
