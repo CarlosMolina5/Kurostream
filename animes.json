@@ -311,7 +311,7 @@
         ]
       }
     ],
-    "timestamp": 1781327448583,
+    "timestamp": 1781327661276,
     "hasLatino": false
   },
   {
@@ -643,7 +643,7 @@
         ]
       }
     ],
-    "timestamp": 1781327448126,
+    "timestamp": 1781327660657,
     "hasLatino": false
   },
   {
@@ -1295,7 +1295,7 @@
         ]
       }
     ],
-    "timestamp": 1781327449469,
+    "timestamp": 1781327661441,
     "hasLatino": true
   },
   {
@@ -1947,7 +1947,7 @@
         ]
       }
     ],
-    "timestamp": 1781327448274,
+    "timestamp": 1781327661523,
     "hasLatino": true
   },
   {
@@ -2308,7 +2308,7 @@
         ]
       }
     ],
-    "timestamp": 1781327448504,
+    "timestamp": 1781327661620,
     "hasLatino": false
   },
   {
@@ -58122,7 +58122,12 @@
     "rating": 7.55,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shounen",
+      "Histórico",
+      "Samurai"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -87258,12 +87263,7 @@
     "rating": 7.57,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Ciencia Ficción",
-      "Comedia",
-      "Elenco Adulto",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
