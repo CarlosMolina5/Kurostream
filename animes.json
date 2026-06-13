@@ -286,7 +286,7 @@
         ]
       }
     ],
-    "timestamp": 1781365866128,
+    "timestamp": 1781365869135,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781365864897,
+    "timestamp": 1781365868418,
     "hasLatino": false
   },
   {
@@ -604,7 +604,7 @@
         ]
       }
     ],
-    "timestamp": 1781365865525,
+    "timestamp": 1781365868221,
     "hasLatino": true
   },
   {
@@ -739,7 +739,7 @@
         ]
       }
     ],
-    "timestamp": 1781365864909,
+    "timestamp": 1781365868051,
     "hasLatino": false
   },
   {
@@ -765,28 +765,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9e462663f5dd6af8f97bbb4a13d9507b"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/BpgXHBZY#b2tndayOQFpeSfgezEWzAXF5eUcKjPFsyT4eKXPc7HU"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-a9bm56kdyii7.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/L6hEuCqc?embed"
-          }
-        ]
-      },
-      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -809,7 +787,7 @@
         ]
       }
     ],
-    "timestamp": 1781365865185,
+    "timestamp": 1781365867839,
     "hasLatino": false
   },
   {
@@ -120710,7 +120688,12 @@
     "rating": 7.55,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shounen",
+      "Histórico",
+      "Samurai"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -127431,11 +127414,7 @@
     "rating": 6.6,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Fantasía",
-      "Romance"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
