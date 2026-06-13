@@ -309,7 +309,7 @@
         ]
       }
     ],
-    "timestamp": 1781363481277,
+    "timestamp": 1781363485108,
     "hasLatino": false
   },
   {
@@ -682,7 +682,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363481076,
+    "timestamp": 1781363484019,
     "hasLatino": true
   },
   {
@@ -786,7 +786,7 @@
         ]
       }
     ],
-    "timestamp": 1781363479532,
+    "timestamp": 1781363481452,
     "hasLatino": false
   },
   {
@@ -880,7 +880,7 @@
         ]
       }
     ],
-    "timestamp": 1781363479224,
+    "timestamp": 1781363481033,
     "hasLatino": false
   },
   {
@@ -1163,7 +1163,7 @@
         ]
       }
     ],
-    "timestamp": 1781363480844,
+    "timestamp": 1781363485105,
     "hasLatino": false
   },
   {
@@ -142696,13 +142696,7 @@
     "rating": 7.56,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Elenco Adulto",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
