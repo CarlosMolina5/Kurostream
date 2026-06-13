@@ -313,7 +313,7 @@
         ]
       }
     ],
-    "timestamp": 1781370943492,
+    "timestamp": 1781370946537,
     "hasLatino": false
   },
   {
@@ -425,7 +425,7 @@
         ]
       }
     ],
-    "timestamp": 1781370941966,
+    "timestamp": 1781370945565,
     "hasLatino": false
   },
   {
@@ -485,7 +485,7 @@
         ]
       }
     ],
-    "timestamp": 1781370942044,
+    "timestamp": 1781370945763,
     "hasLatino": false
   },
   {
@@ -533,7 +533,7 @@
         ]
       }
     ],
-    "timestamp": 1781370941801,
+    "timestamp": 1781370945466,
     "hasLatino": false
   },
   {
@@ -556,28 +556,6 @@
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/808b2836cd8437de994d9f2f9e7db6f4"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6QdiVZRB#ACT5BVnQA1NFcpGZVzm8D-wo_JuzN2mXvJiGPLQiWEI"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-olthaxv1bh7x.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/2sNfNQE9?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -645,7 +623,7 @@
         ]
       }
     ],
-    "timestamp": 1781370942269,
+    "timestamp": 1781370945437,
     "hasLatino": false
   },
   {
@@ -148377,7 +148355,16 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -185159,15 +185146,7 @@
     "rating": 7.96,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Shounen",
-      "Artes Marciales",
-      "Gore",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
