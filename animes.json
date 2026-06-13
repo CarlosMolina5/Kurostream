@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781373613917,
+    "timestamp": 1781373621287,
     "hasLatino": false
   },
   {
@@ -597,7 +597,7 @@
         ]
       }
     ],
-    "timestamp": 1781373614903,
+    "timestamp": 1781373626442,
     "hasLatino": false
   },
   {
@@ -797,6 +797,24 @@
         ]
       },
       {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4a1ee4de47cd76b7421fca2ea13e6419"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/9pIxWAAY#1y7Hrgbgg88VyiuKlBGXbiABNEJ0KQJZ-rkDbBM2RlE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-82ssptld3bux.html"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -841,7 +859,7 @@
         ]
       }
     ],
-    "timestamp": 1781373613112,
+    "timestamp": 1781373625949,
     "hasLatino": false
   },
   {
@@ -1136,7 +1154,7 @@
         ]
       }
     ],
-    "timestamp": 1781373613896,
+    "timestamp": 1781373623753,
     "hasLatino": false
   },
   {
@@ -1448,7 +1466,7 @@
         ]
       }
     ],
-    "timestamp": 1781373614273,
+    "timestamp": 1781373624908,
     "hasLatino": false
   },
   {
@@ -194078,12 +194096,7 @@
     "rating": 6.7,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -195743,7 +195756,14 @@
     "rating": 7.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
