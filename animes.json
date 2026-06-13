@@ -43,7 +43,7 @@
         ]
       }
     ],
-    "timestamp": 1781371422991,
+    "timestamp": 1781371429271,
     "hasLatino": false
   },
   {
@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "timestamp": 1781371426376,
+    "timestamp": 1781371431587,
     "hasLatino": false
   },
   {
@@ -465,6 +465,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/sVktiT17?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/52a585aa3bf4c29767111c4cedcbf95f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/HPxEQa6Q#hAyDRDkNW70UsfSVeJC6kzDFipFUjwZ7pjgOLLPEJSc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-zf253izpuhrz.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/f9yKpJkH?embed"
           }
         ]
       },
@@ -711,7 +733,7 @@
         ]
       }
     ],
-    "timestamp": 1781371426412,
+    "timestamp": 1781371431429,
     "hasLatino": false
   },
   {
@@ -971,7 +993,7 @@
         ]
       }
     ],
-    "timestamp": 1781371425824,
+    "timestamp": 1781371431178,
     "hasLatino": false
   },
   {
@@ -1282,7 +1304,7 @@
         ]
       }
     ],
-    "timestamp": 1781371425086,
+    "timestamp": 1781371431214,
     "hasLatino": false
   },
   {
@@ -149147,7 +149169,16 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Shoujo",
+      "Artes Marciales",
+      "Histórico",
+      "Isekai"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
