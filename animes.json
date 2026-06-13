@@ -307,7 +307,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362710056,
+    "timestamp": 1781362711975,
     "hasLatino": true
   },
   {
@@ -686,7 +686,7 @@
         ]
       }
     ],
-    "timestamp": 1781362710563,
+    "timestamp": 1781362712029,
     "hasLatino": false
   },
   {
@@ -1024,7 +1024,7 @@
         ]
       }
     ],
-    "timestamp": 1781362708862,
+    "timestamp": 1781362711011,
     "hasLatino": false
   },
   {
@@ -1227,28 +1227,6 @@
         ]
       },
       {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/b44fec7202af0c81b36322e7886d37eb"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/3kQj0TKR#kMB7qn_aBeliRHdlbRERfwfnM2Is4BSpQSJ7Yi3SUNU"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-qzcsegc38uoo.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/mHVrKQpv?embed"
-          }
-        ]
-      },
-      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -1403,7 +1381,7 @@
         ]
       }
     ],
-    "timestamp": 1781362710260,
+    "timestamp": 1781362712300,
     "hasLatino": false
   },
   {
@@ -1781,7 +1759,7 @@
         ]
       }
     ],
-    "timestamp": 1781362710461,
+    "timestamp": 1781362711975,
     "hasLatino": false
   },
   {
@@ -109106,12 +109084,7 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Aventura",
-      "Fantasía",
-      "Shoujo",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -119973,7 +119946,13 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 7,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Romance",
+      "Isekai"
+    ],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
