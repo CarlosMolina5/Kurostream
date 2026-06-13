@@ -357,7 +357,7 @@
         ]
       }
     ],
-    "timestamp": 1781372220796,
+    "timestamp": 1781372227501,
     "hasLatino": false
   },
   {
@@ -733,7 +733,7 @@
         ]
       }
     ],
-    "timestamp": 1781372220446,
+    "timestamp": 1781372227507,
     "hasLatino": false
   },
   {
@@ -783,7 +783,7 @@
         ]
       }
     ],
-    "timestamp": 1781372219034,
+    "timestamp": 1781372225205,
     "hasLatino": false
   },
   {
@@ -915,6 +915,24 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-p1erfpgcp75z.html"
+          }
+        ]
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/43d909f0347a4b7dc2f026384c334532"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/pg5zzaha#uYzgCCGwzrycZa6dmX2TReqWM0k81XnTELMBydqylXw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-pel587kkzsrc.html"
           }
         ]
       },
@@ -1093,7 +1111,7 @@
         ]
       }
     ],
-    "timestamp": 1781372221558,
+    "timestamp": 1781372227570,
     "hasLatino": false
   },
   {
@@ -1140,7 +1158,7 @@
         ]
       }
     ],
-    "timestamp": 1781372219102,
+    "timestamp": 1781372225193,
     "hasLatino": false
   },
   {
@@ -182802,12 +182820,7 @@
     "rating": 8.07,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Misterio",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -188636,7 +188649,12 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
