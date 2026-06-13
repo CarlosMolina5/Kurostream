@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378653623,
+    "timestamp": 1781378677063,
     "hasLatino": false
   },
   {
@@ -706,7 +706,7 @@
         ]
       }
     ],
-    "timestamp": 1781378652109,
+    "timestamp": 1781378666777,
     "hasLatino": false
   },
   {
@@ -858,6 +858,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/tFVZUqxd?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 7,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/220cd0219142bf54a96b0765fb86300e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/9VQkQboa#9tgTyznv0xr6JoPX7Dti0srumdJc3kBpIRIQcaqj2Ac"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-smbnc3u9nvc1.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wg3MVurH?embed"
           }
         ],
         "sub": []
@@ -1061,7 +1083,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378654192,
+    "timestamp": 1781378667272,
     "hasLatino": true
   },
   {
@@ -1351,7 +1373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378653611,
+    "timestamp": 1781378667023,
     "hasLatino": false
   },
   {
@@ -1661,7 +1683,7 @@
         ]
       }
     ],
-    "timestamp": 1781378652370,
+    "timestamp": 1781378667422,
     "hasLatino": false
   },
   {
@@ -176010,14 +176032,7 @@
     "rating": 7.73,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -208725,7 +208740,13 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
