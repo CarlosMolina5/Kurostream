@@ -377,7 +377,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367346527,
+    "timestamp": 1781367354071,
     "hasLatino": true
   },
   {
@@ -753,7 +753,7 @@
         ]
       }
     ],
-    "timestamp": 1781367347755,
+    "timestamp": 1781367353824,
     "hasLatino": false
   },
   {
@@ -1086,7 +1086,7 @@
         ]
       }
     ],
-    "timestamp": 1781367346977,
+    "timestamp": 1781367354356,
     "hasLatino": false
   },
   {
@@ -1376,6 +1376,28 @@
         ]
       },
       {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b52f6b8b8ecfe413a1e4afeba41f500c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/uQlh0QSL#F8UqO-yIrJptzJagG2hYQnSX3QdBvgcsyktHnNwsyhg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-x91xfahs6rcz.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/miwyqXU3?embed"
+          }
+        ]
+      },
+      {
         "num": 14,
         "latino": [],
         "sub": [
@@ -1442,7 +1464,7 @@
         ]
       }
     ],
-    "timestamp": 1781367346527,
+    "timestamp": 1781367354134,
     "hasLatino": false
   },
   {
@@ -1470,6 +1492,32 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/509a280fe5dae4be559703f22401b85f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jkBVQATD#VUVexsgSUOBpeJ01xYvZ-gO2FlQZfw20zTwHEGrDxqY"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#8vdttp"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-yazyk6r5bb35.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/v9Th9r4q?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -1861,7 +1909,7 @@
         ]
       }
     ],
-    "timestamp": 1781367347100,
+    "timestamp": 1781367353555,
     "hasLatino": false
   },
   {
@@ -143486,14 +143534,7 @@
     "rating": 7.66,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -148633,7 +148674,14 @@
     "rating": 6.98,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
