@@ -41,24 +41,6 @@
         "sub": []
       },
       {
-        "num": 2,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c2fb3abcbd489757730e72114657a95d"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#cap968"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-dwwwqbekdd4q.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 3,
         "latino": [
           {
@@ -203,24 +185,6 @@
         "sub": []
       },
       {
-        "num": 11,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ef4183bdad6cb7f2c114f7013d7800d3"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#xectql"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-vmuozgnviz2e.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 12,
         "latino": [
           {
@@ -307,7 +271,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362741795,
+    "timestamp": 1781362745827,
     "hasLatino": true
   },
   {
@@ -686,7 +650,7 @@
         ]
       }
     ],
-    "timestamp": 1781362742796,
+    "timestamp": 1781362745651,
     "hasLatino": false
   },
   {
@@ -1024,7 +988,7 @@
         ]
       }
     ],
-    "timestamp": 1781362741369,
+    "timestamp": 1781362744538,
     "hasLatino": false
   },
   {
@@ -1403,7 +1367,7 @@
         ]
       }
     ],
-    "timestamp": 1781362742181,
+    "timestamp": 1781362746104,
     "hasLatino": false
   },
   {
@@ -1781,7 +1745,7 @@
         ]
       }
     ],
-    "timestamp": 1781362742058,
+    "timestamp": 1781362745432,
     "hasLatino": false
   },
   {
@@ -129143,14 +129107,7 @@
     "rating": 6.76,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Fantasía",
-      "Shounen",
-      "Artes Marciales"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
