@@ -286,7 +286,7 @@
         ]
       }
     ],
-    "timestamp": 1781365821356,
+    "timestamp": 1781365826563,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781365821176,
+    "timestamp": 1781365826342,
     "hasLatino": false
   },
   {
@@ -604,7 +604,7 @@
         ]
       }
     ],
-    "timestamp": 1781365821069,
+    "timestamp": 1781365826123,
     "hasLatino": true
   },
   {
@@ -739,7 +739,7 @@
         ]
       }
     ],
-    "timestamp": 1781365820647,
+    "timestamp": 1781365825765,
     "hasLatino": false
   },
   {
@@ -761,7 +761,7 @@
       "Seinen",
       "Sobrenatural"
     ],
-    "currentEpisode": 1,
+    "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -785,9 +785,31 @@
             "url": "https://pixeldrain.com/u/L6hEuCqc?embed"
           }
         ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/581d70f1f05776c385a64ca728f1b9a0"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/gt4imYpY#ZJ3oD1cCDG1VsxGbgY_0jG4DL7WFNkBh9l93J4Aghz8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-nzn31qlkrgcp.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/HVQg2oFd?embed"
+          }
+        ]
       }
     ],
-    "timestamp": 1781365820608,
+    "timestamp": 1781365825385,
     "hasLatino": false
   },
   {
@@ -155645,15 +155667,7 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
