@@ -42,7 +42,7 @@
         ]
       }
     ],
-    "timestamp": 1781312159258,
+    "timestamp": 1781312197163,
     "hasLatino": false
   },
   {
@@ -86,7 +86,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781312159370,
+    "timestamp": 1781312196532,
     "hasLatino": true
   },
   {
@@ -130,7 +130,7 @@
         ]
       }
     ],
-    "timestamp": 1781312159423,
+    "timestamp": 1781312197255,
     "hasLatino": false
   },
   {
@@ -506,7 +506,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781312186670,
+    "timestamp": 1781312198006,
     "hasLatino": true
   },
   {
@@ -782,7 +782,7 @@
         ]
       }
     ],
-    "timestamp": 1781312162864,
+    "timestamp": 1781312198426,
     "hasLatino": false
   },
   {
@@ -45120,10 +45120,7 @@
     "rating": 6.36,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Ciencia Ficción",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
