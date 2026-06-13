@@ -377,7 +377,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367314713,
+    "timestamp": 1781367316944,
     "hasLatino": true
   },
   {
@@ -397,7 +397,7 @@
       "Comedia",
       "Escolares"
     ],
-    "currentEpisode": 16,
+    "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -729,31 +729,9 @@
             "url": "https://pixeldrain.com/u/UXa1NgPM?embed"
           }
         ]
-      },
-      {
-        "num": 16,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c733eb48a9ad2d8d4f4481a4d931c1a6"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/3BlDXAIA#ZT2xVIIHDalll8DhXgdpxZb3xaMEB-ABtSQXrbowtnw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-c5vtdhb713c6.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/PFWHjRyk?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781367314998,
+    "timestamp": 1781367316468,
     "hasLatino": false
   },
   {
@@ -1086,7 +1064,7 @@
         ]
       }
     ],
-    "timestamp": 1781367313783,
+    "timestamp": 1781367317319,
     "hasLatino": false
   },
   {
@@ -1464,7 +1442,7 @@
         ]
       }
     ],
-    "timestamp": 1781367314956,
+    "timestamp": 1781367316907,
     "hasLatino": false
   },
   {
@@ -1909,7 +1887,7 @@
         ]
       }
     ],
-    "timestamp": 1781367314607,
+    "timestamp": 1781367316907,
     "hasLatino": false
   },
   {
@@ -133718,7 +133696,14 @@
     "rating": 7.34,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Fantasía",
+      "Romance",
+      "Shounen",
+      "Ecchi"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -174358,10 +174343,7 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Deportes",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
