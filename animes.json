@@ -64,7 +64,7 @@
         ]
       }
     ],
-    "timestamp": 1781325091927,
+    "timestamp": 1781325100191,
     "hasLatino": true
   },
   {
@@ -438,7 +438,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781325078417,
+    "timestamp": 1781325101593,
     "hasLatino": true
   },
   {
@@ -546,7 +546,7 @@
         ]
       }
     ],
-    "timestamp": 1781325074863,
+    "timestamp": 1781325099787,
     "hasLatino": false
   },
   {
@@ -919,7 +919,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781325097758,
+    "timestamp": 1781325101593,
     "hasLatino": true
   },
   {
@@ -1205,7 +1205,7 @@
         ]
       }
     ],
-    "timestamp": 1781325091524,
+    "timestamp": 1781325101066,
     "hasLatino": false
   },
   {
@@ -69050,11 +69050,7 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [
-      "Deportes",
-      "Shounen",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -90656,7 +90652,15 @@
     "rating": 7.93,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Romance",
+      "Espacial",
+      "Mecha",
+      "Militar",
+      "Música"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
