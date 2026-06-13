@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781366916128,
+    "timestamp": 1781366923647,
     "hasLatino": false
   },
   {
@@ -524,6 +524,42 @@
         "sub": []
       },
       {
+        "num": 8,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0cce7fb56c33896c1d33d22aaa341819"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#oqbgu5"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-gl061jxo0blf.html"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 9,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d3303c8fa583a1281f1454d9668e8551"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ldzypc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-z26zh96t1h0d.html"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 10,
         "latino": [
           {
@@ -537,6 +573,24 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-bd6vuyz51iqr.html"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 11,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b7d0bf2499f7efa03efe6622f2e98710"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#jt6hny"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-32zrxyy51g4v.html"
           }
         ],
         "sub": []
@@ -632,7 +686,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781366916611,
+    "timestamp": 1781366923436,
     "hasLatino": true
   },
   {
@@ -1012,7 +1066,7 @@
         ]
       }
     ],
-    "timestamp": 1781366916971,
+    "timestamp": 1781366923863,
     "hasLatino": false
   },
   {
@@ -1390,7 +1444,7 @@
         ]
       }
     ],
-    "timestamp": 1781366916370,
+    "timestamp": 1781366924460,
     "hasLatino": false
   },
   {
@@ -2041,7 +2095,7 @@
         ]
       }
     ],
-    "timestamp": 1781366916964,
+    "timestamp": 1781366923703,
     "hasLatino": true
   },
   {
@@ -140454,13 +140508,7 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Harem",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -175297,7 +175345,12 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
