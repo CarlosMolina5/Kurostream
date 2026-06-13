@@ -61,6 +61,28 @@
         "sub": []
       },
       {
+        "num": 3,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5b854165c73dee9130275f2d790e7e0b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/v15wDYTQ#PU7lslSlPBa-TSLP4ztkPIyarA1t4uUHJiUZLCBGH3c"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#lrmnt3"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-x24gdz11alt2.html"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 4,
         "latino": [
           {
@@ -347,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363255614,
+    "timestamp": 1781363258330,
     "hasLatino": true
   },
   {
@@ -451,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363254436,
+    "timestamp": 1781363257684,
     "hasLatino": false
   },
   {
@@ -545,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363254258,
+    "timestamp": 1781363256659,
     "hasLatino": false
   },
   {
@@ -828,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363255192,
+    "timestamp": 1781363258417,
     "hasLatino": false
   },
   {
@@ -873,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363254313,
+    "timestamp": 1781363256995,
     "hasLatino": false
   },
   {
@@ -133049,7 +133071,11 @@
     "rating": 7.19,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Elenco Adulto",
+      "Histórico",
+      "Militar"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -149784,10 +149810,7 @@
     "rating": 8.26,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
