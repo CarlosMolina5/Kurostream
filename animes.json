@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781372672173,
+    "timestamp": 1781372676006,
     "hasLatino": false
   },
   {
@@ -567,28 +567,6 @@
         ]
       },
       {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/709a0492636f4027cf19734a885d2197"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/FM5iwTLC#XgKEIQvC1dGpUhge7pCO-4ZJVH4nRNCIVbDUSgafyJA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-l3jlooua4wmb.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/dwjrahL8?embed"
-          }
-        ]
-      },
-      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -677,7 +655,7 @@
         ]
       }
     ],
-    "timestamp": 1781372672978,
+    "timestamp": 1781372674578,
     "hasLatino": false
   },
   {
@@ -968,7 +946,7 @@
         ]
       }
     ],
-    "timestamp": 1781372669265,
+    "timestamp": 1781372675598,
     "hasLatino": false
   },
   {
@@ -1257,7 +1235,7 @@
         ]
       }
     ],
-    "timestamp": 1781372670917,
+    "timestamp": 1781372674580,
     "hasLatino": false
   },
   {
@@ -1570,7 +1548,7 @@
         ]
       }
     ],
-    "timestamp": 1781372671635,
+    "timestamp": 1781372674613,
     "hasLatino": false
   },
   {
@@ -178022,7 +178000,15 @@
     "rating": 5.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Misterio",
+      "Romance",
+      "Histórico"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -178839,13 +178825,7 @@
     "rating": 6.03,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Detectives",
-      "Ecchi"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
