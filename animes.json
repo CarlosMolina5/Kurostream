@@ -284,7 +284,7 @@
         ]
       }
     ],
-    "timestamp": 1781369366227,
+    "timestamp": 1781369371903,
     "hasLatino": false
   },
   {
@@ -345,7 +345,7 @@
         ]
       }
     ],
-    "timestamp": 1781369365023,
+    "timestamp": 1781369370921,
     "hasLatino": true
   },
   {
@@ -369,6 +369,28 @@
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6a3545578c0e5ea87f2ac319bf69ac98"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/uc9xHBTY#htzLzxxpCyPtvHJ6xi_qWuKkYQvx_1cfq1xy6bGccBE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-s2f2es4kp1em.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/A57Fq3QP?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -480,7 +502,7 @@
         ]
       }
     ],
-    "timestamp": 1781369365598,
+    "timestamp": 1781369370470,
     "hasLatino": false
   },
   {
@@ -545,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781369366370,
+    "timestamp": 1781369370984,
     "hasLatino": false
   },
   {
@@ -592,7 +614,7 @@
         ]
       }
     ],
-    "timestamp": 1781369365363,
+    "timestamp": 1781369370921,
     "hasLatino": false
   },
   {
@@ -164371,7 +164393,16 @@
     "rating": 7.21,
     "studio": "",
     "episodesCount": 13,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Romance",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -170815,13 +170846,7 @@
     "rating": 5.58,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Shounen",
-      "Terror",
-      "Gore"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
