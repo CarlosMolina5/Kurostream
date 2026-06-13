@@ -357,7 +357,7 @@
         ]
       }
     ],
-    "timestamp": 1781372240326,
+    "timestamp": 1781372251055,
     "hasLatino": false
   },
   {
@@ -733,7 +733,7 @@
         ]
       }
     ],
-    "timestamp": 1781372240348,
+    "timestamp": 1781372245185,
     "hasLatino": false
   },
   {
@@ -783,7 +783,7 @@
         ]
       }
     ],
-    "timestamp": 1781372238601,
+    "timestamp": 1781372243288,
     "hasLatino": false
   },
   {
@@ -897,6 +897,24 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-n4wvyak5yro8.html"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c1296084a6286dba02621fff56f85dc1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/JhxRCBiZ#lLwA_ciijM8a6zdp81QRjJBVm_-zy_Fm0olPZEVVYmo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-p1erfpgcp75z.html"
           }
         ]
       },
@@ -1093,7 +1111,7 @@
         ]
       }
     ],
-    "timestamp": 1781372240578,
+    "timestamp": 1781372244809,
     "hasLatino": false
   },
   {
@@ -1140,7 +1158,7 @@
         ]
       }
     ],
-    "timestamp": 1781372239451,
+    "timestamp": 1781372243249,
     "hasLatino": false
   },
   {
@@ -159385,7 +159403,11 @@
     "rating": 6.01,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -163285,13 +163307,7 @@
     "rating": 6.85,
     "studio": "",
     "episodesCount": 15,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Música",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
