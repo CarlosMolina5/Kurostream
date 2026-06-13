@@ -311,7 +311,7 @@
         ]
       }
     ],
-    "timestamp": 1781364534572,
+    "timestamp": 1781364561119,
     "hasLatino": false
   },
   {
@@ -673,7 +673,7 @@
         ]
       }
     ],
-    "timestamp": 1781364535072,
+    "timestamp": 1781364560960,
     "hasLatino": false
   },
   {
@@ -1050,7 +1050,7 @@
         ]
       }
     ],
-    "timestamp": 1781364551846,
+    "timestamp": 1781364561473,
     "hasLatino": false
   },
   {
@@ -1700,7 +1700,7 @@
         ]
       }
     ],
-    "timestamp": 1781364534705,
+    "timestamp": 1781364563366,
     "hasLatino": true
   },
   {
@@ -1854,6 +1854,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/matz7cZS?embed"
+          }
+        ]
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/30f351a9b34856fded8f23114be66d25"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6BRniQqT#qIU8R5_2xMqmGKjxrn_7SCnLxk_65V5j3BxBvU_KCm8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-mi61phnwrfts.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/NzyC33yS?embed"
           }
         ]
       },
@@ -2056,7 +2078,7 @@
         ]
       }
     ],
-    "timestamp": 1781364534092,
+    "timestamp": 1781364561022,
     "hasLatino": false
   },
   {
@@ -109575,14 +109597,7 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [
-      "Acción",
-      "Misterio",
-      "Sobrenatural",
-      "Terror",
-      "Detectives",
-      "Vampiros"
-    ],
+    "genres": [],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -169754,7 +169769,15 @@
     "rating": 7.54,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Elenco Adulto",
+      "Espacial",
+      "Militar"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
