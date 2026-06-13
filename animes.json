@@ -150,24 +150,6 @@
         ]
       },
       {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/b762c47ec3ca94037652e8a50240c02e"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6bBg1AaQ#BIr_I91-_AOlbBU269AvicJATiTtfKSeeLQAEt3o12E"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ov8oyvqus1um.html"
-          }
-        ]
-      },
-      {
         "num": 8,
         "latino": [],
         "sub": [
@@ -288,7 +270,7 @@
         ]
       }
     ],
-    "timestamp": 1781373500625,
+    "timestamp": 1781373503310,
     "hasLatino": false
   },
   {
@@ -598,7 +580,7 @@
         ]
       }
     ],
-    "timestamp": 1781373500924,
+    "timestamp": 1781373503285,
     "hasLatino": false
   },
   {
@@ -910,7 +892,7 @@
         ]
       }
     ],
-    "timestamp": 1781373500653,
+    "timestamp": 1781373503304,
     "hasLatino": false
   },
   {
@@ -1203,7 +1185,7 @@
         ]
       }
     ],
-    "timestamp": 1781373499555,
+    "timestamp": 1781373503301,
     "hasLatino": false
   },
   {
@@ -1490,7 +1472,7 @@
         ]
       }
     ],
-    "timestamp": 1781373499848,
+    "timestamp": 1781373502708,
     "hasLatino": false
   },
   {
@@ -176881,7 +176863,17 @@
     "rating": 7.61,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Terror",
+      "Artes Marciales",
+      "Gore",
+      "Histórico",
+      "Samurai"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -190049,12 +190041,7 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
