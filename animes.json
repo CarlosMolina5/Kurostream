@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363430032,
+    "timestamp": 1781363431564,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363428776,
+    "timestamp": 1781363430320,
     "hasLatino": false
   },
   {
@@ -500,6 +500,28 @@
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/482b62f1d63d8169f941f39dadfbef6f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/mUtFDL5Q#AJGqBviUiR_KSINpWpBWI5npklHlbtz0EycUBaDvAc0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fvwgget6xp7u.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/bUVV8WpW?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -545,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363428751,
+    "timestamp": 1781363430571,
     "hasLatino": false
   },
   {
@@ -828,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363429675,
+    "timestamp": 1781363431374,
     "hasLatino": false
   },
   {
@@ -873,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363428751,
+    "timestamp": 1781363430536,
     "hasLatino": false
   },
   {
@@ -123539,12 +123561,7 @@
     "rating": 7.72,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
