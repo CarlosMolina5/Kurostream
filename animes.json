@@ -178,28 +178,6 @@
         ]
       },
       {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/81b4d30ebd9631bf3c85c2ff9a38db53"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CnoSgZgR#m6csQha1OiqweAXR43tsBbWlljPJ-tglnTGAi49FdsE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-te7ktqf7ept0.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/iLZMArbc?embed"
-          }
-        ]
-      },
-      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -364,7 +342,7 @@
         ]
       }
     ],
-    "timestamp": 1781369659908,
+    "timestamp": 1781369661565,
     "hasLatino": false
   },
   {
@@ -675,7 +653,7 @@
         ]
       }
     ],
-    "timestamp": 1781369659908,
+    "timestamp": 1781369661579,
     "hasLatino": false
   },
   {
@@ -971,7 +949,7 @@
         ]
       }
     ],
-    "timestamp": 1781369659921,
+    "timestamp": 1781369663366,
     "hasLatino": false
   },
   {
@@ -1350,7 +1328,7 @@
         ]
       }
     ],
-    "timestamp": 1781369659673,
+    "timestamp": 1781369661461,
     "hasLatino": false
   },
   {
@@ -1712,7 +1690,7 @@
         ]
       }
     ],
-    "timestamp": 1781369659374,
+    "timestamp": 1781369661301,
     "hasLatino": false
   },
   {
@@ -165606,7 +165584,13 @@
     "rating": 7.86,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Escolares",
+      "Psicológico",
+      "Shoujo Ai"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
