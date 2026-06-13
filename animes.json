@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781365968374,
+    "timestamp": 1781365971408,
     "hasLatino": false
   },
   {
@@ -582,7 +582,7 @@
         ]
       }
     ],
-    "timestamp": 1781365966837,
+    "timestamp": 1781365971268,
     "hasLatino": false
   },
   {
@@ -649,50 +649,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/XHRjctQX?embed"
-          }
-        ],
-        "sub": []
-      },
-      {
-        "num": 3,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/67315f385eff1a8dac724ce83c27631f"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/aR9HEbLA#chQBtelK_aYYVAEYRxYwMjqIL_ikd5KlW249nVvgNyw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2fkyxzzmtt02.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/daJxPymL?embed"
-          }
-        ],
-        "sub": []
-      },
-      {
-        "num": 4,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/36d0bfe87022f0125738532552910547"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CQ8UGQQK#zLkBNGJc541iQz2JlDgR1oWnd8zwrVHaISSTdo14bXY"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-1tzh1ccbiyac.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/19r3Jtbm?embed"
           }
         ],
         "sub": []
@@ -918,7 +874,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781365967973,
+    "timestamp": 1781365971488,
     "hasLatino": true
   },
   {
@@ -1048,28 +1004,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/v2vcFiwm?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9086ed9f5b17818e2b9087f1b34a62af"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/q1xHTCBK#g2LhY_IcElTCwyk0TKsNM2DExzao-Aic-JEPRrcq7Js"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-d89o7510tvsn.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/NdK1AYUg?embed"
           }
         ]
       },
@@ -1206,7 +1140,7 @@
         ]
       }
     ],
-    "timestamp": 1781365967622,
+    "timestamp": 1781365970684,
     "hasLatino": false
   },
   {
@@ -1585,7 +1519,7 @@
         ]
       }
     ],
-    "timestamp": 1781365968284,
+    "timestamp": 1781365971611,
     "hasLatino": false
   },
   {
@@ -135462,13 +135396,7 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 7,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía",
-      "Romance",
-      "Isekai"
-    ],
+    "genres": [],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -160735,7 +160663,13 @@
     "rating": 7.91,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
