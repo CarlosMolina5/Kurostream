@@ -64,7 +64,7 @@
         ]
       }
     ],
-    "timestamp": 1781325062938,
+    "timestamp": 1781325068588,
     "hasLatino": true
   },
   {
@@ -438,7 +438,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781325066069,
+    "timestamp": 1781325068348,
     "hasLatino": true
   },
   {
@@ -546,7 +546,7 @@
         ]
       }
     ],
-    "timestamp": 1781325059885,
+    "timestamp": 1781325064974,
     "hasLatino": false
   },
   {
@@ -919,7 +919,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781325064639,
+    "timestamp": 1781325085830,
     "hasLatino": true
   },
   {
@@ -1205,7 +1205,7 @@
         ]
       }
     ],
-    "timestamp": 1781325065865,
+    "timestamp": 1781325069457,
     "hasLatino": false
   },
   {
@@ -41163,14 +41163,7 @@
     "rating": 8.1,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Misterio",
-      "Sobrenatural",
-      "Suspenso",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -75813,7 +75806,12 @@
     "rating": 6.22,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Seinen",
+      "Sobrenatural",
+      "Terror"
+    ],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
