@@ -21,50 +21,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/196312e9010d2c0b50e0643540b73b3a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/SFlBxJLK#gwMOgVmN-WeIdj2CAzBRaodxfMKTFxmUQ4Hqkej5JW4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-4srr7vtaw1ag.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/TvLuxcnz?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ade1fb15bffa184d5d0ea4c6944674a8"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/WQFQ2TAD#E50dUrRTeR9BS6uf1_XuNrGaF015S5Rv_jVIWDoV6Ro"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-qx0rnfgfpmew.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/LnRdZWev?embed"
-          }
-        ]
-      },
-      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -373,7 +329,7 @@
         ]
       }
     ],
-    "timestamp": 1781378867421,
+    "timestamp": 1781378879961,
     "hasLatino": false
   },
   {
@@ -504,28 +460,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/aa8nkpBM?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/32d5ec31ca3c22d34dfd8b1bea1754bb"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/L9Y3ERRK#xijPOMCfGTYqgeVhioiSa2w7LBVlxQ7p-ye_kHEhFo4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-nn9xbycnh0ab.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/gxkc9NcX?embed"
           }
         ]
       },
@@ -706,7 +640,7 @@
         ]
       }
     ],
-    "timestamp": 1781378868114,
+    "timestamp": 1781378880456,
     "hasLatino": false
   },
   {
@@ -1083,7 +1017,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378868106,
+    "timestamp": 1781378880201,
     "hasLatino": true
   },
   {
@@ -1373,7 +1307,7 @@
         ]
       }
     ],
-    "timestamp": 1781378866806,
+    "timestamp": 1781378879796,
     "hasLatino": false
   },
   {
@@ -1683,7 +1617,7 @@
         ]
       }
     ],
-    "timestamp": 1781378866970,
+    "timestamp": 1781378879489,
     "hasLatino": false
   },
   {
