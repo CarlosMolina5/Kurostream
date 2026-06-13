@@ -308,7 +308,7 @@
         ]
       }
     ],
-    "timestamp": 1781360121475,
+    "timestamp": 1781360126268,
     "hasLatino": false
   },
   {
@@ -661,7 +661,7 @@
         ]
       }
     ],
-    "timestamp": 1781360120288,
+    "timestamp": 1781360126197,
     "hasLatino": false
   },
   {
@@ -732,7 +732,7 @@
         ]
       }
     ],
-    "timestamp": 1781360117321,
+    "timestamp": 1781360125094,
     "hasLatino": false
   },
   {
@@ -799,7 +799,7 @@
         ]
       }
     ],
-    "timestamp": 1781360117371,
+    "timestamp": 1781360124945,
     "hasLatino": true
   },
   {
@@ -866,7 +866,7 @@
         ]
       }
     ],
-    "timestamp": 1781360117275,
+    "timestamp": 1781360124929,
     "hasLatino": true
   },
   {
@@ -125464,7 +125464,12 @@
     "rating": 6.05,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Elenco Adulto",
+      "Gore"
+    ],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
