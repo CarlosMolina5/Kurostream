@@ -47,7 +47,7 @@
         ]
       }
     ],
-    "timestamp": 1781322506134,
+    "timestamp": 1781322505135,
     "hasLatino": false
   },
   {
@@ -181,7 +181,7 @@
         ]
       }
     ],
-    "timestamp": 1781322518252,
+    "timestamp": 1781322518249,
     "hasLatino": false
   },
   {
@@ -494,7 +494,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781322508630,
+    "timestamp": 1781322534594,
     "hasLatino": true
   },
   {
@@ -543,7 +543,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781322507897,
+    "timestamp": 1781322505277,
     "hasLatino": true
   },
   {
@@ -922,7 +922,7 @@
         ]
       }
     ],
-    "timestamp": 1781322519578,
+    "timestamp": 1781322508679,
     "hasLatino": false
   },
   {
@@ -69304,7 +69304,11 @@
     "rating": 5.9,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Sobrenatural",
+      "Terror",
+      "Histórico"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
