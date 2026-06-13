@@ -61,28 +61,6 @@
         "sub": []
       },
       {
-        "num": 3,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/5b854165c73dee9130275f2d790e7e0b"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/v15wDYTQ#PU7lslSlPBa-TSLP4ztkPIyarA1t4uUHJiUZLCBGH3c"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#lrmnt3"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-x24gdz11alt2.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 4,
         "latino": [
           {
@@ -369,7 +347,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363213739,
+    "timestamp": 1781363216159,
     "hasLatino": true
   },
   {
@@ -473,7 +451,7 @@
         ]
       }
     ],
-    "timestamp": 1781363212598,
+    "timestamp": 1781363215234,
     "hasLatino": false
   },
   {
@@ -567,7 +545,7 @@
         ]
       }
     ],
-    "timestamp": 1781363211997,
+    "timestamp": 1781363214826,
     "hasLatino": false
   },
   {
@@ -850,7 +828,7 @@
         ]
       }
     ],
-    "timestamp": 1781363213119,
+    "timestamp": 1781363216159,
     "hasLatino": false
   },
   {
@@ -895,7 +873,7 @@
         ]
       }
     ],
-    "timestamp": 1781363211952,
+    "timestamp": 1781363214560,
     "hasLatino": false
   },
   {
@@ -152078,7 +152056,13 @@
     "rating": 7.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Romance",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -154996,10 +154980,7 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Deportes",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
