@@ -42,7 +42,7 @@
         ]
       }
     ],
-    "timestamp": 1781361782879,
+    "timestamp": 1781361789379,
     "hasLatino": false
   },
   {
@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "timestamp": 1781361783137,
+    "timestamp": 1781361789169,
     "hasLatino": false
   },
   {
@@ -468,7 +468,7 @@
         ]
       }
     ],
-    "timestamp": 1781361786217,
+    "timestamp": 1781361790719,
     "hasLatino": false
   },
   {
@@ -718,7 +718,7 @@
         ]
       }
     ],
-    "timestamp": 1781361784408,
+    "timestamp": 1781361790152,
     "hasLatino": false
   },
   {
@@ -1079,7 +1079,7 @@
         ]
       }
     ],
-    "timestamp": 1781361784738,
+    "timestamp": 1781361790849,
     "hasLatino": false
   },
   {
@@ -134271,7 +134271,10 @@
     "rating": 7.14,
     "studio": "",
     "episodesCount": 13,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
