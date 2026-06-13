@@ -375,7 +375,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781311424585,
+    "timestamp": 1781311428993,
     "hasLatino": true
   },
   {
@@ -428,7 +428,7 @@
         ]
       }
     ],
-    "timestamp": 1781311420817,
+    "timestamp": 1781311420164,
     "hasLatino": false
   },
   {
@@ -476,7 +476,7 @@
         ]
       }
     ],
-    "timestamp": 1781311420761,
+    "timestamp": 1781311422145,
     "hasLatino": false
   },
   {
@@ -524,7 +524,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781311422048,
+    "timestamp": 1781311420423,
     "hasLatino": true
   },
   {
@@ -583,7 +583,7 @@
         ]
       }
     ],
-    "timestamp": 1781311421581,
+    "timestamp": 1781311420567,
     "hasLatino": false
   },
   {
@@ -28442,14 +28442,7 @@
     "rating": 6.76,
     "studio": "",
     "episodesCount": 11,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Recuentos de la Vida",
-      "Espacial",
-      "Mecha",
-      "Música"
-    ],
+    "genres": [],
     "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -52314,7 +52307,11 @@
     "rating": 6.65,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Romance"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
