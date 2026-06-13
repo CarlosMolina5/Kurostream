@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781364159952,
+    "timestamp": 1781364162557,
     "hasLatino": false
   },
   {
@@ -400,28 +400,6 @@
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/2c7304339949cca8c937ad53765f1a40"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/TuAEiTrQ#ON-BBbMEc8CGQcS9X3vWlv2qpa1nhqPPYfPwtUmTjSw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-rrlfm18tgg63.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/UyYVtTeb?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -665,7 +643,7 @@
         ]
       }
     ],
-    "timestamp": 1781364160071,
+    "timestamp": 1781364162056,
     "hasLatino": false
   },
   {
@@ -1043,7 +1021,7 @@
         ]
       }
     ],
-    "timestamp": 1781364159647,
+    "timestamp": 1781364163015,
     "hasLatino": false
   },
   {
@@ -1137,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781364158496,
+    "timestamp": 1781364161375,
     "hasLatino": false
   },
   {
@@ -1182,7 +1160,7 @@
         ]
       }
     ],
-    "timestamp": 1781364157970,
+    "timestamp": 1781364161375,
     "hasLatino": false
   },
   {
@@ -154694,15 +154672,7 @@
     "rating": 7.21,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Shounen",
-      "Artes Marciales",
-      "Gore",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
