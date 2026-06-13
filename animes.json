@@ -274,7 +274,7 @@
         ]
       }
     ],
-    "timestamp": 1781364805697,
+    "timestamp": 1781364809195,
     "hasLatino": false
   },
   {
@@ -538,7 +538,7 @@
         ]
       }
     ],
-    "timestamp": 1781364805697,
+    "timestamp": 1781364809068,
     "hasLatino": false
   },
   {
@@ -953,45 +953,6 @@
         ]
       },
       {
-        "num": 11,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/7dace44cd403ddad7a4a44b554ba50cf"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/HAVmyAZA#ioqhrd7mhkcmrA-omrghyh-B8GJ9QvXUcCLoBF-VUD4"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#vfcr8t"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ft5cfk4zjvnr.html"
-          }
-        ],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d7169326d4f93ef39fc0b6d2485245f6"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/rQVhBKIA#jwKaIUd--6CJ4W9f43KIJPYGdxWVRNTNuuxh7cADO9s"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#ilxzzk"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-yph14p99dmi7.html"
-          }
-        ]
-      },
-      {
         "num": 12,
         "latino": [
           {
@@ -1070,7 +1031,7 @@
         ]
       }
     ],
-    "timestamp": 1781364806765,
+    "timestamp": 1781364809279,
     "hasLatino": true
   },
   {
@@ -1383,7 +1344,7 @@
         ]
       }
     ],
-    "timestamp": 1781364806343,
+    "timestamp": 1781364809420,
     "hasLatino": false
   },
   {
@@ -1764,7 +1725,7 @@
         ]
       }
     ],
-    "timestamp": 1781364807275,
+    "timestamp": 1781364810071,
     "hasLatino": false
   },
   {
@@ -135955,7 +135916,12 @@
     "rating": 6.62,
     "studio": "",
     "episodesCount": 15,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Comedia",
+      "Romance",
+      "Shounen"
+    ],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
