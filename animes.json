@@ -21,6 +21,28 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/196312e9010d2c0b50e0643540b73b3a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/SFlBxJLK#gwMOgVmN-WeIdj2CAzBRaodxfMKTFxmUQ4Hqkej5JW4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4srr7vtaw1ag.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/TvLuxcnz?embed"
+          }
+        ]
+      },
+      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -351,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378896988,
+    "timestamp": 1781378908712,
     "hasLatino": false
   },
   {
@@ -684,7 +706,7 @@
         ]
       }
     ],
-    "timestamp": 1781378895977,
+    "timestamp": 1781378891068,
     "hasLatino": false
   },
   {
@@ -770,6 +792,72 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/wCUfrZin?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 4,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c6bc5fc1a8f6e1615963fcd6c9cd221a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/hFQQhSJK#dOqvIltLm0ZYWHv24Kofsc9pnD7WQVx38SyznNs2akM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-1lao6oxi6cfu.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/XLqSRfTe?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 5,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5950e77462b1fe4d9e4af08e61d5fb72"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/0AxR0DaZ#juMkG6q4l2LMZlF60Yofu8DOMhWa3k2gVLLW41az3u8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4303804h24kf.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/v6h2FjRh?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 6,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5d9efcb442fb8dcc5b818211c7dc63a7"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ZJQWRb7a#3jRiPCygWyR-HatTQrV9i5RfHqTwISO74RmE4LLbL1o"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-n7jxq9xybij1.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/tFVZUqxd?embed"
           }
         ],
         "sub": []
@@ -995,7 +1083,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378895977,
+    "timestamp": 1781378888400,
     "hasLatino": true
   },
   {
@@ -1285,7 +1373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378894854,
+    "timestamp": 1781378907782,
     "hasLatino": false
   },
   {
@@ -1595,7 +1683,7 @@
         ]
       }
     ],
-    "timestamp": 1781378895420,
+    "timestamp": 1781378907571,
     "hasLatino": false
   },
   {
@@ -175983,7 +176071,11 @@
     "rating": 7.47,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Escolares"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -197472,12 +197564,7 @@
     "rating": 7.27,
     "studio": "",
     "episodesCount": 5,
-    "genres": [
-      "Comedia",
-      "Romance",
-      "Seinen",
-      "Sobrenatural"
-    ],
+    "genres": [],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
