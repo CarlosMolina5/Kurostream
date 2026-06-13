@@ -311,7 +311,7 @@
         ]
       }
     ],
-    "timestamp": 1781364681404,
+    "timestamp": 1781364687148,
     "hasLatino": false
   },
   {
@@ -673,7 +673,7 @@
         ]
       }
     ],
-    "timestamp": 1781364681615,
+    "timestamp": 1781364687117,
     "hasLatino": false
   },
   {
@@ -1050,7 +1050,7 @@
         ]
       }
     ],
-    "timestamp": 1781364681400,
+    "timestamp": 1781364687724,
     "hasLatino": false
   },
   {
@@ -1700,7 +1700,7 @@
         ]
       }
     ],
-    "timestamp": 1781364681799,
+    "timestamp": 1781364686922,
     "hasLatino": true
   },
   {
@@ -1766,28 +1766,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/zcZaiwhw?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/08df134ca1ffe1d95153b16bde9f9734"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/jFQTgSIT#Ana026raaG_fQCRFnmM188xOiP18lo-H87yf7FwRUvQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-kk7f3f3tl3az.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/QPCa3jNR?embed"
           }
         ]
       },
@@ -2078,7 +2056,7 @@
         ]
       }
     ],
-    "timestamp": 1781364680839,
+    "timestamp": 1781364686460,
     "hasLatino": false
   },
   {
@@ -110679,7 +110657,13 @@
     "rating": 6.81,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen",
+      "Espacial"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -164454,11 +164438,7 @@
     "rating": 6.49,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
