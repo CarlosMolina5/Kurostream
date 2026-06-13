@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781369862535,
+    "timestamp": 1781369878092,
     "hasLatino": false
   },
   {
@@ -741,7 +741,7 @@
         ]
       }
     ],
-    "timestamp": 1781369864198,
+    "timestamp": 1781369874189,
     "hasLatino": false
   },
   {
@@ -1052,7 +1052,7 @@
         ]
       }
     ],
-    "timestamp": 1781369864191,
+    "timestamp": 1781369879374,
     "hasLatino": false
   },
   {
@@ -1118,6 +1118,24 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/UNQmo8ug?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/feae8718b0d9beba1632f431c93d0296"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/uiQnVAyC#xg93RVvvH3L5Osh-0GJVOBaooiMI7gzkX7EWpvYzCDk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-byctebquk47r.html"
           }
         ]
       },
@@ -1330,7 +1348,7 @@
         ]
       }
     ],
-    "timestamp": 1781369862241,
+    "timestamp": 1781369873492,
     "hasLatino": false
   },
   {
@@ -1692,7 +1710,7 @@
         ]
       }
     ],
-    "timestamp": 1781369862137,
+    "timestamp": 1781369876048,
     "hasLatino": false
   },
   {
@@ -159108,13 +159126,7 @@
     "rating": 7.16,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Shounen",
-      "Sobrenatural",
-      "Artes Marciales",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -179038,7 +179050,15 @@
     "rating": 7.21,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Shounen",
+      "Artes Marciales",
+      "Gore",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
