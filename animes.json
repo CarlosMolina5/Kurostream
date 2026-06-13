@@ -64,7 +64,7 @@
         ]
       }
     ],
-    "timestamp": 1781377940011,
+    "timestamp": 1781377942549,
     "hasLatino": false
   },
   {
@@ -176,7 +176,7 @@
         ]
       }
     ],
-    "timestamp": 1781377939190,
+    "timestamp": 1781377942760,
     "hasLatino": false
   },
   {
@@ -200,28 +200,6 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/45dff65befbf681fcca2fba29d3e222d"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/vQVzhJzQ#BCLzkA-cFg5OuxjXM6uKa5Dko7_Cq3RqLrfbn9zICX8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2jy3pbmtbdgl.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ATi8KHJQ?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -553,7 +531,7 @@
         ]
       }
     ],
-    "timestamp": 1781377940466,
+    "timestamp": 1781377944488,
     "hasLatino": false
   },
   {
@@ -601,7 +579,7 @@
         ]
       }
     ],
-    "timestamp": 1781377939688,
+    "timestamp": 1781377944495,
     "hasLatino": false
   },
   {
@@ -620,7 +598,7 @@
     "genres": [
       "Recuentos de la Vida"
     ],
-    "currentEpisode": 2,
+    "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -644,31 +622,9 @@
             "url": "https://pixeldrain.com/u/Nf1qkTM1?embed"
           }
         ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/21ecc84487021f74c8d226763339dc55"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/iQNRzCyT#5AOo_YCqzMUpQImMNAZVnOSAFs62vgHzQ_VnTP31dug"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-7xj042il7uio.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/jQoC5U4g?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781377939626,
+    "timestamp": 1781377942259,
     "hasLatino": false
   },
   {
@@ -181416,11 +181372,7 @@
     "rating": 7.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
