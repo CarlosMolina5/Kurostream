@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781367059723,
+    "timestamp": 1781367062983,
     "hasLatino": false
   },
   {
@@ -686,7 +686,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367047429,
+    "timestamp": 1781367062792,
     "hasLatino": true
   },
   {
@@ -732,28 +732,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/EF9KErnZ?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/8fd451078bad082470798778fb8ce199"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CZlQjaZK#-EbbyGRoyb79Kld6t9ocBGAqtsdt34s3uwlooH_JYB4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ulbcsmxf7xt4.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/m176DktF?embed"
           }
         ]
       },
@@ -1066,7 +1044,7 @@
         ]
       }
     ],
-    "timestamp": 1781367048398,
+    "timestamp": 1781367063702,
     "hasLatino": false
   },
   {
@@ -1444,7 +1422,7 @@
         ]
       }
     ],
-    "timestamp": 1781367047716,
+    "timestamp": 1781367063716,
     "hasLatino": false
   },
   {
@@ -2095,7 +2073,7 @@
         ]
       }
     ],
-    "timestamp": 1781367047266,
+    "timestamp": 1781367063219,
     "hasLatino": true
   },
   {
@@ -158608,7 +158586,12 @@
     "rating": 4.75,
     "studio": "",
     "episodesCount": 2,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Seinen",
+      "Ecchi"
+    ],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -162006,11 +161989,7 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Seinen",
-      "Carreras"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
