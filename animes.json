@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "timestamp": 1781325308903,
+    "timestamp": 1781325311175,
     "hasLatino": false
   },
   {
@@ -734,7 +734,7 @@
         ]
       }
     ],
-    "timestamp": 1781325307918,
+    "timestamp": 1781325311169,
     "hasLatino": false
   },
   {
@@ -1115,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781325308301,
+    "timestamp": 1781325311516,
     "hasLatino": false
   },
   {
@@ -1161,7 +1161,7 @@
         ]
       }
     ],
-    "timestamp": 1781325305664,
+    "timestamp": 1781325309293,
     "hasLatino": false
   },
   {
@@ -1208,7 +1208,7 @@
         ]
       }
     ],
-    "timestamp": 1781325304818,
+    "timestamp": 1781325309091,
     "hasLatino": false
   },
   {
@@ -100989,7 +100989,12 @@
     "rating": 7.6,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Shoujo",
+      "Histórico"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
