@@ -44,6 +44,28 @@
         ]
       },
       {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4ccbfe880053edac5f506d5df46c6075"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/3NsmzYbZ#4fQO-iKqMWwea3UiI22tmEswAaFvFhY-Ewn00I7pFfA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vin67w2nsqxv.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/8RbXhaM4?embed"
+          }
+        ]
+      },
+      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -66,7 +88,7 @@
         ]
       }
     ],
-    "timestamp": 1781363008023,
+    "timestamp": 1781363014745,
     "hasLatino": false
   },
   {
@@ -355,7 +377,7 @@
         ]
       }
     ],
-    "timestamp": 1781363008398,
+    "timestamp": 1781363015933,
     "hasLatino": false
   },
   {
@@ -1006,7 +1028,7 @@
         ]
       }
     ],
-    "timestamp": 1781363009315,
+    "timestamp": 1781363017006,
     "hasLatino": true
   },
   {
@@ -1385,7 +1407,7 @@
         ]
       }
     ],
-    "timestamp": 1781363009345,
+    "timestamp": 1781363016581,
     "hasLatino": false
   },
   {
@@ -1762,7 +1784,7 @@
         ]
       }
     ],
-    "timestamp": 1781363009401,
+    "timestamp": 1781363016691,
     "hasLatino": false
   },
   {
@@ -102463,7 +102485,12 @@
     "rating": 6.68,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -124332,11 +124359,7 @@
     "rating": 7.63,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Romance",
-      "Shoujo",
-      "Mahou Shoujo"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
