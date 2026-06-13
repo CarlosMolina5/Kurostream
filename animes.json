@@ -21,7 +21,7 @@
       "Mecha",
       "Psicológico"
     ],
-    "currentEpisode": 15,
+    "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -353,9 +353,31 @@
           }
         ],
         "sub": []
+      },
+      {
+        "num": 16,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/648d300b2ce4fd05bd3b4011b0c1925a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LGggDCLL#PiTu_IuDrMhxiHhZFPA7vel5ebrqJyChSza3_kJKkCA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-2hwacgfh38py.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/GgHkhGgW?embed"
+          }
+        ],
+        "sub": []
       }
     ],
-    "timestamp": 1781367282234,
+    "timestamp": 1781367290898,
     "hasLatino": true
   },
   {
@@ -731,7 +753,7 @@
         ]
       }
     ],
-    "timestamp": 1781367282715,
+    "timestamp": 1781367290607,
     "hasLatino": false
   },
   {
@@ -1064,7 +1086,7 @@
         ]
       }
     ],
-    "timestamp": 1781367282607,
+    "timestamp": 1781367290149,
     "hasLatino": false
   },
   {
@@ -1442,7 +1464,7 @@
         ]
       }
     ],
-    "timestamp": 1781367282234,
+    "timestamp": 1781367290673,
     "hasLatino": false
   },
   {
@@ -1887,7 +1909,7 @@
         ]
       }
     ],
-    "timestamp": 1781367282602,
+    "timestamp": 1781367290263,
     "hasLatino": false
   },
   {
@@ -153981,14 +154003,7 @@
     "rating": 6.71,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -171269,7 +171284,12 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
