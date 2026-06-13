@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781372684118,
+    "timestamp": 1781372687141,
     "hasLatino": false
   },
   {
@@ -677,7 +677,7 @@
         ]
       }
     ],
-    "timestamp": 1781372683556,
+    "timestamp": 1781372687527,
     "hasLatino": false
   },
   {
@@ -700,7 +700,7 @@
       "Ecchi",
       "Escolares"
     ],
-    "currentEpisode": 12,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -944,31 +944,9 @@
             "url": "https://pixeldrain.com/u/iExCeGtq?embed"
           }
         ]
-      },
-      {
-        "num": 12,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/bee2fdd57dae1d1a2059f550be6010b8"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CBV3zCCQ#EH8P-Isi0eJFpB8O-K62svb-pPbrzby7gCpnz0in89k"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-fbvzdqaxi6h0.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/Ew9ayjjN?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781372683281,
+    "timestamp": 1781372685700,
     "hasLatino": false
   },
   {
@@ -1191,28 +1169,6 @@
         ]
       },
       {
-        "num": 10,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/87ff4944cb86f16704b379d90f6c28dc"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/amRF1DzL#wz3jonIzgt4l4BPgDq9p60DdIvntWadPWv8vqPSvsSo"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-qm2cv7ruo8tf.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/fpZE1an7?embed"
-          }
-        ]
-      },
-      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -1257,7 +1213,7 @@
         ]
       }
     ],
-    "timestamp": 1781372682675,
+    "timestamp": 1781372687122,
     "hasLatino": false
   },
   {
@@ -1570,7 +1526,7 @@
         ]
       }
     ],
-    "timestamp": 1781372683542,
+    "timestamp": 1781372687185,
     "hasLatino": false
   },
   {
@@ -158558,7 +158514,14 @@
     "rating": 7.95,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -197958,11 +197921,7 @@
     "rating": 8.77,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Deportes",
-      "Drama",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
