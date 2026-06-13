@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378769898,
+    "timestamp": 1781378767956,
     "hasLatino": false
   },
   {
@@ -398,28 +398,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/887892d0a5813290ad52da952c143b8f"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/e5YWyZpS#QCuYf_d7UED1kFB2iAHufSbrTZ2mHAzMH7xIFDdvERY"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-mqe2yja6gsob.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/h8quDUw4?embed"
-          }
-        ]
-      },
-      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -438,28 +416,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/KDPaSJ8A?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/f7748eb50fcace680ae44620f6025940"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/u8IA2YaD#lDmyVcLu7v15xNzhHMXWtOmltGlq_liPMzoM5d-fGbw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-p59lyno3wwm8.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/vo5AcAGp?embed"
           }
         ]
       },
@@ -706,7 +662,7 @@
         ]
       }
     ],
-    "timestamp": 1781378769847,
+    "timestamp": 1781378764397,
     "hasLatino": false
   },
   {
@@ -1083,7 +1039,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378768762,
+    "timestamp": 1781378772516,
     "hasLatino": true
   },
   {
@@ -1193,28 +1149,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/hD8wA8Pb?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/b24b9987eb8d39b9a6d986380b1668d0"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/mcswWaJT#ofuD8Wc5oqUfTMsRrH1Fb-_e8MvOLFD5KUfvqv18M-Q"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-m8h64wpb3g00.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/z1Q2JQfA?embed"
           }
         ]
       },
@@ -1373,7 +1307,7 @@
         ]
       }
     ],
-    "timestamp": 1781378769404,
+    "timestamp": 1781378770356,
     "hasLatino": false
   },
   {
@@ -1683,7 +1617,7 @@
         ]
       }
     ],
-    "timestamp": 1781378770278,
+    "timestamp": 1781378777113,
     "hasLatino": false
   },
   {
@@ -175514,12 +175448,7 @@
     "rating": 8.23,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Drama",
-      "Escolares",
-      "Mahou Shoujo",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -223675,7 +223604,13 @@
     "rating": 6.91,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
