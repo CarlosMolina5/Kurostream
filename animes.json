@@ -241,6 +241,28 @@
         ]
       },
       {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/909a218b005f3a992f685c3593396bd2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/MFoUlZ6R#_0VZ13RDlUfyQsYdHRDgECHO8MYXWMvOvN52BQaUH3s"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fkc957n5fkcd.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wBWWsV7q?embed"
+          }
+        ]
+      },
+      {
         "num": 12,
         "latino": [],
         "sub": [
@@ -263,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781370100017,
+    "timestamp": 1781370107021,
     "hasLatino": false
   },
   {
@@ -643,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781370100718,
+    "timestamp": 1781370108019,
     "hasLatino": false
   },
   {
@@ -1021,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781370100896,
+    "timestamp": 1781370108445,
     "hasLatino": false
   },
   {
@@ -1311,7 +1333,7 @@
         ]
       }
     ],
-    "timestamp": 1781370099520,
+    "timestamp": 1781370107957,
     "hasLatino": false
   },
   {
@@ -1690,7 +1712,7 @@
         ]
       }
     ],
-    "timestamp": 1781370100974,
+    "timestamp": 1781370108301,
     "hasLatino": false
   },
   {
@@ -169673,11 +169695,7 @@
     "rating": 7.32,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -175352,7 +175370,15 @@
     "rating": 8.16,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Seinen",
+      "Terror",
+      "Gore",
+      "Militar",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
