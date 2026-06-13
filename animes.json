@@ -287,7 +287,7 @@
         ]
       }
     ],
-    "timestamp": 1781327696231,
+    "timestamp": 1781327717259,
     "hasLatino": false
   },
   {
@@ -579,7 +579,7 @@
         ]
       }
     ],
-    "timestamp": 1781327695296,
+    "timestamp": 1781327716349,
     "hasLatino": false
   },
   {
@@ -1010,7 +1010,7 @@
         ]
       }
     ],
-    "timestamp": 1781327707474,
+    "timestamp": 1781327717168,
     "hasLatino": true
   },
   {
@@ -1662,7 +1662,7 @@
         ]
       }
     ],
-    "timestamp": 1781327695496,
+    "timestamp": 1781327717318,
     "hasLatino": true
   },
   {
@@ -1975,7 +1975,7 @@
         ]
       }
     ],
-    "timestamp": 1781327695805,
+    "timestamp": 1781327717095,
     "hasLatino": false
   },
   {
@@ -76867,7 +76867,13 @@
     "rating": 6.85,
     "studio": "",
     "episodesCount": 15,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Música",
+      "Psicológico"
+    ],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -100166,11 +100172,7 @@
     "rating": 6.65,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Deportes",
-      "Drama",
-      "Romance"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
