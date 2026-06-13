@@ -375,7 +375,7 @@
         ]
       }
     ],
-    "timestamp": 1781368116259,
+    "timestamp": 1781368125821,
     "hasLatino": false
   },
   {
@@ -653,7 +653,7 @@
         ]
       }
     ],
-    "timestamp": 1781368115878,
+    "timestamp": 1781368124141,
     "hasLatino": false
   },
   {
@@ -943,7 +943,7 @@
         ]
       }
     ],
-    "timestamp": 1781368116157,
+    "timestamp": 1781368123786,
     "hasLatino": false
   },
   {
@@ -1103,7 +1103,7 @@
         ]
       }
     ],
-    "timestamp": 1781368114109,
+    "timestamp": 1781368123099,
     "hasLatino": false
   },
   {
@@ -1235,7 +1235,7 @@
         ]
       }
     ],
-    "timestamp": 1781368114932,
+    "timestamp": 1781368123038,
     "hasLatino": false
   },
   {
@@ -136245,7 +136245,12 @@
     "rating": 8.23,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Escolares",
+      "Mahou Shoujo",
+      "Psicológico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
