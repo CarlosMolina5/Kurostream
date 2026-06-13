@@ -59,24 +59,6 @@
         ]
       },
       {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9f5d06bf8cf8be3040c8e64a9814e9b8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-gsxdsq75dwdd.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/PbxZCU2P?embed"
-          }
-        ]
-      },
-      {
         "num": 4,
         "latino": [],
         "sub": [
@@ -311,7 +293,7 @@
         ]
       }
     ],
-    "timestamp": 1781364405445,
+    "timestamp": 1781364407154,
     "hasLatino": false
   },
   {
@@ -673,7 +655,7 @@
         ]
       }
     ],
-    "timestamp": 1781364405329,
+    "timestamp": 1781364407154,
     "hasLatino": false
   },
   {
@@ -1050,7 +1032,7 @@
         ]
       }
     ],
-    "timestamp": 1781364405988,
+    "timestamp": 1781364407574,
     "hasLatino": false
   },
   {
@@ -1700,7 +1682,7 @@
         ]
       }
     ],
-    "timestamp": 1781364405451,
+    "timestamp": 1781364407318,
     "hasLatino": true
   },
   {
@@ -2078,7 +2060,7 @@
         ]
       }
     ],
-    "timestamp": 1781364404889,
+    "timestamp": 1781364407002,
     "hasLatino": false
   },
   {
@@ -146309,19 +146291,7 @@
     "rating": 6.25,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Misterio",
-      "Suspenso",
-      "Terror",
-      "Detectives",
-      "Elenco Adulto",
-      "Gore",
-      "Mecha",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -150218,7 +150188,11 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Seinen",
+      "Carreras"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
