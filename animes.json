@@ -311,28 +311,6 @@
         "sub": []
       },
       {
-        "num": 14,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/70a49f0441d5ff637505406587b4a015"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/iXxyzIKQ#ReUzdrlc5Qpl7A42n6Owa4ljs-dIaYeXemr2_LLjn4E"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-sew7git2dt65.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/VXxXdbnL?embed"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 15,
         "latino": [
           {
@@ -377,7 +355,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367162815,
+    "timestamp": 1781367165025,
     "hasLatino": true
   },
   {
@@ -753,7 +731,7 @@
         ]
       }
     ],
-    "timestamp": 1781367163853,
+    "timestamp": 1781367165065,
     "hasLatino": false
   },
   {
@@ -1086,7 +1064,7 @@
         ]
       }
     ],
-    "timestamp": 1781367163872,
+    "timestamp": 1781367165437,
     "hasLatino": false
   },
   {
@@ -1464,7 +1442,7 @@
         ]
       }
     ],
-    "timestamp": 1781367163862,
+    "timestamp": 1781367165399,
     "hasLatino": false
   },
   {
@@ -1675,58 +1653,6 @@
         ]
       },
       {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/64da70d7fd6de055bd8fb858199848cf"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/m05RTDpY#JsOBwOlcEDA763weguLhMFjPAPPkKmZ3fC9wOwYiBlU"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#tzjaac"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-npnrfflccsph.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ztJH4U4L?embed"
-          }
-        ]
-      },
-      {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/7bc6022a880172990116333bb311139c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/2toy3arC#SjZHPxSnW-UEpiwyfbe_RY1WpGOMQxm9Knt-MNrIdbg"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#rc9q8j"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-a9kvuimj2bpa.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/bNiaJH8N?embed"
-          }
-        ]
-      },
-      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -1749,32 +1675,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/shdbTAiZ?embed"
-          }
-        ]
-      },
-      {
-        "num": 11,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/6424932c059eadba17b39be7d3975268"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/zxoVSDIQ#JvL4X-2MfdgM3hZN8UGHtQ_RSuI4rwrY996K1W3QhyQ"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#3wnvaw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-dzfclb8lawgn.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/B4SUT6vK?embed"
           }
         ]
       },
@@ -1909,7 +1809,7 @@
         ]
       }
     ],
-    "timestamp": 1781367163379,
+    "timestamp": 1781367166528,
     "hasLatino": false
   },
   {
@@ -171440,7 +171340,13 @@
     "rating": 7.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Romance",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
