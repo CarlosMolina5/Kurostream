@@ -375,7 +375,7 @@
         ]
       }
     ],
-    "timestamp": 1781368187593,
+    "timestamp": 1781368199080,
     "hasLatino": false
   },
   {
@@ -653,7 +653,7 @@
         ]
       }
     ],
-    "timestamp": 1781368187846,
+    "timestamp": 1781368196760,
     "hasLatino": false
   },
   {
@@ -943,7 +943,7 @@
         ]
       }
     ],
-    "timestamp": 1781368187431,
+    "timestamp": 1781368197417,
     "hasLatino": false
   },
   {
@@ -1103,7 +1103,7 @@
         ]
       }
     ],
-    "timestamp": 1781368185167,
+    "timestamp": 1781368195986,
     "hasLatino": false
   },
   {
@@ -1235,7 +1235,7 @@
         ]
       }
     ],
-    "timestamp": 1781368186455,
+    "timestamp": 1781368196201,
     "hasLatino": false
   },
   {
@@ -175844,7 +175844,15 @@
     "rating": 7.96,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Shounen",
+      "Artes Marciales",
+      "Gore",
+      "Superpoderes"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -190693,14 +190701,7 @@
     "rating": 7.62,
     "studio": "",
     "episodesCount": 23,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 23,
     "lastEpDate": "Hace un momento",
     "episodes": [
