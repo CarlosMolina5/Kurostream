@@ -288,7 +288,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781361348010,
+    "timestamp": 1781361351617,
     "hasLatino": true
   },
   {
@@ -330,7 +330,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781361347468,
+    "timestamp": 1781361350857,
     "hasLatino": true
   },
   {
@@ -646,7 +646,7 @@
         ]
       }
     ],
-    "timestamp": 1781361348893,
+    "timestamp": 1781361352341,
     "hasLatino": false
   },
   {
@@ -695,7 +695,7 @@
         ]
       }
     ],
-    "timestamp": 1781361347477,
+    "timestamp": 1781361351190,
     "hasLatino": false
   },
   {
@@ -758,7 +758,7 @@
         ]
       }
     ],
-    "timestamp": 1781361348201,
+    "timestamp": 1781361351235,
     "hasLatino": false
   },
   {
@@ -146729,11 +146729,7 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Misterio"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
