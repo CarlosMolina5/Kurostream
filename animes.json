@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "timestamp": 1781371812821,
+    "timestamp": 1781371819061,
     "hasLatino": false
   },
   {
@@ -249,7 +249,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781371814314,
+    "timestamp": 1781371818825,
     "hasLatino": true
   },
   {
@@ -296,7 +296,7 @@
         ]
       }
     ],
-    "timestamp": 1781371812764,
+    "timestamp": 1781371818838,
     "hasLatino": false
   },
   {
@@ -339,7 +339,7 @@
         ]
       }
     ],
-    "timestamp": 1781371812821,
+    "timestamp": 1781371819281,
     "hasLatino": false
   },
   {
@@ -364,6 +364,28 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f58005088b87521da9370f94d2d88aa2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/TcUXlLLD#1-SIcoem2FToa0NJionJZmzFAZbwAa_iPHx23bjHecU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-preg1iml89ep.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/gTCJvqsu?embed"
+          }
+        ]
+      },
+      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -386,6 +408,28 @@
         ]
       },
       {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2a99c8021ae5a23d8505e8eaa3032bc1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/DAU13byK#1lmc_pYoivDv3s99mrnbivESNoE6duXCk12oSebCgc4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-j6zwy2wvk5vk.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/kBJANTDo?embed"
+          }
+        ]
+      },
+      {
         "num": 4,
         "latino": [],
         "sub": [
@@ -404,6 +448,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/skU8tUjC?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bc1ade59c5e238139aac462e6d260c59"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/PE8CGY7R#ZlPm0rNpwmPVS0u6CIOYgLnrhO-gCAcLn9xLjBz7h8I"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-zbsg3q3juh30.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/WxYRgNwq?embed"
           }
         ]
       },
@@ -650,7 +716,7 @@
         ]
       }
     ],
-    "timestamp": 1781371814326,
+    "timestamp": 1781371819805,
     "hasLatino": false
   },
   {
@@ -182713,7 +182779,11 @@
     "rating": 6.78,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
