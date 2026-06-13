@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "timestamp": 1781371828193,
+    "timestamp": 1781371834397,
     "hasLatino": false
   },
   {
@@ -205,6 +205,28 @@
         "sub": []
       },
       {
+        "num": 5,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7a81ec52b9f850eb72dc67c4ee298f0e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ycc2FBjJ#1DMhU12j3VByEwxIEobdvINOQYQWKP6aChri0__ulD4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-whx7hstj2j92.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/k3e984kh?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 6,
         "latino": [
           {
@@ -227,7 +249,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781371829987,
+    "timestamp": 1781371834126,
     "hasLatino": true
   },
   {
@@ -274,7 +296,7 @@
         ]
       }
     ],
-    "timestamp": 1781371830000,
+    "timestamp": 1781371834395,
     "hasLatino": false
   },
   {
@@ -317,7 +339,7 @@
         ]
       }
     ],
-    "timestamp": 1781371826509,
+    "timestamp": 1781371834194,
     "hasLatino": false
   },
   {
@@ -694,7 +716,7 @@
         ]
       }
     ],
-    "timestamp": 1781371828490,
+    "timestamp": 1781371837718,
     "hasLatino": false
   },
   {
@@ -160319,7 +160341,16 @@
     "rating": 7.6,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Shoujo",
+      "Artes Marciales",
+      "Histórico",
+      "Isekai"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -181318,13 +181349,7 @@
     "rating": 7.26,
     "studio": "",
     "episodesCount": 7,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Elenco Adulto",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
