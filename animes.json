@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "timestamp": 1781325346484,
+    "timestamp": 1781325348185,
     "hasLatino": false
   },
   {
@@ -734,7 +734,7 @@
         ]
       }
     ],
-    "timestamp": 1781325346036,
+    "timestamp": 1781325347703,
     "hasLatino": false
   },
   {
@@ -1115,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781325345915,
+    "timestamp": 1781325347872,
     "hasLatino": false
   },
   {
@@ -1161,7 +1161,7 @@
         ]
       }
     ],
-    "timestamp": 1781325343837,
+    "timestamp": 1781325345957,
     "hasLatino": false
   },
   {
@@ -1208,7 +1208,7 @@
         ]
       }
     ],
-    "timestamp": 1781325343800,
+    "timestamp": 1781325346341,
     "hasLatino": false
   },
   {
@@ -64414,7 +64414,15 @@
     "rating": 6.97,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Drama",
+      "Fantasía",
+      "Shounen",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
