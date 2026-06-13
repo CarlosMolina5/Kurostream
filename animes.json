@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "timestamp": 1781363156974,
+    "timestamp": 1781363139539,
     "hasLatino": false
   },
   {
@@ -131,6 +131,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/godNb4Ut?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a0550a569c57506b70c795266d1a5306"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/W2RSlaSa#jtOOzNBHC9VHwo_U6ZZ-8QspxZdKoCa4Aqyh1ty-n74"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xn14w4eaexpv.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/4B2NA3jW?embed"
           }
         ]
       },
@@ -355,7 +377,7 @@
         ]
       }
     ],
-    "timestamp": 1781363158278,
+    "timestamp": 1781363141397,
     "hasLatino": false
   },
   {
@@ -1006,7 +1028,7 @@
         ]
       }
     ],
-    "timestamp": 1781363159343,
+    "timestamp": 1781363141683,
     "hasLatino": true
   },
   {
@@ -1385,7 +1407,7 @@
         ]
       }
     ],
-    "timestamp": 1781363159604,
+    "timestamp": 1781363163492,
     "hasLatino": false
   },
   {
@@ -1762,7 +1784,7 @@
         ]
       }
     ],
-    "timestamp": 1781363159119,
+    "timestamp": 1781363141675,
     "hasLatino": false
   },
   {
@@ -145453,7 +145475,13 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Elenco Adulto",
+      "Espacial",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
