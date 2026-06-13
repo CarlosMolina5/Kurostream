@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781374837766,
+    "timestamp": 1781374851290,
     "hasLatino": false
   },
   {
@@ -732,7 +732,7 @@
         ]
       }
     ],
-    "timestamp": 1781374838220,
+    "timestamp": 1781374851339,
     "hasLatino": false
   },
   {
@@ -1049,7 +1049,7 @@
         ]
       }
     ],
-    "timestamp": 1781374846201,
+    "timestamp": 1781374852613,
     "hasLatino": false
   },
   {
@@ -1206,7 +1206,7 @@
         ]
       }
     ],
-    "timestamp": 1781374836215,
+    "timestamp": 1781374850502,
     "hasLatino": false
   },
   {
@@ -1252,7 +1252,7 @@
         ]
       }
     ],
-    "timestamp": 1781374845102,
+    "timestamp": 1781374848455,
     "hasLatino": false
   },
   {
@@ -186121,7 +186121,13 @@
     "rating": 5.51,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Shounen",
+      "Terror",
+      "Gore"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
