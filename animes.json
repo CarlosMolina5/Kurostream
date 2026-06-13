@@ -290,7 +290,7 @@
         ]
       }
     ],
-    "timestamp": 1781368585383,
+    "timestamp": 1781368594066,
     "hasLatino": false
   },
   {
@@ -585,7 +585,7 @@
         ]
       }
     ],
-    "timestamp": 1781368585474,
+    "timestamp": 1781368592593,
     "hasLatino": false
   },
   {
@@ -605,50 +605,6 @@
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/79749b48633c4b9b07f2a597bbe671e4"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/1mJSGTgb#a5N6WqpJScRg5wv3Ukg10aEHz0Yk04_K6bvBExgwqkM"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#huy9og"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-cehmu8rl61jr.html"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d7884f41bd3c2098b544cc284a06eef9"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/9yJ1nBDK#2ZiVwsivP6Fj7KH-mFNkJ7AXtaeQcJVbeQXH6P6LV6M"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#t1dwf8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-m1wd6zyfv5wk.html"
-          }
-        ]
-      },
       {
         "num": 3,
         "latino": [],
@@ -804,6 +760,50 @@
         ]
       },
       {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/fc662ba6a2ec14ce938696fdf0834a70"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/w7JEFJ6R#zHtYUhnhd-5orCBu1bQlH5BspT_csSQN4rdMCgOsxgU"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#dchqt3"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-nshwlwm2d10j.html"
+          }
+        ]
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2cb967cbbd43487795db89b6993cf7bf"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/0jp3UTZZ#k1mSc0SDifJvJ_3yGKA1UDa7-gPM3ODF067PMS891_w"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#huy9dj"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ckiqe5rvg3k7.html"
+          }
+        ]
+      },
+      {
         "num": 12,
         "latino": [],
         "sub": [
@@ -848,7 +848,7 @@
         ]
       }
     ],
-    "timestamp": 1781368585276,
+    "timestamp": 1781368593789,
     "hasLatino": false
   },
   {
@@ -1138,7 +1138,7 @@
         ]
       }
     ],
-    "timestamp": 1781368585105,
+    "timestamp": 1781368592861,
     "hasLatino": false
   },
   {
@@ -1427,7 +1427,7 @@
         ]
       }
     ],
-    "timestamp": 1781368584403,
+    "timestamp": 1781368592302,
     "hasLatino": false
   },
   {
@@ -180855,12 +180855,7 @@
     "rating": 7.16,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Comedia",
-      "Deportes",
-      "Shounen",
-      "Ecchi"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
