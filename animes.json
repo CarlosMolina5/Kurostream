@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781370065927,
+    "timestamp": 1781370074772,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781370066650,
+    "timestamp": 1781370075215,
     "hasLatino": false
   },
   {
@@ -819,6 +819,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/zKqSoe8m?embed"
+          }
+        ]
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/777fd057edfd59e20e6a321896cabe1a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zAdRlbiK#QlaIdGzJb9ROk4GXKfKvMTmvazEzGp2oGVSoer_X6ZM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-u9sy9iknx4xx.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/4pWB6Jun?embed"
           }
         ]
       },
@@ -1021,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781370066215,
+    "timestamp": 1781370076015,
     "hasLatino": false
   },
   {
@@ -1311,7 +1333,7 @@
         ]
       }
     ],
-    "timestamp": 1781370065280,
+    "timestamp": 1781370073927,
     "hasLatino": false
   },
   {
@@ -1690,7 +1712,7 @@
         ]
       }
     ],
-    "timestamp": 1781370066593,
+    "timestamp": 1781370076578,
     "hasLatino": false
   },
   {
@@ -143695,14 +143717,7 @@
     "rating": 7.49,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Suspenso",
-      "Mecha",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -186441,7 +186456,12 @@
     "rating": 7.16,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Deportes",
+      "Shounen",
+      "Ecchi"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
