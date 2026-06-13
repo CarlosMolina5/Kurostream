@@ -1,5 +1,76 @@
 [
   {
+    "id": "aa-megami-sama-tatakau-tsubasa",
+    "title": "Aa! Megami-sama! Tatakau Tsubasa",
+    "status": "Finalizado",
+    "synopsis": "Un Come Ángeles ha sido liberado en el Cielo. Dado que las Diosas y los Ángeles comparten cuerpo y alma, perder a tu ángel provoca un shock para la Diosa. Lind va a la Tierra para proteger a Belldandy y a los demás sin saber que es una trampa.",
+    "poster": "https://cdn.myanimelist.net/images/anime/7/18673l.webp",
+    "cover": "https://cdn.animeando.net/covers/3090.jpg",
+    "banner": "https://cdn.animeando.net/covers/3090.jpg",
+    "type": "Especial",
+    "year": "2007",
+    "rating": 7.55,
+    "studio": "",
+    "episodesCount": 2,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Seinen",
+      "Sobrenatural",
+      "Harem"
+    ],
+    "currentEpisode": 2,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d3e90de0aa4d0e84de905401bad73ff8"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/wI4ETDDJ#my7qmQHMeoPhYK_U4C_pdDs3YUAkIDX4Wgrg0rpKLTA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-flixdia057gi.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/a74wKAtf?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3763e70d1c71c63de73a59f38645a134"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Qc4ESL5Z#X8ENZK6pXLaJtcKfPB4MKsyqG26SaLuuS15F5n8ePMM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lndhezidro5a.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/1GW56fJk?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781370788642,
+    "hasLatino": false
+  },
+  {
     "id": "kara-no-kyoukai-movie-1-fukan-fuukei",
     "title": "Kara no Kyoukai: The Garden of Sinners",
     "status": "Finalizado",
@@ -242,7 +313,7 @@
         ]
       }
     ],
-    "timestamp": 1781370783556,
+    "timestamp": 1781370789668,
     "hasLatino": false
   },
   {
@@ -292,6 +363,28 @@
         ]
       },
       {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/89f8d502b51ad0b32fb8151c66add5cc"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Kl5wGCKQ#EMf2tyKb_0MuaZLEXLzkTjxBvvEsZoB7qdLj2_dowzk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vxqs77nwua1a.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ZkCjm8Nx?embed"
+          }
+        ]
+      },
+      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -314,7 +407,7 @@
         ]
       }
     ],
-    "timestamp": 1781370782609,
+    "timestamp": 1781370788628,
     "hasLatino": false
   },
   {
@@ -451,7 +544,7 @@
         ]
       }
     ],
-    "timestamp": 1781370782878,
+    "timestamp": 1781370788296,
     "hasLatino": false
   },
   {
@@ -495,7 +588,7 @@
         ]
       }
     ],
-    "timestamp": 1781370783246,
+    "timestamp": 1781370788017,
     "hasLatino": false
   },
   {
@@ -167845,7 +167938,14 @@
     "rating": 6.83,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Fantasía",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
