@@ -367,7 +367,7 @@
         ]
       }
     ],
-    "timestamp": 1781314449673,
+    "timestamp": 1781314468695,
     "hasLatino": false
   },
   {
@@ -432,7 +432,7 @@
         ]
       }
     ],
-    "timestamp": 1781314441753,
+    "timestamp": 1781314467074,
     "hasLatino": true
   },
   {
@@ -480,7 +480,7 @@
         ]
       }
     ],
-    "timestamp": 1781314441113,
+    "timestamp": 1781314467075,
     "hasLatino": false
   },
   {
@@ -527,7 +527,7 @@
         ]
       }
     ],
-    "timestamp": 1781314440744,
+    "timestamp": 1781314466930,
     "hasLatino": false
   },
   {
@@ -592,7 +592,7 @@
         ]
       }
     ],
-    "timestamp": 1781314459208,
+    "timestamp": 1781314466939,
     "hasLatino": true
   },
   {
@@ -35901,17 +35901,7 @@
     "rating": 8.27,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Misterio",
-      "Seinen",
-      "Suspenso",
-      "Detectives",
-      "Elenco Adulto",
-      "Mecha",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -73928,7 +73918,14 @@
     "rating": 8.15,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
