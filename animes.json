@@ -374,7 +374,7 @@
         ]
       }
     ],
-    "timestamp": 1781361019196,
+    "timestamp": 1781361025219,
     "hasLatino": false
   },
   {
@@ -754,7 +754,7 @@
         ]
       }
     ],
-    "timestamp": 1781361019432,
+    "timestamp": 1781361025504,
     "hasLatino": false
   },
   {
@@ -801,7 +801,7 @@
         ]
       }
     ],
-    "timestamp": 1781361017984,
+    "timestamp": 1781361024065,
     "hasLatino": false
   },
   {
@@ -1182,7 +1182,7 @@
         ]
       }
     ],
-    "timestamp": 1781361019432,
+    "timestamp": 1781361025400,
     "hasLatino": false
   },
   {
@@ -1472,7 +1472,7 @@
         ]
       }
     ],
-    "timestamp": 1781361018251,
+    "timestamp": 1781361024971,
     "hasLatino": false
   },
   {
@@ -102812,7 +102812,11 @@
     "rating": 7.47,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Escolares"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
