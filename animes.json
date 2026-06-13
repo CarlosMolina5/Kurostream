@@ -374,7 +374,7 @@
         ]
       }
     ],
-    "timestamp": 1781366495636,
+    "timestamp": 1781366502138,
     "hasLatino": false
   },
   {
@@ -422,7 +422,7 @@
         ]
       }
     ],
-    "timestamp": 1781366493806,
+    "timestamp": 1781366501188,
     "hasLatino": false
   },
   {
@@ -469,7 +469,7 @@
         ]
       }
     ],
-    "timestamp": 1781366493797,
+    "timestamp": 1781366500855,
     "hasLatino": false
   },
   {
@@ -515,6 +515,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/snK3KdXU?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3a3cf001a0d6cfa16d1e163d40711c4a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/yQkSUaYT#28CggBO0ecsIZk8hhNSJEN_fA3rSRy3DS_WheDf3l2I"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-64epzjjipjea.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/cXpfttQR?embed"
           }
         ]
       },
@@ -739,7 +761,7 @@
         ]
       }
     ],
-    "timestamp": 1781366494904,
+    "timestamp": 1781366501905,
     "hasLatino": false
   },
   {
@@ -1339,7 +1361,7 @@
         ]
       }
     ],
-    "timestamp": 1781366497631,
+    "timestamp": 1781366502136,
     "hasLatino": true
   },
   {
@@ -126904,7 +126926,11 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -136805,13 +136831,7 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 7,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía",
-      "Romance",
-      "Isekai"
-    ],
+    "genres": [],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
