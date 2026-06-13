@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781369951667,
+    "timestamp": 1781369959505,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781369952525,
+    "timestamp": 1781369959977,
     "hasLatino": false
   },
   {
@@ -1043,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781369952432,
+    "timestamp": 1781369960189,
     "hasLatino": false
   },
   {
@@ -1065,7 +1065,7 @@
       "Ecchi",
       "Harem"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -1287,9 +1287,53 @@
             "url": "https://pixeldrain.com/u/5zjUdCKr?embed"
           }
         ]
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ae5f66472b43f33443e10e6244a8dc4c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/KYMXgTwL#hWnqPWDlgM6ZZWFKQ6mfxvEgg0TIPifj4bL5plojY4Q"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-r1bjq9ho8itl.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/46W7xzXZ?embed"
+          }
+        ]
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/405e1e10a21ade34e1d59003aa5bf202"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/7RcVia7D#boZQNjAI4Sge6NjDirKEAIUUzxrJVtL8LSFORMoFS2s"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-k5zz3s5k45wl.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/1Q1A4MGt?embed"
+          }
+        ]
       }
     ],
-    "timestamp": 1781369951526,
+    "timestamp": 1781369958986,
     "hasLatino": false
   },
   {
@@ -1668,7 +1712,7 @@
         ]
       }
     ],
-    "timestamp": 1781369952215,
+    "timestamp": 1781369959307,
     "hasLatino": false
   },
   {
@@ -175656,10 +175700,7 @@
     "rating": 8.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Sobrenatural"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
