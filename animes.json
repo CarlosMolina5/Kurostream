@@ -374,7 +374,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781345743874,
+    "timestamp": 1781345745471,
     "hasLatino": true
   },
   {
@@ -744,7 +744,7 @@
         ]
       }
     ],
-    "timestamp": 1781345743456,
+    "timestamp": 1781345745567,
     "hasLatino": false
   },
   {
@@ -1123,7 +1123,7 @@
         ]
       }
     ],
-    "timestamp": 1781345743706,
+    "timestamp": 1781345745858,
     "hasLatino": false
   },
   {
@@ -1777,7 +1777,7 @@
         ]
       }
     ],
-    "timestamp": 1781345743553,
+    "timestamp": 1781345745279,
     "hasLatino": true
   },
   {
@@ -2158,7 +2158,7 @@
         ]
       }
     ],
-    "timestamp": 1781345744004,
+    "timestamp": 1781345745250,
     "hasLatino": false
   },
   {
@@ -72016,7 +72016,13 @@
     "rating": 7.53,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Seinen",
+      "Detectives",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
