@@ -309,7 +309,7 @@
         ]
       }
     ],
-    "timestamp": 1781366565844,
+    "timestamp": 1781366566151,
     "hasLatino": false
   },
   {
@@ -679,7 +679,7 @@
         ]
       }
     ],
-    "timestamp": 1781366564956,
+    "timestamp": 1781366567158,
     "hasLatino": false
   },
   {
@@ -721,6 +721,24 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/AP443uqS?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ffdf8e73f53e1148009be1bc70f9ce73"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-cz1s0hg3zvp4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/tgZ8JcNf?embed"
           }
         ]
       },
@@ -977,7 +995,7 @@
         ]
       }
     ],
-    "timestamp": 1781366564649,
+    "timestamp": 1781366569359,
     "hasLatino": false
   },
   {
@@ -1352,7 +1370,7 @@
         ]
       }
     ],
-    "timestamp": 1781366564348,
+    "timestamp": 1781366566137,
     "hasLatino": false
   },
   {
@@ -1672,7 +1690,7 @@
         ]
       }
     ],
-    "timestamp": 1781366564663,
+    "timestamp": 1781366566776,
     "hasLatino": false
   },
   {
@@ -136819,7 +136837,15 @@
     "rating": 7.7,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Romance",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -151350,13 +151376,7 @@
     "rating": 8.46,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Shounen",
-      "Sobrenatural",
-      "Artes Marciales",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
