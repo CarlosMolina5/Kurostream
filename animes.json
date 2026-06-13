@@ -374,7 +374,7 @@
         ]
       }
     ],
-    "timestamp": 1781311039655,
+    "timestamp": 1781311045078,
     "hasLatino": false
   },
   {
@@ -424,7 +424,7 @@
         ]
       }
     ],
-    "timestamp": 1781311035995,
+    "timestamp": 1781311041912,
     "hasLatino": false
   },
   {
@@ -577,7 +577,7 @@
         ]
       }
     ],
-    "timestamp": 1781311035908,
+    "timestamp": 1781311044291,
     "hasLatino": false
   },
   {
@@ -956,7 +956,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781311041385,
+    "timestamp": 1781311044593,
     "hasLatino": true
   },
   {
@@ -1333,7 +1333,7 @@
         ]
       }
     ],
-    "timestamp": 1781311037684,
+    "timestamp": 1781311043958,
     "hasLatino": false
   },
   {
@@ -40218,7 +40218,13 @@
     "rating": 6.81,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
