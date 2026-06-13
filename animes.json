@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "timestamp": 1781363152118,
+    "timestamp": 1781363134755,
     "hasLatino": false
   },
   {
@@ -377,7 +377,7 @@
         ]
       }
     ],
-    "timestamp": 1781363152461,
+    "timestamp": 1781363136893,
     "hasLatino": false
   },
   {
@@ -403,6 +403,45 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/da587ab393f8f363496640a4ecd1d7c2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/GEMyTawQ#VKwXYtlfSYrW1i4wHNVc8m75FumKsjE4tEZP2hFP7t8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ipoffye87r6o.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wLVaUrqJ?embed"
+          }
+        ],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/198c2b3dbd7cc7fca5f1ad8754ed39b3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/3c9BHZLa#8W1t79AZQOe4scEasGw4eDFQD2pJ2lM-y-Fbnpmm6dk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-nkhhqxbucopj.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/vd756Je5?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [
@@ -989,7 +1028,7 @@
         ]
       }
     ],
-    "timestamp": 1781363153448,
+    "timestamp": 1781363137448,
     "hasLatino": true
   },
   {
@@ -1056,28 +1095,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/R2pTvAH6?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4c15c8ab35c1ecf3c8e94cf3237ac708"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/scxxEJxT#Cs71fnFIHuMgXYlyqStDOwsydyCVdnQo6fM3xmaEhC4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-anp4ihull262.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/i366aozY?embed"
           }
         ]
       },
@@ -1368,7 +1385,7 @@
         ]
       }
     ],
-    "timestamp": 1781363155165,
+    "timestamp": 1781363157427,
     "hasLatino": false
   },
   {
@@ -1433,28 +1450,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/AyHucub5?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/58b34e8ce6c5830edf09f2fb2f8961f2"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/I9ZBnCRZ#gmxSCvYYu8yo-vC6ZLUXSLDrHAClZoMTfZzXWgOoULI"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-tfvo5yj5xs19.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/J43kNeHw?embed"
           }
         ]
       },
@@ -1745,7 +1740,7 @@
         ]
       }
     ],
-    "timestamp": 1781363154940,
+    "timestamp": 1781363137074,
     "hasLatino": false
   },
   {
@@ -103941,12 +103936,7 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Seinen",
-      "Carreras"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -134523,7 +134513,14 @@
     "rating": 6.28,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Elenco Adulto",
+      "Espacial",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
