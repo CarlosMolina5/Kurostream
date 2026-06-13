@@ -25,28 +25,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/2876cd2c2fc3dc31e538d348fdf55a7e"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/vOYlVSJR#S-amVmZM--OdLJ0QAdMIIX86QkO9w-r-dNgXGRajww0"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-mctrkln2xbep.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/dDD92jXD?embed"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 2,
         "latino": [
           {
@@ -377,7 +355,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367174348,
+    "timestamp": 1781367178981,
     "hasLatino": true
   },
   {
@@ -753,7 +731,7 @@
         ]
       }
     ],
-    "timestamp": 1781367173731,
+    "timestamp": 1781367180047,
     "hasLatino": false
   },
   {
@@ -832,72 +810,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-pjifxpe7mg7u.html"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/de2a89e147f359269fba883d516434cf"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/X6Q1kBaT#NaxN7tBWgVTyLDkIM2GTUzZppKxTBo_aGCCMuUbKoLw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-6595wcgv9my9.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/n6LxntFU?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/444c131c9b987c7da04a8e939d1c10ea"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/H2R3iLiD#osmRPKErdq1RAcVIsCmAoINHn17YQhSf3ryba9n270A"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-4ulysc6bac0u.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/CHweKAgD?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/45828879a3461dffe88e854cbffd5117"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/X25jxbrD#cYW60f8Vh3N_yDQx4LSTszRi7uwqN_o3gb4lavuAjMA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ouc0zcazck35.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/UYPi4umi?embed"
           }
         ]
       },
@@ -1086,7 +998,7 @@
         ]
       }
     ],
-    "timestamp": 1781367175263,
+    "timestamp": 1781367179106,
     "hasLatino": false
   },
   {
@@ -1111,6 +1023,28 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/9bea1cce34a9326a361878498ef6fde2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/KUlWFTyb#6TzaloTU-gdPv7KUwjj4sxTJIPpA_QIiQUGqHVlLfCk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3picus357g8g.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/sSn9zJLr?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -1152,6 +1086,50 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/zFYVaJgo?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/9273ad89b3fbfb4a96dc192f950e55fb"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jR0lSDRT#6V3EadmgCgF7ObG_xVVBxE1fOQFaWDhhVJIr5auYkMY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-e7ewa2id7zyn.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/H8vkhWsv?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/08f628bc4f72f2c6b1e83c4029bafb55"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/GMM0kLgD#Zfzg4jXXxX5uCMN2QQTx1r0QUpFJU6mbnqsiKmANpmY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-dsjdwnilf5mm.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/J3hYRn8a?embed"
           }
         ]
       },
@@ -1398,7 +1376,7 @@
         ]
       }
     ],
-    "timestamp": 1781367173963,
+    "timestamp": 1781367178649,
     "hasLatino": false
   },
   {
@@ -1843,7 +1821,7 @@
         ]
       }
     ],
-    "timestamp": 1781367173522,
+    "timestamp": 1781367179339,
     "hasLatino": false
   },
   {
@@ -148565,11 +148543,7 @@
     "rating": 6.64,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Comedia",
-      "Fantasía",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
