@@ -282,7 +282,7 @@
         ]
       }
     ],
-    "timestamp": 1781367844586,
+    "timestamp": 1781367846411,
     "hasLatino": false
   },
   {
@@ -330,7 +330,7 @@
         ]
       }
     ],
-    "timestamp": 1781367842989,
+    "timestamp": 1781367845882,
     "hasLatino": false
   },
   {
@@ -684,7 +684,7 @@
         ]
       }
     ],
-    "timestamp": 1781367844762,
+    "timestamp": 1781367846961,
     "hasLatino": false
   },
   {
@@ -709,28 +709,6 @@
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/2a8cc81d308bee5005a25d4207006b42"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/zcZkUJSb#JxJEIOsbjUluI-VtxG-qbTpmiOnuR3NUEQzCxtGLq-M"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-macghfy99udb.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/eJeuFH5Q?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -820,7 +798,7 @@
         ]
       }
     ],
-    "timestamp": 1781367843954,
+    "timestamp": 1781367846185,
     "hasLatino": false
   },
   {
@@ -911,7 +889,7 @@
         ]
       }
     ],
-    "timestamp": 1781367843730,
+    "timestamp": 1781367846201,
     "hasLatino": false
   },
   {
@@ -162198,7 +162176,13 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Romance",
+      "Histórico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -170634,14 +170618,7 @@
     "rating": 7.76,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Fantasía",
-      "Shounen",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
