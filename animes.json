@@ -24,50 +24,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/71b78b39a49d5748533025ea1ab204b5"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/JJQhHJTZ#LMwHNiDPnkqArgmKpNcrKEhf4x5ZK0d6b7i4o6c60PU"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-uke05q19l34v.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/WmBG543C?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/e66db5e23162e4c29a4d5ed1c95f638c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/np5FkCCS#-sDw7Ro1X45srK0zjSGKFoWECewkLDtpekLZfbq5F8s"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-0hw988shbnxs.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/9FvcDWtB?embed"
-          }
-        ]
-      },
-      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -376,7 +332,7 @@
         ]
       }
     ],
-    "timestamp": 1781374888632,
+    "timestamp": 1781374894188,
     "hasLatino": false
   },
   {
@@ -667,7 +623,7 @@
         ]
       }
     ],
-    "timestamp": 1781374888556,
+    "timestamp": 1781374893777,
     "hasLatino": false
   },
   {
@@ -757,28 +713,6 @@
         ]
       },
       {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/23bed9079af6ab5a556592378182a7ef"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/DTBhnB5R#DK5H_hIDYY_AFbdEfVl_Ds7OmvsPa-I7G1IeOMl8o20"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-d7hmlcrkp7qs.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/zNP3sMGW?embed"
-          }
-        ]
-      },
-      {
         "num": 5,
         "latino": [],
         "sub": [
@@ -797,28 +731,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/whFsuK8e?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ed03773abb51b472dda11ee490e9bba5"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/iTIAhZTD#lLIV-9aAynH4gSJPlk_eYGiFbFYUii4h5V5eZMurCHI"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-tgrwsftkzl3x.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/T1PkvBHf?embed"
           }
         ]
       },
@@ -1043,7 +955,7 @@
         ]
       }
     ],
-    "timestamp": 1781374890312,
+    "timestamp": 1781374894016,
     "hasLatino": false
   },
   {
@@ -1091,7 +1003,7 @@
         ]
       }
     ],
-    "timestamp": 1781374886305,
+    "timestamp": 1781374892634,
     "hasLatino": false
   },
   {
@@ -1248,6 +1160,28 @@
         ]
       },
       {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/53b7b9757a87bb77fc3a3f18631835c0"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/qk4kWRxL#BVsbn8d8ecM5s_4hLEBqB9U_f8NOyxBTgc1PBbNaGdI"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ekupzb"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-deeavvpaogei.html"
+          }
+        ]
+      },
+      {
         "num": 8,
         "latino": [],
         "sub": [
@@ -1380,7 +1314,7 @@
         ]
       }
     ],
-    "timestamp": 1781374888188,
+    "timestamp": 1781374894221,
     "hasLatino": false
   },
   {
@@ -159951,7 +159885,11 @@
     "rating": 7.3,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -166611,14 +166549,7 @@
     "rating": 7.95,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shoujo",
-      "Mahou Shoujo"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
