@@ -354,7 +354,7 @@
         ]
       }
     ],
-    "timestamp": 1781363669180,
+    "timestamp": 1781363671723,
     "hasLatino": false
   },
   {
@@ -381,28 +381,6 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/199d6ec95a3211eb07891a26339d0fe6"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/2soWwYjZ#TxzAV3lFX-fD44wyZABBWCId_1jM4m9pCGlcpNrBn3U"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-00efn6or82oq.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/AvRiUzzz?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -734,7 +712,7 @@
         ]
       }
     ],
-    "timestamp": 1781363669452,
+    "timestamp": 1781363671902,
     "hasLatino": false
   },
   {
@@ -778,7 +756,7 @@
         ]
       }
     ],
-    "timestamp": 1781363666698,
+    "timestamp": 1781363670610,
     "hasLatino": false
   },
   {
@@ -1155,7 +1133,7 @@
         ]
       }
     ],
-    "timestamp": 1781363669274,
+    "timestamp": 1781363671659,
     "hasLatino": false
   },
   {
@@ -1693,7 +1671,7 @@
         ]
       }
     ],
-    "timestamp": 1781363669494,
+    "timestamp": 1781363671488,
     "hasLatino": true
   },
   {
@@ -112288,7 +112266,14 @@
     "rating": 7.19,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Romance",
+      "Harem",
+      "Mecha"
+    ],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
