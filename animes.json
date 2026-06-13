@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363397317,
+    "timestamp": 1781363400882,
     "hasLatino": true
   },
   {
@@ -394,6 +394,32 @@
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c1d7d12a6b2dca1c188f9590654f1c86"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/hNtgUDQZ#GhPwWpzLMNClgZN1_s1WJvkkR7A12A3WNiikojPayA8"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#d8legq"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-y0ppaweqxpac.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/HwAcMnfV?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -447,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363396352,
+    "timestamp": 1781363399893,
     "hasLatino": false
   },
   {
@@ -541,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363396428,
+    "timestamp": 1781363399815,
     "hasLatino": false
   },
   {
@@ -824,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363397361,
+    "timestamp": 1781363400583,
     "hasLatino": false
   },
   {
@@ -869,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363396231,
+    "timestamp": 1781363399237,
     "hasLatino": false
   },
   {
@@ -125901,7 +125927,14 @@
     "rating": 6.96,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Misterio",
+      "Romance",
+      "Detectives",
+      "Mecha"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
