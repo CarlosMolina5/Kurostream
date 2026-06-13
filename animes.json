@@ -282,7 +282,7 @@
         ]
       }
     ],
-    "timestamp": 1781367965541,
+    "timestamp": 1781367968020,
     "hasLatino": false
   },
   {
@@ -330,7 +330,7 @@
         ]
       }
     ],
-    "timestamp": 1781367964407,
+    "timestamp": 1781367967287,
     "hasLatino": false
   },
   {
@@ -374,24 +374,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/CiWDvvHe?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/850c64da6876dcea5119988032fd97c6"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/eIpRwA4Y#l0I93ER6gQAfQRyoLZPVqdYFhS5WomPqB9t_GV6KZFk"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-lghnuha2o00y.html"
           }
         ]
       },
@@ -684,7 +666,7 @@
         ]
       }
     ],
-    "timestamp": 1781367965708,
+    "timestamp": 1781367968754,
     "hasLatino": false
   },
   {
@@ -820,7 +802,7 @@
         ]
       }
     ],
-    "timestamp": 1781367964182,
+    "timestamp": 1781367967130,
     "hasLatino": false
   },
   {
@@ -911,7 +893,7 @@
         ]
       }
     ],
-    "timestamp": 1781367964272,
+    "timestamp": 1781367967524,
     "hasLatino": false
   },
   {
@@ -137902,7 +137884,16 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -157989,14 +157980,7 @@
     "rating": 6.62,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
