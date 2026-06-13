@@ -64,7 +64,7 @@
         ]
       }
     ],
-    "timestamp": 1781377971371,
+    "timestamp": 1781377971312,
     "hasLatino": false
   },
   {
@@ -176,7 +176,7 @@
         ]
       }
     ],
-    "timestamp": 1781377969528,
+    "timestamp": 1781377971319,
     "hasLatino": false
   },
   {
@@ -553,7 +553,7 @@
         ]
       }
     ],
-    "timestamp": 1781377971338,
+    "timestamp": 1781377976542,
     "hasLatino": false
   },
   {
@@ -601,7 +601,7 @@
         ]
       }
     ],
-    "timestamp": 1781377971649,
+    "timestamp": 1781377971510,
     "hasLatino": false
   },
   {
@@ -668,7 +668,7 @@
         ]
       }
     ],
-    "timestamp": 1781377971468,
+    "timestamp": 1781377971010,
     "hasLatino": false
   },
   {
@@ -186017,7 +186017,10 @@
     "rating": 7.28,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -212035,15 +212038,7 @@
     "rating": 7.96,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Shounen",
-      "Artes Marciales",
-      "Gore",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
