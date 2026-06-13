@@ -58,7 +58,7 @@
         ]
       }
     ],
-    "timestamp": 1781334524302,
+    "timestamp": 1781334601452,
     "hasLatino": true
   },
   {
@@ -335,7 +335,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781334525794,
+    "timestamp": 1781334603485,
     "hasLatino": true
   },
   {
@@ -626,7 +626,7 @@
         ]
       }
     ],
-    "timestamp": 1781334526027,
+    "timestamp": 1781334602902,
     "hasLatino": false
   },
   {
@@ -999,7 +999,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781334526149,
+    "timestamp": 1781334604065,
     "hasLatino": true
   },
   {
@@ -1528,7 +1528,7 @@
         ]
       }
     ],
-    "timestamp": 1781334526078,
+    "timestamp": 1781334603810,
     "hasLatino": true
   },
   {
@@ -90660,15 +90660,7 @@
     "rating": 7.96,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Histórico",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
