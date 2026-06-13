@@ -64,7 +64,7 @@
         ]
       }
     ],
-    "timestamp": 1781325237417,
+    "timestamp": 1781325247192,
     "hasLatino": true
   },
   {
@@ -438,7 +438,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781325238407,
+    "timestamp": 1781325249118,
     "hasLatino": true
   },
   {
@@ -546,7 +546,7 @@
         ]
       }
     ],
-    "timestamp": 1781325237210,
+    "timestamp": 1781325248087,
     "hasLatino": false
   },
   {
@@ -919,7 +919,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781325242466,
+    "timestamp": 1781325249898,
     "hasLatino": true
   },
   {
@@ -1205,7 +1205,7 @@
         ]
       }
     ],
-    "timestamp": 1781325241136,
+    "timestamp": 1781325249427,
     "hasLatino": false
   },
   {
@@ -74217,11 +74217,7 @@
     "rating": 5.9,
     "studio": "",
     "episodesCount": 4,
-    "genres": [
-      "Sobrenatural",
-      "Terror",
-      "Histórico"
-    ],
+    "genres": [],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -74366,7 +74362,10 @@
     "rating": 6.36,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Mecha"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
