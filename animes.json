@@ -290,7 +290,7 @@
         ]
       }
     ],
-    "timestamp": 1781368455047,
+    "timestamp": 1781368457231,
     "hasLatino": false
   },
   {
@@ -585,7 +585,7 @@
         ]
       }
     ],
-    "timestamp": 1781368454749,
+    "timestamp": 1781368457736,
     "hasLatino": false
   },
   {
@@ -712,28 +712,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-p93uxut9lg4j.html"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/b415ce3014171eda3dc3efb4693fc5e3"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/c3g2iIAI#shdQ5HYS4-Jp-gx1b6X4y8pXORtnVDNV--diImpqaV0"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#kj6r8o"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-1hks777dfh77.html"
           }
         ]
       },
@@ -892,7 +870,7 @@
         ]
       }
     ],
-    "timestamp": 1781368454904,
+    "timestamp": 1781368458200,
     "hasLatino": false
   },
   {
@@ -914,7 +892,7 @@
       "Escolares",
       "Parodia"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -1116,6 +1094,28 @@
         ]
       },
       {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5bf7c7441138e165857a700acb9e50c0"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/rBUHyYgQ#06hT2fr_oMHXpFlI00nF5rzBcYgDSNbvbYbIKq9-FfA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-t0qgk9gxsih4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/qkFwWdvA?embed"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -1136,9 +1136,31 @@
             "url": "https://pixeldrain.com/u/nfqYovpx?embed"
           }
         ]
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7b6c7cf469dd3f442c7f3cc8bd390a74"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jRVwDIpT#-2KGmqWeH5KRpdkF-N4KNrhzyHY4hCmfAolTi43VTNA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4lh1n3fg5cvk.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/VPJZPEtW?embed"
+          }
+        ]
       }
     ],
-    "timestamp": 1781368454080,
+    "timestamp": 1781368456889,
     "hasLatino": false
   },
   {
@@ -1427,7 +1449,7 @@
         ]
       }
     ],
-    "timestamp": 1781368454160,
+    "timestamp": 1781368456621,
     "hasLatino": false
   },
   {
@@ -150713,13 +150735,7 @@
     "rating": 6.85,
     "studio": "",
     "episodesCount": 15,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Música",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -164831,7 +164847,13 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Romance",
+      "Histórico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
