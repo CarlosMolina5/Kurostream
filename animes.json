@@ -1,5 +1,98 @@
 [
   {
+    "id": "kidou-senshi-gundam-seed-ce-73-stargazer",
+    "title": "Kidou Senshi Gundam SEED C.E. 73: Stargazer",
+    "status": "Finalizado",
+    "synopsis": "En el año 73 de la era común, las tensiones entre Naturales y Coordinadores continúan persistiendo, lo que eventualmente lleva a otra guerra entre la Alianza de la Tierra y PLANT. Sven Cal Bayan es un piloto Natural del escuadrón de élite EA, el Phantom Pain, y lleva a cabo las diversas misiones anti-Coordinador de su escuadrón sin fallar. Selene McGriff es una investigadora Coordinador en la Organización de Desarrollo y Encuesta del Espacio Profundo (DSSD), neutral, y desarrolladora del traje móvil de exploración espacial GSX-401FW Stargazer. Aunque sus antecedentes son completamente diferentes, la guerra en expansión forzará sus caminos a chocar.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1013/91082l.jpg",
+    "cover": "https://cdn.animeando.net/covers/1215.jpg",
+    "banner": "https://cdn.animeando.net/covers/1215.jpg",
+    "type": "Ona",
+    "year": "2006",
+    "rating": 7.12,
+    "studio": "",
+    "episodesCount": 3,
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
+    "currentEpisode": 3,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/944ec5214471d5fe1a2d55da3a126929"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/lNsj1LAK#GNglyxvUoFEGRYwN-Eh47xKlJ_DzsN5FdLh0C6VQsr4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fqsg9pao9cah.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/WGpgEfCB?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d4595ff62a12708237d8b9c38627c63b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/wUd0jL6B#UDK8FW8VWQe9Fh5jfBaGdRRxUXRoIf1ueW4bdO7LRF8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3k9msqal6m1b.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/9o5ry9vn?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/084fcf861ce9c491e14fa57c9f24d357"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/UQN1DIhI#8aUmt6O_rqTGK_2rNBiNZ52rYqFIdDw7VufjAx6D3cQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-047v4ym69x4h.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ruSMQ399?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781363686944,
+    "hasLatino": false
+  },
+  {
     "id": "chocotto-sister",
     "title": "Chocotto Sister",
     "status": "Finalizado",
@@ -124,28 +217,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/t1UKAeMz?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/36cbadbc09933a57ae114bc1f89987d5"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/JRAGwbBI#_Ly7XmU49C65YKG8lpJbFlDAVuwQeatiMmf7v9qq0Zc"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-gahcp2nogjph.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/fQ78TWAv?embed"
           }
         ]
       },
@@ -354,7 +425,7 @@
         ]
       }
     ],
-    "timestamp": 1781363686113,
+    "timestamp": 1781363688117,
     "hasLatino": false
   },
   {
@@ -398,7 +469,7 @@
         ]
       }
     ],
-    "timestamp": 1781363684909,
+    "timestamp": 1781363686202,
     "hasLatino": false
   },
   {
@@ -775,7 +846,7 @@
         ]
       }
     ],
-    "timestamp": 1781363685914,
+    "timestamp": 1781363688160,
     "hasLatino": false
   },
   {
@@ -1313,7 +1384,7 @@
         ]
       }
     ],
-    "timestamp": 1781363685960,
+    "timestamp": 1781363688019,
     "hasLatino": true
   },
   {
@@ -118562,7 +118633,12 @@
     "rating": 7.01,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen",
+      "Mecha"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -153512,12 +153588,7 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
