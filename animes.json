@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363284577,
+    "timestamp": 1781363288320,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363283973,
+    "timestamp": 1781363286771,
     "hasLatino": false
   },
   {
@@ -523,6 +523,28 @@
         ]
       },
       {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0030b9fad950f9d9a02e829abf3d6e19"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/WMMj3JrQ#O_trx-4ekkkq4euCum7fJpqn_whtxI1OMAcVFf-p4zE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-l4xq4qcnw9jp.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/eEUvxdZj?embed"
+          }
+        ]
+      },
+      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -545,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363283889,
+    "timestamp": 1781363287319,
     "hasLatino": false
   },
   {
@@ -828,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363284291,
+    "timestamp": 1781363288188,
     "hasLatino": false
   },
   {
@@ -873,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363283889,
+    "timestamp": 1781363287093,
     "hasLatino": false
   },
   {
@@ -138895,12 +138917,7 @@
     "rating": 6.22,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Comedia",
-      "Seinen",
-      "Sobrenatural",
-      "Terror"
-    ],
+    "genres": [],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
