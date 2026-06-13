@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781373609768,
+    "timestamp": 1781373613917,
     "hasLatino": false
   },
   {
@@ -597,7 +597,7 @@
         ]
       }
     ],
-    "timestamp": 1781373611204,
+    "timestamp": 1781373614903,
     "hasLatino": false
   },
   {
@@ -797,24 +797,6 @@
         ]
       },
       {
-        "num": 10,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4a1ee4de47cd76b7421fca2ea13e6419"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/9pIxWAAY#1y7Hrgbgg88VyiuKlBGXbiABNEJ0KQJZ-rkDbBM2RlE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-82ssptld3bux.html"
-          }
-        ]
-      },
-      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -859,7 +841,7 @@
         ]
       }
     ],
-    "timestamp": 1781373610556,
+    "timestamp": 1781373613112,
     "hasLatino": false
   },
   {
@@ -1154,7 +1136,7 @@
         ]
       }
     ],
-    "timestamp": 1781373609061,
+    "timestamp": 1781373613896,
     "hasLatino": false
   },
   {
@@ -1466,7 +1448,7 @@
         ]
       }
     ],
-    "timestamp": 1781373610087,
+    "timestamp": 1781373614273,
     "hasLatino": false
   },
   {
@@ -162380,14 +162362,7 @@
     "rating": 7.65,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía",
-      "Romance",
-      "Isekai",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -194103,7 +194078,12 @@
     "rating": 6.7,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
