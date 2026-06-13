@@ -478,7 +478,7 @@
         ]
       }
     ],
-    "timestamp": 1781363917431,
+    "timestamp": 1781363921888,
     "hasLatino": true
   },
   {
@@ -527,7 +527,7 @@
         ]
       }
     ],
-    "timestamp": 1781363839074,
+    "timestamp": 1781363921418,
     "hasLatino": false
   },
   {
@@ -575,7 +575,7 @@
         ]
       }
     ],
-    "timestamp": 1781363839270,
+    "timestamp": 1781363921460,
     "hasLatino": false
   },
   {
@@ -619,6 +619,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/YkfhYci1?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/eca8dbca8e032fb7331c127098b8b358"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/byoWjDzS#ULUl4nXtAbr-ndb3ziLKY_j_CcWkAqo-5ZqHyvyRhAg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ywfurd0ks7ko.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/i5RNqsWP?embed"
           }
         ]
       },
@@ -667,7 +689,7 @@
         ]
       }
     ],
-    "timestamp": 1781363839016,
+    "timestamp": 1781363921091,
     "hasLatino": false
   },
   {
@@ -716,7 +738,7 @@
         ]
       }
     ],
-    "timestamp": 1781363839016,
+    "timestamp": 1781363921091,
     "hasLatino": true
   },
   {
@@ -118896,7 +118918,16 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -128330,14 +128361,7 @@
     "rating": 6.96,
     "studio": "",
     "episodesCount": 4,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Misterio",
-      "Romance",
-      "Detectives",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
