@@ -374,7 +374,7 @@
         ]
       }
     ],
-    "timestamp": 1781372427693,
+    "timestamp": 1781372427077,
     "hasLatino": false
   },
   {
@@ -751,7 +751,7 @@
         ]
       }
     ],
-    "timestamp": 1781372426921,
+    "timestamp": 1781372436196,
     "hasLatino": false
   },
   {
@@ -1039,7 +1039,7 @@
         ]
       }
     ],
-    "timestamp": 1781372425147,
+    "timestamp": 1781372419575,
     "hasLatino": false
   },
   {
@@ -1108,28 +1108,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/Uf3rXNj2?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/bea7e42b07032f659039bf1aac82cd45"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/lFQTnTjJ#IRMbJ8tdXhzyNrotQUz5YDmxTrh76RhqLV-h91hX8f8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-gfi1zn8c325r.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/P6iiJ8NU?embed"
           }
         ]
       },
@@ -1420,7 +1398,7 @@
         ]
       }
     ],
-    "timestamp": 1781372427302,
+    "timestamp": 1781372420162,
     "hasLatino": false
   },
   {
@@ -1733,7 +1711,7 @@
         ]
       }
     ],
-    "timestamp": 1781372427031,
+    "timestamp": 1781372427474,
     "hasLatino": false
   },
   {
@@ -167727,7 +167705,14 @@
     "rating": 6.98,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -180867,13 +180852,7 @@
     "rating": 7.56,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Elenco Adulto",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
