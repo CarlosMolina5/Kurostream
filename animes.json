@@ -58,7 +58,7 @@
         ]
       }
     ],
-    "timestamp": 1781334504441,
+    "timestamp": 1781334508100,
     "hasLatino": true
   },
   {
@@ -335,7 +335,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781334506167,
+    "timestamp": 1781334508846,
     "hasLatino": true
   },
   {
@@ -626,7 +626,7 @@
         ]
       }
     ],
-    "timestamp": 1781334507412,
+    "timestamp": 1781334508579,
     "hasLatino": false
   },
   {
@@ -999,7 +999,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781334506511,
+    "timestamp": 1781334509437,
     "hasLatino": true
   },
   {
@@ -1528,7 +1528,7 @@
         ]
       }
     ],
-    "timestamp": 1781334506277,
+    "timestamp": 1781334509365,
     "hasLatino": true
   },
   {
@@ -100604,7 +100604,11 @@
     "rating": 6.86,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
