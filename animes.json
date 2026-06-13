@@ -290,7 +290,7 @@
         ]
       }
     ],
-    "timestamp": 1781368489048,
+    "timestamp": 1781368495795,
     "hasLatino": false
   },
   {
@@ -585,7 +585,7 @@
         ]
       }
     ],
-    "timestamp": 1781368488803,
+    "timestamp": 1781368496831,
     "hasLatino": false
   },
   {
@@ -668,6 +668,72 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-p87bou4xoqvu.html"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/586934d51274040d7eb2ea1ca47ce056"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/gyBA2Kba#jwJoOznig6Ke_2pACDRW8aZEF8V-dhvieRl9zdcpPPk"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#pdxurs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3tnsfuodr1pa.html"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5fc8dae58bae7c45efa612b1e229a3a4"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/46QXka5b#khbiO7K1SN2sXY-OTTxJWcn_HPhS0nMT7Iay6Kd16MU"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#r3s8tr"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-p93uxut9lg4j.html"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b415ce3014171eda3dc3efb4693fc5e3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/c3g2iIAI#shdQ5HYS4-Jp-gx1b6X4y8pXORtnVDNV--diImpqaV0"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#kj6r8o"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-1hks777dfh77.html"
           }
         ]
       },
@@ -826,7 +892,7 @@
         ]
       }
     ],
-    "timestamp": 1781368488894,
+    "timestamp": 1781368497481,
     "hasLatino": false
   },
   {
@@ -1116,7 +1182,7 @@
         ]
       }
     ],
-    "timestamp": 1781368488803,
+    "timestamp": 1781368496117,
     "hasLatino": false
   },
   {
@@ -1405,7 +1471,7 @@
         ]
       }
     ],
-    "timestamp": 1781368488024,
+    "timestamp": 1781368496474,
     "hasLatino": false
   },
   {
@@ -138254,10 +138320,7 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Drama",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -168283,7 +168346,13 @@
     "rating": 7.35,
     "studio": "",
     "episodesCount": 8,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 8,
     "lastEpDate": "Hace un momento",
     "episodes": [
