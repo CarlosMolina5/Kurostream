@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "timestamp": 1781371464388,
+    "timestamp": 1781371465294,
     "hasLatino": false
   },
   {
@@ -353,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781371464710,
+    "timestamp": 1781371467436,
     "hasLatino": false
   },
   {
@@ -506,6 +506,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/c361QLmA?embed"
+          }
+        ]
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/99dccf12ad85b0e736923de6b34f1e0a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/TLxABRyS#jzaHfP7M0ZYdfH9rBRY5DPPcnstj0I0wUjLWouC3-tc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uql52swdaqkz.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/HQDuvrjZ?embed"
           }
         ]
       },
@@ -708,7 +730,7 @@
         ]
       }
     ],
-    "timestamp": 1781371464525,
+    "timestamp": 1781371468020,
     "hasLatino": false
   },
   {
@@ -968,7 +990,7 @@
         ]
       }
     ],
-    "timestamp": 1781371464382,
+    "timestamp": 1781371467346,
     "hasLatino": false
   },
   {
@@ -1235,6 +1257,28 @@
         ]
       },
       {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e39259c49b891112a2d889c051903e05"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/btJQjLiQ#zNEiStGY3LKZFdceFsC2694NKH2NnlSdoiMbKkFuTvQ"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#e96jn6"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-y1kf6ov4dxxx.html"
+          }
+        ]
+      },
+      {
         "num": 13,
         "latino": [],
         "sub": [
@@ -1257,7 +1301,7 @@
         ]
       }
     ],
-    "timestamp": 1781371464157,
+    "timestamp": 1781371467323,
     "hasLatino": false
   },
   {
@@ -154363,7 +154407,14 @@
     "rating": 8.28,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Romance",
+      "Shounen",
+      "Histórico",
+      "Samurai"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
