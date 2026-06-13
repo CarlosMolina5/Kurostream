@@ -313,7 +313,7 @@
         ]
       }
     ],
-    "timestamp": 1781371066777,
+    "timestamp": 1781371070728,
     "hasLatino": false
   },
   {
@@ -336,28 +336,6 @@
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/bedeabdd7c60d5dffe0fc9b12d63397f"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/uI8V0S5Q#B74rO6UhAAXij9zH_Ecu3AysWTaOh-3EzaUImx9ok1w"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ox1qvvkkc9ab.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/5AxFomJ7?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -425,7 +403,7 @@
         ]
       }
     ],
-    "timestamp": 1781371065835,
+    "timestamp": 1781371068325,
     "hasLatino": false
   },
   {
@@ -449,24 +427,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d892263abf59ff9a3fcb00e51e58466e"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/hg4UBZJD#g7coBjyvFAxOWdWmvtCrNgBv9y5fMYquH0Ry2J_jC0U"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/N7wHRLeS?embed"
-          }
-        ]
-      },
-      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -485,7 +445,7 @@
         ]
       }
     ],
-    "timestamp": 1781371065353,
+    "timestamp": 1781371068210,
     "hasLatino": false
   },
   {
@@ -533,7 +493,7 @@
         ]
       }
     ],
-    "timestamp": 1781371065787,
+    "timestamp": 1781371068868,
     "hasLatino": false
   },
   {
@@ -645,7 +605,7 @@
         ]
       }
     ],
-    "timestamp": 1781371066100,
+    "timestamp": 1781371068838,
     "hasLatino": false
   },
   {
@@ -136047,14 +136007,7 @@
     "rating": 8.1,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Misterio",
-      "Sobrenatural",
-      "Suspenso",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -163647,7 +163600,11 @@
     "rating": 7.91,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
