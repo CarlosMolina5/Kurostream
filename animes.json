@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781364231451,
+    "timestamp": 1781364234999,
     "hasLatino": false
   },
   {
@@ -533,28 +533,6 @@
         ]
       },
       {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/8e1380f162c1ddf9e3b667d05e72967a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/TvwFUD6I#jq80DxzPz-blw8Eavv21aM29NTuNkrAnR6P5PHYV4n4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-dxyisw2qrh1z.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/To5tKWF9?embed"
-          }
-        ]
-      },
-      {
         "num": 8,
         "latino": [],
         "sub": [
@@ -665,7 +643,7 @@
         ]
       }
     ],
-    "timestamp": 1781364230841,
+    "timestamp": 1781364234617,
     "hasLatino": false
   },
   {
@@ -1043,7 +1021,7 @@
         ]
       }
     ],
-    "timestamp": 1781364231747,
+    "timestamp": 1781364236218,
     "hasLatino": false
   },
   {
@@ -1137,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781364229874,
+    "timestamp": 1781364233286,
     "hasLatino": false
   },
   {
@@ -1182,7 +1160,7 @@
         ]
       }
     ],
-    "timestamp": 1781364230235,
+    "timestamp": 1781364233282,
     "hasLatino": false
   },
   {
@@ -107796,14 +107774,7 @@
     "rating": 8.1,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Misterio",
-      "Sobrenatural",
-      "Suspenso",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -129549,7 +129520,14 @@
     "rating": 6.96,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Misterio",
+      "Romance",
+      "Detectives",
+      "Mecha"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
