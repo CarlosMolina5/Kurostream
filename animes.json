@@ -19,7 +19,7 @@
       "Mecha",
       "Militar"
     ],
-    "currentEpisode": 2,
+    "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -65,9 +65,31 @@
             "url": "https://pixeldrain.com/u/9o5ry9vn?embed"
           }
         ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/084fcf861ce9c491e14fa57c9f24d357"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/UQN1DIhI#8aUmt6O_rqTGK_2rNBiNZ52rYqFIdDw7VufjAx6D3cQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-047v4ym69x4h.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ruSMQ399?embed"
+          }
+        ]
       }
     ],
-    "timestamp": 1781363750479,
+    "timestamp": 1781363753956,
     "hasLatino": false
   },
   {
@@ -425,7 +447,7 @@
         ]
       }
     ],
-    "timestamp": 1781363752020,
+    "timestamp": 1781363756217,
     "hasLatino": false
   },
   {
@@ -469,7 +491,7 @@
         ]
       }
     ],
-    "timestamp": 1781363751178,
+    "timestamp": 1781363754450,
     "hasLatino": false
   },
   {
@@ -846,7 +868,7 @@
         ]
       }
     ],
-    "timestamp": 1781363751870,
+    "timestamp": 1781363755762,
     "hasLatino": false
   },
   {
@@ -1384,7 +1406,7 @@
         ]
       }
     ],
-    "timestamp": 1781363753024,
+    "timestamp": 1781363755762,
     "hasLatino": true
   },
   {
@@ -131110,12 +131132,7 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Espacial"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -148894,7 +148911,11 @@
     "rating": 6.78,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
