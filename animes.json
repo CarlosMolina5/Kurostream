@@ -357,7 +357,7 @@
         ]
       }
     ],
-    "timestamp": 1781372272002,
+    "timestamp": 1781372275014,
     "hasLatino": false
   },
   {
@@ -733,7 +733,7 @@
         ]
       }
     ],
-    "timestamp": 1781372269951,
+    "timestamp": 1781372275034,
     "hasLatino": false
   },
   {
@@ -783,7 +783,7 @@
         ]
       }
     ],
-    "timestamp": 1781372267585,
+    "timestamp": 1781372272439,
     "hasLatino": false
   },
   {
@@ -955,24 +955,6 @@
         ]
       },
       {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c59f69282404ed742649894187f6daf6"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/dwpHSCYI#uEMhr6txcfvw2g8lAuKMz4JubHNaxfTRTdkrCCU_Kkw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-iiwlvlc4yvb6.html"
-          }
-        ]
-      },
-      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -1111,7 +1093,7 @@
         ]
       }
     ],
-    "timestamp": 1781372269702,
+    "timestamp": 1781372273904,
     "hasLatino": false
   },
   {
@@ -1158,7 +1140,7 @@
         ]
       }
     ],
-    "timestamp": 1781372267700,
+    "timestamp": 1781372276179,
     "hasLatino": false
   },
   {
@@ -179225,7 +179207,10 @@
     "rating": 7.14,
     "studio": "",
     "episodesCount": 13,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
