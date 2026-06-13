@@ -282,7 +282,7 @@
         ]
       }
     ],
-    "timestamp": 1781367808378,
+    "timestamp": 1781367813090,
     "hasLatino": false
   },
   {
@@ -330,7 +330,7 @@
         ]
       }
     ],
-    "timestamp": 1781367807925,
+    "timestamp": 1781367812291,
     "hasLatino": false
   },
   {
@@ -684,7 +684,7 @@
         ]
       }
     ],
-    "timestamp": 1781367809076,
+    "timestamp": 1781367813805,
     "hasLatino": false
   },
   {
@@ -820,7 +820,7 @@
         ]
       }
     ],
-    "timestamp": 1781367807669,
+    "timestamp": 1781367812500,
     "hasLatino": false
   },
   {
@@ -845,50 +845,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/561cffebc16443d14404912f1c36e0b4"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/u2wCjaRZ#464pMQBOk10TBorjqmei-RJGjAlAfMrBd-2NAnwm2TQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-m09rw0n7zuxq.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/bQHswdxv?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/b94ae4075bb892a00421372e0f894b03"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/y3gWHKjL#ubQQ5NtSVuZ_4tlwib55FUm75QvA_rKMskUwcZ0qpG0"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-vcnbl2cmxacq.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/dC7EtWXo?embed"
-          }
-        ]
-      },
-      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -911,7 +867,7 @@
         ]
       }
     ],
-    "timestamp": 1781367807787,
+    "timestamp": 1781367811829,
     "hasLatino": false
   },
   {
@@ -189497,14 +189453,7 @@
     "rating": 7.62,
     "studio": "",
     "episodesCount": 23,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 23,
     "lastEpDate": "Hace un momento",
     "episodes": [
