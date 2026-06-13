@@ -377,7 +377,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367192000,
+    "timestamp": 1781367195386,
     "hasLatino": true
   },
   {
@@ -753,7 +753,7 @@
         ]
       }
     ],
-    "timestamp": 1781367193285,
+    "timestamp": 1781367194824,
     "hasLatino": false
   },
   {
@@ -1086,7 +1086,7 @@
         ]
       }
     ],
-    "timestamp": 1781367192146,
+    "timestamp": 1781367195248,
     "hasLatino": false
   },
   {
@@ -1262,28 +1262,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/SoLckf2B?embed"
-          }
-        ]
-      },
-      {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/6e0f45825e5820679a7592e0026545d7"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/iUV3gLLC#2FcvP4txkKJziMbN77hwe_ZMIbB_-37afDDISH_raZI"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-28ypvhfnnp0g.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/5utSogzh?embed"
           }
         ]
       },
@@ -1464,7 +1442,7 @@
         ]
       }
     ],
-    "timestamp": 1781367193114,
+    "timestamp": 1781367195619,
     "hasLatino": false
   },
   {
@@ -1909,7 +1887,7 @@
         ]
       }
     ],
-    "timestamp": 1781367192412,
+    "timestamp": 1781367194946,
     "hasLatino": false
   },
   {
@@ -147513,18 +147491,7 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Espacial",
-      "Mecha",
-      "Militar",
-      "Música"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
