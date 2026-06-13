@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781366140163,
+    "timestamp": 1781366149944,
     "hasLatino": false
   },
   {
@@ -582,7 +582,7 @@
         ]
       }
     ],
-    "timestamp": 1781366138527,
+    "timestamp": 1781366149755,
     "hasLatino": false
   },
   {
@@ -918,7 +918,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781366140449,
+    "timestamp": 1781366150063,
     "hasLatino": true
   },
   {
@@ -1206,7 +1206,7 @@
         ]
       }
     ],
-    "timestamp": 1781366139202,
+    "timestamp": 1781366148766,
     "hasLatino": false
   },
   {
@@ -1585,7 +1585,7 @@
         ]
       }
     ],
-    "timestamp": 1781366140176,
+    "timestamp": 1781366149946,
     "hasLatino": false
   },
   {
@@ -146792,7 +146792,11 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Escolares"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
