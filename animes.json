@@ -1,5 +1,824 @@
 [
   {
+    "id": "yuusha-no-kuzu",
+    "title": "Scum of the Brave",
+    "status": "En Emisión",
+    "synopsis": "A mediados del siglo XXI, el inframundo criminal de Tokio está gobernado por jefes del crimen de los Señores Demonio que se han sometido a una cirugía de mejora de éter, otorgándoles superpoderes aterradores. Los únicos que pueden derribarlos son los Héroes, cazarrecompensas que aumentan sus propios poderes de éter usando la droga E3 (E-Three). Con el asesinato legalizado como parte del trabajo, ser un héroe tiene menos que ver con la justicia y más con la supervivencia.\n\nYashiro, conocido como el Segador, es uno de esos Héroe: un ejecutor independiente que trabaja solo. Es decir, hasta que Jougamine, una chica de secundaria y autoproclamada \"aprendiz\", se abre camino en su vida. A regañadientes, Yashiro pronto se encuentra atrapado en un torbellino de conflictos mortales.\n\n(Fuente: MAL News)",
+    "poster": "https://cdn.myanimelist.net/images/anime/1821/154043l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1821/154043l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1821/154043l.webp",
+    "type": "Serie",
+    "year": "2026",
+    "rating": 6.51,
+    "studio": "OLM",
+    "episodesCount": 24,
+    "genres": [
+      "Acción",
+      "Organized Crime",
+      "Súper Poderes"
+    ],
+    "currentEpisode": 22,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b2f3e4cab45932279ed4ad1b31d361ca"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#lds8ur"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fJFDFTIb#GoawB7DNnE3XsEdKr3XdJwFdAMcUKLDpEUAsAXs2ACU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-8rylmr47ohou.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/vln461xs1x7m"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!ob8BQBJQ!4RL18vkMbI1xJOnk6McWKQpXNC2mHewVI2i3teBfd-Q"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=eFdEN1lSbEdpdTJlcko4M2JISnBZZz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/RAGvxAZRwdSdlkJ/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7bb941eb3467ad6e7cba2f2b15901ee4"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#cacmkn"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/OcsQVDBZ#Ikbaz-tYNewgmgeP6svT3YK-aIf7lDQGE9z9mFB8ojE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-upltckx0tpab.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/gfqk79ctwb55"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!oH1E0DoC!XHv65sRRVtDA-nPm_JFWYwmdtb5y3oMVGcmX2bOH4hk"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=citEWHlBUkszcE15U0lQOGxUbHl2Zz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/MqxlAvx01dFmmql/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6fef580dcf5262d558c722f0fa7bd674"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#6lh3un"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/WcEhzBrI#sd6sPYxAEmWlmL-lok-4j4FzDCdgeJWHStn1ztJDPs4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-hkljie86eu5r.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/36neqcujk62v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!Na8n2RKJ!MeT1AxooibpM2An_4ig08PF9M-ahE-5AyYX2RTiq-Nw"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=NmhlTlptYWlKekRmVUJJSXlvOExBdz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/8vgmxq3KeJT4Gb/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a8c6f40dc9b3c0b89456cf8fed516abb"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#kjnao9"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/MvpBGLZT#q4YGHcsNYDzaq4AEIqktw_-JADth1-UZ1KrH01OnXtU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-rc2jz28umt8z.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/irgbn9nrbhv2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!gPkVBA6R!uu8YvkqAZKsFdA-MHMeEuNCOG0IFJUd1VyRRLpzNMiU"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=SmRLcFpGazZrbXhPUzZhSGdGVU9Ddz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/26yLzl3lAAFQDq/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/131e055805893e9abf19a9591458ade6"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#o8cgwa"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fsAgRDTI#8Y0TLsI89gtqOVXQcNRUZdtXxXl7MLKITgTHKjSLx44"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-y66mgyni6g5p.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/q0pomtu8l3al"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!BaN2EbQa!cEotawqRrjIgXBCcCbzB3i0DLdQn2hc5oN_nj0BKDxs"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=M1hNdVlsRWI5eit3d2pXSlo0YkFqUT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/YB682dvd3XFv9zx/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/de8be05ea4e80d3c09af36534f9d3fa0"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/1M5D2gCk?embed"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/69o0CCSB#0pbQMrjkIayejKUMJgq2mA0fLNWHuAGCIQB8oWR7Nxg"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#cwfdoo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-0g1qxaje12mf.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/we32oobuxptj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!RfdlybxI!KhiZYnEsg2T-8r2XrHFix2TgcerYAEb2XwHHJfRJEfc"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=WUM3QmtTcFdEeFVJTnVEaytpMkxpZz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/6qdQPQXRYxs929r/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ac66c7fcb77e99166f4d53a3c4d44c84"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/qRVlDYIK#yrKTzoI0GzUU82fZHfdYC4DhPg4Tgd_0L5IOx5Hknhk"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#t1gy9n"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uqb4195h6l9y.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/k56aek2x6olc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!BK1UlCCZ!lqMM-ythcBGnOQ6Npxaa-J8ryJ88ka_exzGyOLKRWyE"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=aWh0cVc1MEZoUy93clBwVmV1eVc1Zz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/b7j1jRG6bxHKm1/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1b146b2dae414d7b6f8dfee897bd7fe8"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#j5be9c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ClJWxCrB#1nANZfgcvTpv48nVBrc6cAlzlvlLv5DHN9zwG5JdaFk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-6eg1sj68izca.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/9j24jcvkn6sa"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!hHcyRKbQ!gD4Rls-1pk8mdqnggooIJS_UP1tglzfPtpeasgNiCtE"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=S0l5WEd6a29pazJWbDZ5MFRmNGErdz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/P9Yj8xoop1Tg9K/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/9ad5b83a8d6bae49d4a02f024e790352"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#5fpwd8"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/9VVQBbrY#y81T0gI3wfAifjxYkN19r4jNuFp4tq-bLS-3cz5cmXY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-hmooish0mi5o.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/28ckrb41p093"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!dek0XBDb!nIacBH4Bl9owfWblfFLnqLDn3pDh0TJH-oZSDg8cyiM"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=bkdady9COXQ2bmpmOXVHVnhBcHFWZz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/BkpkKQovzmI9Z7/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e30dce5e68bdf2a1da54cb611f0e4a2f"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#uqm3c3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/DxQXzLTL#qwTn66G-B1gUnJfBbCLZdd84Nc_p460NLEss68q8CDI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-c4gyc19jp814.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/f2nkvgqdek8x"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!wP12iR6a!aj0Gv3pyqwiE1rH_wajLSqIYswJaXzRjJDW7F8caXeU"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=Zkg3SGRyQmZCMCtPTG5ESTNWS1hXZz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/lA8DaO81PxT7Xa7/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/9e0541fcc39a8f419db3ed703c5415a9"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#sobtof"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fhRwTahJ#KnEOcCR_PoXynOn7a-IhP5hSpdgBOlEc8IDwVb8JZ00"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-tnid7z983qes.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/euoqo01ysx59"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!ZPc0GDRJ!MHCp39hGIV7d_tc48GLZ9cJ4kWw4BJws9bGiqpJ_kM8"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=eldtZ3BuSTJzcmsvQUEyT3NlQmQrZz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/bp8QyY30PXCRRy/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/052vy89ix5cw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!geVWlSZb!z3KKz5wtSU1E6iXgAvLiu9tYxDylT_f_oRVZfE9vh5c"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=UXBCVmtoTmlLU2V1bm8vRksyZGxidz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/XxDLe9AGJvcD42W/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0d10387b9ff07035d0ef191ce3893add"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#d38swn"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-z2ew628cmo55.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/rhoolfpjbhbz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!IWMQEQAT!36PYdxZp1_N5a2USrbidglmvHYxo_F2uXuwTRToj_sE"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=YjNhS3BjTktOQUUxb29qcDFEZXZTQT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/adqOy4YV2lFQGz/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 14,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6177a1d0bc4b89677935210e4a553530"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#czz8ui"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-o7hsfo5teeb7.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/w0x0myg3rjh3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!taUACaRZ!luA2K_yotoyMaA4jXr-In3UmdgzKiASMyNViWmZNshk"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=VkxDMXpTSUo3eGNCLzdRbkxpN2NoQT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/8zJKp0YgZrSoVba/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c49073c7a173eacc32dabde6b91f74af"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jtZD0ZzI#GhNlP46PUPTymtz1QsBwW3uUPOKjSdlWxUi58ET5xhw"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ln8rwk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ihh65yr8a9xs.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/bzw2ceq6rf0k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!ResH1ZpA!OKdTxe9yEobayHQA7u-A07iJAoeJvCkOOpZoXvcx2kY"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=RFJ4SDJacHdSeitNWWd6VWQ3YkozZz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/lGWd7pP8KYFzRz/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 16,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a764028cd62e5a2cb57bebcc68f33863"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#d3wexb"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-z93er8a73czi.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/00rny0rfv4cx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!JSFlBSJA!WFBK7wmgs-Pz7LAtxYOslHhOkVP9G1JINq8ksQDMW_I"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/J30YPgr0KLUjYjy/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 17,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a8a375d51cb2262f557cb21a33cdd6e5"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#pr5moh"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-l55b3d554t1q.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/gmpjyfo7f0st"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!wf1XUQRI!bNuiTekZN5zqjOSdHqxW_43sJXWSmU81IEjpfvr8AiE"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/vzpVjV4vJ8S49YJ/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 18,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1976a6cee48e5209603feb0b2055def9"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/njREgJZT#z5-ruSZOrpV_ZnMi1GUbMMsjoSI3BG5115jso3uKVyQ"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#qaiboe"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-u0i7ku5ats6w.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/vha3uoyto8bd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!gDEDBB6B!4vgu6Oney-7_XMfmlh9nnMiomMYpM8hi0Dchi_gDPFE"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/O461ee9YzwiZ2RQ/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 19,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/00b2aeba6fcba64e1b4cee5ab9e0ad31"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/5rcEWRzI#TQyJbM50Z-XYnna0hPvzyvvyp6xKD9OfGWCXw03OyoY"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#czprys"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-v9p4k9eys8nk.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/n9fwpino6n6b"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!5KdjCAyT!vKWxLWdVohYXWlQ57nFcSmqyKujwdntcQmu0UD8lBTA"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/d8A96zARwyhkv64/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 20,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a08e9476c89efd85d2fcf6303fb6b591"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mp51fw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-43667bfbpuj5.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/kkz5o6ztfxj8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!VOVCUSBD!mfniLeumX8fQ0SFUSQEpvDfebm2jmCm2G0uTdYECbiA"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/Gpb34PeOgmh1wow/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 21,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c1156541dfb9212482b69645b64cb1c0"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#31onnc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ps4go3h5s1ro.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/8i7fd2ul37kt"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!gbM1WSgL!mX53zGU3oE2NGmXiEYACm6NjxvxLNiQKdtY_E-Y5DFM"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/pgL7Vv8ojAUrp7b/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 22,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0f5e44814de872388b08b789bd8b21d6"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#jvuctf"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/FrEl1Q4S#RJ45PLo5t5Jc7wH7LJrO4tUe2Rll7xvzH_tAnCn-na8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-efkyb533oplq.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/54hn9vq3n38c"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!RXMn3D5K!4n36j_WqXWLmBEWDjbxCKFV72bjevp4E6UvMlNryEBA"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/YyeQk7Oy1mfvyY9/"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781391970144
+  },
+  {
     "id": "needy-girl-overdose",
     "title": "Needy Girl Overdose",
     "status": "En Emisión",
