@@ -646,7 +646,7 @@
         ]
       }
     ],
-    "timestamp": 1781362274893,
+    "timestamp": 1781362288235,
     "hasLatino": true
   },
   {
@@ -1024,7 +1024,7 @@
         ]
       }
     ],
-    "timestamp": 1781362275929,
+    "timestamp": 1781362288720,
     "hasLatino": false
   },
   {
@@ -1397,7 +1397,7 @@
         ]
       }
     ],
-    "timestamp": 1781362275625,
+    "timestamp": 1781362288910,
     "hasLatino": false
   },
   {
@@ -1756,7 +1756,7 @@
         ]
       }
     ],
-    "timestamp": 1781362278033,
+    "timestamp": 1781362289055,
     "hasLatino": false
   },
   {
@@ -2090,7 +2090,7 @@
         ]
       }
     ],
-    "timestamp": 1781362276431,
+    "timestamp": 1781362289213,
     "hasLatino": false
   },
   {
@@ -136372,7 +136372,9 @@
     "rating": 6.16,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Terror"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
