@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781370046905,
+    "timestamp": 1781370050952,
     "hasLatino": false
   },
   {
@@ -312,72 +312,6 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/1648a88fe8938621fd7c432db3fb4597"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6d1FCIyK#IkVpdN34Uo8bbjNqOrma52qQfXQ_QweOMC4OvlJf4p8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-1cbidbnjgm5i.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/Zg71zozQ?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/1244d8f737972139db8efa60043eacdf"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/aQ8iUCBC#0rOh3BuHr672m3TUlLOgxcoU3dTW4mqumEgKDSPE-eE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-juebvew94l0z.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/6frr4NuK?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9d034a929fff18fbc8dd5db7eca932c0"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/2VFBRBJL#2-IinwWCM6fPA1tO2WsiGt_NCsMTuIROBZSNhaiKpCw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-4saqbjzl7alk.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/CKcRdM29?embed"
-          }
-        ]
-      },
       {
         "num": 4,
         "latino": [],
@@ -665,7 +599,7 @@
         ]
       }
     ],
-    "timestamp": 1781370047752,
+    "timestamp": 1781370053322,
     "hasLatino": false
   },
   {
@@ -867,6 +801,28 @@
         ]
       },
       {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bd4cc234942cc5d14e4afc443e408646"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LY0nxTia#dGAxuFODXlbqAfUSRGLB4SQ_0-xMnbzdL0JC_Lbl2Dw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ncdra7h3khr6.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/jvnBjAkN?embed"
+          }
+        ]
+      },
+      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -1021,7 +977,7 @@
         ]
       }
     ],
-    "timestamp": 1781370047716,
+    "timestamp": 1781370051335,
     "hasLatino": false
   },
   {
@@ -1311,7 +1267,7 @@
         ]
       }
     ],
-    "timestamp": 1781370046801,
+    "timestamp": 1781370052098,
     "hasLatino": false
   },
   {
@@ -1690,7 +1646,7 @@
         ]
       }
     ],
-    "timestamp": 1781370047972,
+    "timestamp": 1781370052649,
     "hasLatino": false
   },
   {
@@ -148226,14 +148182,7 @@
     "rating": 7.95,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shoujo",
-      "Mahou Shoujo"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -163491,7 +163440,15 @@
     "rating": 8.02,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Misterio",
+      "Detectives",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
