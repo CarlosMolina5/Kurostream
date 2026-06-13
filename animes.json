@@ -88,28 +88,6 @@
         ]
       },
       {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/33e223d2d941ad30a38d7e1fc8982c96"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/espnRLSI#btrsrsCxvEBdDx3RGw7ZQ_jBKETv5DdXHuL3ee7niBQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-dp9lkw703ss0.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/gNGGMYLi?embed"
-          }
-        ]
-      },
-      {
         "num": 5,
         "latino": [],
         "sub": [
@@ -274,7 +252,7 @@
         ]
       }
     ],
-    "timestamp": 1781364787185,
+    "timestamp": 1781364790681,
     "hasLatino": false
   },
   {
@@ -538,7 +516,7 @@
         ]
       }
     ],
-    "timestamp": 1781364786258,
+    "timestamp": 1781364790232,
     "hasLatino": false
   },
   {
@@ -1070,7 +1048,7 @@
         ]
       }
     ],
-    "timestamp": 1781364787543,
+    "timestamp": 1781364791940,
     "hasLatino": true
   },
   {
@@ -1383,7 +1361,7 @@
         ]
       }
     ],
-    "timestamp": 1781364787560,
+    "timestamp": 1781364791312,
     "hasLatino": false
   },
   {
@@ -1764,7 +1742,7 @@
         ]
       }
     ],
-    "timestamp": 1781364788009,
+    "timestamp": 1781364791387,
     "hasLatino": false
   },
   {
@@ -162428,7 +162406,10 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -168550,12 +168531,7 @@
     "rating": 7.75,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
