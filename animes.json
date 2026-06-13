@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781374707728,
+    "timestamp": 1781374713804,
     "hasLatino": false
   },
   {
@@ -732,7 +732,7 @@
         ]
       }
     ],
-    "timestamp": 1781374707920,
+    "timestamp": 1781374637897,
     "hasLatino": false
   },
   {
@@ -1049,7 +1049,7 @@
         ]
       }
     ],
-    "timestamp": 1781374707889,
+    "timestamp": 1781374675456,
     "hasLatino": false
   },
   {
@@ -1073,6 +1073,28 @@
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/05d1db4e24fdaee728851c6455fbae13"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/rQlRSTIC#9-yZJxLQwANEeTT3ES1uzm97aDGTgocoOAivbp-VRBE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3l34c7y1gsdj.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/KG9npdjU?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -1184,7 +1206,7 @@
         ]
       }
     ],
-    "timestamp": 1781374705739,
+    "timestamp": 1781374635865,
     "hasLatino": false
   },
   {
@@ -1230,7 +1252,7 @@
         ]
       }
     ],
-    "timestamp": 1781374706138,
+    "timestamp": 1781374636715,
     "hasLatino": false
   },
   {
@@ -163894,7 +163916,12 @@
     "rating": 8.01,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -165205,14 +165232,7 @@
     "rating": 7.95,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shoujo",
-      "Mahou Shoujo"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
