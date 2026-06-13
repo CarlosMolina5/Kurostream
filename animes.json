@@ -127,28 +127,6 @@
         "sub": []
       },
       {
-        "num": 6,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c110de5fb5ed0a42bd0528aef6cb9752"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/b1YmiJpJ#DEjdEkQ_-zWbk3Bckx7ujv9Zuynyy0BIuK3QKAXB7Uk"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#xhvsot"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-pmqkexl7jc0l.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 7,
         "latino": [
           {
@@ -369,7 +347,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363369502,
+    "timestamp": 1781363372107,
     "hasLatino": true
   },
   {
@@ -473,7 +451,7 @@
         ]
       }
     ],
-    "timestamp": 1781363368674,
+    "timestamp": 1781363371174,
     "hasLatino": false
   },
   {
@@ -567,7 +545,7 @@
         ]
       }
     ],
-    "timestamp": 1781363368150,
+    "timestamp": 1781363371174,
     "hasLatino": false
   },
   {
@@ -850,7 +828,7 @@
         ]
       }
     ],
-    "timestamp": 1781363369546,
+    "timestamp": 1781363372258,
     "hasLatino": false
   },
   {
@@ -895,7 +873,7 @@
         ]
       }
     ],
-    "timestamp": 1781363368534,
+    "timestamp": 1781363371089,
     "hasLatino": false
   },
   {
@@ -110585,7 +110563,17 @@
     "rating": 8.61,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Seinen",
+      "Terror",
+      "Gore",
+      "Militar",
+      "Psicológico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -158872,14 +158860,7 @@
     "rating": 8.15,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
