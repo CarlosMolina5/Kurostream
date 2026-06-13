@@ -88,6 +88,28 @@
         ]
       },
       {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/33e223d2d941ad30a38d7e1fc8982c96"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/espnRLSI#btrsrsCxvEBdDx3RGw7ZQ_jBKETv5DdXHuL3ee7niBQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-dp9lkw703ss0.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/gNGGMYLi?embed"
+          }
+        ]
+      },
+      {
         "num": 5,
         "latino": [],
         "sub": [
@@ -252,7 +274,7 @@
         ]
       }
     ],
-    "timestamp": 1781364790681,
+    "timestamp": 1781364797191,
     "hasLatino": false
   },
   {
@@ -516,7 +538,7 @@
         ]
       }
     ],
-    "timestamp": 1781364790232,
+    "timestamp": 1781364796085,
     "hasLatino": false
   },
   {
@@ -1048,7 +1070,7 @@
         ]
       }
     ],
-    "timestamp": 1781364791940,
+    "timestamp": 1781364797288,
     "hasLatino": true
   },
   {
@@ -1361,7 +1383,7 @@
         ]
       }
     ],
-    "timestamp": 1781364791312,
+    "timestamp": 1781364797335,
     "hasLatino": false
   },
   {
@@ -1742,7 +1764,7 @@
         ]
       }
     ],
-    "timestamp": 1781364791387,
+    "timestamp": 1781364797431,
     "hasLatino": false
   },
   {
@@ -128541,7 +128563,15 @@
     "rating": 6.47,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -162406,10 +162436,7 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Deportes",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
