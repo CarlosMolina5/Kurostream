@@ -308,7 +308,7 @@
         ]
       }
     ],
-    "timestamp": 1781380172789,
+    "timestamp": 1781380179406,
     "hasLatino": false
   },
   {
@@ -664,7 +664,7 @@
         ]
       }
     ],
-    "timestamp": 1781380172858,
+    "timestamp": 1781380178945,
     "hasLatino": false
   },
   {
@@ -958,7 +958,7 @@
         ]
       }
     ],
-    "timestamp": 1781380173107,
+    "timestamp": 1781380179301,
     "hasLatino": false
   },
   {
@@ -1221,7 +1221,7 @@
         ]
       }
     ],
-    "timestamp": 1781380173436,
+    "timestamp": 1781380178897,
     "hasLatino": false
   },
   {
@@ -1379,7 +1379,7 @@
         ]
       }
     ],
-    "timestamp": 1781380172416,
+    "timestamp": 1781380184935,
     "hasLatino": false
   },
   {
@@ -201665,7 +201665,11 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
