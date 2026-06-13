@@ -112,6 +112,28 @@
         ]
       },
       {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3338fc21eaacbf666284e2d9c19fa70e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/dUQgGLgK#g6-m8ix0F9l2KQnf1u5vhvqborzkg07WNjDm_eqGXV0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vp32rolkloen.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/PtR7b1iF?embed"
+          }
+        ]
+      },
+      {
         "num": 6,
         "latino": [],
         "sub": [
@@ -354,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781364244877,
+    "timestamp": 1781364250053,
     "hasLatino": false
   },
   {
@@ -643,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781364244281,
+    "timestamp": 1781364249005,
     "hasLatino": false
   },
   {
@@ -1021,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781364245003,
+    "timestamp": 1781364250158,
     "hasLatino": false
   },
   {
@@ -1115,7 +1137,7 @@
         ]
       }
     ],
-    "timestamp": 1781364242990,
+    "timestamp": 1781364247919,
     "hasLatino": false
   },
   {
@@ -1160,7 +1182,7 @@
         ]
       }
     ],
-    "timestamp": 1781364243332,
+    "timestamp": 1781364247852,
     "hasLatino": false
   },
   {
@@ -108712,7 +108734,12 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Seinen",
+      "Carreras"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -150125,14 +150152,7 @@
     "rating": 7.69,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
