@@ -45,6 +45,28 @@
         ]
       },
       {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/aac821b50067bd8968a209c635ecfce5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/rsAzzbBb#PENENL1rnqfC2KKs3Fhz8sUUBqaOlJG1w1xEiyVXCVs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-q5c1b5dywhz1.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Bs7ewQE4?embed"
+          }
+        ]
+      },
+      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -353,7 +375,7 @@
         ]
       }
     ],
-    "timestamp": 1781368059746,
+    "timestamp": 1781368063150,
     "hasLatino": false
   },
   {
@@ -631,7 +653,7 @@
         ]
       }
     ],
-    "timestamp": 1781368058796,
+    "timestamp": 1781368062919,
     "hasLatino": false
   },
   {
@@ -741,50 +763,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/XpZXT1JF?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/3e7d52e3c827316b6765ec43c9b1a3e2"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/rQUQyCYK#0x-KkUtRLkAkUc-rNUBOyWVbKrRfoHIoz9O1wleWB3s"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ubqt864q9nz5.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/YgonCWAT?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4fc8cafc1f58e98140f72ae59aa05caa"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/Sc9xhJiI#wZgcpaIFnirXJt80a-e7d81_nc0J5BR5jziXSSYEdso"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-r3eug2k9qf45.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/dFWb9qcN?embed"
           }
         ]
       },
@@ -921,7 +899,7 @@
         ]
       }
     ],
-    "timestamp": 1781368058802,
+    "timestamp": 1781368062649,
     "hasLatino": false
   },
   {
@@ -1081,7 +1059,7 @@
         ]
       }
     ],
-    "timestamp": 1781368058138,
+    "timestamp": 1781368061730,
     "hasLatino": false
   },
   {
@@ -1104,24 +1082,6 @@
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/5de9416c9d8ecfb73c974eabcba914db"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-8eo6xg1n2i8q.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/cLKNrcea?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -1213,7 +1173,7 @@
         ]
       }
     ],
-    "timestamp": 1781368056864,
+    "timestamp": 1781368061251,
     "hasLatino": false
   },
   {
@@ -132425,12 +132385,7 @@
     "rating": 7.55,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Drama",
-      "Shounen",
-      "Histórico",
-      "Samurai"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -167426,7 +167381,15 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Drama",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
