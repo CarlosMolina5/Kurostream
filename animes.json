@@ -308,7 +308,7 @@
         ]
       }
     ],
-    "timestamp": 1781377485987,
+    "timestamp": 1781377496720,
     "hasLatino": false
   },
   {
@@ -331,50 +331,6 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/187b95c4e8a9431e70fbcb8143883ed1"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/1IxyUQZR#Hm3UqsHx7MYpupngnAbqcLLpxEykk4l--mjx23UM3eg"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-p36pikh69h48.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/BiJhtpjC?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/e46cad9d4d3da0d92a6d012bd81bf9a9"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/mZsWADTa#zlPrzFu-qruMCKdpYxEInB5_SA7LPzz4_7O1rIr8K9k"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-rc6hcrqp655m.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/cV58gL3Q?embed"
-          }
-        ]
-      },
       {
         "num": 3,
         "latino": [],
@@ -438,28 +394,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/hUsxYo6C?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/2fbbe5a6cc8ce46c14d86f9e3f95a129"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/nlBADTwJ#wOT_UfZ_-vjkc4ddFs0ufUvS9KlOPQJcx5mV2PHsYRM"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-bz83rllptzcv.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/XUHPwwym?embed"
           }
         ]
       },
@@ -684,7 +618,7 @@
         ]
       }
     ],
-    "timestamp": 1781377490131,
+    "timestamp": 1781377496682,
     "hasLatino": false
   },
   {
@@ -709,28 +643,6 @@
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d7bb656615ce53f10653d2cf2630cd33"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6oBiCR5I#V5TgCoA5YvZjxoIzpVA2Pm_L9oLDL41eab83CZ5nMZc"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-10ukqda4dqxo.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/s7xSxoKT?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -974,7 +886,7 @@
         ]
       }
     ],
-    "timestamp": 1781377485460,
+    "timestamp": 1781377495637,
     "hasLatino": false
   },
   {
@@ -1267,7 +1179,7 @@
         ]
       }
     ],
-    "timestamp": 1781377488626,
+    "timestamp": 1781377497086,
     "hasLatino": false
   },
   {
@@ -1556,7 +1468,7 @@
         ]
       }
     ],
-    "timestamp": 1781377484806,
+    "timestamp": 1781377495336,
     "hasLatino": false
   },
   {
@@ -170004,12 +169916,7 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Aventura",
-      "Fantasía",
-      "Shoujo",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -180646,7 +180553,15 @@
     "rating": 6.87,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Drama",
+      "Mecha",
+      "Música"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
