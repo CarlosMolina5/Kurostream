@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363385934,
+    "timestamp": 1781363390809,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363384813,
+    "timestamp": 1781363388350,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363384808,
+    "timestamp": 1781363388456,
     "hasLatino": false
   },
   {
@@ -850,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363385542,
+    "timestamp": 1781363388917,
     "hasLatino": false
   },
   {
@@ -895,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363384143,
+    "timestamp": 1781363387986,
     "hasLatino": false
   },
   {
@@ -132134,7 +132134,11 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -147387,14 +147391,7 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shounen",
-      "Escolares",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
