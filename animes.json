@@ -41,6 +41,24 @@
         "sub": []
       },
       {
+        "num": 2,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c2fb3abcbd489757730e72114657a95d"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#cap968"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-dwwwqbekdd4q.html"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 3,
         "latino": [
           {
@@ -54,6 +72,24 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-c5lhsg1zrz0e.html"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 4,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e7a20c639609c136854fd9c2e657c7ca"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ujxg1n"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-prtfwiq3phfa.html"
           }
         ],
         "sub": []
@@ -90,6 +126,42 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-9syc6ankw4xq.html"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 7,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1c6598611cbcc53d0f1a02f2d084833f"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#hkw1tt"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lbfulf8zociy.html"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 8,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/51b8b5b458cff3b602c0588947814e65"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#rc6eb6"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-cv2eh83r972s.html"
           }
         ],
         "sub": []
@@ -235,7 +307,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362704452,
+    "timestamp": 1781362710056,
     "hasLatino": true
   },
   {
@@ -614,7 +686,7 @@
         ]
       }
     ],
-    "timestamp": 1781362704278,
+    "timestamp": 1781362710563,
     "hasLatino": false
   },
   {
@@ -952,7 +1024,7 @@
         ]
       }
     ],
-    "timestamp": 1781362703168,
+    "timestamp": 1781362708862,
     "hasLatino": false
   },
   {
@@ -1331,7 +1403,7 @@
         ]
       }
     ],
-    "timestamp": 1781362704668,
+    "timestamp": 1781362710260,
     "hasLatino": false
   },
   {
@@ -1709,7 +1781,7 @@
         ]
       }
     ],
-    "timestamp": 1781362704371,
+    "timestamp": 1781362710461,
     "hasLatino": false
   },
   {
@@ -109034,7 +109106,12 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Shoujo",
+      "Mecha"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -131047,12 +131124,7 @@
     "rating": 7.06,
     "studio": "",
     "episodesCount": 2,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Seinen",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
