@@ -134,28 +134,6 @@
         ]
       },
       {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/3567f1163b53541a085321706038f35d"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/e0ZA3ZRb#ptplcanLgMR8SCI1IeoTtlq5ZIPxw-8my9LR_k7gkwA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-o1ghlmunilaa.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/twK5xdZ1?embed"
-          }
-        ]
-      },
-      {
         "num": 7,
         "latino": [],
         "sub": [
@@ -218,28 +196,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/fCkqjASs?embed"
-          }
-        ]
-      },
-      {
-        "num": 10,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/a345525157882edca6002a610ff54cc0"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/r5wmzKpC#TIBhgYkNo1zTZFKr2ECEGMOrbUkh70Xym7RE78q-S24"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-mu8y5fn0log2.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/WnhGGTwH?embed"
           }
         ]
       },
@@ -376,7 +332,7 @@
         ]
       }
     ],
-    "timestamp": 1781363173354,
+    "timestamp": 1781363184788,
     "hasLatino": false
   },
   {
@@ -555,6 +511,28 @@
         ]
       },
       {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/402ad056bdc72e3a2481173098b90222"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/2jx1hY7Q#u4yGn3-6hSHvbs99wBaP5hZTHi_b3YGeDE0N3vDcKBM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-9ba8d2m4zfi1.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/eKtcnKo9?embed"
+          }
+        ]
+      },
+      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -573,6 +551,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/vEKS2W9m?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5aed65139f868d9338de3748ea561b1f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/T2AVCDjC#XUeswTfo7HyGny2WRcjuC3XCr0BLt43cPnxcca-qem8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-szaoajiwbe7j.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/abTRyaAF?embed"
           }
         ]
       },
@@ -621,7 +621,7 @@
         ]
       }
     ],
-    "timestamp": 1781363177101,
+    "timestamp": 1781363180516,
     "hasLatino": false
   },
   {
@@ -1272,7 +1272,7 @@
         ]
       }
     ],
-    "timestamp": 1781363173053,
+    "timestamp": 1781363180861,
     "hasLatino": true
   },
   {
@@ -1651,7 +1651,7 @@
         ]
       }
     ],
-    "timestamp": 1781363173431,
+    "timestamp": 1781363181179,
     "hasLatino": false
   },
   {
@@ -1716,28 +1716,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/AyHucub5?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/58b34e8ce6c5830edf09f2fb2f8961f2"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/I9ZBnCRZ#gmxSCvYYu8yo-vC6ZLUXSLDrHAClZoMTfZzXWgOoULI"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-tfvo5yj5xs19.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/J43kNeHw?embed"
           }
         ]
       },
@@ -2028,7 +2006,7 @@
         ]
       }
     ],
-    "timestamp": 1781363173550,
+    "timestamp": 1781363184337,
     "hasLatino": false
   },
   {
@@ -115869,14 +115847,7 @@
     "rating": 7.4,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Romance",
-      "Escolares",
-      "Espacial"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
