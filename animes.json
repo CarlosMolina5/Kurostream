@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "timestamp": 1781371942672,
+    "timestamp": 1781371959621,
     "hasLatino": false
   },
   {
@@ -249,7 +249,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781371942687,
+    "timestamp": 1781371959501,
     "hasLatino": true
   },
   {
@@ -296,7 +296,7 @@
         ]
       }
     ],
-    "timestamp": 1781371942266,
+    "timestamp": 1781371959153,
     "hasLatino": false
   },
   {
@@ -339,7 +339,7 @@
         ]
       }
     ],
-    "timestamp": 1781371942385,
+    "timestamp": 1781371959140,
     "hasLatino": false
   },
   {
@@ -716,7 +716,7 @@
         ]
       }
     ],
-    "timestamp": 1781371949376,
+    "timestamp": 1781371962107,
     "hasLatino": false
   },
   {
@@ -140547,12 +140547,7 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Seinen",
-      "Carreras"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -149689,7 +149684,10 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
