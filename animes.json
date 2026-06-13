@@ -282,7 +282,7 @@
         ]
       }
     ],
-    "timestamp": 1781367846411,
+    "timestamp": 1781367850954,
     "hasLatino": false
   },
   {
@@ -330,7 +330,7 @@
         ]
       }
     ],
-    "timestamp": 1781367845882,
+    "timestamp": 1781367849634,
     "hasLatino": false
   },
   {
@@ -684,7 +684,7 @@
         ]
       }
     ],
-    "timestamp": 1781367846961,
+    "timestamp": 1781367852003,
     "hasLatino": false
   },
   {
@@ -709,6 +709,28 @@
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2a8cc81d308bee5005a25d4207006b42"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zcZkUJSb#JxJEIOsbjUluI-VtxG-qbTpmiOnuR3NUEQzCxtGLq-M"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-macghfy99udb.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/eJeuFH5Q?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -798,7 +820,7 @@
         ]
       }
     ],
-    "timestamp": 1781367846185,
+    "timestamp": 1781367850374,
     "hasLatino": false
   },
   {
@@ -889,7 +911,7 @@
         ]
       }
     ],
-    "timestamp": 1781367846201,
+    "timestamp": 1781367849621,
     "hasLatino": false
   },
   {
@@ -135791,7 +135813,14 @@
     "rating": 7.34,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Fantasía",
+      "Romance",
+      "Shounen",
+      "Ecchi"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -162176,13 +162205,7 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Comedia",
-      "Romance",
-      "Histórico"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
