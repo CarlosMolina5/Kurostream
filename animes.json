@@ -1,5 +1,639 @@
 [
   {
+    "id": "chobits",
+    "title": "Chobits",
+    "status": "Finalizado",
+    "synopsis": "Cuando las computadoras comienzan a parecerse a los humanos, ¿puede el amor seguir siendo el mismo?",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/24648l.jpg",
+    "cover": "https://cdn.animeando.net/covers/59.jpg",
+    "banner": "https://cdn.animeando.net/covers/59.jpg",
+    "type": "TV Anime",
+    "year": "2002",
+    "rating": 7.39,
+    "studio": "",
+    "episodesCount": 16,
+    "genres": [
+      "Ciencia Ficción",
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Seinen",
+      "Ecchi"
+    ],
+    "currentEpisode": 16,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/493414de069fbedc4e3450875dc687fa"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/1RhSGKLa#wGTiJbWex4pUK_fBoCqE__kw4d2ImvxSQ43o42dCQSE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-1ax2548feir0.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/7Bikvn14?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/be45548d0fc17d22ac4cf5c0aeb1fbfa"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/cApG1JAR#9kQxd_1Rdp7EN_Vl68NRrRPj5KUQgKn6tr0EI_oChec"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-y5wg5pgm9x96.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/9t7vpGXi?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3defaf6d310d466a06ffdc7a862d8a04"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/MAg3mApD#6mQlNeT7MsZu6BRjmWJi9PnqSpb2lRD-L7kmG5KfMkM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-rksom2joy4dk.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/gQsynzuf?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ce35af6f01e6af9099a3599159faa8e1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/QIp1xZaZ#EDg0MBPZwpoUajaSA6f4V783LuoPAkw0DKsHt_dbkzY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-zpjnrrnzz2xq.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/DwF9CThN?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/45f2aa87194f3562a20449701e912bbf"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/VERkmYTC#7g8Ro1odUUBsQWr4DhKWiR_TPP1y6aaRFha7kLP_6KU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ou1d1n8z88bw.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/VABRAwER?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/37f8573781dda963016ee5ba350e990c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/QQpHQDxC#FM51HjwiW4z9WG9spm7h6WJHRz2iA0UzBtNW1ifOXwc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-90iaixdve0ei.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/TDqbrQke?embed"
+          }
+        ]
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/01645fdb750f34f16e5f00aac1cb4683"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/sZIiWDRD#2-8K8qt3kgY-FvrJ-CtxOH1c9q_dnu3WgcCKWJJ6N6A"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-5cpc1hjg130j.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/aygckcTB?embed"
+          }
+        ]
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c9ce878fd5a5d836c1d1fc5947f0803e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/5BBDXbgA#OvoYigcSkkiq3spkkk2Q5xgcnUUIgpUPFn9EmRLydjY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-un2yfohzwwdm.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/TUmBrrCY?embed"
+          }
+        ]
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4cb6033fcc47c0314faf0856cddb9631"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ZIRCGRjK#oHzKyLs8XElv_b5glw9c9GOiPGPYfa7tVXDul8U8LsY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vhx8id472kxy.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/KGmEyzuW?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ed38e097cee645219a12603b6b3c4aa8"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/pUQVVBZb#NLOGSbEcS-MP3xdAiaZKskpkrogQvqSUJGADmlTf1cA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3po7oz636qk4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/fzejE439?embed"
+          }
+        ]
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/cfaa490bd861502bc98cd7bb0d3378a8"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/5dw0BQaY#DDbNZXS95NDA_8ruChp0i8opqMGUwAXwIN5vEdx_9pw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-6pxqshth87dt.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/S8sDdgFM?embed"
+          }
+        ]
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0bb48c9ebdccf45d6607c2cb9f4db19c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/QIpCwbRL#JN0Ea5eRGMXvNbld9Y9lOSu0ARpyXzb7Yi923Bgfdjw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-04zd882iewp6.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/cG1Nmkjq?embed"
+          }
+        ]
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/abe46da8ec8c9bbf62244414ed995c72"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/9UxHxY6S#xk7voswrMxXP4n5qxB6VXSTopmtZRLqXww9LJ6L736Q"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-yg58t1sin0eb.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/FENsNLbe?embed"
+          }
+        ]
+      },
+      {
+        "num": 14,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1cba1df2477eed3128d7ecec9516158d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/QNQgkQDC#U7vPQ7JtK8yz7hiQBqlze7RH-K6HoB2PeFjuM2uYK_c"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-u8u3o2593cnn.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/rivDho3K?embed"
+          }
+        ]
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/efb3f977f481faae741fb252f7f6e211"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/QMRzFaDa#2sT5m-qAYwYuEpOsGVGI3J7ciwqp-u2aMv5HACe2MEI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fyoxeco4z0x4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/hqm4JFGU?embed"
+          }
+        ]
+      },
+      {
+        "num": 16,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/af373fb614092dc11f3babf29f70bc92"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/gIonjILC#1x5ZYqDPrdlQ3BTsFUtMPCju4yDofeyEHTM9oMgPy-I"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-g8svz4miym3o.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/u33rKWKi?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781321156860,
+    "hasLatino": false
+  },
+  {
+    "id": "lupin-iii-ikiteita-majutsushi",
+    "title": "Lupin III: Ikiteita Majutsushi",
+    "status": "Finalizado",
+    "synopsis": "Lupin roba una extraordinaria gema en una fiesta mediterránea, solo para ser interrumpido por Pycal, el",
+    "poster": "https://cdn.myanimelist.net/images/anime/13/27617l.jpg",
+    "cover": "https://cdn.animeando.net/covers/1427.jpg",
+    "banner": "https://cdn.animeando.net/covers/1427.jpg",
+    "type": "OVA",
+    "year": "2002",
+    "rating": 5.78,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0c1aa14dc33963b1cebc64b222ff87cd"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/aIUh3TZI#nXu4o8bpUgBNNe9yboLhWEloVGsshbf7HO4hOzns_Kw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-chr4pqpwou0n.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/sNCxiCek?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781321112572,
+    "hasLatino": false
+  },
+  {
+    "id": "minipato",
+    "title": "MiniPato",
+    "status": "Finalizado",
+    "synopsis": "A diferencia de la mayoría de los programas, los tres episodios no solo están totalmente desconectados entre sí, sino que realmente no siguen una trama como tal, siendo más bien una burla ligera tanto a la serie de Patlabor (TV y películas) como a otros animes",
+    "poster": "https://cdn.myanimelist.net/images/anime/2/23501l.webp",
+    "cover": "https://cdn.animeando.net/covers/2733.jpg",
+    "banner": "https://cdn.animeando.net/covers/2733.jpg",
+    "type": "Película",
+    "year": "2002",
+    "rating": 6.32,
+    "studio": "",
+    "episodesCount": 3,
+    "genres": [
+      "Parodia"
+    ],
+    "currentEpisode": 3,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c166b7bb7f12b7cff563a1f63aa2e853"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LN0RSDBK#F80SEabwCsdbG3Nx1SCeq-JLxwew5resfZs3e32B4zI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-p7fxu52vp0f4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/7rrp5749?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 2,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ca4647bb3169efd75ef3e72e20ace77f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/PVszxBTZ#8dxah-F3sYAmiMcsmJP4ySUQ_2MALXup1PM1mqT7tIQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-kmf0587bnmik.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/CkwFtjhT?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 3,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6d79d7aa136447274abafd7787ff8916"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/HE0jHBwK#o4uOgqMIZsIzQAhEHwCyXlLsBDXm3-5ev2uwsJfuJVs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-zekkmlvuoo9j.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/KWD3rqAH?embed"
+          }
+        ],
+        "sub": []
+      }
+    ],
+    "timestamp": 1781321111294,
+    "hasLatino": true
+  },
+  {
+    "id": "wxiii-kidou-keisatsu-patlabor",
+    "title": "WXIII Kidou Keisatsu Patlabor",
+    "status": "Finalizado",
+    "synopsis": "Cuando el nivel de accidentes laborales comienza a escalar alrededor de la Bahía de Tokio, los detectives de policía Kusumi y Hata son asignados para investigar. Lo que descubren conduce a una serie de encubrimientos gubernamentales, una conspiración relacionada con una nueva arma biológica titulada WXIII-Wasted Thirteen y una trágica conexión personal con Hata. La única esperanza de detener esta amenaza es cooperar con el ejército y llevar a WXIII a un enfrentamiento con los Labors de la División de Vehículos Especiales 2.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1/1290l.webp",
+    "cover": "https://cdn.animeando.net/covers/1290.jpg",
+    "banner": "https://cdn.animeando.net/covers/1290.jpg",
+    "type": "Película",
+    "year": "2002",
+    "rating": 6.66,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Ciencia Ficción",
+      "Misterio",
+      "Detectives",
+      "Mecha"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a70ae9338dcc68d4fab14d5b25f5aa8d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/JqpFhbQB#5bcouBppkkk1neEloOMtF94QXSMQFb9HG0hUTb1Y2ao"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-bi2zrfwdvlo0.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/JXHqJ23i?embed"
+          }
+        ],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8efc64da732fb8401db2d22a680e9128"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/A7QylJiI#tbvs_EwTDRJ26MmlXng51XxsVmDbsMeOkFo8SvTKGls"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-kvx0dgycjrur.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/L6xNA16r?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781321112287,
+    "hasLatino": true
+  },
+  {
+    "id": "taiho-shichau-zo-in-america",
+    "title": "Taiho Shichau zo in America",
+    "status": "Finalizado",
+    "synopsis": "Recientemente transferidas al LAPD, Miyuki y Natsumi deben investigar unos inusuales incidentes de robo de autos en su área. Y cuando el Ford Mustang Mach 1 amarillo de 1973 de Miyuki",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/75565l.webp",
+    "cover": "https://cdn.animeando.net/covers/2010.jpg",
+    "banner": "https://cdn.animeando.net/covers/2010.jpg",
+    "type": "Especial",
+    "year": "2002",
+    "rating": 6.47,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Detectives",
+      "Elenco Adulto"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/55f80e657bcd83142ebe7b3001b2a95d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/vQ1ghIQA#5gHCXTmlnKag4o0TYzxxtuJiZah480YfuX-fI-3fMCA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-c7aotxc53x4j.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/e2Dy6Lno?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781321111315,
+    "hasLatino": false
+  },
+  {
     "id": "gun-frontier",
     "title": "Gun Frontier",
     "status": "Finalizado",
@@ -323,7 +957,7 @@
         ]
       }
     ],
-    "timestamp": 1781321103861,
+    "timestamp": 1781321064335,
     "hasLatino": true
   },
   {
@@ -367,7 +1001,7 @@
         ]
       }
     ],
-    "timestamp": 1781321101613,
+    "timestamp": 1781321062844,
     "hasLatino": false
   },
   {
@@ -569,7 +1203,7 @@
         ]
       }
     ],
-    "timestamp": 1781321104309,
+    "timestamp": 1781321093551,
     "hasLatino": false
   },
   {
@@ -881,7 +1515,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781321119249,
+    "timestamp": 1781321102454,
     "hasLatino": true
   },
   {
@@ -1192,7 +1826,7 @@
         ]
       }
     ],
-    "timestamp": 1781321145674,
+    "timestamp": 1781321066176,
     "hasLatino": false
   },
   {
@@ -46785,7 +47419,15 @@
     "rating": 7.73,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Suspenso",
+      "Terror",
+      "Espacial",
+      "Militar",
+      "Psicológico"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -59539,7 +60181,11 @@
     "rating": 8.55,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
