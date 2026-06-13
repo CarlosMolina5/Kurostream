@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "timestamp": 1781371522347,
+    "timestamp": 1781371493468,
     "hasLatino": false
   },
   {
@@ -353,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781371523814,
+    "timestamp": 1781371532011,
     "hasLatino": false
   },
   {
@@ -730,7 +730,7 @@
         ]
       }
     ],
-    "timestamp": 1781371523819,
+    "timestamp": 1781371500130,
     "hasLatino": false
   },
   {
@@ -990,7 +990,7 @@
         ]
       }
     ],
-    "timestamp": 1781371523879,
+    "timestamp": 1781371497177,
     "hasLatino": false
   },
   {
@@ -1169,28 +1169,6 @@
         ]
       },
       {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/3a3388f5526258c914f02eccc42ea31a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6sIywTjA#BrtCBlYx1UXHP-SbcXmxwYEhMAvpjufQDp5lq7bs-7M"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#gsxdo1"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-6803p4w9u5bg.html"
-          }
-        ]
-      },
-      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -1301,7 +1279,7 @@
         ]
       }
     ],
-    "timestamp": 1781371524386,
+    "timestamp": 1781371497371,
     "hasLatino": false
   },
   {
@@ -172825,7 +172803,15 @@
     "rating": 5.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Misterio",
+      "Romance",
+      "Histórico"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
