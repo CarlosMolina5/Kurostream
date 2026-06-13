@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781366390003,
+    "timestamp": 1781366393531,
     "hasLatino": false
   },
   {
@@ -91,7 +91,7 @@
         ]
       }
     ],
-    "timestamp": 1781366390025,
+    "timestamp": 1781366393531,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781366390358,
+    "timestamp": 1781366395622,
     "hasLatino": false
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781366389578,
+    "timestamp": 1781366393567,
     "hasLatino": false
   },
   {
@@ -1073,7 +1073,7 @@
         ]
       }
     ],
-    "timestamp": 1781366391318,
+    "timestamp": 1781366395200,
     "hasLatino": true
   },
   {
@@ -140282,13 +140282,7 @@
     "rating": 6.85,
     "studio": "",
     "episodesCount": 15,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Música",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
