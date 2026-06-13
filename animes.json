@@ -282,7 +282,7 @@
         ]
       }
     ],
-    "timestamp": 1781367968020,
+    "timestamp": 1781367974080,
     "hasLatino": false
   },
   {
@@ -330,7 +330,7 @@
         ]
       }
     ],
-    "timestamp": 1781367967287,
+    "timestamp": 1781367972481,
     "hasLatino": false
   },
   {
@@ -374,6 +374,24 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/CiWDvvHe?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/850c64da6876dcea5119988032fd97c6"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/eIpRwA4Y#l0I93ER6gQAfQRyoLZPVqdYFhS5WomPqB9t_GV6KZFk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lghnuha2o00y.html"
           }
         ]
       },
@@ -666,7 +684,7 @@
         ]
       }
     ],
-    "timestamp": 1781367968754,
+    "timestamp": 1781367974442,
     "hasLatino": false
   },
   {
@@ -802,7 +820,7 @@
         ]
       }
     ],
-    "timestamp": 1781367967130,
+    "timestamp": 1781367973652,
     "hasLatino": false
   },
   {
@@ -893,7 +911,7 @@
         ]
       }
     ],
-    "timestamp": 1781367967524,
+    "timestamp": 1781367972632,
     "hasLatino": false
   },
   {
@@ -137884,16 +137902,7 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Misterio",
-      "Seinen",
-      "Sobrenatural",
-      "Terror",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -138125,7 +138134,15 @@
     "rating": 7.04,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Misterio",
+      "Romance",
+      "Detectives",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
