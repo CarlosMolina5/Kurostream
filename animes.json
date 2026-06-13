@@ -311,7 +311,7 @@
         ]
       }
     ],
-    "timestamp": 1781364531633,
+    "timestamp": 1781364537314,
     "hasLatino": false
   },
   {
@@ -673,7 +673,7 @@
         ]
       }
     ],
-    "timestamp": 1781364531300,
+    "timestamp": 1781364537700,
     "hasLatino": false
   },
   {
@@ -804,28 +804,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-5g8jzli7d27a.html"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/8b15247fb4d7fc06cf09eefde7ab33f7"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6142SJSI#GNQ35EYhPmnbmkpP49puGXmB9gBeTQfjxNWOwzwpzW0"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#huuiio"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-tsv2otlerx84.html"
           }
         ]
       },
@@ -1050,7 +1028,7 @@
         ]
       }
     ],
-    "timestamp": 1781364531792,
+    "timestamp": 1781364537185,
     "hasLatino": false
   },
   {
@@ -1700,7 +1678,7 @@
         ]
       }
     ],
-    "timestamp": 1781364531271,
+    "timestamp": 1781364536965,
     "hasLatino": true
   },
   {
@@ -2078,7 +2056,7 @@
         ]
       }
     ],
-    "timestamp": 1781364531535,
+    "timestamp": 1781364536826,
     "hasLatino": false
   },
   {
@@ -118277,7 +118255,16 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Shoujo",
+      "Artes Marciales",
+      "Histórico",
+      "Isekai"
+    ],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -123535,14 +123522,7 @@
     "rating": 7.34,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
