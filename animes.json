@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "timestamp": 1781369059868,
+    "timestamp": 1781369063968,
     "hasLatino": false
   },
   {
@@ -83,7 +83,7 @@
         ]
       }
     ],
-    "timestamp": 1781369059879,
+    "timestamp": 1781369063809,
     "hasLatino": false
   },
   {
@@ -129,7 +129,7 @@
         ]
       }
     ],
-    "timestamp": 1781369059882,
+    "timestamp": 1781369063766,
     "hasLatino": false
   },
   {
@@ -199,7 +199,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781369059894,
+    "timestamp": 1781369063809,
     "hasLatino": true
   },
   {
@@ -269,7 +269,7 @@
         ]
       }
     ],
-    "timestamp": 1781369060058,
+    "timestamp": 1781369063809,
     "hasLatino": false
   },
   {
@@ -141970,7 +141970,11 @@
     "rating": 7.32,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -156675,14 +156679,7 @@
     "rating": 5.8,
     "studio": "",
     "episodesCount": 5,
-    "genres": [
-      "Ciencia Ficción",
-      "Seinen",
-      "Terror",
-      "Gore",
-      "Mecha",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
