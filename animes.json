@@ -1,5 +1,931 @@
 [
   {
+    "id": "sennen-joyuu",
+    "title": "Millennium Actress",
+    "status": "Finalizado",
+    "synopsis": "A finales del milenio, los edificios en ruinas de Ginei Studio están destinados a ser demolidos. Genya Tachibana, un ex-empleado y cineasta, decide honrar esta ocasión con un documental conmemorativo sobre la actriz estrella de la compañía: Chiyoko Fujiwara, la dulce y reclusa estrella del cine de la Era Shouwa. Tras obtener finalmente permiso para entrevistar a la amante del cine retirada, un enamorado Genya arrastra al cínico camarógrafo Kyouji Ida para conocerla, dispuesto a devolver a su ídolo de toda la vida al centro de atención una vez más.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1648/93626l.jpg",
+    "cover": "https://cdn.animeando.net/covers/1033.jpg",
+    "banner": "https://cdn.animeando.net/covers/1033.jpg",
+    "type": "Película",
+    "year": "2002",
+    "rating": 8.24,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Romance",
+      "Elenco Adulto",
+      "Histórico"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/645eb5f2fa577e90aa5e3c2c504154ae"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/cdRxxIiC#gIzdsD5g-RVKkpgfccuxc1NAuvpa7OqCBNZUTo2nsD8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-hmk3l16m6iao.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Zeqosrhc?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781322494014,
+    "hasLatino": false
+  },
+  {
+    "id": "ginga-tetsudou-999-ona",
+    "title": "Ginga Tetsudou 999 (ONA)",
+    "status": "Finalizado",
+    "synopsis": "Una reimaginación en animación flash de la serie Ginga Tetsudou 999.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1676/145078l.jpg",
+    "cover": "https://cdn.animeando.net/covers/28733.jpg",
+    "banner": "https://cdn.animeando.net/covers/28733.jpg",
+    "type": "Ona",
+    "year": "2002",
+    "rating": 6.03,
+    "studio": "",
+    "episodesCount": 6,
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial"
+    ],
+    "currentEpisode": 6,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/def4f8145454cf98f810f5c038715afa"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-mbjavk7a6jsr.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/tggs8bH6?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/13cf7d98a44b32da35e064ed7560d131"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-stjtbxaqy1wn.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/JNt1wpYv?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/765a143ccd29203760cf9c12abc0ede1"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-buywnrpaqvqq.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/AyoCo3TF?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/58341785cb58dfd50c34d30e3c7de6e9"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-edhqoq1eolip.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/7mBauWKW?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/87e30a20c9f785a69d0c7a590e2514e7"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-dqn78yjkoewg.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/2SZd98gZ?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b027689b1fa04383e23ba85f0b19aedc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-adksvui1yi7a.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/i7eQChhE?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781322490160,
+    "hasLatino": false
+  },
+  {
+    "id": "maou-dante",
+    "title": "Demon Lord Dante",
+    "status": "Finalizado",
+    "synopsis": "Mientras dormía una noche, Ryo Utsugi tuvo una pesadilla en la que monstruos lo atacaban. Un día, descubre un poder misterioso que le permite escuchar voces y tener visiones de chicas siendo asesinadas, pero una noche escucha la misma voz.",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/84849l.webp",
+    "cover": "https://cdn.animeando.net/covers/1628.jpg",
+    "banner": "https://cdn.animeando.net/covers/1628.jpg",
+    "type": "TV Anime",
+    "year": "2002",
+    "rating": 5.95,
+    "studio": "",
+    "episodesCount": 13,
+    "genres": [
+      "Acción",
+      "Shounen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
+    "currentEpisode": 13,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/11e26c8644e9ab3f784471a4888fb42c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/PE5wFYTQ#8W8sZRogJ4i9KN6PveXPR1WQwFo8U3ClboHyfylM5y8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-bq6gjsoxagqz.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/CkwKSduJ?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 2,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/9ed491f92fccb90fe00b07c99b6cc57a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/qNwT1BQL#PmRwijKFQ94u5rZ9ZKfnPxjUigKYT1WF5Rg3jwJLPKA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vfotzdx59isv.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/T3UHRa2v?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 3,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2a1ac037082a0047ae46e9a09739c393"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/iZY2BazA#jYLkKVM1dhSzZDd7lT-QXIPhafal3K-NutLizWr6EoY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-5lq9lf7tq8xi.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/KTfbJkDa?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 4,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d2ad067354088f21983386a786be822c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/7V5FTAzK#E9IVAUmlsPrfQbI8pHAavf_MryXG8_VtnQxZo0tNM6U"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-oliiop0t5jpq.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/nAzvWgZG?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 5,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d42fc64b8ebb6b5f95f34d4f584bd630"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/WUIlwL6A#QojiJueYOBR8JhYFL8qfGP9B3o6r6DPQ3MRPC-l3h58"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-5rhivg917am4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wkM6x9XB?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 6,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c934ff4ad2678856934f924d6608374f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/SdhRXZ6J#V3DPSWWyr4wZEGv_mGBGDT-3tbf00S9-bGUsQ-FdY58"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-z6atw7hz8kkb.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/i6LAUykm?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 7,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4effb4b8261cdf36e597f665f7fd983d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zE4iyLDI#GXuOs2KeslUelGno7t7SigXZ03rP6dvTB-T5HkhQmfY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-byy16wbopqmo.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/BhTgqEx4?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 8,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/718300a5d58d150a44d7ae945a53bc38"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/2Z4ERL5Q#2-gOyBEUNv_5LeoypehIW5NUJSkq3E_2TVTTK_furdg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-281e2s0ec2pd.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/rsPyGEK5?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 9,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7ca5b54ea3b7ca8558f7ab875c11164a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6FhjBTLK#Gl_xvI80clpyWlZ2RutNH2CYZ5d0C4KznsMZa5AFH-g"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-z32dfbfgdcoz.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/zsmXvnQp?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 10,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f9da3a818a583de3e9a72185a2580ae2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/eNZxRI5R#OREsUbv34_CDgoRLObvSfsmL8feGJWezqqmpU-36atI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-v5ntx0hb24tp.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/FxEuKXEe?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 11,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1cfb5bde79c7f7e6ac2838b318d9e5e4"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zVoAyTrR#Cg1Fo9S1tajurNP9IwIdYxHldEdg1KSiF-EcyL4MAtU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-akzoky1zt74w.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/aMssxLNT?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 12,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4fb7c198c4cbb0fd3fb1af3d08298e48"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LNASTTDL#gECuDhQmDpsNMmPh3zl2_aFLzTNufEj6DfSwl5KSL30"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-kkysl2ckew8g.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Swz7KMCt?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 13,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6b94ce81e656f9b7844dd70b8e2efdea"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/XZR0GBKT#gDoaqkO7JNvJ-abmAp9i1S91ojT5D2zl04mJ41D7OlQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ql98vip8o5p5.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/1y9bBQbM?embed"
+          }
+        ],
+        "sub": []
+      }
+    ],
+    "timestamp": 1781322494966,
+    "hasLatino": true
+  },
+  {
+    "id": "bakuten-shoot-beyblade-the-movie-gekitou-takao-vs-daichi",
+    "title": "Beyblade The Movie: Fierce Battle",
+    "status": "Finalizado",
+    "synopsis": "Los Bladebreakers están de vacaciones bien merecidas. Pero un niño hiperactivo llamado Daichi continúa persiguiendo a Tyson para una revancha después de su derrota en los Campeonatos Mundiales de Beyblade. Las vacaciones de los Bladebreakers eventualmente toman un giro inesperado una vez que se encuentran con misteriosos Beybladers que afirman ser los Espíritus Oscuros sellados dentro de un extraño templo. Con Daichi bajo su control, los Shadow Bladers buscan destruir el mundo con sus Dark BitBeasts. Juntos, Tyson, Max, Ray y Kai deben salvar no solo a Daichi... ¡sino también al mundo!",
+    "poster": "https://cdn.myanimelist.net/images/anime/1986/97773l.webp",
+    "cover": "https://cdn.animeando.net/covers/1670.jpg",
+    "banner": "https://cdn.animeando.net/covers/1670.jpg",
+    "type": "Película",
+    "year": "2002",
+    "rating": 6.67,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Shounen"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0e60dfa4587c0c64ccc782f439f0f00f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/FsQlWRBL#4oLuMPJOyhJeun7dLSVelZilpQSi5Nv3TmBSYH13Y18"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-syp6njf3h4jr.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/EFrZvzzS?embed"
+          }
+        ],
+        "sub": []
+      }
+    ],
+    "timestamp": 1781322490787,
+    "hasLatino": true
+  },
+  {
+    "id": "princess-tutu",
+    "title": "Princess Tutu",
+    "status": "Finalizado",
+    "synopsis": "En un cuento de hadas hecho realidad, la torpe, dulce y amable Ahiru parece una protagonista poco probable. En realidad, Ahiru es tan mágica como los gatos y cocodrilos hablantes que habitan su pueblo, ¡pues Ahiru realmente es un pato! Transformada por el misterioso Drosselmeyer en una niña humana, Ahiru pronto descubre la razón de su existencia. Usando su mágico colgante en forma de huevo, Ahiru puede transformarse en la Princesa Tutu, una bella y talentosa bailarina de ballet cu cuyos bailes alivian a las personas del tormento en sus corazones. Con su nueva habilidad, Ahiru acepta el desafío de recolectar los fragmentos perdidos del corazón de su príncipe, pues hace mucho tiempo él lo había hecho añicos para sellar a un cuervo malvado por toda la eternidad.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1145/93646l.jpg",
+    "cover": "https://cdn.animeando.net/covers/721.jpg",
+    "banner": "https://cdn.animeando.net/covers/721.jpg",
+    "type": "TV Anime",
+    "year": "2002",
+    "rating": 8.14,
+    "studio": "",
+    "episodesCount": 16,
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Romance",
+      "Antropomórfico",
+      "Mahou Shoujo"
+    ],
+    "currentEpisode": 16,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/30e1b741934596b2a952f38dcdffd12e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/79oGWIQa#CnYERc-IDAA1FwP5fmxXhVlSdnlPU7RnL1Ag5wPkHUc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-avd2aubxmjbl.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/XPgftJFY?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0f1194fd482be26a865b6d41b709efc5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jsRBxQwI#lLjqBOcN8RRGbCcWSVhHiCJVVhVZ4DYL8QZ6fCiyJP4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ey02538vcksa.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/NLdHqWSd?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bb94e96d0e0da5c1a442a7905e24893a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Kpoh1Rza#G4o4lyll163jRGA14uAyIMHP-WJ6sRToOau6fL5ceoQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ccixackcdb0c.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/p7nvZgrD?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/af899855c3b5663669805656cab0a1a7"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zhgXGSBR#TxmepSHeGIwbOWWLxeiiVkgB84c-ZVTa45PD-Y3uOSs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4dog0xwkzyai.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Wux8yMHC?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e3602b6b854251555b3506d7ff62584e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Kl5lQAiY#aT3HPzg5jH5ok1pyeyguCUG7IFmL0P2S1Hmt4zFrGZk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-7ln9e88fny9s.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/amNcx9ed?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/41f83b3406992a2bf5fbd47352af5917"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/qxhxTAQZ#ICmy-x5EAd3uyI_7BWwE6NWf7jvbw_uluwGyd419Lfc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-tok6ssacvm4q.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/EjbEAzrK?embed"
+          }
+        ]
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/078b2862ee4aeaaf00b89ad0db8e2b70"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/XgRhBDYL#KVdoviPXVLb6zQ9UfXj7GCUoI8pxuXdw0uKzOpVkOIo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-s6gcj54gtbxw.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/HSApRfze?embed"
+          }
+        ]
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1062bfc662b06eb5bcb2db5d235d1396"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/rhJkSQpY#7PcdlN-rdSRBQ0mqxdnep0xx67y4MK0jjaSEH0Jb7r4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xi3sjw4ul4p3.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/UFXSTro9?embed"
+          }
+        ]
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f6b6fb920deb50a4b8e9aff328f5f35f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/b5wVTI4b#Fv3D6TG4nqhIeXMF2NaNVN0_ijhMBtOue_lt6i1mwBc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-r5qq7bdjgk8z.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/QoaYu6Du?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/adc21a2b510afc59cb369f29ec59edc8"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ig5UCACA#ZdbgIuLnzCevmq3CXpO3M8AR8q4iltqdfHGexHhGkk0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-2z9ckd49nfwy.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/BNWWNgeX?embed"
+          }
+        ]
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8c2f7472fb045282af66adde777b8318"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/StoATCxb#ndYKrmOKpgRxnHRhz23hfcQCesrCf1QQIEyj135iIEg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-36oxz66o1zo5.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/FrgvKzW7?embed"
+          }
+        ]
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/897138a832753f5c439f417d8f2d1bff"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/uhwhQCRb#AksDsN0T9F59FYS9Sug0WEKYidq6fyGd2D9ugOMDm-E"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-q1e2wavp022p.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/KFwc9V6h?embed"
+          }
+        ]
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/526754070bab60ee00a0a07ed13d5635"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ThJAnIxS#mN3l33UuH2E-3wVBo3EU-uZVk3DdlSXg_QVYN_2zH3U"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-t3kbpx7fvqg0.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/5RUZsKyQ?embed"
+          }
+        ]
+      },
+      {
+        "num": 14,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d1f031c7dc34926885ffca39a9941671"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jwQQCDJD#PDP9tqrZL9OC6PbdNaGmNSfRO1FSh7Y3-3J8fIIXpfA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-egmxgaktvfq7.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/qvCN4tCa?embed"
+          }
+        ]
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b4c61b339fec28b8acb67c95996cfe49"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/3tIB0Dab#boyF-lPLrAnuMZQt-JskXZ7kY8j-vBChkG9WaaS2wFc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-stnfuph96mum.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/brsAmNX2?embed"
+          }
+        ]
+      },
+      {
+        "num": 16,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4a1bf62b65a9624625750de99760e163"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/PhABAIbB#kfauvnNhISX02PcvIYBeM57-0Uy12tMv5Qc_X8D7ZPo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4riein7iet5x.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/h7aHEw7n?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781322496020,
+    "hasLatino": false
+  },
+  {
     "id": "futari-ecchi",
     "title": "Futari Ecchi",
     "status": "Finalizado",
@@ -111,7 +1037,7 @@
         ]
       }
     ],
-    "timestamp": 1781322247836,
+    "timestamp": 1781322282889,
     "hasLatino": false
   },
   {
@@ -161,7 +1087,7 @@
         ]
       }
     ],
-    "timestamp": 1781322246174,
+    "timestamp": 1781322283615,
     "hasLatino": false
   },
   {
@@ -218,7 +1144,7 @@
         ]
       }
     ],
-    "timestamp": 1781322246136,
+    "timestamp": 1781322285847,
     "hasLatino": true
   },
   {
@@ -753,7 +1679,7 @@
         ]
       }
     ],
-    "timestamp": 1781322480438,
+    "timestamp": 1781322312176,
     "hasLatino": true
   },
   {
@@ -822,7 +1748,7 @@
         ]
       }
     ],
-    "timestamp": 1781322247836,
+    "timestamp": 1781322303691,
     "hasLatino": false
   },
   {
@@ -53907,14 +54833,7 @@
     "rating": 7.37,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Comedia",
-      "Fantasía",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -64289,7 +65208,11 @@
     "rating": 8.55,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -65097,7 +66020,14 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Fantasía",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
