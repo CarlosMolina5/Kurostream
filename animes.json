@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "timestamp": 1781369016312,
+    "timestamp": 1781369023094,
     "hasLatino": false
   },
   {
@@ -83,7 +83,7 @@
         ]
       }
     ],
-    "timestamp": 1781369016111,
+    "timestamp": 1781369022652,
     "hasLatino": false
   },
   {
@@ -129,7 +129,7 @@
         ]
       }
     ],
-    "timestamp": 1781369016433,
+    "timestamp": 1781369022685,
     "hasLatino": false
   },
   {
@@ -199,7 +199,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781369016105,
+    "timestamp": 1781369022690,
     "hasLatino": true
   },
   {
@@ -269,7 +269,7 @@
         ]
       }
     ],
-    "timestamp": 1781369016115,
+    "timestamp": 1781369023479,
     "hasLatino": false
   },
   {
@@ -184612,7 +184612,13 @@
     "rating": 8.35,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Shoujo",
+      "Histórico",
+      "Militar"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
