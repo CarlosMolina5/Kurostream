@@ -311,7 +311,7 @@
         ]
       }
     ],
-    "timestamp": 1781364545092,
+    "timestamp": 1781364534572,
     "hasLatino": false
   },
   {
@@ -673,7 +673,7 @@
         ]
       }
     ],
-    "timestamp": 1781364545168,
+    "timestamp": 1781364535072,
     "hasLatino": false
   },
   {
@@ -1050,7 +1050,7 @@
         ]
       }
     ],
-    "timestamp": 1781364544535,
+    "timestamp": 1781364551846,
     "hasLatino": false
   },
   {
@@ -1700,7 +1700,7 @@
         ]
       }
     ],
-    "timestamp": 1781364547461,
+    "timestamp": 1781364534705,
     "hasLatino": true
   },
   {
@@ -1854,28 +1854,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/matz7cZS?embed"
-          }
-        ]
-      },
-      {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/30f351a9b34856fded8f23114be66d25"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6BRniQqT#qIU8R5_2xMqmGKjxrn_7SCnLxk_65V5j3BxBvU_KCm8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-mi61phnwrfts.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/NzyC33yS?embed"
           }
         ]
       },
@@ -2078,7 +2056,7 @@
         ]
       }
     ],
-    "timestamp": 1781364544515,
+    "timestamp": 1781364534092,
     "hasLatino": false
   },
   {
@@ -109597,7 +109575,14 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Misterio",
+      "Sobrenatural",
+      "Terror",
+      "Detectives",
+      "Vampiros"
+    ],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -122146,16 +122131,7 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Misterio",
-      "Seinen",
-      "Sobrenatural",
-      "Terror",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
