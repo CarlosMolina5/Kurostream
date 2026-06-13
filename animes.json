@@ -364,7 +364,7 @@
         ]
       }
     ],
-    "timestamp": 1781369624727,
+    "timestamp": 1781369636902,
     "hasLatino": false
   },
   {
@@ -675,7 +675,7 @@
         ]
       }
     ],
-    "timestamp": 1781369629738,
+    "timestamp": 1781369636354,
     "hasLatino": false
   },
   {
@@ -971,7 +971,7 @@
         ]
       }
     ],
-    "timestamp": 1781369625179,
+    "timestamp": 1781369639300,
     "hasLatino": false
   },
   {
@@ -994,7 +994,7 @@
       "Juegos Estrategia",
       "Psicológico"
     ],
-    "currentEpisode": 14,
+    "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -1304,9 +1304,53 @@
             "url": "https://pixeldrain.com/u/ctxF1xVA?embed"
           }
         ]
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c97a14e0a0db4f2f96f8d148d7a5ac60"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/yN8XzajZ#g4BoehKtk8eZqzgwnHhktif6B9J5QgfvLpFsIYRSuG8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-amgzpm6rc00p.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ETxcMgFo?embed"
+          }
+        ]
+      },
+      {
+        "num": 16,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a35319fab4103ceedd492ceac6ae1adc"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/GJ9gGbhC#2kj654QYDgHC7NSOza4kpeLZaVnp-L0ZvU0g_df0GcE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-7kchwjj3alo8.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ZFk1yfYV?embed"
+          }
+        ]
       }
     ],
-    "timestamp": 1781369624284,
+    "timestamp": 1781369636803,
     "hasLatino": false
   },
   {
@@ -1668,7 +1712,7 @@
         ]
       }
     ],
-    "timestamp": 1781369625139,
+    "timestamp": 1781369636447,
     "hasLatino": false
   },
   {
@@ -166966,7 +167010,12 @@
     "rating": 7.57,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Comedia",
+      "Elenco Adulto",
+      "Mecha"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -180013,13 +180062,7 @@
     "rating": 7.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Deportes",
-      "Drama",
-      "Romance",
-      "Shounen",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
