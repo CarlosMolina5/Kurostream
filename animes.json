@@ -44,28 +44,6 @@
         ]
       },
       {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d0ca394ba78b986569dce3632b254ed1"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/LNVRiL5D#6R6v95AyaCwFHndJR8V1bSSDeqgvnHNiZQ_sjRvwxVc"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-kco6jg0ff2yc.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/Lf2J26ZP?embed"
-          }
-        ]
-      },
-      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -374,7 +352,7 @@
         ]
       }
     ],
-    "timestamp": 1781372358169,
+    "timestamp": 1781372414027,
     "hasLatino": false
   },
   {
@@ -751,7 +729,7 @@
         ]
       }
     ],
-    "timestamp": 1781372358135,
+    "timestamp": 1781372410969,
     "hasLatino": false
   },
   {
@@ -1039,7 +1017,7 @@
         ]
       }
     ],
-    "timestamp": 1781372357593,
+    "timestamp": 1781372410076,
     "hasLatino": false
   },
   {
@@ -1420,7 +1398,7 @@
         ]
       }
     ],
-    "timestamp": 1781372401870,
+    "timestamp": 1781372415370,
     "hasLatino": false
   },
   {
@@ -1487,28 +1465,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/974Co1JG?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/87dc03ac6581f16fe3e8afc389b4d272"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/7kQD1CaD#CZtH0mgYF-V9YWKbB0XgnW1esEmTg1Ha6FG0MXwPshk"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-prve8elvg99h.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/5oKcGcur?embed"
           }
         ]
       },
@@ -1733,7 +1689,7 @@
         ]
       }
     ],
-    "timestamp": 1781372399383,
+    "timestamp": 1781372414684,
     "hasLatino": false
   },
   {
@@ -166049,15 +166005,7 @@
     "rating": 7.45,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Drama",
-      "Fantasía",
-      "Shoujo",
-      "Isekai",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
