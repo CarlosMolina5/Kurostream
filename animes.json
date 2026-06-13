@@ -282,55 +282,7 @@
         ]
       }
     ],
-    "timestamp": 1781368031499,
-    "hasLatino": false
-  },
-  {
-    "id": "initial-d-battle-stage-2",
-    "title": "Initial D Battle Stage 2",
-    "status": "Finalizado",
-    "synopsis": "Este es simplemente el OVA que resume los principales eventos y batallas de",
-    "poster": "https://cdn.myanimelist.net/images/anime/3/13167l.webp",
-    "cover": "https://cdn.animeando.net/covers/3931.jpg",
-    "banner": "https://cdn.animeando.net/covers/3931.jpg",
-    "type": "OVA",
-    "year": "2007",
-    "rating": 7.66,
-    "studio": "",
-    "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Seinen",
-      "Carreras"
-    ],
-    "currentEpisode": 1,
-    "lastEpDate": "Hace un momento",
-    "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/1c708206c74323cb765e5ea84db25edf"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/eVs2xK7a#dkwuF0fkWRchgr-YQz6Wm-SS6cVEakxae7gaTNGhzRA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-dyup6poy4lva.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/QKkWKU5B?embed"
-          }
-        ]
-      }
-    ],
-    "timestamp": 1781368030260,
+    "timestamp": 1781368037859,
     "hasLatino": false
   },
   {
@@ -684,7 +636,7 @@
         ]
       }
     ],
-    "timestamp": 1781368035132,
+    "timestamp": 1781368038820,
     "hasLatino": false
   },
   {
@@ -820,7 +772,7 @@
         ]
       }
     ],
-    "timestamp": 1781368030591,
+    "timestamp": 1781368037027,
     "hasLatino": false
   },
   {
@@ -911,7 +863,7 @@
         ]
       }
     ],
-    "timestamp": 1781368031035,
+    "timestamp": 1781368037859,
     "hasLatino": false
   },
   {
@@ -150881,7 +150833,12 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Espacial"
+    ],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -168201,13 +168158,7 @@
     "rating": 9.02,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
