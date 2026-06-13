@@ -374,7 +374,7 @@
         ]
       }
     ],
-    "timestamp": 1781375243526,
+    "timestamp": 1781375248283,
     "hasLatino": false
   },
   {
@@ -770,7 +770,7 @@
         ]
       }
     ],
-    "timestamp": 1781375243332,
+    "timestamp": 1781375255848,
     "hasLatino": false
   },
   {
@@ -796,94 +796,6 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/86ae4b0df3459eeba20a70d6b4297090"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/0VQn3LpJ#dPRVUwU-5WV_lNjgtUAM28oGrgsFrfagUVBRko-ghYo"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-b3s36trlkbrp.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/3rDRDh3i?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/b7f50d90b67daf220b89c172aceaf9f6"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/VUxngSjS#QQbhiw7Nm45ty8GrhfsGl2q_IJ6qqAdMxkLdPxP_uus"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-o3nvp4nx8brn.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/FjsAmHxR?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4b47879b54e3949bb45f1f82da006094"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/1YwnTD7I#fIaMkICsMs1RVunT1wLPAiPX86T3Bpdj__dc2susGw0"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-sd5gw8x1jzx0.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ezF4i8vb?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d720e8c649f6e873a8a1660811686227"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/ZUggABjA#5pxrbqbm4F7o7UDZJfd9OMsxW4xBKoESqxAM4FTfDTQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-cnvhyjdv25mn.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/D4firDh9?embed"
-          }
-        ]
-      },
       {
         "num": 5,
         "latino": [],
@@ -1149,7 +1061,7 @@
         ]
       }
     ],
-    "timestamp": 1781375243147,
+    "timestamp": 1781375248546,
     "hasLatino": false
   },
   {
@@ -1527,7 +1439,7 @@
         ]
       }
     ],
-    "timestamp": 1781375242976,
+    "timestamp": 1781375248048,
     "hasLatino": false
   },
   {
@@ -1840,7 +1752,7 @@
         ]
       }
     ],
-    "timestamp": 1781375243429,
+    "timestamp": 1781375255697,
     "hasLatino": false
   },
   {
@@ -182025,7 +181937,11 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
