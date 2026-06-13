@@ -43,7 +43,7 @@
         ]
       }
     ],
-    "timestamp": 1781371438379,
+    "timestamp": 1781371439772,
     "hasLatino": false
   },
   {
@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "timestamp": 1781371439745,
+    "timestamp": 1781371442792,
     "hasLatino": false
   },
   {
@@ -623,28 +623,6 @@
         ]
       },
       {
-        "num": 12,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/7e13bef834dca9366c89ce945599027f"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CDAXlLga#ffetD4_jd6uJe-5hGtNJqDs1nviE7nzOwVv5Yi7HmAQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-b0azgekdkuso.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/S1HSNapX?embed"
-          }
-        ]
-      },
-      {
         "num": 13,
         "latino": [],
         "sub": [
@@ -733,7 +711,7 @@
         ]
       }
     ],
-    "timestamp": 1781371439502,
+    "timestamp": 1781371442404,
     "hasLatino": false
   },
   {
@@ -885,24 +863,6 @@
         ]
       },
       {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/123ec30c33a38796f787e6bbd8438ecc"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#kng15i"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-u0ps2rd6gt6c.html"
-          }
-        ]
-      },
-      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -993,7 +953,7 @@
         ]
       }
     ],
-    "timestamp": 1781371439518,
+    "timestamp": 1781371442420,
     "hasLatino": false
   },
   {
@@ -1304,7 +1264,7 @@
         ]
       }
     ],
-    "timestamp": 1781371439745,
+    "timestamp": 1781371442748,
     "hasLatino": false
   },
   {
@@ -168748,7 +168708,13 @@
     "rating": 6.8,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Shounen",
+      "Sobrenatural",
+      "Artes Marciales",
+      "Mitología"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -180935,12 +180901,7 @@
     "rating": 8.07,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Misterio",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
