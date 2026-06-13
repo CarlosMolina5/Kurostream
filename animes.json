@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "timestamp": 1781374362038,
+    "timestamp": 1781374367318,
     "hasLatino": false
   },
   {
@@ -85,7 +85,7 @@
         ]
       }
     ],
-    "timestamp": 1781374361242,
+    "timestamp": 1781374366948,
     "hasLatino": false
   },
   {
@@ -181,7 +181,7 @@
         ]
       }
     ],
-    "timestamp": 1781374361639,
+    "timestamp": 1781374366970,
     "hasLatino": false
   },
   {
@@ -472,7 +472,7 @@
         ]
       }
     ],
-    "timestamp": 1781374362982,
+    "timestamp": 1781374367928,
     "hasLatino": false
   },
   {
@@ -516,7 +516,7 @@
         ]
       }
     ],
-    "timestamp": 1781374361256,
+    "timestamp": 1781374366942,
     "hasLatino": false
   },
   {
@@ -156639,11 +156639,7 @@
     "rating": 5.51,
     "studio": "",
     "episodesCount": 12,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -183076,7 +183072,13 @@
     "rating": 7.86,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Escolares",
+      "Psicológico",
+      "Shoujo Ai"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
