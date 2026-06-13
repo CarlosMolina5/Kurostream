@@ -354,7 +354,7 @@
         ]
       }
     ],
-    "timestamp": 1781363508725,
+    "timestamp": 1781363513276,
     "hasLatino": false
   },
   {
@@ -602,28 +602,6 @@
         ]
       },
       {
-        "num": 11,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/cfba98c084296a30c557ebe0950b5ba7"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/TogR3JAL#w5stmLLRa4tmoxvDRLJ1xwn9LVhYBzuEdWf776F7-Nc"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-i9edkcvvkcu1.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/B19D4ado?embed"
-          }
-        ]
-      },
-      {
         "num": 12,
         "latino": [],
         "sub": [
@@ -734,7 +712,7 @@
         ]
       }
     ],
-    "timestamp": 1781363509151,
+    "timestamp": 1781363512272,
     "hasLatino": false
   },
   {
@@ -778,7 +756,7 @@
         ]
       }
     ],
-    "timestamp": 1781363506945,
+    "timestamp": 1781363510747,
     "hasLatino": false
   },
   {
@@ -1155,7 +1133,7 @@
         ]
       }
     ],
-    "timestamp": 1781363509961,
+    "timestamp": 1781363511966,
     "hasLatino": false
   },
   {
@@ -1693,7 +1671,7 @@
         ]
       }
     ],
-    "timestamp": 1781363509660,
+    "timestamp": 1781363515929,
     "hasLatino": true
   },
   {
@@ -156365,11 +156343,7 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Drama",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
