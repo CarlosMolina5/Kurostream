@@ -309,7 +309,7 @@
         ]
       }
     ],
-    "timestamp": 1781366588433,
+    "timestamp": 1781366575354,
     "hasLatino": false
   },
   {
@@ -679,7 +679,7 @@
         ]
       }
     ],
-    "timestamp": 1781366584094,
+    "timestamp": 1781366597496,
     "hasLatino": false
   },
   {
@@ -757,24 +757,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/X5JQ6D56?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/f432721d9052eb4343c0af0408895bff"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-3v7l91viyhvr.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/arWUYjrN?embed"
           }
         ]
       },
@@ -995,7 +977,7 @@
         ]
       }
     ],
-    "timestamp": 1781366589017,
+    "timestamp": 1781366578240,
     "hasLatino": false
   },
   {
@@ -1370,7 +1352,7 @@
         ]
       }
     ],
-    "timestamp": 1781366583362,
+    "timestamp": 1781366575508,
     "hasLatino": false
   },
   {
@@ -1690,7 +1672,7 @@
         ]
       }
     ],
-    "timestamp": 1781366583641,
+    "timestamp": 1781366576127,
     "hasLatino": false
   },
   {
@@ -120716,7 +120698,12 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Seinen",
+      "Carreras"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -151325,14 +151312,7 @@
     "rating": 6.28,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
