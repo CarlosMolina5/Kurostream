@@ -44,28 +44,6 @@
         ]
       },
       {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4ccbfe880053edac5f506d5df46c6075"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/3NsmzYbZ#4fQO-iKqMWwea3UiI22tmEswAaFvFhY-Ewn00I7pFfA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-vin67w2nsqxv.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/8RbXhaM4?embed"
-          }
-        ]
-      },
-      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -88,7 +66,7 @@
         ]
       }
     ],
-    "timestamp": 1781363004936,
+    "timestamp": 1781363008023,
     "hasLatino": false
   },
   {
@@ -377,7 +355,7 @@
         ]
       }
     ],
-    "timestamp": 1781363005599,
+    "timestamp": 1781363008398,
     "hasLatino": false
   },
   {
@@ -1028,7 +1006,7 @@
         ]
       }
     ],
-    "timestamp": 1781363006619,
+    "timestamp": 1781363009315,
     "hasLatino": true
   },
   {
@@ -1407,7 +1385,7 @@
         ]
       }
     ],
-    "timestamp": 1781363006281,
+    "timestamp": 1781363009345,
     "hasLatino": false
   },
   {
@@ -1784,7 +1762,7 @@
         ]
       }
     ],
-    "timestamp": 1781363006079,
+    "timestamp": 1781363009401,
     "hasLatino": false
   },
   {
@@ -124354,7 +124332,11 @@
     "rating": 7.63,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -145475,13 +145457,7 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
