@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378826789,
+    "timestamp": 1781378848953,
     "hasLatino": false
   },
   {
@@ -706,7 +706,7 @@
         ]
       }
     ],
-    "timestamp": 1781378819048,
+    "timestamp": 1781378845812,
     "hasLatino": false
   },
   {
@@ -1083,7 +1083,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378825231,
+    "timestamp": 1781378837916,
     "hasLatino": true
   },
   {
@@ -1171,6 +1171,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/M61xP3Do?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1d4887da36bd4fd41ec9e1b1aefd6b0f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jEc2wB7Y#qrBqGsOB7EeJL6eq9abncR__j6rfKmjxVAJ41vXft-4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-5km602o4nevk.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/hD8wA8Pb?embed"
           }
         ]
       },
@@ -1351,7 +1373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378824783,
+    "timestamp": 1781378848947,
     "hasLatino": false
   },
   {
@@ -1511,90 +1533,6 @@
         ]
       },
       {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/2f87448e53b8afbe3d0aa663f3aa2963"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/DUYE2DZY#S4jNP2JIQ3BMNR1WGqItj7dOBW7xQz5wihvp4ngc5Ic"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2tad1saeheaa.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/LCgSvFi7?embed"
-          }
-        ]
-      },
-      {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/75a50e8821bfc40e2c2e0288369823cc"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/7ZRzRDTb#_jcskp3UI52ccYVemOoh3Fah2EvP8eEWmGa--XTK_c0"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-6q837nm7s3z8.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/QeJLgHUf?embed"
-          }
-        ]
-      },
-      {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4b593c629c8332c8412dc03019b79672"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/fZUUESSQ#nWiY6DpxIfdBfh67PD-a8diNdudgHbVsBLmT7ROnb08"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-plle5cw089b4.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/L9iLjePz?embed"
-          }
-        ]
-      },
-      {
-        "num": 10,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/e3b912dc937989be1771fb24e02190d4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ib15snyyskql.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/Xyp4vG44?embed"
-          }
-        ]
-      },
-      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -1661,7 +1599,7 @@
         ]
       }
     ],
-    "timestamp": 1781378818728,
+    "timestamp": 1781378837651,
     "hasLatino": false
   },
   {
@@ -194056,7 +193994,11 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
