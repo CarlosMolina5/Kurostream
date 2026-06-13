@@ -131,6 +131,24 @@
         "sub": []
       },
       {
+        "num": 7,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1c6598611cbcc53d0f1a02f2d084833f"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#hkw1tt"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lbfulf8zociy.html"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 8,
         "latino": [
           {
@@ -289,7 +307,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362734555,
+    "timestamp": 1781362737487,
     "hasLatino": true
   },
   {
@@ -668,7 +686,7 @@
         ]
       }
     ],
-    "timestamp": 1781362734808,
+    "timestamp": 1781362737074,
     "hasLatino": false
   },
   {
@@ -1006,7 +1024,7 @@
         ]
       }
     ],
-    "timestamp": 1781362733672,
+    "timestamp": 1781362737321,
     "hasLatino": false
   },
   {
@@ -1385,7 +1403,7 @@
         ]
       }
     ],
-    "timestamp": 1781362734208,
+    "timestamp": 1781362737025,
     "hasLatino": false
   },
   {
@@ -1653,6 +1671,28 @@
         ]
       },
       {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0f69d4b875933d4a2c2b5f7ec6f0bdf1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Xjh0wQDL#33c-J-DasMCywfCoAfWj2MpKE_ZujWn2L39MX-t_o5Q"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-q7pugpyr8z4b.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/fxGRCND7?embed"
+          }
+        ]
+      },
+      {
         "num": 13,
         "latino": [],
         "sub": [
@@ -1741,7 +1781,7 @@
         ]
       }
     ],
-    "timestamp": 1781362734527,
+    "timestamp": 1781362736766,
     "hasLatino": false
   },
   {
@@ -110678,7 +110718,12 @@
     "rating": 8.23,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Escolares",
+      "Mahou Shoujo",
+      "Psicológico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
