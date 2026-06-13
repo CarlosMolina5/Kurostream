@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "timestamp": 1781369050497,
+    "timestamp": 1781369053773,
     "hasLatino": false
   },
   {
@@ -83,7 +83,7 @@
         ]
       }
     ],
-    "timestamp": 1781369050504,
+    "timestamp": 1781369053936,
     "hasLatino": false
   },
   {
@@ -129,7 +129,7 @@
         ]
       }
     ],
-    "timestamp": 1781369050705,
+    "timestamp": 1781369053770,
     "hasLatino": false
   },
   {
@@ -199,7 +199,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781369050504,
+    "timestamp": 1781369053779,
     "hasLatino": true
   },
   {
@@ -269,7 +269,7 @@
         ]
       }
     ],
-    "timestamp": 1781369050507,
+    "timestamp": 1781369053779,
     "hasLatino": false
   },
   {
@@ -162883,13 +162883,7 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 2,
-    "genres": [
-      "Ciencia Ficción",
-      "Comedia",
-      "Drama",
-      "Histórico",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -184476,7 +184470,11 @@
     "rating": 7.07,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
