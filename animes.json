@@ -255,7 +255,7 @@
         ]
       }
     ],
-    "timestamp": 1781371308910,
+    "timestamp": 1781371318981,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781371308512,
+    "timestamp": 1781371319830,
     "hasLatino": false
   },
   {
@@ -930,7 +930,7 @@
         ]
       }
     ],
-    "timestamp": 1781371309036,
+    "timestamp": 1781371318957,
     "hasLatino": false
   },
   {
@@ -1242,7 +1242,7 @@
         ]
       }
     ],
-    "timestamp": 1781371308708,
+    "timestamp": 1781371318745,
     "hasLatino": false
   },
   {
@@ -1533,7 +1533,7 @@
         ]
       }
     ],
-    "timestamp": 1781371308562,
+    "timestamp": 1781371318605,
     "hasLatino": false
   },
   {
@@ -156070,15 +156070,7 @@
     "rating": 6.87,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Comedia",
-      "Drama",
-      "Mecha",
-      "Música"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -162350,7 +162342,17 @@
     "rating": 6.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Romance",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
