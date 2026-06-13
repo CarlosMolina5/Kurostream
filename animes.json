@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "timestamp": 1781371479503,
+    "timestamp": 1781371484873,
     "hasLatino": false
   },
   {
@@ -353,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781371481817,
+    "timestamp": 1781371486613,
     "hasLatino": false
   },
   {
@@ -730,7 +730,7 @@
         ]
       }
     ],
-    "timestamp": 1781371481318,
+    "timestamp": 1781371486451,
     "hasLatino": false
   },
   {
@@ -900,6 +900,42 @@
         ]
       },
       {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/77a5b5d3462afc0641d107cf84c28f51"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#suyv8m"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3kyng7ciwqbh.html"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/95a41b43521c0d1ad7ebf810eaa2f164"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#9rmzth"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3bi3eal17hnk.html"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -954,7 +990,7 @@
         ]
       }
     ],
-    "timestamp": 1781371481100,
+    "timestamp": 1781371486546,
     "hasLatino": false
   },
   {
@@ -1265,7 +1301,7 @@
         ]
       }
     ],
-    "timestamp": 1781371480971,
+    "timestamp": 1781371486533,
     "hasLatino": false
   },
   {
@@ -150951,7 +150987,15 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -178887,11 +178931,7 @@
     "rating": 6.76,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
