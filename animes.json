@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781364171551,
+    "timestamp": 1781364179635,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781364170519,
+    "timestamp": 1781364179362,
     "hasLatino": false
   },
   {
@@ -1043,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781364171839,
+    "timestamp": 1781364179559,
     "hasLatino": false
   },
   {
@@ -1137,7 +1137,7 @@
         ]
       }
     ],
-    "timestamp": 1781364169660,
+    "timestamp": 1781364178394,
     "hasLatino": false
   },
   {
@@ -1182,7 +1182,7 @@
         ]
       }
     ],
-    "timestamp": 1781364169618,
+    "timestamp": 1781364178026,
     "hasLatino": false
   },
   {
@@ -148163,7 +148163,11 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Seinen",
+      "Carreras"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
