@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781372912998,
+    "timestamp": 1781372917356,
     "hasLatino": false
   },
   {
@@ -677,7 +677,7 @@
         ]
       }
     ],
-    "timestamp": 1781372913253,
+    "timestamp": 1781372917333,
     "hasLatino": false
   },
   {
@@ -968,7 +968,7 @@
         ]
       }
     ],
-    "timestamp": 1781372911397,
+    "timestamp": 1781372917023,
     "hasLatino": false
   },
   {
@@ -1077,28 +1077,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/YVdw3qHE?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/87e6d04233de99d5b66536da0816d20a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/U1JA1C5J#mxvdvYdnWf92g8O7T7qsBTM_tWSPukXdHdt5yLnQUfE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-xdkamq93001s.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/cfhFqtno?embed"
           }
         ]
       },
@@ -1257,7 +1235,7 @@
         ]
       }
     ],
-    "timestamp": 1781372912758,
+    "timestamp": 1781372916606,
     "hasLatino": false
   },
   {
@@ -1570,7 +1548,7 @@
         ]
       }
     ],
-    "timestamp": 1781372913535,
+    "timestamp": 1781372916960,
     "hasLatino": false
   },
   {
@@ -185705,15 +185683,7 @@
     "rating": 8.16,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Seinen",
-      "Terror",
-      "Gore",
-      "Militar",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -191972,7 +191942,12 @@
     "rating": 7.11,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
