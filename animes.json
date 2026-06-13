@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363320187,
+    "timestamp": 1781363323636,
     "hasLatino": true
   },
   {
@@ -394,32 +394,6 @@
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c1d7d12a6b2dca1c188f9590654f1c86"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/hNtgUDQZ#GhPwWpzLMNClgZN1_s1WJvkkR7A12A3WNiikojPayA8"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#d8legq"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-y0ppaweqxpac.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/HwAcMnfV?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -473,7 +447,7 @@
         ]
       }
     ],
-    "timestamp": 1781363321014,
+    "timestamp": 1781363322408,
     "hasLatino": false
   },
   {
@@ -567,7 +541,7 @@
         ]
       }
     ],
-    "timestamp": 1781363318643,
+    "timestamp": 1781363322612,
     "hasLatino": false
   },
   {
@@ -850,7 +824,7 @@
         ]
       }
     ],
-    "timestamp": 1781363319765,
+    "timestamp": 1781363323527,
     "hasLatino": false
   },
   {
@@ -895,7 +869,7 @@
         ]
       }
     ],
-    "timestamp": 1781363318330,
+    "timestamp": 1781363322408,
     "hasLatino": false
   },
   {
@@ -148156,13 +148130,7 @@
     "rating": 7.91,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Misterio",
-      "Shounen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
