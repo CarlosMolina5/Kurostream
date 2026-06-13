@@ -646,7 +646,7 @@
         ]
       }
     ],
-    "timestamp": 1781321637742,
+    "timestamp": 1781321645821,
     "hasLatino": true
   },
   {
@@ -1026,7 +1026,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781321635211,
+    "timestamp": 1781321645590,
     "hasLatino": true
   },
   {
@@ -1678,7 +1678,7 @@
         ]
       }
     ],
-    "timestamp": 1781321634662,
+    "timestamp": 1781321645556,
     "hasLatino": true
   },
   {
@@ -2055,7 +2055,7 @@
         ]
       }
     ],
-    "timestamp": 1781321603058,
+    "timestamp": 1781321651479,
     "hasLatino": false
   },
   {
@@ -2368,7 +2368,7 @@
         ]
       }
     ],
-    "timestamp": 1781321602373,
+    "timestamp": 1781321645518,
     "hasLatino": false
   },
   {
@@ -83072,15 +83072,7 @@
     "rating": 7.93,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Romance",
-      "Espacial",
-      "Mecha",
-      "Militar",
-      "Música"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -85882,7 +85874,12 @@
     "rating": 7.93,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial",
+      "Mecha"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
