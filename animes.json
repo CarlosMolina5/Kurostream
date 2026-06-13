@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "timestamp": 1781363015723,
+    "timestamp": 1781363026077,
     "hasLatino": false
   },
   {
@@ -109,7 +109,7 @@
       "Seinen",
       "Elenco Adulto"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -245,6 +245,28 @@
         ]
       },
       {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3a1f2918eb5124bcd5799ce6d7c385ea"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/DixQ0LyC#yHc2fqkeBUZlEbzPouQ3j9Ti3DQpRmYPvRXrMjnsrkE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-43zba3lw9y7c.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/VRyLxMqX?embed"
+          }
+        ]
+      },
+      {
         "num": 8,
         "latino": [],
         "sub": [
@@ -263,6 +285,50 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/eKtcnKo9?embed"
+          }
+        ]
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/709e1382d3c1e8b93cd02a3e742463a8"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/P7p0iSQI#AM3YygR5T2zL-1gYG3PHIFpo2G4LlsNf-QZ8Vonyy7A"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-8u2iz2ynl0hm.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/vEKS2W9m?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5aed65139f868d9338de3748ea561b1f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/T2AVCDjC#XUeswTfo7HyGny2WRcjuC3XCr0BLt43cPnxcca-qem8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-szaoajiwbe7j.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/abTRyaAF?embed"
           }
         ]
       },
@@ -287,9 +353,31 @@
             "url": "https://pixeldrain.com/u/KJytcs2x?embed"
           }
         ]
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/07c2df51a382e9d928d013cd5e5e511a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/juwF2BbS#2Oc2iQRi-aVKr4axwcWuDCP4VALEVdgt8iS50sbDPKk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-isbecp062m8o.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/4bmFWL2E?embed"
+          }
+        ]
       }
     ],
-    "timestamp": 1781363018199,
+    "timestamp": 1781363026922,
     "hasLatino": false
   },
   {
@@ -940,7 +1028,7 @@
         ]
       }
     ],
-    "timestamp": 1781363018199,
+    "timestamp": 1781363027503,
     "hasLatino": true
   },
   {
@@ -1319,7 +1407,7 @@
         ]
       }
     ],
-    "timestamp": 1781363019425,
+    "timestamp": 1781363027847,
     "hasLatino": false
   },
   {
@@ -1696,7 +1784,7 @@
         ]
       }
     ],
-    "timestamp": 1781363018454,
+    "timestamp": 1781363027940,
     "hasLatino": false
   },
   {
@@ -142971,13 +143059,7 @@
     "rating": 7.35,
     "studio": "",
     "episodesCount": 8,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shounen",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 8,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -153163,7 +153245,11 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasía"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
