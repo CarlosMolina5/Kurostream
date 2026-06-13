@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363234637,
+    "timestamp": 1781363237133,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363233165,
+    "timestamp": 1781363234750,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363233098,
+    "timestamp": 1781363234625,
     "hasLatino": false
   },
   {
@@ -850,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363233979,
+    "timestamp": 1781363236542,
     "hasLatino": false
   },
   {
@@ -895,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363233196,
+    "timestamp": 1781363234548,
     "hasLatino": false
   },
   {
@@ -105123,12 +105123,7 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Seinen",
-      "Carreras"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -146063,7 +146058,10 @@
     "rating": 8.54,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Histórico"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
