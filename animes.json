@@ -357,7 +357,7 @@
         ]
       }
     ],
-    "timestamp": 1781372216549,
+    "timestamp": 1781372220796,
     "hasLatino": false
   },
   {
@@ -733,7 +733,7 @@
         ]
       }
     ],
-    "timestamp": 1781372217200,
+    "timestamp": 1781372220446,
     "hasLatino": false
   },
   {
@@ -783,7 +783,7 @@
         ]
       }
     ],
-    "timestamp": 1781372214711,
+    "timestamp": 1781372219034,
     "hasLatino": false
   },
   {
@@ -915,24 +915,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-p1erfpgcp75z.html"
-          }
-        ]
-      },
-      {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/43d909f0347a4b7dc2f026384c334532"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/pg5zzaha#uYzgCCGwzrycZa6dmX2TReqWM0k81XnTELMBydqylXw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-pel587kkzsrc.html"
           }
         ]
       },
@@ -1111,7 +1093,7 @@
         ]
       }
     ],
-    "timestamp": 1781372218015,
+    "timestamp": 1781372221558,
     "hasLatino": false
   },
   {
@@ -1158,7 +1140,7 @@
         ]
       }
     ],
-    "timestamp": 1781372214716,
+    "timestamp": 1781372219102,
     "hasLatino": false
   },
   {
@@ -159403,11 +159385,7 @@
     "rating": 6.01,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -182824,7 +182802,12 @@
     "rating": 8.07,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
