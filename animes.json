@@ -131,24 +131,6 @@
         "sub": []
       },
       {
-        "num": 7,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/1c6598611cbcc53d0f1a02f2d084833f"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#hkw1tt"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-lbfulf8zociy.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 8,
         "latino": [
           {
@@ -307,7 +289,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362730551,
+    "timestamp": 1781362734555,
     "hasLatino": true
   },
   {
@@ -686,7 +668,7 @@
         ]
       }
     ],
-    "timestamp": 1781362730888,
+    "timestamp": 1781362734808,
     "hasLatino": false
   },
   {
@@ -1024,7 +1006,7 @@
         ]
       }
     ],
-    "timestamp": 1781362729588,
+    "timestamp": 1781362733672,
     "hasLatino": false
   },
   {
@@ -1157,6 +1139,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/gxx4js4Z?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/432715fc2dd3010563f87881e69cf5cd"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/D4JQCIDI#vd-UOLaFL846p-ZDFTb-S-Ij51UNj-X1xg9tRvErP54"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-kppf1511rz9o.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ACjjQMWR?embed"
           }
         ]
       },
@@ -1381,7 +1385,7 @@
         ]
       }
     ],
-    "timestamp": 1781362731093,
+    "timestamp": 1781362734208,
     "hasLatino": false
   },
   {
@@ -1649,28 +1653,6 @@
         ]
       },
       {
-        "num": 12,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/0f69d4b875933d4a2c2b5f7ec6f0bdf1"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/Xjh0wQDL#33c-J-DasMCywfCoAfWj2MpKE_ZujWn2L39MX-t_o5Q"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-q7pugpyr8z4b.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/fxGRCND7?embed"
-          }
-        ]
-      },
-      {
         "num": 13,
         "latino": [],
         "sub": [
@@ -1759,7 +1741,7 @@
         ]
       }
     ],
-    "timestamp": 1781362730789,
+    "timestamp": 1781362734527,
     "hasLatino": false
   },
   {
@@ -158144,12 +158126,7 @@
     "rating": 7.75,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
