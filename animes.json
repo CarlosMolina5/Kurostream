@@ -68,6 +68,28 @@
         ]
       },
       {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/45b3a366731cd08ed7929841344f0a0f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/vZkwAbQL#ee8E8UPARaa38ZQXqgYQ08hBf6SA2IpwDvQK2XMRFFM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-0g74e7f4yxsm.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/gMsBJSTf?embed"
+          }
+        ]
+      },
+      {
         "num": 4,
         "latino": [],
         "sub": [
@@ -266,7 +288,7 @@
         ]
       }
     ],
-    "timestamp": 1781373023938,
+    "timestamp": 1781373033493,
     "hasLatino": false
   },
   {
@@ -432,7 +454,7 @@
         ]
       }
     ],
-    "timestamp": 1781373023532,
+    "timestamp": 1781373033565,
     "hasLatino": false
   },
   {
@@ -564,7 +586,7 @@
         ]
       }
     ],
-    "timestamp": 1781373023534,
+    "timestamp": 1781373031627,
     "hasLatino": false
   },
   {
@@ -937,7 +959,7 @@
         ]
       }
     ],
-    "timestamp": 1781373024079,
+    "timestamp": 1781373034186,
     "hasLatino": false
   },
   {
@@ -1227,7 +1249,7 @@
         ]
       }
     ],
-    "timestamp": 1781373024366,
+    "timestamp": 1781373033486,
     "hasLatino": false
   },
   {
@@ -169353,7 +169375,18 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Espacial",
+      "Mecha",
+      "Militar",
+      "Música"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
