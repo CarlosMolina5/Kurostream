@@ -42,7 +42,7 @@
         ]
       }
     ],
-    "timestamp": 1781355617004,
+    "timestamp": 1781355626894,
     "hasLatino": false
   },
   {
@@ -95,7 +95,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781355616505,
+    "timestamp": 1781355627078,
     "hasLatino": true
   },
   {
@@ -138,7 +138,7 @@
         ]
       }
     ],
-    "timestamp": 1781355616989,
+    "timestamp": 1781355626917,
     "hasLatino": false
   },
   {
@@ -397,7 +397,7 @@
         ]
       }
     ],
-    "timestamp": 1781355624962,
+    "timestamp": 1781355628212,
     "hasLatino": false
   },
   {
@@ -447,7 +447,7 @@
         ]
       }
     ],
-    "timestamp": 1781355616632,
+    "timestamp": 1781355627078,
     "hasLatino": false
   },
   {
@@ -70076,7 +70076,13 @@
     "rating": 7.88,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Shounen",
+      "Detectives"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -101919,13 +101925,7 @@
     "rating": 7.86,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Drama",
-      "Shoujo",
-      "Escolares",
-      "Psicológico",
-      "Shoujo Ai"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
