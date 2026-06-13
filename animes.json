@@ -17,28 +17,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/559ad0e76d0da2c419836194c966ca25"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/nbYkHDZa#iIneVdPp1jkM-uJP8J2Io9zpCRRyNUoO8fgX-nPj4gA"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#uqeqyh"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-sc5i76xl9xde.html"
-          }
-        ]
-      },
-      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -303,7 +281,7 @@
         ]
       }
     ],
-    "timestamp": 1781380063188,
+    "timestamp": 1781380066301,
     "hasLatino": false
   },
   {
@@ -637,7 +615,7 @@
         ]
       }
     ],
-    "timestamp": 1781380063143,
+    "timestamp": 1781380065934,
     "hasLatino": false
   },
   {
@@ -681,7 +659,7 @@
         ]
       }
     ],
-    "timestamp": 1781380061636,
+    "timestamp": 1781380065128,
     "hasLatino": false
   },
   {
@@ -726,7 +704,7 @@
         ]
       }
     ],
-    "timestamp": 1781380062167,
+    "timestamp": 1781380064573,
     "hasLatino": false
   },
   {
@@ -996,7 +974,7 @@
         ]
       }
     ],
-    "timestamp": 1781380062958,
+    "timestamp": 1781380065842,
     "hasLatino": false
   },
   {
@@ -172070,7 +172048,12 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Seinen",
+      "Carreras"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -176802,12 +176785,7 @@
     "rating": 7.55,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Drama",
-      "Shounen",
-      "Histórico",
-      "Samurai"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
