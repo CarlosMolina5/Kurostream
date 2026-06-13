@@ -286,7 +286,7 @@
         ]
       }
     ],
-    "timestamp": 1781360743076,
+    "timestamp": 1781360747836,
     "hasLatino": false
   },
   {
@@ -727,7 +727,7 @@
         ]
       }
     ],
-    "timestamp": 1781360742212,
+    "timestamp": 1781360747877,
     "hasLatino": false
   },
   {
@@ -1017,7 +1017,7 @@
         ]
       }
     ],
-    "timestamp": 1781360741369,
+    "timestamp": 1781360749075,
     "hasLatino": false
   },
   {
@@ -1399,7 +1399,7 @@
         ]
       }
     ],
-    "timestamp": 1781360742450,
+    "timestamp": 1781360747852,
     "hasLatino": false
   },
   {
@@ -1778,7 +1778,7 @@
         ]
       }
     ],
-    "timestamp": 1781360743827,
+    "timestamp": 1781360747506,
     "hasLatino": false
   },
   {
@@ -91084,7 +91084,14 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Misterio",
+      "Sobrenatural",
+      "Terror",
+      "Detectives",
+      "Vampiros"
+    ],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -121180,12 +121187,7 @@
     "rating": 7.06,
     "studio": "",
     "episodesCount": 2,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Seinen",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
