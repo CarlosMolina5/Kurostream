@@ -290,7 +290,7 @@
         ]
       }
     ],
-    "timestamp": 1781368478655,
+    "timestamp": 1781368485870,
     "hasLatino": false
   },
   {
@@ -585,7 +585,7 @@
         ]
       }
     ],
-    "timestamp": 1781368478395,
+    "timestamp": 1781368485447,
     "hasLatino": false
   },
   {
@@ -892,7 +892,7 @@
         ]
       }
     ],
-    "timestamp": 1781368478300,
+    "timestamp": 1781368485870,
     "hasLatino": false
   },
   {
@@ -1116,6 +1116,28 @@
         ]
       },
       {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5bf7c7441138e165857a700acb9e50c0"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/rBUHyYgQ#06hT2fr_oMHXpFlI00nF5rzBcYgDSNbvbYbIKq9-FfA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-t0qgk9gxsih4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/qkFwWdvA?embed"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -1160,7 +1182,7 @@
         ]
       }
     ],
-    "timestamp": 1781368477909,
+    "timestamp": 1781368485619,
     "hasLatino": false
   },
   {
@@ -1449,7 +1471,7 @@
         ]
       }
     ],
-    "timestamp": 1781368477377,
+    "timestamp": 1781368484980,
     "hasLatino": false
   },
   {
@@ -172278,7 +172300,13 @@
     "rating": 7.91,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
