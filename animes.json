@@ -353,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781311820250,
+    "timestamp": 1781311832649,
     "hasLatino": false
   },
   {
@@ -731,7 +731,7 @@
         ]
       }
     ],
-    "timestamp": 1781311822313,
+    "timestamp": 1781311832436,
     "hasLatino": false
   },
   {
@@ -1381,7 +1381,7 @@
         ]
       }
     ],
-    "timestamp": 1781311821278,
+    "timestamp": 1781311832651,
     "hasLatino": true
   },
   {
@@ -1910,7 +1910,7 @@
         ]
       }
     ],
-    "timestamp": 1781311829258,
+    "timestamp": 1781311834664,
     "hasLatino": true
   },
   {
@@ -2220,7 +2220,7 @@
         ]
       }
     ],
-    "timestamp": 1781311820714,
+    "timestamp": 1781311832090,
     "hasLatino": false
   },
   {
@@ -71945,7 +71945,12 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Ecchi",
+      "Escolares"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
