@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363312152,
+    "timestamp": 1781363316491,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363311358,
+    "timestamp": 1781363315320,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363310852,
+    "timestamp": 1781363315528,
     "hasLatino": false
   },
   {
@@ -850,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363312323,
+    "timestamp": 1781363316301,
     "hasLatino": false
   },
   {
@@ -895,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363310717,
+    "timestamp": 1781363315344,
     "hasLatino": false
   },
   {
@@ -144165,7 +144165,11 @@
     "rating": 6.11,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Mitología"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
