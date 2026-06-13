@@ -23,6 +23,24 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ee8cebf7a27b28ab6ae6f4c9c2915387"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#jtesxr"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-k8q97sd6i0b2.html"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 2,
         "latino": [
           {
@@ -289,7 +307,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362797032,
+    "timestamp": 1781362805542,
     "hasLatino": true
   },
   {
@@ -668,7 +686,7 @@
         ]
       }
     ],
-    "timestamp": 1781362796607,
+    "timestamp": 1781362804970,
     "hasLatino": false
   },
   {
@@ -1006,7 +1024,7 @@
         ]
       }
     ],
-    "timestamp": 1781362795425,
+    "timestamp": 1781362804913,
     "hasLatino": false
   },
   {
@@ -1209,6 +1227,50 @@
         ]
       },
       {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b44fec7202af0c81b36322e7886d37eb"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/3kQj0TKR#kMB7qn_aBeliRHdlbRERfwfnM2Is4BSpQSJ7Yi3SUNU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-qzcsegc38uoo.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/mHVrKQpv?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/dbac64ec8b431c58cf3691a2c3092452"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fgwWCA6A#Jjxstx3APZLCiFREHaCwPBrnC15AfQv8auq9O9q5lH0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-bha60kquko8n.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/73RAZhwn?embed"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -1341,7 +1403,7 @@
         ]
       }
     ],
-    "timestamp": 1781362796891,
+    "timestamp": 1781362805986,
     "hasLatino": false
   },
   {
@@ -1719,7 +1781,7 @@
         ]
       }
     ],
-    "timestamp": 1781362796705,
+    "timestamp": 1781362805225,
     "hasLatino": false
   },
   {
@@ -131232,11 +131294,7 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Drama",
-      "Romance",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
