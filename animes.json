@@ -36,7 +36,7 @@
         ]
       }
     ],
-    "timestamp": 1781318346835,
+    "timestamp": 1781318320048,
     "hasLatino": true
   },
   {
@@ -245,7 +245,7 @@
         ]
       }
     ],
-    "timestamp": 1781318348609,
+    "timestamp": 1781318326068,
     "hasLatino": false
   },
   {
@@ -624,7 +624,7 @@
         ]
       }
     ],
-    "timestamp": 1781318349707,
+    "timestamp": 1781318325096,
     "hasLatino": false
   },
   {
@@ -646,7 +646,7 @@
       "Shounen",
       "Sobrenatural"
     ],
-    "currentEpisode": 16,
+    "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -993,32 +993,9 @@
             "url": "https://www.mp4upload.com/embed-pgzcc8ja32ju.html"
           }
         ]
-      },
-      {
-        "num": 16,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/cb938aefa881d3a590bb2cc5af34b149"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-h3dcuzl49kli.html"
-          }
-        ],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/148463b44553aa0c2e2ff6142768ec68"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-3z92r741u6pu.html"
-          }
-        ]
       }
     ],
-    "timestamp": 1781318369076,
+    "timestamp": 1781318431991,
     "hasLatino": true
   },
   {
@@ -1397,7 +1374,7 @@
         ]
       }
     ],
-    "timestamp": 1781318348823,
+    "timestamp": 1781318335576,
     "hasLatino": false
   },
   {
@@ -24774,7 +24751,13 @@
     "rating": 6.81,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen",
+      "Espacial"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -36109,11 +36092,7 @@
     "rating": 7.32,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
