@@ -271,7 +271,7 @@
         ]
       }
     ],
-    "timestamp": 1781376776921,
+    "timestamp": 1781376786237,
     "hasLatino": false
   },
   {
@@ -583,7 +583,7 @@
         ]
       }
     ],
-    "timestamp": 1781376777901,
+    "timestamp": 1781376787272,
     "hasLatino": false
   },
   {
@@ -652,7 +652,7 @@
         ]
       }
     ],
-    "timestamp": 1781376774911,
+    "timestamp": 1781376785568,
     "hasLatino": false
   },
   {
@@ -922,7 +922,7 @@
         ]
       }
     ],
-    "timestamp": 1781376775517,
+    "timestamp": 1781376786508,
     "hasLatino": false
   },
   {
@@ -970,7 +970,7 @@
         ]
       }
     ],
-    "timestamp": 1781376775408,
+    "timestamp": 1781376784938,
     "hasLatino": false
   },
   {
@@ -199240,7 +199240,13 @@
     "rating": 7.35,
     "studio": "",
     "episodesCount": 8,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 8,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -215001,13 +215007,7 @@
     "rating": 7.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Drama",
-      "Fantasía",
-      "Espacial"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
