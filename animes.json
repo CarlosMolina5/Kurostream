@@ -36,7 +36,7 @@
         ]
       }
     ],
-    "timestamp": 1781318306625,
+    "timestamp": 1781318327362,
     "hasLatino": true
   },
   {
@@ -245,7 +245,7 @@
         ]
       }
     ],
-    "timestamp": 1781318311835,
+    "timestamp": 1781318335265,
     "hasLatino": false
   },
   {
@@ -624,7 +624,7 @@
         ]
       }
     ],
-    "timestamp": 1781318313229,
+    "timestamp": 1781318342279,
     "hasLatino": false
   },
   {
@@ -1018,7 +1018,7 @@
         ]
       }
     ],
-    "timestamp": 1781318313859,
+    "timestamp": 1781318343484,
     "hasLatino": true
   },
   {
@@ -1397,7 +1397,7 @@
         ]
       }
     ],
-    "timestamp": 1781318327224,
+    "timestamp": 1781318336806,
     "hasLatino": false
   },
   {
@@ -34243,7 +34243,15 @@
     "rating": 4.83,
     "studio": "",
     "episodesCount": 2,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Shounen",
+      "Terror",
+      "Gore",
+      "Mecha",
+      "Mitología",
+      "Superpoderes"
+    ],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -66965,14 +66973,7 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shounen",
-      "Escolares",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
