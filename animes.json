@@ -377,7 +377,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367316944,
+    "timestamp": 1781367330801,
     "hasLatino": true
   },
   {
@@ -397,7 +397,7 @@
       "Comedia",
       "Escolares"
     ],
-    "currentEpisode": 15,
+    "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -729,9 +729,31 @@
             "url": "https://pixeldrain.com/u/UXa1NgPM?embed"
           }
         ]
+      },
+      {
+        "num": 16,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c733eb48a9ad2d8d4f4481a4d931c1a6"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/3BlDXAIA#ZT2xVIIHDalll8DhXgdpxZb3xaMEB-ABtSQXrbowtnw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-c5vtdhb713c6.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/PFWHjRyk?embed"
+          }
+        ]
       }
     ],
-    "timestamp": 1781367316468,
+    "timestamp": 1781367331208,
     "hasLatino": false
   },
   {
@@ -1064,7 +1086,7 @@
         ]
       }
     ],
-    "timestamp": 1781367317319,
+    "timestamp": 1781367330311,
     "hasLatino": false
   },
   {
@@ -1442,7 +1464,7 @@
         ]
       }
     ],
-    "timestamp": 1781367316907,
+    "timestamp": 1781367330596,
     "hasLatino": false
   },
   {
@@ -1887,7 +1909,7 @@
         ]
       }
     ],
-    "timestamp": 1781367316907,
+    "timestamp": 1781367330850,
     "hasLatino": false
   },
   {
@@ -133696,14 +133718,7 @@
     "rating": 7.34,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Fantasía",
-      "Romance",
-      "Shounen",
-      "Ecchi"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -181765,7 +181780,14 @@
     "rating": 7.77,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
