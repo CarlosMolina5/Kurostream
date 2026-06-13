@@ -307,7 +307,7 @@
         ]
       }
     ],
-    "timestamp": 1781327168566,
+    "timestamp": 1781327175470,
     "hasLatino": false
   },
   {
@@ -353,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781327167024,
+    "timestamp": 1781327173682,
     "hasLatino": false
   },
   {
@@ -1133,7 +1133,7 @@
         ]
       }
     ],
-    "timestamp": 1781327169388,
+    "timestamp": 1781327176000,
     "hasLatino": true
   },
   {
@@ -1422,7 +1422,7 @@
         ]
       }
     ],
-    "timestamp": 1781327168314,
+    "timestamp": 1781327175762,
     "hasLatino": false
   },
   {
@@ -1469,7 +1469,7 @@
         ]
       }
     ],
-    "timestamp": 1781327166048,
+    "timestamp": 1781327174538,
     "hasLatino": false
   },
   {
@@ -71421,7 +71421,11 @@
     "rating": 7.63,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -104656,11 +104660,7 @@
     "rating": 7.07,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Deportes",
-      "Drama",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
