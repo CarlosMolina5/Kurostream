@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781374897160,
+    "timestamp": 1781374903051,
     "hasLatino": false
   },
   {
@@ -667,7 +667,7 @@
         ]
       }
     ],
-    "timestamp": 1781374896625,
+    "timestamp": 1781374901713,
     "hasLatino": false
   },
   {
@@ -731,6 +731,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/aaeb4HWC?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c1b7710939a462acfd4fddb7ff3a1b23"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/iGom0RZI#kxeVWhemIq7quv3CQdteImCK0ONt5kAWqwVABPHtcpo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-t85x8l0niadp.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/DViDgVZK?embed"
           }
         ]
       },
@@ -1021,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781374898075,
+    "timestamp": 1781374902218,
     "hasLatino": false
   },
   {
@@ -1069,7 +1091,7 @@
         ]
       }
     ],
-    "timestamp": 1781374894773,
+    "timestamp": 1781374900197,
     "hasLatino": false
   },
   {
@@ -1380,7 +1402,7 @@
         ]
       }
     ],
-    "timestamp": 1781374896672,
+    "timestamp": 1781374902473,
     "hasLatino": false
   },
   {
@@ -168302,7 +168324,12 @@
     "rating": 7.42,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
