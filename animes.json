@@ -264,7 +264,7 @@
         ]
       }
     ],
-    "timestamp": 1781361656960,
+    "timestamp": 1781361659821,
     "hasLatino": false
   },
   {
@@ -641,7 +641,7 @@
         ]
       }
     ],
-    "timestamp": 1781361657459,
+    "timestamp": 1781361660613,
     "hasLatino": false
   },
   {
@@ -952,7 +952,7 @@
         ]
       }
     ],
-    "timestamp": 1781361657640,
+    "timestamp": 1781361660118,
     "hasLatino": false
   },
   {
@@ -1262,7 +1262,7 @@
         ]
       }
     ],
-    "timestamp": 1781361657288,
+    "timestamp": 1781361660036,
     "hasLatino": false
   },
   {
@@ -1310,7 +1310,7 @@
         ]
       }
     ],
-    "timestamp": 1781361655411,
+    "timestamp": 1781361658910,
     "hasLatino": false
   },
   {
@@ -124959,7 +124959,11 @@
     "rating": 7.22,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Shounen",
+      "Sobrenatural"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -134870,13 +134874,7 @@
     "rating": 7.35,
     "studio": "",
     "episodesCount": 8,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shounen",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 8,
     "lastEpDate": "Hace un momento",
     "episodes": [
