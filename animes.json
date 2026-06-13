@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363225056,
+    "timestamp": 1781363228776,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363223917,
+    "timestamp": 1781363227097,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363223544,
+    "timestamp": 1781363227415,
     "hasLatino": false
   },
   {
@@ -672,28 +672,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-go6ka5n1941o.html"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ec3aac60ad0e624d6156783d50985075"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/mZtSnLjD#4ksaykGMtOkMmbjpiIZOYsautVPnp6Sj5rv_QS4B1xI"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-0vy6x6ainlh5.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/CfdA83sY?embed"
           }
         ]
       },
@@ -850,7 +828,7 @@
         ]
       }
     ],
-    "timestamp": 1781363224650,
+    "timestamp": 1781363228776,
     "hasLatino": false
   },
   {
@@ -895,7 +873,7 @@
         ]
       }
     ],
-    "timestamp": 1781363223157,
+    "timestamp": 1781363227088,
     "hasLatino": false
   },
   {
@@ -136548,7 +136526,14 @@
     "rating": 6.62,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -144209,13 +144194,7 @@
     "rating": 7.35,
     "studio": "",
     "episodesCount": 8,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shounen",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 8,
     "lastEpDate": "Hace un momento",
     "episodes": [
