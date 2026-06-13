@@ -1,52 +1,5 @@
 [
   {
-    "id": "school-days-valentine-days",
-    "title": "School Days: Valentine Days",
-    "status": "Finalizado",
-    "synopsis": "Kotonoha Katsura y su hermana, Kokoro, han invitado a Sekai Saionji, Makoto Itou y sus amigos a un viaje a las aguas termales con un objetivo en mente: tomarse un respiro de sus ajetreadas vidas escolares.",
-    "poster": "https://cdn.myanimelist.net/images/anime/1691/121897l.webp",
-    "cover": "https://cdn.animeando.net/covers/3759.jpg",
-    "banner": "https://cdn.animeando.net/covers/3759.jpg",
-    "type": "OVA",
-    "year": "2008",
-    "rating": 5.78,
-    "studio": "",
-    "episodesCount": 1,
-    "genres": [
-      "Comedia",
-      "Romance",
-      "Escolares"
-    ],
-    "currentEpisode": 1,
-    "lastEpDate": "Hace un momento",
-    "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ea16174bc473a18b4b9db9b4353c5e1c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CFlCnA6A#3Qi0PtYuBG74-Q-fzB0792xWWBOVaOEo4uhz0IsovG8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-1l3dhpyoukxc.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/S7QLczjw?embed"
-          }
-        ]
-      }
-    ],
-    "timestamp": 1781371441497,
-    "hasLatino": false
-  },
-  {
     "id": "ookami-to-koushinryou",
     "title": "Ookami to Koushinryou",
     "status": "Finalizado",
@@ -356,7 +309,7 @@
         ]
       }
     ],
-    "timestamp": 1781371445189,
+    "timestamp": 1781371449310,
     "hasLatino": false
   },
   {
@@ -733,7 +686,7 @@
         ]
       }
     ],
-    "timestamp": 1781371444097,
+    "timestamp": 1781371450222,
     "hasLatino": false
   },
   {
@@ -993,7 +946,7 @@
         ]
       }
     ],
-    "timestamp": 1781371443576,
+    "timestamp": 1781371449465,
     "hasLatino": false
   },
   {
@@ -1304,7 +1257,7 @@
         ]
       }
     ],
-    "timestamp": 1781371443207,
+    "timestamp": 1781371449539,
     "hasLatino": false
   },
   {
@@ -181308,12 +181261,7 @@
     "rating": 7.2,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -193130,7 +193078,10 @@
     "rating": 6.48,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Espacial"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
