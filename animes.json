@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781374608942,
+    "timestamp": 1781374648871,
     "hasLatino": false
   },
   {
@@ -732,7 +732,7 @@
         ]
       }
     ],
-    "timestamp": 1781374609287,
+    "timestamp": 1781374644209,
     "hasLatino": false
   },
   {
@@ -1049,7 +1049,7 @@
         ]
       }
     ],
-    "timestamp": 1781374608821,
+    "timestamp": 1781374643421,
     "hasLatino": false
   },
   {
@@ -1206,7 +1206,7 @@
         ]
       }
     ],
-    "timestamp": 1781374635513,
+    "timestamp": 1781374641862,
     "hasLatino": false
   },
   {
@@ -1252,7 +1252,7 @@
         ]
       }
     ],
-    "timestamp": 1781374606118,
+    "timestamp": 1781374642449,
     "hasLatino": false
   },
   {
@@ -203491,7 +203491,12 @@
     "rating": 7.16,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Deportes",
+      "Shounen",
+      "Ecchi"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
