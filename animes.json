@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781365993804,
+    "timestamp": 1781366015537,
     "hasLatino": false
   },
   {
@@ -582,7 +582,7 @@
         ]
       }
     ],
-    "timestamp": 1781365992751,
+    "timestamp": 1781366010594,
     "hasLatino": false
   },
   {
@@ -918,7 +918,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781365993311,
+    "timestamp": 1781366012205,
     "hasLatino": true
   },
   {
@@ -1074,6 +1074,94 @@
         ]
       },
       {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/cdfdd1df3859b41b769d411ac5810a42"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/DsoShBhJ#hWFKgbhJDw_NVaVw8jX2vZZ20am7oe89H22i_ikfUMQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lvwxa7tt1gh7.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/yBCXqEuV?embed"
+          }
+        ]
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/62d0c8ca0fcc62d52e685b0967814fc9"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/K4wl2RTY#q8UN_xkwRqaMPYHGzAFLEm5bhvgUDo2NenG6FTZA3gQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ib2g08srzzkh.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/QNkqdtAp?embed"
+          }
+        ]
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bb939ab0b540b2688250a90555aec149"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/T1xlSTzR#-gQvjyDHBtlwrASkx3LZS655VlUghDUVzLryFNrknY0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-2xzcofrygpuv.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/tajpRctj?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4ee258e41cefa1b339db037068cc2ba5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/D0RzgQTA#AnJvrkWKu402MiUMvcrCws325aSEcM7ikoa5ib9jzlo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-24tr2kbc2rdh.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/XHcFL3y6?embed"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -1118,7 +1206,7 @@
         ]
       }
     ],
-    "timestamp": 1781365992682,
+    "timestamp": 1781366011923,
     "hasLatino": false
   },
   {
@@ -1497,7 +1585,7 @@
         ]
       }
     ],
-    "timestamp": 1781365997541,
+    "timestamp": 1781366015053,
     "hasLatino": false
   },
   {
@@ -144701,13 +144789,7 @@
     "rating": 7.72,
     "studio": "",
     "episodesCount": 12,
-    "genres": [
-      "Drama",
-      "Misterio",
-      "Shounen",
-      "Suspenso",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -173609,7 +173691,12 @@
     "rating": 7.75,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
