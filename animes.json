@@ -26,6 +26,28 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/53c7b953ed3911e9e7a5399fa3508a3e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/pBZgRbyJ#poA_-4FYUeeq2O7358ukvanjkTFy4Pc_587fyzxgP50"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ix6900bybm9d.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/95jEccfz?embed"
+          }
+        ]
+      },
+      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -268,7 +290,7 @@
         ]
       }
     ],
-    "timestamp": 1781368445075,
+    "timestamp": 1781368447538,
     "hasLatino": false
   },
   {
@@ -453,50 +475,6 @@
         ]
       },
       {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/49d7885fca0b3fea9ff1eb24d9b98739"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/zqgwRBbR#7dmw6Ncx8b1-kVM-8ZbaTn87WhLKpb05nHxO3alGtPY"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-1j0w6nky8wlh.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/xndAT88S?embed"
-          }
-        ]
-      },
-      {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/5cdfa7deba6ee4946b14af647c0d3f06"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/HnBwEYgR#0lGy36Z6ckglSMkJdOlDDnj5dq26yZgeYzC2MnWjm1Q"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2ci5yfgx9iwl.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/k4hJKQMw?embed"
-          }
-        ]
-      },
-      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -563,7 +541,7 @@
         ]
       }
     ],
-    "timestamp": 1781368445828,
+    "timestamp": 1781368447589,
     "hasLatino": false
   },
   {
@@ -870,7 +848,7 @@
         ]
       }
     ],
-    "timestamp": 1781368445802,
+    "timestamp": 1781368448222,
     "hasLatino": false
   },
   {
@@ -1160,7 +1138,7 @@
         ]
       }
     ],
-    "timestamp": 1781368445494,
+    "timestamp": 1781368448614,
     "hasLatino": false
   },
   {
@@ -1291,6 +1269,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/7HeLwfTm?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/86b36b8b211cd0c39bf5908100b05bd0"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/7Y1lhT4R#hDjncXTUx6Ojj-YqBXOor9mVvxFiepoqaJOMRvVCHEY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-hqst9bthz967.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/54MbzBHG?embed"
           }
         ]
       },
@@ -1427,7 +1427,7 @@
         ]
       }
     ],
-    "timestamp": 1781368444643,
+    "timestamp": 1781368448222,
     "hasLatino": false
   },
   {
@@ -167352,15 +167352,7 @@
     "rating": 7.77,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Romance",
-      "Shounen",
-      "Artes Marciales",
-      "Ecchi",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
