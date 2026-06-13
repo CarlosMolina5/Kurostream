@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781357799755,
+    "timestamp": 1781357802847,
     "hasLatino": false
   },
   {
@@ -490,7 +490,7 @@
         ]
       }
     ],
-    "timestamp": 1781357798574,
+    "timestamp": 1781357801923,
     "hasLatino": false
   },
   {
@@ -537,7 +537,7 @@
         ]
       }
     ],
-    "timestamp": 1781357798376,
+    "timestamp": 1781357802222,
     "hasLatino": false
   },
   {
@@ -584,7 +584,7 @@
         ]
       }
     ],
-    "timestamp": 1781357798726,
+    "timestamp": 1781357801923,
     "hasLatino": false
   },
   {
@@ -945,7 +945,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781357799542,
+    "timestamp": 1781357802909,
     "hasLatino": true
   },
   {
@@ -87875,7 +87875,10 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
