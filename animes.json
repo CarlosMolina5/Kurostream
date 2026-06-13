@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781357785774,
+    "timestamp": 1781357791137,
     "hasLatino": false
   },
   {
@@ -490,7 +490,7 @@
         ]
       }
     ],
-    "timestamp": 1781357784236,
+    "timestamp": 1781357790365,
     "hasLatino": false
   },
   {
@@ -537,7 +537,7 @@
         ]
       }
     ],
-    "timestamp": 1781357784147,
+    "timestamp": 1781357789669,
     "hasLatino": false
   },
   {
@@ -584,7 +584,7 @@
         ]
       }
     ],
-    "timestamp": 1781357784148,
+    "timestamp": 1781357790359,
     "hasLatino": false
   },
   {
@@ -945,7 +945,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781357786443,
+    "timestamp": 1781357791167,
     "hasLatino": true
   },
   {
@@ -87281,7 +87281,12 @@
     "rating": 8.23,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Escolares",
+      "Mahou Shoujo",
+      "Psicológico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -106373,14 +106378,7 @@
     "rating": 7.52,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Shounen",
-      "Superpoderes",
-      "Vampiros"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
