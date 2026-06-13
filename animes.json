@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781358890669,
+    "timestamp": 1781358892753,
     "hasLatino": false
   },
   {
@@ -422,7 +422,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781358888735,
+    "timestamp": 1781358890322,
     "hasLatino": true
   },
   {
@@ -805,7 +805,7 @@
         ]
       }
     ],
-    "timestamp": 1781358890391,
+    "timestamp": 1781358892909,
     "hasLatino": false
   },
   {
@@ -1185,7 +1185,7 @@
         ]
       }
     ],
-    "timestamp": 1781358890516,
+    "timestamp": 1781358892951,
     "hasLatino": false
   },
   {
@@ -1838,7 +1838,7 @@
         ]
       }
     ],
-    "timestamp": 1781358890867,
+    "timestamp": 1781358892645,
     "hasLatino": true
   },
   {
@@ -104796,7 +104796,14 @@
     "rating": 6.96,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Misterio",
+      "Romance",
+      "Detectives",
+      "Mecha"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
