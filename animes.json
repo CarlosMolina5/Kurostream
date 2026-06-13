@@ -374,7 +374,7 @@
         ]
       }
     ],
-    "timestamp": 1781357307733,
+    "timestamp": 1781357319853,
     "hasLatino": false
   },
   {
@@ -757,7 +757,7 @@
         ]
       }
     ],
-    "timestamp": 1781357299078,
+    "timestamp": 1781357320917,
     "hasLatino": false
   },
   {
@@ -825,7 +825,7 @@
         ]
       }
     ],
-    "timestamp": 1781357298049,
+    "timestamp": 1781357318862,
     "hasLatino": true
   },
   {
@@ -916,7 +916,7 @@
         ]
       }
     ],
-    "timestamp": 1781357297662,
+    "timestamp": 1781357318814,
     "hasLatino": false
   },
   {
@@ -969,7 +969,7 @@
         ]
       }
     ],
-    "timestamp": 1781357297478,
+    "timestamp": 1781357318574,
     "hasLatino": true
   },
   {
@@ -75565,7 +75565,14 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Misterio",
+      "Sobrenatural",
+      "Terror",
+      "Detectives",
+      "Vampiros"
+    ],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -94840,16 +94847,7 @@
     "rating": 7.49,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Aventura",
-      "Drama",
-      "Fantasía",
-      "Romance",
-      "Shoujo",
-      "Isekai",
-      "Mahou Shoujo",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
