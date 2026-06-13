@@ -354,7 +354,7 @@
         ]
       }
     ],
-    "timestamp": 1781363598737,
+    "timestamp": 1781363599863,
     "hasLatino": false
   },
   {
@@ -646,28 +646,6 @@
         ]
       },
       {
-        "num": 13,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9b6042c0198f27c591d250ad5dc67187"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/7hQDhCaI#h30g2rz9nF2KGgRLYEvO0096gwY-lb9Wl8eYiWTCnQQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-exb6k7ukftsh.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/DustScrd?embed"
-          }
-        ]
-      },
-      {
         "num": 14,
         "latino": [],
         "sub": [
@@ -734,7 +712,7 @@
         ]
       }
     ],
-    "timestamp": 1781363537700,
+    "timestamp": 1781363599855,
     "hasLatino": false
   },
   {
@@ -778,7 +756,7 @@
         ]
       }
     ],
-    "timestamp": 1781363532522,
+    "timestamp": 1781363597923,
     "hasLatino": false
   },
   {
@@ -1155,7 +1133,7 @@
         ]
       }
     ],
-    "timestamp": 1781363535133,
+    "timestamp": 1781363600306,
     "hasLatino": false
   },
   {
@@ -1693,7 +1671,7 @@
         ]
       }
     ],
-    "timestamp": 1781363537442,
+    "timestamp": 1781363600691,
     "hasLatino": true
   },
   {
@@ -137503,7 +137481,12 @@
     "rating": 7.82,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -148535,11 +148518,7 @@
     "rating": 6.86,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
