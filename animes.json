@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378650248,
+    "timestamp": 1781378653623,
     "hasLatino": false
   },
   {
@@ -706,7 +706,7 @@
         ]
       }
     ],
-    "timestamp": 1781378648918,
+    "timestamp": 1781378652109,
     "hasLatino": false
   },
   {
@@ -858,28 +858,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/tFVZUqxd?embed"
-          }
-        ],
-        "sub": []
-      },
-      {
-        "num": 7,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/220cd0219142bf54a96b0765fb86300e"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/9VQkQboa#9tgTyznv0xr6JoPX7Dti0srumdJc3kBpIRIQcaqj2Ac"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-smbnc3u9nvc1.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/wg3MVurH?embed"
           }
         ],
         "sub": []
@@ -1083,7 +1061,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378650240,
+    "timestamp": 1781378654192,
     "hasLatino": true
   },
   {
@@ -1373,7 +1351,7 @@
         ]
       }
     ],
-    "timestamp": 1781378648048,
+    "timestamp": 1781378653611,
     "hasLatino": false
   },
   {
@@ -1683,7 +1661,7 @@
         ]
       }
     ],
-    "timestamp": 1781378649978,
+    "timestamp": 1781378652370,
     "hasLatino": false
   },
   {
@@ -176032,7 +176010,14 @@
     "rating": 7.73,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -199485,10 +199470,7 @@
     "rating": 6.36,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Ciencia Ficción",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
