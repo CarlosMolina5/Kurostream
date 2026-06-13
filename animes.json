@@ -1,5 +1,48 @@
 [
   {
+    "id": "otome-wa-boku-ni-koishiteru-special",
+    "title": "Otome wa Boku ni Koishiteru Special",
+    "status": "Finalizado",
+    "synopsis": "Episodio especial en DVD que combina la historia de Cenicienta y Blancanieves (estilo chibi) con el elenco de",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/22360l.jpg",
+    "cover": "https://cdn.animeando.net/covers/2615.jpg",
+    "banner": "https://cdn.animeando.net/covers/2615.jpg",
+    "type": "Especial",
+    "year": "2007",
+    "rating": 6.61,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Escolares"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4fa04298c33a8ba94e292f7bf47b3153"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/rQF3nSqC#kPNQYPWkMZGrJO4RzJX7Jlc23dPl8KAchra7-nCobfc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-7xp77zcy610n.html"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781366639313,
+    "hasLatino": false
+  },
+  {
     "id": "el-cazador-de-la-bruja",
     "title": "El Cazador de la Bruja",
     "status": "Finalizado",
@@ -309,7 +352,7 @@
         ]
       }
     ],
-    "timestamp": 1781366634588,
+    "timestamp": 1781366641086,
     "hasLatino": false
   },
   {
@@ -679,7 +722,7 @@
         ]
       }
     ],
-    "timestamp": 1781366634843,
+    "timestamp": 1781366640700,
     "hasLatino": false
   },
   {
@@ -995,7 +1038,7 @@
         ]
       }
     ],
-    "timestamp": 1781366634836,
+    "timestamp": 1781366640927,
     "hasLatino": false
   },
   {
@@ -1370,273 +1413,7 @@
         ]
       }
     ],
-    "timestamp": 1781366634028,
-    "hasLatino": false
-  },
-  {
-    "id": "hayate-no-gotoku-s-1",
-    "title": "Hayate no Gotoku!",
-    "status": "Finalizado",
-    "synopsis": "Según la Ley de Murphy,",
-    "poster": "https://cdn.myanimelist.net/images/anime/7/73932l.webp",
-    "cover": "https://cdn.animeando.net/covers/2026.jpg",
-    "banner": "https://cdn.animeando.net/covers/2026.jpg",
-    "type": "TV Anime",
-    "year": "2007",
-    "rating": 7.5,
-    "studio": "",
-    "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Romance",
-      "Shounen",
-      "Harem",
-      "Parodia"
-    ],
-    "currentEpisode": 16,
-    "lastEpDate": "Hace un momento",
-    "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ba02790a423d811709be4c4c7f11f9f7"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-jmzak3yj0uvi.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/f9HkHdTh?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4ac1c04d2fd1897988b1603a902072b4"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/KUN3zQob#X7lkfFHcDH6OemuzjbpwMDxvc6jERM-zda5LOVWSU8U"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-cet1xkwnwiir.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/o4XC4puA?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/cbb87186c2d0f52c6ba89f1845dac660"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-rf9pufh0lpjq.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/CiquqUEP?embed"
-          }
-        ]
-      },
-      {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c0df1d27fd1dde261b48304fbd23dc1e"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-nvsseqtp49rj.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/xQKA1ps8?embed"
-          }
-        ]
-      },
-      {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/caf71e9c97ebb553de30439d5ef38eda"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-j04bk37tadwp.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/bFGaNMqL?embed"
-          }
-        ]
-      },
-      {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/24c6a4745d277021b2950244f9602edd"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-mfa4k6dkazjk.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/noKVuBR2?embed"
-          }
-        ]
-      },
-      {
-        "num": 10,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/3028ee7f2c5140274c68bac163e55f4e"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-sxynn4pdsuj1.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/VQEsYvPw?embed"
-          }
-        ]
-      },
-      {
-        "num": 11,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/e7b0bc08e1507534ff4bcf03e5e5375d"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ncepppj8g4wa.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/p1qjiufC?embed"
-          }
-        ]
-      },
-      {
-        "num": 12,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/69ab5560e306952c8b8db74dd8421435"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ho5st6siqn6f.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/JBQFPwF4?embed"
-          }
-        ]
-      },
-      {
-        "num": 13,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/e5551e7e1b49e7af4a03395ee139dfa2"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-xhk69bapdd1k.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/VmjDhSaT?embed"
-          }
-        ]
-      },
-      {
-        "num": 14,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/e002d1249df9dbe34bf8b6c290356e00"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-r83zez10v5wc.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/CSi3UuUF?embed"
-          }
-        ]
-      },
-      {
-        "num": 15,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/7e7baa985816c298e88e680f80585c19"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ofdbhdy8lm39.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/cUP8Ju2G?embed"
-          }
-        ]
-      },
-      {
-        "num": 16,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/be1da97f28bdf05c779863ffb1a8de96"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-1bxqe1jo7s4x.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/re35sj2Q?embed"
-          }
-        ]
-      }
-    ],
-    "timestamp": 1781366634450,
+    "timestamp": 1781366642068,
     "hasLatino": false
   },
   {
@@ -155595,11 +155372,7 @@
     "rating": 7.32,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -174462,7 +174235,14 @@
     "rating": 8.15,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
