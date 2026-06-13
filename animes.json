@@ -649,7 +649,7 @@
         ]
       }
     ],
-    "timestamp": 1781313533773,
+    "timestamp": 1781313544744,
     "hasLatino": true
   },
   {
@@ -1297,7 +1297,7 @@
         ]
       }
     ],
-    "timestamp": 1781313534518,
+    "timestamp": 1781313549271,
     "hasLatino": true
   },
   {
@@ -1831,7 +1831,7 @@
         ]
       }
     ],
-    "timestamp": 1781313534799,
+    "timestamp": 1781313547121,
     "hasLatino": true
   },
   {
@@ -1878,7 +1878,7 @@
         ]
       }
     ],
-    "timestamp": 1781313532265,
+    "timestamp": 1781313539809,
     "hasLatino": false
   },
   {
@@ -1989,7 +1989,7 @@
         ]
       }
     ],
-    "timestamp": 1781313531233,
+    "timestamp": 1781313541190,
     "hasLatino": false
   },
   {
@@ -34277,11 +34277,7 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Drama",
-      "Recuentos de la Vida",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -58813,7 +58809,13 @@
     "rating": 7.26,
     "studio": "",
     "episodesCount": 7,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Elenco Adulto",
+      "Mecha"
+    ],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
