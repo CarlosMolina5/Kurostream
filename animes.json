@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781364214652,
+    "timestamp": 1781364223857,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781364214498,
+    "timestamp": 1781364174467,
     "hasLatino": false
   },
   {
@@ -753,28 +753,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/fxkQ1gGx?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/7f3f2817bee8d37b65e7a42b92d0b146"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/yHZ0QA5C#zZrGnIY2lB1gtJKNQFOIvxQMA-0KXZUUXIOOXlV514A"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-vrkf9aq71p2w.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ZwE9u6TB?embed"
           }
         ]
       },
@@ -1043,7 +1021,7 @@
         ]
       }
     ],
-    "timestamp": 1781364214875,
+    "timestamp": 1781364174772,
     "hasLatino": false
   },
   {
@@ -1137,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781364213336,
+    "timestamp": 1781364173720,
     "hasLatino": false
   },
   {
@@ -1182,7 +1160,7 @@
         ]
       }
     ],
-    "timestamp": 1781364212757,
+    "timestamp": 1781364173331,
     "hasLatino": false
   },
   {
@@ -126531,7 +126509,13 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 7,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Romance",
+      "Isekai"
+    ],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -146880,15 +146864,7 @@
     "rating": 7.77,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Romance",
-      "Shounen",
-      "Artes Marciales",
-      "Ecchi",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
