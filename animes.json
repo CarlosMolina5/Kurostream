@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781364223857,
+    "timestamp": 1781364226787,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781364174467,
+    "timestamp": 1781364224115,
     "hasLatino": false
   },
   {
@@ -753,6 +753,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/fxkQ1gGx?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7f3f2817bee8d37b65e7a42b92d0b146"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/yHZ0QA5C#zZrGnIY2lB1gtJKNQFOIvxQMA-0KXZUUXIOOXlV514A"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vrkf9aq71p2w.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ZwE9u6TB?embed"
           }
         ]
       },
@@ -1021,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781364174772,
+    "timestamp": 1781364224369,
     "hasLatino": false
   },
   {
@@ -1115,7 +1137,7 @@
         ]
       }
     ],
-    "timestamp": 1781364173720,
+    "timestamp": 1781364222690,
     "hasLatino": false
   },
   {
@@ -1160,7 +1182,7 @@
         ]
       }
     ],
-    "timestamp": 1781364173331,
+    "timestamp": 1781364223105,
     "hasLatino": false
   },
   {
@@ -126509,13 +126531,7 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 7,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía",
-      "Romance",
-      "Isekai"
-    ],
+    "genres": [],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -135690,7 +135706,14 @@
     "rating": 6.76,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
