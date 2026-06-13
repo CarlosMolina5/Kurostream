@@ -307,7 +307,7 @@
         ]
       }
     ],
-    "timestamp": 1781327358706,
+    "timestamp": 1781327360881,
     "hasLatino": false
   },
   {
@@ -353,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781327357033,
+    "timestamp": 1781327359751,
     "hasLatino": false
   },
   {
@@ -1133,7 +1133,7 @@
         ]
       }
     ],
-    "timestamp": 1781327359417,
+    "timestamp": 1781327361335,
     "hasLatino": true
   },
   {
@@ -1242,6 +1242,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/XAGQPdyQ?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/387b56dd9d95ed477ff798f6582cc892"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/n7B2yLoJ#DrmpOZGh0y3q-kbZGiqMN2oLNUQJPUGy2SROYhz_F7I"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-g4i47p57ln18.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/M7WCx4FG?embed"
           }
         ]
       },
@@ -1400,7 +1422,7 @@
         ]
       }
     ],
-    "timestamp": 1781327358110,
+    "timestamp": 1781327360588,
     "hasLatino": false
   },
   {
@@ -1447,7 +1469,7 @@
         ]
       }
     ],
-    "timestamp": 1781327358805,
+    "timestamp": 1781327359573,
     "hasLatino": false
   },
   {
@@ -81590,14 +81612,7 @@
     "rating": 6.28,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -86615,7 +86630,13 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Romance",
+      "Histórico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
