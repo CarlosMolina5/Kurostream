@@ -284,7 +284,7 @@
         ]
       }
     ],
-    "timestamp": 1781369363520,
+    "timestamp": 1781369366227,
     "hasLatino": false
   },
   {
@@ -345,7 +345,7 @@
         ]
       }
     ],
-    "timestamp": 1781369361878,
+    "timestamp": 1781369365023,
     "hasLatino": true
   },
   {
@@ -369,28 +369,6 @@
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/6a3545578c0e5ea87f2ac319bf69ac98"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/uc9xHBTY#htzLzxxpCyPtvHJ6xi_qWuKkYQvx_1cfq1xy6bGccBE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-s2f2es4kp1em.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/A57Fq3QP?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -502,7 +480,7 @@
         ]
       }
     ],
-    "timestamp": 1781369362351,
+    "timestamp": 1781369365598,
     "hasLatino": false
   },
   {
@@ -567,7 +545,7 @@
         ]
       }
     ],
-    "timestamp": 1781369362048,
+    "timestamp": 1781369366370,
     "hasLatino": false
   },
   {
@@ -614,7 +592,7 @@
         ]
       }
     ],
-    "timestamp": 1781369362743,
+    "timestamp": 1781369365363,
     "hasLatino": false
   },
   {
@@ -170837,7 +170815,13 @@
     "rating": 5.58,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Shounen",
+      "Terror",
+      "Gore"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
