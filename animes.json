@@ -46,7 +46,7 @@
         ]
       }
     ],
-    "timestamp": 1781313092383,
+    "timestamp": 1781313134910,
     "hasLatino": false
   },
   {
@@ -95,7 +95,7 @@
         ]
       }
     ],
-    "timestamp": 1781313086580,
+    "timestamp": 1781313091659,
     "hasLatino": false
   },
   {
@@ -143,7 +143,7 @@
         ]
       }
     ],
-    "timestamp": 1781313120076,
+    "timestamp": 1781313092361,
     "hasLatino": false
   },
   {
@@ -520,7 +520,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781313094488,
+    "timestamp": 1781313102543,
     "hasLatino": true
   },
   {
@@ -570,7 +570,7 @@
         ]
       }
     ],
-    "timestamp": 1781313092485,
+    "timestamp": 1781313091641,
     "hasLatino": false
   },
   {
@@ -43839,14 +43839,7 @@
     "rating": 7.52,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Shounen",
-      "Superpoderes",
-      "Vampiros"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -44291,7 +44284,11 @@
     "rating": 8.55,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
