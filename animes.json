@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "timestamp": 1781371864031,
+    "timestamp": 1781371868832,
     "hasLatino": false
   },
   {
@@ -249,7 +249,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781371864149,
+    "timestamp": 1781371867795,
     "hasLatino": true
   },
   {
@@ -296,7 +296,7 @@
         ]
       }
     ],
-    "timestamp": 1781371864040,
+    "timestamp": 1781371868818,
     "hasLatino": false
   },
   {
@@ -339,7 +339,7 @@
         ]
       }
     ],
-    "timestamp": 1781371863210,
+    "timestamp": 1781371867788,
     "hasLatino": false
   },
   {
@@ -448,6 +448,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/skU8tUjC?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bc1ade59c5e238139aac462e6d260c59"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/PE8CGY7R#ZlPm0rNpwmPVS0u6CIOYgLnrhO-gCAcLn9xLjBz7h8I"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-zbsg3q3juh30.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/WxYRgNwq?embed"
           }
         ]
       },
@@ -694,7 +716,7 @@
         ]
       }
     ],
-    "timestamp": 1781371865757,
+    "timestamp": 1781371868929,
     "hasLatino": false
   },
   {
@@ -170959,7 +170981,14 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Fantasía",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
