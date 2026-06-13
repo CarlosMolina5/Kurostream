@@ -355,7 +355,7 @@
         ]
       }
     ],
-    "timestamp": 1781358095595,
+    "timestamp": 1781358099774,
     "hasLatino": false
   },
   {
@@ -735,7 +735,7 @@
         ]
       }
     ],
-    "timestamp": 1781358097115,
+    "timestamp": 1781358099364,
     "hasLatino": false
   },
   {
@@ -1009,7 +1009,7 @@
         ]
       }
     ],
-    "timestamp": 1781358095148,
+    "timestamp": 1781358099306,
     "hasLatino": false
   },
   {
@@ -1660,7 +1660,7 @@
         ]
       }
     ],
-    "timestamp": 1781358095504,
+    "timestamp": 1781358099552,
     "hasLatino": true
   },
   {
@@ -1951,7 +1951,7 @@
         ]
       }
     ],
-    "timestamp": 1781358094812,
+    "timestamp": 1781358100986,
     "hasLatino": false
   },
   {
@@ -104098,7 +104098,12 @@
     "rating": 6.62,
     "studio": "",
     "episodesCount": 15,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Comedia",
+      "Romance",
+      "Shounen"
+    ],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
