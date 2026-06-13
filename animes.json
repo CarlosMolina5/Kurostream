@@ -534,7 +534,7 @@
         ]
       }
     ],
-    "timestamp": 1781351269811,
+    "timestamp": 1781351287217,
     "hasLatino": true
   },
   {
@@ -623,7 +623,7 @@
         ]
       }
     ],
-    "timestamp": 1781351268873,
+    "timestamp": 1781351286109,
     "hasLatino": false
   },
   {
@@ -716,7 +716,7 @@
         ]
       }
     ],
-    "timestamp": 1781351268314,
+    "timestamp": 1781351285857,
     "hasLatino": false
   },
   {
@@ -1030,7 +1030,7 @@
         ]
       }
     ],
-    "timestamp": 1781351269795,
+    "timestamp": 1781351286992,
     "hasLatino": false
   },
   {
@@ -1319,7 +1319,7 @@
         ]
       }
     ],
-    "timestamp": 1781351269795,
+    "timestamp": 1781351286553,
     "hasLatino": false
   },
   {
@@ -82465,7 +82465,14 @@
     "rating": 7.95,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
