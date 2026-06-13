@@ -312,7 +312,7 @@
         ]
       }
     ],
-    "timestamp": 1781378382182,
+    "timestamp": 1781378390458,
     "hasLatino": false
   },
   {
@@ -360,7 +360,7 @@
         ]
       }
     ],
-    "timestamp": 1781378380390,
+    "timestamp": 1781378389237,
     "hasLatino": false
   },
   {
@@ -450,7 +450,7 @@
         ]
       }
     ],
-    "timestamp": 1781378380029,
+    "timestamp": 1781378389629,
     "hasLatino": false
   },
   {
@@ -717,7 +717,7 @@
         ]
       }
     ],
-    "timestamp": 1781378381102,
+    "timestamp": 1781378393547,
     "hasLatino": false
   },
   {
@@ -789,7 +789,7 @@
         ]
       }
     ],
-    "timestamp": 1781378380201,
+    "timestamp": 1781378389025,
     "hasLatino": false
   },
   {
@@ -193348,11 +193348,7 @@
     "rating": 7.19,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Elenco Adulto",
-      "Histórico",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -215403,7 +215399,10 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
