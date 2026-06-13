@@ -21,7 +21,7 @@
       "Mecha",
       "Psicológico"
     ],
-    "currentEpisode": 16,
+    "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -353,31 +353,9 @@
           }
         ],
         "sub": []
-      },
-      {
-        "num": 16,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/648d300b2ce4fd05bd3b4011b0c1925a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/LGggDCLL#PiTu_IuDrMhxiHhZFPA7vel5ebrqJyChSza3_kJKkCA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2hwacgfh38py.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/GgHkhGgW?embed"
-          }
-        ],
-        "sub": []
       }
     ],
-    "timestamp": 1781367280625,
+    "timestamp": 1781367282234,
     "hasLatino": true
   },
   {
@@ -753,7 +731,7 @@
         ]
       }
     ],
-    "timestamp": 1781367276117,
+    "timestamp": 1781367282715,
     "hasLatino": false
   },
   {
@@ -1086,7 +1064,7 @@
         ]
       }
     ],
-    "timestamp": 1781367275955,
+    "timestamp": 1781367282607,
     "hasLatino": false
   },
   {
@@ -1464,7 +1442,7 @@
         ]
       }
     ],
-    "timestamp": 1781367280688,
+    "timestamp": 1781367282234,
     "hasLatino": false
   },
   {
@@ -1909,7 +1887,7 @@
         ]
       }
     ],
-    "timestamp": 1781367275687,
+    "timestamp": 1781367282602,
     "hasLatino": false
   },
   {
@@ -154003,7 +153981,14 @@
     "rating": 6.71,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
