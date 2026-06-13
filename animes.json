@@ -307,7 +307,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362727719,
+    "timestamp": 1781362730551,
     "hasLatino": true
   },
   {
@@ -686,7 +686,7 @@
         ]
       }
     ],
-    "timestamp": 1781362727725,
+    "timestamp": 1781362730888,
     "hasLatino": false
   },
   {
@@ -1024,7 +1024,7 @@
         ]
       }
     ],
-    "timestamp": 1781362726656,
+    "timestamp": 1781362729588,
     "hasLatino": false
   },
   {
@@ -1157,28 +1157,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/gxx4js4Z?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/432715fc2dd3010563f87881e69cf5cd"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/D4JQCIDI#vd-UOLaFL846p-ZDFTb-S-Ij51UNj-X1xg9tRvErP54"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-kppf1511rz9o.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ACjjQMWR?embed"
           }
         ]
       },
@@ -1403,7 +1381,7 @@
         ]
       }
     ],
-    "timestamp": 1781362728188,
+    "timestamp": 1781362731093,
     "hasLatino": false
   },
   {
@@ -1491,6 +1469,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/u1TZ31g7?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5b4d1bbbef231ee805c57dba7475557f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/j7phASTa#DeJ4yGl5VR_EtIwU6eWzOmjG9LSPjGcR2Fhl4k2ACXg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-q6j7vftk6df4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/QfQkLrWB?embed"
           }
         ]
       },
@@ -1759,7 +1759,7 @@
         ]
       }
     ],
-    "timestamp": 1781362728014,
+    "timestamp": 1781362730789,
     "hasLatino": false
   },
   {
@@ -109567,14 +109567,7 @@
     "rating": 8.56,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Suspenso",
-      "Mecha",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -158151,7 +158144,12 @@
     "rating": 7.75,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
