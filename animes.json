@@ -149,60 +149,6 @@
         "sub": []
       },
       {
-        "num": 8,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/51b8b5b458cff3b602c0588947814e65"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#rc6eb6"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-cv2eh83r972s.html"
-          }
-        ],
-        "sub": []
-      },
-      {
-        "num": 9,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/374e41fa8e598573f515e5ca0b3da2cc"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#knbmzx"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2xh95w22unmi.html"
-          }
-        ],
-        "sub": []
-      },
-      {
-        "num": 10,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9b11770d30fdc9c430a01f7654ea1a36"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#suzf5f"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-cimnvqa4n684.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 11,
         "latino": [
           {
@@ -307,7 +253,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362663246,
+    "timestamp": 1781362665638,
     "hasLatino": true
   },
   {
@@ -686,7 +632,7 @@
         ]
       }
     ],
-    "timestamp": 1781362662763,
+    "timestamp": 1781362665761,
     "hasLatino": false
   },
   {
@@ -1024,7 +970,7 @@
         ]
       }
     ],
-    "timestamp": 1781362661866,
+    "timestamp": 1781362665146,
     "hasLatino": false
   },
   {
@@ -1403,7 +1349,7 @@
         ]
       }
     ],
-    "timestamp": 1781362663457,
+    "timestamp": 1781362665573,
     "hasLatino": false
   },
   {
@@ -1781,7 +1727,7 @@
         ]
       }
     ],
-    "timestamp": 1781362663000,
+    "timestamp": 1781362665638,
     "hasLatino": false
   },
   {
@@ -129186,11 +129132,7 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [
-      "Deportes",
-      "Shounen",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -129299,7 +129241,13 @@
     "rating": 7.72,
     "studio": "",
     "episodesCount": 12,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Shounen",
+      "Suspenso",
+      "Psicológico"
+    ],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
