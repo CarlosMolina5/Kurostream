@@ -111,7 +111,7 @@
         ]
       }
     ],
-    "timestamp": 1781322220471,
+    "timestamp": 1781322224092,
     "hasLatino": false
   },
   {
@@ -161,7 +161,7 @@
         ]
       }
     ],
-    "timestamp": 1781322220818,
+    "timestamp": 1781322224090,
     "hasLatino": false
   },
   {
@@ -218,7 +218,7 @@
         ]
       }
     ],
-    "timestamp": 1781322221023,
+    "timestamp": 1781322224177,
     "hasLatino": true
   },
   {
@@ -753,7 +753,7 @@
         ]
       }
     ],
-    "timestamp": 1781322221522,
+    "timestamp": 1781322228364,
     "hasLatino": true
   },
   {
@@ -822,7 +822,7 @@
         ]
       }
     ],
-    "timestamp": 1781322220859,
+    "timestamp": 1781322223544,
     "hasLatino": false
   },
   {
@@ -41605,12 +41605,7 @@
     "rating": 6.13,
     "studio": "",
     "episodesCount": 4,
-    "genres": [
-      "Drama",
-      "Romance",
-      "Escolares",
-      "Harem"
-    ],
+    "genres": [],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -77084,7 +77079,10 @@
     "rating": 8.54,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Histórico"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
