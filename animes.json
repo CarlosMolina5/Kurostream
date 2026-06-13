@@ -274,7 +274,7 @@
         ]
       }
     ],
-    "timestamp": 1781364705590,
+    "timestamp": 1781364711547,
     "hasLatino": false
   },
   {
@@ -538,7 +538,7 @@
         ]
       }
     ],
-    "timestamp": 1781364706383,
+    "timestamp": 1781364712161,
     "hasLatino": false
   },
   {
@@ -1070,7 +1070,7 @@
         ]
       }
     ],
-    "timestamp": 1781364707153,
+    "timestamp": 1781364712424,
     "hasLatino": true
   },
   {
@@ -1181,28 +1181,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/sFwEjsEL?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/881e14847ce8937b10d7670c557b895b"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/ydcFlYAL#npB1yYH9MZeAsjiqlxpPNYuC2KfK_02BxHFPflctzJw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-qd2ocl6tia3x.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/w6i7Skig?embed"
           }
         ]
       },
@@ -1383,7 +1361,7 @@
         ]
       }
     ],
-    "timestamp": 1781364706422,
+    "timestamp": 1781364712307,
     "hasLatino": false
   },
   {
@@ -1764,7 +1742,7 @@
         ]
       }
     ],
-    "timestamp": 1781364707000,
+    "timestamp": 1781364712864,
     "hasLatino": false
   },
   {
@@ -117432,15 +117410,7 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Comedia",
-      "Misterio",
-      "Detectives",
-      "Ecchi"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -145040,7 +145010,14 @@
     "rating": 7.08,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Fantasía",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
