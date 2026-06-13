@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781366483507,
+    "timestamp": 1781366488821,
     "hasLatino": false
   },
   {
@@ -91,7 +91,7 @@
         ]
       }
     ],
-    "timestamp": 1781366484306,
+    "timestamp": 1781366488518,
     "hasLatino": false
   },
   {
@@ -383,97 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781366484595,
-    "hasLatino": false
-  },
-  {
-    "id": "ichigo-mashimaro-ova",
-    "title": "Ichigo Mashimaro OVA",
-    "status": "Finalizado",
-    "synopsis": "Basado en la serie de manga de Barasui, Ichigo Mashimaro sigue la vida de Nobue Itou, su hermana menor Chika y sus amigos. La premisa básica del programa se puede resumir en",
-    "poster": "https://cdn.myanimelist.net/images/anime/4/4325l.webp",
-    "cover": "https://cdn.animeando.net/covers/1888.jpg",
-    "banner": "https://cdn.animeando.net/covers/1888.jpg",
-    "type": "OVA",
-    "year": "2007",
-    "rating": 7.65,
-    "studio": "",
-    "episodesCount": 3,
-    "genres": [
-      "Recuentos de la Vida",
-      "Escolares"
-    ],
-    "currentEpisode": 3,
-    "lastEpDate": "Hace un momento",
-    "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/bd537996cdc7315408497244ac9a8ea4"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/vAcmEJxJ#PGqQpoJQNVGUoNyYwGirZIog7LffA35V2Hu6jJNbq18"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-cvt6k9leeinf.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/3uTm3KQj?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/5f1329771d4ef99530065f0c5be3ad87"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/fBEkETxS#iCteeOFuAISKXE_lWabh27c_SxDXFmlb1zYHHYWvI48"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-8d8arlsinr3x.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/MXUE5o9W?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/309f7463e4098ecea25ec03aba82746a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/SQdklJyD#ZpQzJdfFaiDvxvK7wKgWDplI8FZRByA_jcko6dUzTFQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-uw4k3e7djbkb.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/S4rRcFYf?embed"
-          }
-        ]
-      }
-    ],
-    "timestamp": 1781366484238,
+    "timestamp": 1781366489746,
     "hasLatino": false
   },
   {
@@ -1073,7 +983,7 @@
         ]
       }
     ],
-    "timestamp": 1781366485532,
+    "timestamp": 1781366492235,
     "hasLatino": true
   },
   {
@@ -142926,11 +142836,7 @@
     "rating": 6.64,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Comedia",
-      "Fantasía",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
