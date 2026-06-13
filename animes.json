@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "timestamp": 1781368814834,
+    "timestamp": 1781368818303,
     "hasLatino": false
   },
   {
@@ -419,7 +419,7 @@
         ]
       }
     ],
-    "timestamp": 1781368816226,
+    "timestamp": 1781368820157,
     "hasLatino": false
   },
   {
@@ -911,7 +911,7 @@
         ]
       }
     ],
-    "timestamp": 1781368815996,
+    "timestamp": 1781368819239,
     "hasLatino": true
   },
   {
@@ -954,7 +954,7 @@
         ]
       }
     ],
-    "timestamp": 1781368814834,
+    "timestamp": 1781368818138,
     "hasLatino": false
   },
   {
@@ -1250,7 +1250,7 @@
         ]
       }
     ],
-    "timestamp": 1781368815509,
+    "timestamp": 1781368819952,
     "hasLatino": false
   },
   {
@@ -139732,7 +139732,16 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Shoujo",
+      "Artes Marciales",
+      "Histórico",
+      "Isekai"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -162187,11 +162196,7 @@
     "rating": 7.75,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Romance",
-      "Shoujo",
-      "Mahou Shoujo"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
