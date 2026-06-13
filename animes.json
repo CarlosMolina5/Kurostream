@@ -374,7 +374,7 @@
         ]
       }
     ],
-    "timestamp": 1781380118281,
+    "timestamp": 1781380135232,
     "hasLatino": false
   },
   {
@@ -420,7 +420,7 @@
         ]
       }
     ],
-    "timestamp": 1781380109235,
+    "timestamp": 1781380120785,
     "hasLatino": false
   },
   {
@@ -955,7 +955,7 @@
         ]
       }
     ],
-    "timestamp": 1781380118294,
+    "timestamp": 1781380135345,
     "hasLatino": true
   },
   {
@@ -1001,7 +1001,7 @@
         ]
       }
     ],
-    "timestamp": 1781380109448,
+    "timestamp": 1781380122232,
     "hasLatino": false
   },
   {
@@ -1092,7 +1092,7 @@
         ]
       }
     ],
-    "timestamp": 1781380109771,
+    "timestamp": 1781380134803,
     "hasLatino": false
   },
   {
@@ -203895,7 +203895,14 @@
     "rating": 6.28,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Elenco Adulto",
+      "Espacial",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
