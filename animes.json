@@ -24,6 +24,50 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/71b78b39a49d5748533025ea1ab204b5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/JJQhHJTZ#LMwHNiDPnkqArgmKpNcrKEhf4x5ZK0d6b7i4o6c60PU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uke05q19l34v.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/WmBG543C?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e66db5e23162e4c29a4d5ed1c95f638c"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/np5FkCCS#-sDw7Ro1X45srK0zjSGKFoWECewkLDtpekLZfbq5F8s"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-0hw988shbnxs.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/9FvcDWtB?embed"
+          }
+        ]
+      },
+      {
         "num": 3,
         "latino": [],
         "sub": [
@@ -332,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781374894188,
+    "timestamp": 1781374897160,
     "hasLatino": false
   },
   {
@@ -623,7 +667,7 @@
         ]
       }
     ],
-    "timestamp": 1781374893777,
+    "timestamp": 1781374896625,
     "hasLatino": false
   },
   {
@@ -691,24 +735,24 @@
         ]
       },
       {
-        "num": 3,
+        "num": 4,
         "latino": [],
         "sub": [
           {
             "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c1b7710939a462acfd4fddb7ff3a1b23"
+            "url": "https://player.zilla-networks.com/play/23bed9079af6ab5a556592378182a7ef"
           },
           {
             "name": "Mega",
-            "url": "https://mega.nz/embed/iGom0RZI#kxeVWhemIq7quv3CQdteImCK0ONt5kAWqwVABPHtcpo"
+            "url": "https://mega.nz/embed/DTBhnB5R#DK5H_hIDYY_AFbdEfVl_Ds7OmvsPa-I7G1IeOMl8o20"
           },
           {
             "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-t85x8l0niadp.html"
+            "url": "https://www.mp4upload.com/embed-d7hmlcrkp7qs.html"
           },
           {
             "name": "PDrain",
-            "url": "https://pixeldrain.com/u/DViDgVZK?embed"
+            "url": "https://pixeldrain.com/u/zNP3sMGW?embed"
           }
         ]
       },
@@ -731,6 +775,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/whFsuK8e?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ed03773abb51b472dda11ee490e9bba5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/iTIAhZTD#lLIV-9aAynH4gSJPlk_eYGiFbFYUii4h5V5eZMurCHI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-tgrwsftkzl3x.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/T1PkvBHf?embed"
           }
         ]
       },
@@ -955,7 +1021,7 @@
         ]
       }
     ],
-    "timestamp": 1781374894016,
+    "timestamp": 1781374898075,
     "hasLatino": false
   },
   {
@@ -1003,7 +1069,7 @@
         ]
       }
     ],
-    "timestamp": 1781374892634,
+    "timestamp": 1781374894773,
     "hasLatino": false
   },
   {
@@ -1314,7 +1380,7 @@
         ]
       }
     ],
-    "timestamp": 1781374894221,
+    "timestamp": 1781374896672,
     "hasLatino": false
   },
   {
@@ -159885,11 +159951,7 @@
     "rating": 7.3,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
