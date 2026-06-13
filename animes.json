@@ -149,24 +149,6 @@
         "sub": []
       },
       {
-        "num": 8,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/51b8b5b458cff3b602c0588947814e65"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#rc6eb6"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-cv2eh83r972s.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 9,
         "latino": [
           {
@@ -307,7 +289,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362626990,
+    "timestamp": 1781362629126,
     "hasLatino": true
   },
   {
@@ -686,7 +668,7 @@
         ]
       }
     ],
-    "timestamp": 1781362626910,
+    "timestamp": 1781362629268,
     "hasLatino": false
   },
   {
@@ -1024,7 +1006,7 @@
         ]
       }
     ],
-    "timestamp": 1781362626340,
+    "timestamp": 1781362627967,
     "hasLatino": false
   },
   {
@@ -1403,7 +1385,7 @@
         ]
       }
     ],
-    "timestamp": 1781362626572,
+    "timestamp": 1781362628786,
     "hasLatino": false
   },
   {
@@ -1781,7 +1763,7 @@
         ]
       }
     ],
-    "timestamp": 1781362626737,
+    "timestamp": 1781362629221,
     "hasLatino": false
   },
   {
@@ -140311,15 +140293,7 @@
     "rating": 7.77,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Romance",
-      "Shounen",
-      "Artes Marciales",
-      "Ecchi",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -165080,7 +165054,14 @@
     "rating": 7.62,
     "studio": "",
     "episodesCount": 23,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 23,
     "lastEpDate": "Hace un momento",
     "episodes": [
