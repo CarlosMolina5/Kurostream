@@ -61,28 +61,6 @@
         "sub": []
       },
       {
-        "num": 3,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/5b854165c73dee9130275f2d790e7e0b"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/v15wDYTQ#PU7lslSlPBa-TSLP4ztkPIyarA1t4uUHJiUZLCBGH3c"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#lrmnt3"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-x24gdz11alt2.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 4,
         "latino": [
           {
@@ -369,7 +347,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363252632,
+    "timestamp": 1781363255614,
     "hasLatino": true
   },
   {
@@ -473,7 +451,7 @@
         ]
       }
     ],
-    "timestamp": 1781363251201,
+    "timestamp": 1781363254436,
     "hasLatino": false
   },
   {
@@ -567,7 +545,7 @@
         ]
       }
     ],
-    "timestamp": 1781363251002,
+    "timestamp": 1781363254258,
     "hasLatino": false
   },
   {
@@ -850,7 +828,7 @@
         ]
       }
     ],
-    "timestamp": 1781363252146,
+    "timestamp": 1781363255192,
     "hasLatino": false
   },
   {
@@ -895,7 +873,7 @@
         ]
       }
     ],
-    "timestamp": 1781363251818,
+    "timestamp": 1781363254313,
     "hasLatino": false
   },
   {
@@ -149806,7 +149784,10 @@
     "rating": 8.26,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
