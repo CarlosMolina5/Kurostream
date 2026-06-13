@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "timestamp": 1781366651823,
+    "timestamp": 1781366665055,
     "hasLatino": false
   },
   {
@@ -352,7 +352,7 @@
         ]
       }
     ],
-    "timestamp": 1781366661203,
+    "timestamp": 1781366668381,
     "hasLatino": false
   },
   {
@@ -722,7 +722,7 @@
         ]
       }
     ],
-    "timestamp": 1781366654261,
+    "timestamp": 1781366668004,
     "hasLatino": false
   },
   {
@@ -750,6 +750,24 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f0a99bda3f3dbc2efe859234ca4f4747"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fsg72iwwfiza.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/AP443uqS?embed"
+          }
+        ]
+      },
+      {
         "num": 2,
         "latino": [],
         "sub": [
@@ -764,6 +782,24 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/tgZ8JcNf?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/578269524cfeed06fa07db27b6e1bbdb"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-mu6t5zeu1ffv.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/X5JQ6D56?embed"
           }
         ]
       },
@@ -1002,7 +1038,7 @@
         ]
       }
     ],
-    "timestamp": 1781366661195,
+    "timestamp": 1781366669359,
     "hasLatino": false
   },
   {
@@ -1377,7 +1413,7 @@
         ]
       }
     ],
-    "timestamp": 1781366654258,
+    "timestamp": 1781366667351,
     "hasLatino": false
   },
   {
@@ -132013,7 +132049,15 @@
     "rating": 7.04,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Misterio",
+      "Romance",
+      "Detectives",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -146379,14 +146423,7 @@
     "rating": 5.8,
     "studio": "",
     "episodesCount": 5,
-    "genres": [
-      "Ciencia Ficción",
-      "Seinen",
-      "Terror",
-      "Gore",
-      "Mecha",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
