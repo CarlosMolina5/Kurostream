@@ -375,7 +375,7 @@
         ]
       }
     ],
-    "timestamp": 1781379015640,
+    "timestamp": 1781379029030,
     "hasLatino": false
   },
   {
@@ -691,7 +691,7 @@
         ]
       }
     ],
-    "timestamp": 1781379016846,
+    "timestamp": 1781379039237,
     "hasLatino": false
   },
   {
@@ -711,28 +711,6 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/f8e06684ab171a76704798886e5a721c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/IBFxzbRI#YpOInECSXK68WeEq4dRMy8Jmt-u9uieDrupu3uD74Uw"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#6lfbjg"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ja3l3vs7816s.html"
-          }
-        ],
-        "sub": []
-      },
       {
         "num": 2,
         "latino": [
@@ -1064,7 +1042,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781379027609,
+    "timestamp": 1781379039232,
     "hasLatino": true
   },
   {
@@ -1225,7 +1203,7 @@
         ]
       }
     ],
-    "timestamp": 1781379013080,
+    "timestamp": 1781379016422,
     "hasLatino": false
   },
   {
@@ -1603,7 +1581,7 @@
         ]
       }
     ],
-    "timestamp": 1781379016857,
+    "timestamp": 1781379043289,
     "hasLatino": false
   },
   {
@@ -221997,7 +221975,10 @@
     "rating": 6.48,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Espacial"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
