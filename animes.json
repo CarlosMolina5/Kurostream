@@ -307,7 +307,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362682269,
+    "timestamp": 1781362684527,
     "hasLatino": true
   },
   {
@@ -462,50 +462,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/FiUu4R7f?embed"
-          }
-        ]
-      },
-      {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/7ae8d21a21efed4b63f98f1e5b098d42"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CIcDESAB#ZloCX-rB2yexl3G5jZ2UQ9Y8LBHTp041Uu7PaMGkVlA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-yo5t55bnvw4a.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/hgfaNZdF?embed"
-          }
-        ]
-      },
-      {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/760a938f495ca60e59ec66d6515b6134"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/DMMAEaxa#4NImsDdJ5fdMmn1QG1PbFtBZKgeO96HdLVXckuHOOro"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-nx2tk7svirhy.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/7BJEqEop?embed"
           }
         ]
       },
@@ -686,7 +642,7 @@
         ]
       }
     ],
-    "timestamp": 1781362682355,
+    "timestamp": 1781362684363,
     "hasLatino": false
   },
   {
@@ -708,7 +664,7 @@
       "Parodia",
       "Vampiros"
     ],
-    "currentEpisode": 12,
+    "currentEpisode": 10,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -970,61 +926,9 @@
             "url": "https://pixeldrain.com/u/F8R3f8dC?embed"
           }
         ]
-      },
-      {
-        "num": 11,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d4b24d844b68f781abda4de362813e4b"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/T8BwHaJA#8OvIdyOxszSIHS6wmjxeTvf3im0W-P1qqL4bgv54I0E"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#6pyael"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-q3b6eqz0t2kq.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/JaK6jXtZ?embed"
-          }
-        ]
-      },
-      {
-        "num": 12,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/257634662ea36cfbf48b0f7962af191c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/3xgzXIga#SGL5Oe5eTI0sN5YBUqci4EGvGTu3dCEQqNgI_BZYJFs"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#e9xzso"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-xnh3cteqg6qn.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/knkCs2AJ?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781362681416,
+    "timestamp": 1781362683560,
     "hasLatino": false
   },
   {
@@ -1403,7 +1307,7 @@
         ]
       }
     ],
-    "timestamp": 1781362682085,
+    "timestamp": 1781362684557,
     "hasLatino": false
   },
   {
@@ -1781,7 +1685,7 @@
         ]
       }
     ],
-    "timestamp": 1781362681889,
+    "timestamp": 1781362684903,
     "hasLatino": false
   },
   {
@@ -126246,7 +126150,16 @@
     "rating": 7.7,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Romance",
+      "Elenco Adulto",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -143780,13 +143693,7 @@
     "rating": 9.02,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
