@@ -153,6 +153,50 @@
         ]
       },
       {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3c9628d30f76fb5333a491d04ab22bb7"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#pox61c"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-x6ibhwo4gi49.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ondeoGSJ?embed"
+          }
+        ]
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8a97d042964c8d94797010c5a38318bf"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#gswftn"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lu2chvpvwubs.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/MDZ2khF3?embed"
+          }
+        ]
+      },
+      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -329,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781366183894,
+    "timestamp": 1781366196480,
     "hasLatino": false
   },
   {
@@ -538,7 +582,7 @@
         ]
       }
     ],
-    "timestamp": 1781366183187,
+    "timestamp": 1781366185311,
     "hasLatino": false
   },
   {
@@ -874,7 +918,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781366184085,
+    "timestamp": 1781366196480,
     "hasLatino": true
   },
   {
@@ -1162,7 +1206,7 @@
         ]
       }
     ],
-    "timestamp": 1781366183830,
+    "timestamp": 1781366186016,
     "hasLatino": false
   },
   {
@@ -1541,7 +1585,7 @@
         ]
       }
     ],
-    "timestamp": 1781366183632,
+    "timestamp": 1781366186582,
     "hasLatino": false
   },
   {
@@ -138006,11 +138050,7 @@
     "rating": 7.63,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Romance",
-      "Shoujo",
-      "Mahou Shoujo"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -167529,7 +167569,10 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
