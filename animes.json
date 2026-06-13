@@ -313,7 +313,7 @@
         ]
       }
     ],
-    "timestamp": 1781370946537,
+    "timestamp": 1781370952928,
     "hasLatino": false
   },
   {
@@ -425,7 +425,7 @@
         ]
       }
     ],
-    "timestamp": 1781370945565,
+    "timestamp": 1781370951700,
     "hasLatino": false
   },
   {
@@ -485,7 +485,7 @@
         ]
       }
     ],
-    "timestamp": 1781370945763,
+    "timestamp": 1781370951896,
     "hasLatino": false
   },
   {
@@ -533,7 +533,7 @@
         ]
       }
     ],
-    "timestamp": 1781370945466,
+    "timestamp": 1781370951100,
     "hasLatino": false
   },
   {
@@ -556,6 +556,28 @@
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/808b2836cd8437de994d9f2f9e7db6f4"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6QdiVZRB#ACT5BVnQA1NFcpGZVzm8D-wo_JuzN2mXvJiGPLQiWEI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-olthaxv1bh7x.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/2sNfNQE9?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -623,7 +645,7 @@
         ]
       }
     ],
-    "timestamp": 1781370945437,
+    "timestamp": 1781370951467,
     "hasLatino": false
   },
   {
@@ -148355,16 +148377,7 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Misterio",
-      "Seinen",
-      "Sobrenatural",
-      "Terror",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -185146,7 +185159,15 @@
     "rating": 7.96,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Shounen",
+      "Artes Marciales",
+      "Gore",
+      "Superpoderes"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
