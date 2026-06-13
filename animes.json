@@ -369,7 +369,7 @@
         ]
       }
     ],
-    "timestamp": 1781319647017,
+    "timestamp": 1781319669689,
     "hasLatino": false
   },
   {
@@ -745,7 +745,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781319652249,
+    "timestamp": 1781319668744,
     "hasLatino": true
   },
   {
@@ -788,7 +788,7 @@
         ]
       }
     ],
-    "timestamp": 1781319652249,
+    "timestamp": 1781319662935,
     "hasLatino": false
   },
   {
@@ -1322,7 +1322,7 @@
         ]
       }
     ],
-    "timestamp": 1781319644043,
+    "timestamp": 1781319665521,
     "hasLatino": true
   },
   {
@@ -1658,7 +1658,7 @@
         ]
       }
     ],
-    "timestamp": 1781319645070,
+    "timestamp": 1781319663704,
     "hasLatino": false
   },
   {
@@ -67602,13 +67602,7 @@
     "rating": 7.26,
     "studio": "",
     "episodesCount": 7,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Elenco Adulto",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
