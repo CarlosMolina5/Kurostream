@@ -375,7 +375,7 @@
         ]
       }
     ],
-    "timestamp": 1781368050728,
+    "timestamp": 1781368053376,
     "hasLatino": false
   },
   {
@@ -653,7 +653,7 @@
         ]
       }
     ],
-    "timestamp": 1781368050061,
+    "timestamp": 1781368053136,
     "hasLatino": false
   },
   {
@@ -763,28 +763,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/XpZXT1JF?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/3e7d52e3c827316b6765ec43c9b1a3e2"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/rQUQyCYK#0x-KkUtRLkAkUc-rNUBOyWVbKrRfoHIoz9O1wleWB3s"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ubqt864q9nz5.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/YgonCWAT?embed"
           }
         ]
       },
@@ -943,7 +921,7 @@
         ]
       }
     ],
-    "timestamp": 1781368049257,
+    "timestamp": 1781368054793,
     "hasLatino": false
   },
   {
@@ -1103,7 +1081,7 @@
         ]
       }
     ],
-    "timestamp": 1781368047982,
+    "timestamp": 1781368052651,
     "hasLatino": false
   },
   {
@@ -1235,7 +1213,7 @@
         ]
       }
     ],
-    "timestamp": 1781368047391,
+    "timestamp": 1781368052382,
     "hasLatino": false
   },
   {
@@ -140482,7 +140460,14 @@
     "rating": 7.34,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Espacial",
+      "Mecha"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
