@@ -286,7 +286,7 @@
         ]
       }
     ],
-    "timestamp": 1781365645093,
+    "timestamp": 1781365650011,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781365644236,
+    "timestamp": 1781365648964,
     "hasLatino": false
   },
   {
@@ -408,6 +408,45 @@
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1b4389cd8304f8502e918dbb92f62b2f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/KB8hRTRI#-7gyHHgEkCclrj7MrgkrPSvfh0IfI8vUui1GM1j4FOw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-rccncrvvaiyg.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wWYJHqZ2?embed"
+          }
+        ],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/364783a8161b490dc66ec2ff38f4c814"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/nJkQEZDI#dN-gM_UKKbT-mAZ3WVb39ljA011tV_i--Q7U1KvvR0Q"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-hs4fsuaj9ule.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/rcGU4dV4?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [
@@ -565,7 +604,7 @@
         ]
       }
     ],
-    "timestamp": 1781365643706,
+    "timestamp": 1781365649757,
     "hasLatino": true
   },
   {
@@ -700,7 +739,7 @@
         ]
       }
     ],
-    "timestamp": 1781365644224,
+    "timestamp": 1781365649648,
     "hasLatino": false
   },
   {
@@ -770,7 +809,7 @@
         ]
       }
     ],
-    "timestamp": 1781365644450,
+    "timestamp": 1781365648944,
     "hasLatino": false
   },
   {
@@ -125022,11 +125061,7 @@
     "rating": 7.47,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -179402,7 +179437,11 @@
     "rating": 8.34,
     "studio": "",
     "episodesCount": 40,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 40,
     "lastEpDate": "Hace un momento",
     "episodes": [
