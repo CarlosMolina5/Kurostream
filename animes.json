@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363439774,
+    "timestamp": 1781363442694,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363438523,
+    "timestamp": 1781363441403,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363438895,
+    "timestamp": 1781363441389,
     "hasLatino": false
   },
   {
@@ -591,28 +591,6 @@
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/392971dc157f41f9adeaa0fdc32e51e0"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/iVkQCIQD#5f6G-u9El7FurJ41Wgix-B3Etjfqmcv0zZTtqvSH6-0"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-b9rtumftio87.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/c7agpj6q?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -850,52 +828,7 @@
         ]
       }
     ],
-    "timestamp": 1781363439819,
-    "hasLatino": false
-  },
-  {
-    "id": "full-metal-panic-the-second-raid-wari-to-hima-na-sentaichou-no-ichinichi",
-    "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
-    "status": "Finalizado",
-    "synopsis": "En su día libre, Tessa se despierta en su silla de comandante. Después de recuperar la compostura, se da cuenta de que su peluche favorito está desaparecido y trata de recordar qué sucedió realmente la noche anterior. Para hacerlo, pasará tiempo con todos los personajes principales de la tripulación Danaan y, eventualmente, recordará los acontecimientos de la noche anterior.",
-    "poster": "https://cdn.myanimelist.net/images/anime/3/23458l.jpg",
-    "cover": "https://cdn.animeando.net/covers/1015.jpg",
-    "banner": "https://cdn.animeando.net/covers/1015.jpg",
-    "type": "Especial",
-    "year": "2006",
-    "rating": 7.64,
-    "studio": "",
-    "episodesCount": 1,
-    "genres": [
-      "Comedia"
-    ],
-    "currentEpisode": 1,
-    "lastEpDate": "Hace un momento",
-    "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/69efbf4d6bbbb1a5ad0fd8a2621373f3"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/qnQESAhY#Soy2Rhha4Qo0YBhratlSgFHBImDJe-nDYS6R89EJgSk"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-pvan2qbnu0f8.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/98yXqTyY?embed"
-          }
-        ]
-      }
-    ],
-    "timestamp": 1781363438399,
+    "timestamp": 1781363441834,
     "hasLatino": false
   },
   {
