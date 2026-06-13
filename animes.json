@@ -286,7 +286,7 @@
         ]
       }
     ],
-    "timestamp": 1781365632473,
+    "timestamp": 1781365635827,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781365632214,
+    "timestamp": 1781365634808,
     "hasLatino": false
   },
   {
@@ -604,7 +604,7 @@
         ]
       }
     ],
-    "timestamp": 1781365631691,
+    "timestamp": 1781365634447,
     "hasLatino": true
   },
   {
@@ -739,7 +739,7 @@
         ]
       }
     ],
-    "timestamp": 1781365632055,
+    "timestamp": 1781365634286,
     "hasLatino": false
   },
   {
@@ -761,7 +761,7 @@
       "Seinen",
       "Sobrenatural"
     ],
-    "currentEpisode": 2,
+    "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -785,31 +785,9 @@
             "url": "https://pixeldrain.com/u/L6hEuCqc?embed"
           }
         ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/581d70f1f05776c385a64ca728f1b9a0"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/gt4imYpY#ZJ3oD1cCDG1VsxGbgY_0jG4DL7WFNkBh9l93J4Aghz8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-nzn31qlkrgcp.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/HVQg2oFd?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781365631367,
+    "timestamp": 1781365634398,
     "hasLatino": false
   },
   {
@@ -154790,7 +154768,14 @@
     "rating": 6.79,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -157511,13 +157496,7 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
