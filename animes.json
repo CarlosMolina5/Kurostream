@@ -1,97 +1,5 @@
 [
   {
-    "id": "kidou-senshi-gundam-ms-igloo-mokushiroku-0079",
-    "title": "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079",
-    "status": "Finalizado",
-    "synopsis": "El teniente Oliver May y la Unidad de la División Técnica 603 a bordo del Jotunheim continúan probando y evaluando armas experimentales para ayudar al esfuerzo bélico de Zeon contra las Fuerzas de la Federación. Al final de cada experimento, la historia de las pruebas y tribulaciones enfrentadas por el arma y su piloto de pruebas añade un pequeño capítulo a la larga historia de la Guerra de Un Año.",
-    "poster": "https://cdn.myanimelist.net/images/anime/8/11823l.webp",
-    "cover": "https://cdn.animeando.net/covers/1916.jpg",
-    "banner": "https://cdn.animeando.net/covers/1916.jpg",
-    "type": "OVA",
-    "year": "2006",
-    "rating": 6.66,
-    "studio": "",
-    "episodesCount": 3,
-    "genres": [
-      "Ciencia Ficción",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
-    "currentEpisode": 3,
-    "lastEpDate": "Hace un momento",
-    "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d2bea97bd600aded7f83ad8a66eaefb8"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/aBsSkSwa#yJrNLkCMFy65V5n55ACG42CE5D971dpyoFe0V22aQMY"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-xluee0s46qeg.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/PkK4WYo6?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4ccbfe880053edac5f506d5df46c6075"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/3NsmzYbZ#4fQO-iKqMWwea3UiI22tmEswAaFvFhY-Ewn00I7pFfA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-vin67w2nsqxv.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/8RbXhaM4?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/97aae7f9c16ab8f0324e9eb0e29eb6b2"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/fREh3AzB#W5xa-cbv4g6VhY_GPy-J0GEb5il_SvwtMkzNu5l_yIQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-v7lqkdgnn0qk.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/qFwNjGsn?embed"
-          }
-        ]
-      }
-    ],
-    "timestamp": 1781363139539,
-    "hasLatino": false
-  },
-  {
     "id": "black-lagoon",
     "title": "Black Lagoon",
     "status": "Finalizado",
@@ -333,28 +241,6 @@
         ]
       },
       {
-        "num": 11,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/d01ab3a5b863924b03dbd04541a35c13"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/724xQCTQ#HuptOFTnHcKL0TL4Zm2KcKo4CvWrkgHPENnn6pLeQkk"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-u6j5sjrym914.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/KJytcs2x?embed"
-          }
-        ]
-      },
-      {
         "num": 12,
         "latino": [],
         "sub": [
@@ -377,7 +263,7 @@
         ]
       }
     ],
-    "timestamp": 1781363141397,
+    "timestamp": 1781363166302,
     "hasLatino": false
   },
   {
@@ -1028,7 +914,7 @@
         ]
       }
     ],
-    "timestamp": 1781363141683,
+    "timestamp": 1781363166620,
     "hasLatino": true
   },
   {
@@ -1407,7 +1293,7 @@
         ]
       }
     ],
-    "timestamp": 1781363163492,
+    "timestamp": 1781363166853,
     "hasLatino": false
   },
   {
@@ -1784,7 +1670,7 @@
         ]
       }
     ],
-    "timestamp": 1781363141675,
+    "timestamp": 1781363167056,
     "hasLatino": false
   },
   {
@@ -145415,7 +145301,11 @@
     "rating": 6.86,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -145475,13 +145365,7 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
