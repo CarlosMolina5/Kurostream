@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781374983032,
+    "timestamp": 1781374991216,
     "hasLatino": false
   },
   {
@@ -579,6 +579,28 @@
         ]
       },
       {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/863e124174df40996073e631d998a37e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/dNFyTLbI#hLwEbeHMqF07zqqyscpD5LEeRV_VEjh8OlCFexuZxjE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-54nka9oa6qny.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/UbFkLtrd?embed"
+          }
+        ]
+      },
+      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -645,7 +667,7 @@
         ]
       }
     ],
-    "timestamp": 1781374981294,
+    "timestamp": 1781374990695,
     "hasLatino": false
   },
   {
@@ -1021,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781374981781,
+    "timestamp": 1781374991538,
     "hasLatino": false
   },
   {
@@ -1069,7 +1091,7 @@
         ]
       }
     ],
-    "timestamp": 1781374979873,
+    "timestamp": 1781374988938,
     "hasLatino": false
   },
   {
@@ -1380,7 +1402,7 @@
         ]
       }
     ],
-    "timestamp": 1781374981768,
+    "timestamp": 1781374991204,
     "hasLatino": false
   },
   {
@@ -176905,17 +176927,7 @@
     "rating": 6.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Misterio",
-      "Romance",
-      "Seinen",
-      "Sobrenatural",
-      "Terror",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -195512,7 +195524,14 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Shounen",
+      "Escolares",
+      "Superpoderes"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
