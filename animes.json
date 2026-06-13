@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781374905221,
+    "timestamp": 1781374908203,
     "hasLatino": false
   },
   {
@@ -667,7 +667,7 @@
         ]
       }
     ],
-    "timestamp": 1781374904345,
+    "timestamp": 1781374906330,
     "hasLatino": false
   },
   {
@@ -775,28 +775,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/zNP3sMGW?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/51a10dbfa9d68950b43468148ab41881"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/jSIhwYYZ#LSGUvcD9y9htIRKrKBVlFeXGOuCn4DprQpfUH5B8MO0"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-gon7dpld5eet.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/whFsuK8e?embed"
           }
         ]
       },
@@ -1043,7 +1021,7 @@
         ]
       }
     ],
-    "timestamp": 1781374905142,
+    "timestamp": 1781374906585,
     "hasLatino": false
   },
   {
@@ -1091,7 +1069,7 @@
         ]
       }
     ],
-    "timestamp": 1781374902781,
+    "timestamp": 1781374904332,
     "hasLatino": false
   },
   {
@@ -1402,7 +1380,7 @@
         ]
       }
     ],
-    "timestamp": 1781374904757,
+    "timestamp": 1781374905777,
     "hasLatino": false
   },
   {
@@ -176927,7 +176905,17 @@
     "rating": 6.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Romance",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
