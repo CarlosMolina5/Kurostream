@@ -375,7 +375,7 @@
         ]
       }
     ],
-    "timestamp": 1781324865441,
+    "timestamp": 1781324868530,
     "hasLatino": false
   },
   {
@@ -417,7 +417,7 @@
         ]
       }
     ],
-    "timestamp": 1781324864038,
+    "timestamp": 1781324865970,
     "hasLatino": false
   },
   {
@@ -627,7 +627,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781324865498,
+    "timestamp": 1781324868282,
     "hasLatino": true
   },
   {
@@ -687,7 +687,7 @@
         ]
       }
     ],
-    "timestamp": 1781324863913,
+    "timestamp": 1781324866218,
     "hasLatino": true
   },
   {
@@ -824,7 +824,7 @@
         ]
       }
     ],
-    "timestamp": 1781324864037,
+    "timestamp": 1781324866425,
     "hasLatino": false
   },
   {
@@ -45610,7 +45610,12 @@
     "rating": 7.55,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shounen",
+      "Histórico",
+      "Samurai"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -47415,11 +47420,7 @@
     "rating": 7.1,
     "studio": "",
     "episodesCount": 14,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 14,
     "lastEpDate": "Hace un momento",
     "episodes": [
