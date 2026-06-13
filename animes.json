@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "timestamp": 1781325325190,
+    "timestamp": 1781325330039,
     "hasLatino": false
   },
   {
@@ -734,7 +734,7 @@
         ]
       }
     ],
-    "timestamp": 1781325325117,
+    "timestamp": 1781325329311,
     "hasLatino": false
   },
   {
@@ -1115,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781325324770,
+    "timestamp": 1781325329075,
     "hasLatino": false
   },
   {
@@ -1161,7 +1161,7 @@
         ]
       }
     ],
-    "timestamp": 1781325322722,
+    "timestamp": 1781325326793,
     "hasLatino": false
   },
   {
@@ -1208,7 +1208,7 @@
         ]
       }
     ],
-    "timestamp": 1781325322721,
+    "timestamp": 1781325326822,
     "hasLatino": false
   },
   {
@@ -61380,7 +61380,16 @@
     "rating": 7.49,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Romance",
+      "Shoujo",
+      "Isekai",
+      "Mahou Shoujo",
+      "Mecha"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -90087,14 +90096,7 @@
     "rating": 7.35,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Drama",
-      "Fantasía",
-      "Misterio",
-      "Antropomórfico",
-      "Histórico",
-      "Infantil"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
