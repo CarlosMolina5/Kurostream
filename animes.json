@@ -288,7 +288,7 @@
         ]
       }
     ],
-    "timestamp": 1781373494531,
+    "timestamp": 1781373500625,
     "hasLatino": false
   },
   {
@@ -598,7 +598,7 @@
         ]
       }
     ],
-    "timestamp": 1781373494409,
+    "timestamp": 1781373500924,
     "hasLatino": false
   },
   {
@@ -686,6 +686,50 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/Dm2PSPyX?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3f3283d13d04029f5243643ed7a954c2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/NU5RwKKA#Wj8EG0FPTCXiu55x-FgZcPYYQ57YnFaYULC2htOiDOg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-94xdf5fxtwl2.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/BRGmkM9N?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1f0e96292a621c27b9d80fce0925d4c1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/AQRxlATS#KRk7gaRv-nBKmR26xrlWQhFIvTPm5ls6LEKj4v100bU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fkx7xf2wlcn4.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/CAMusPhJ?embed"
           }
         ]
       },
@@ -866,7 +910,7 @@
         ]
       }
     ],
-    "timestamp": 1781373494585,
+    "timestamp": 1781373500653,
     "hasLatino": false
   },
   {
@@ -1159,7 +1203,7 @@
         ]
       }
     ],
-    "timestamp": 1781373494139,
+    "timestamp": 1781373499555,
     "hasLatino": false
   },
   {
@@ -1446,7 +1490,7 @@
         ]
       }
     ],
-    "timestamp": 1781373493418,
+    "timestamp": 1781373499848,
     "hasLatino": false
   },
   {
@@ -190005,7 +190049,12 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -192527,10 +192576,7 @@
     "rating": 8.26,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
