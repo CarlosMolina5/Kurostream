@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378787774,
+    "timestamp": 1781378794179,
     "hasLatino": false
   },
   {
@@ -482,6 +482,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/bAyF4bn2?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4bc5208b3c2278f92856c9e8c0ce262a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/65IHFRCQ#4LJLoH7X0nMnhEgVlcBnD-oWWZhMpYWF8opIbnCgIF8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-gabjvuuaks2v.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/aa8nkpBM?embed"
           }
         ]
       },
@@ -684,7 +706,7 @@
         ]
       }
     ],
-    "timestamp": 1781378784416,
+    "timestamp": 1781378793388,
     "hasLatino": false
   },
   {
@@ -1061,7 +1083,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378786392,
+    "timestamp": 1781378794179,
     "hasLatino": true
   },
   {
@@ -1351,7 +1373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378783948,
+    "timestamp": 1781378793608,
     "hasLatino": false
   },
   {
@@ -1661,7 +1683,7 @@
         ]
       }
     ],
-    "timestamp": 1781378784989,
+    "timestamp": 1781378802227,
     "hasLatino": false
   },
   {
@@ -173833,11 +173855,7 @@
     "rating": 7.3,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -178841,7 +178859,12 @@
     "rating": 7.01,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen",
+      "Mecha"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
