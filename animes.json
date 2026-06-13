@@ -313,7 +313,7 @@
         ]
       }
     ],
-    "timestamp": 1781370926478,
+    "timestamp": 1781370929608,
     "hasLatino": false
   },
   {
@@ -333,7 +333,7 @@
       "Comedia",
       "Ecchi"
     ],
-    "currentEpisode": 4,
+    "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -379,53 +379,9 @@
             "url": "https://pixeldrain.com/u/TTvWDY9j?embed"
           }
         ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/6cd35acb3f12d12a434bdf972f6f3779"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/zJlTTDbR#GbVO13lJlxLXaYQAQCfdoU39sdMYCpDWXuky3EdW_sY"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-lgt19xy7cmzk.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/T3bZANzY?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/de3889cc6430b45f3a76f03dd98ef742"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CR8RRSyZ#aj2bRu26Hb0xVYTd4V0xFZdGbtydGuaDPpTGkLx_boE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-f6ydchs0aeyz.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/BxYpYc69?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781370925257,
+    "timestamp": 1781370928103,
     "hasLatino": false
   },
   {
@@ -485,7 +441,7 @@
         ]
       }
     ],
-    "timestamp": 1781370925239,
+    "timestamp": 1781370928103,
     "hasLatino": false
   },
   {
@@ -533,7 +489,7 @@
         ]
       }
     ],
-    "timestamp": 1781370925421,
+    "timestamp": 1781370928103,
     "hasLatino": false
   },
   {
@@ -645,7 +601,7 @@
         ]
       }
     ],
-    "timestamp": 1781370925943,
+    "timestamp": 1781370928311,
     "hasLatino": false
   },
   {
@@ -185159,15 +185115,7 @@
     "rating": 7.96,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Shounen",
-      "Artes Marciales",
-      "Gore",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
