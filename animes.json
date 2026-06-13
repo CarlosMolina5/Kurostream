@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "timestamp": 1781357546067,
+    "timestamp": 1781357548697,
     "hasLatino": false
   },
   {
@@ -85,7 +85,7 @@
         ]
       }
     ],
-    "timestamp": 1781357545567,
+    "timestamp": 1781357548914,
     "hasLatino": false
   },
   {
@@ -401,7 +401,7 @@
         ]
       }
     ],
-    "timestamp": 1781357547155,
+    "timestamp": 1781357550283,
     "hasLatino": false
   },
   {
@@ -774,7 +774,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781357548710,
+    "timestamp": 1781357550444,
     "hasLatino": true
   },
   {
@@ -1063,7 +1063,7 @@
         ]
       }
     ],
-    "timestamp": 1781357546805,
+    "timestamp": 1781357549595,
     "hasLatino": false
   },
   {
@@ -116855,7 +116855,13 @@
     "rating": 7.35,
     "studio": "",
     "episodesCount": 8,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 8,
     "lastEpDate": "Hace un momento",
     "episodes": [
