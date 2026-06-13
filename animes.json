@@ -68,7 +68,7 @@
         ]
       }
     ],
-    "timestamp": 1781326319055,
+    "timestamp": 1781326324169,
     "hasLatino": false
   },
   {
@@ -381,7 +381,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781326321324,
+    "timestamp": 1781326325594,
     "hasLatino": true
   },
   {
@@ -490,7 +490,7 @@
         ]
       }
     ],
-    "timestamp": 1781326318861,
+    "timestamp": 1781326324686,
     "hasLatino": false
   },
   {
@@ -539,7 +539,7 @@
         ]
       }
     ],
-    "timestamp": 1781326319277,
+    "timestamp": 1781326324408,
     "hasLatino": false
   },
   {
@@ -586,7 +586,7 @@
         ]
       }
     ],
-    "timestamp": 1781326318861,
+    "timestamp": 1781326324397,
     "hasLatino": false
   },
   {
@@ -55930,7 +55930,12 @@
     "rating": 8.23,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Escolares",
+      "Mahou Shoujo",
+      "Psicológico"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -73481,15 +73486,7 @@
     "rating": 7.58,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Romance",
-      "Artes Marciales",
-      "Espacial",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
