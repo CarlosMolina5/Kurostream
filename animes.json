@@ -286,7 +286,7 @@
         ]
       }
     ],
-    "timestamp": 1781365685776,
+    "timestamp": 1781365692961,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781365690547,
+    "timestamp": 1781365692410,
     "hasLatino": false
   },
   {
@@ -604,7 +604,7 @@
         ]
       }
     ],
-    "timestamp": 1781365685356,
+    "timestamp": 1781365692658,
     "hasLatino": true
   },
   {
@@ -628,28 +628,6 @@
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ada8865a750c548cf2172abe66bbf101"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/bI0QWCoZ#t3XxfIgFKG3dMSHsSAptutt1BvgvkikYWCoj4Uxuph4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-j4bhuporxpt2.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/AmG4v7qA?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -695,28 +673,6 @@
         ]
       },
       {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/bea47b1de82e50e3f493789506e46872"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/CcVD1aLB#8195ZOyVC_17NFCLNeUG2BId8dnp-wEWepygwNODNfk"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-h8nwy7ao7f06.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/cWEL1Jfa?embed"
-          }
-        ]
-      },
-      {
         "num": 5,
         "latino": [],
         "sub": [
@@ -739,7 +695,7 @@
         ]
       }
     ],
-    "timestamp": 1781365684987,
+    "timestamp": 1781365692033,
     "hasLatino": false
   },
   {
@@ -761,7 +717,7 @@
       "Seinen",
       "Sobrenatural"
     ],
-    "currentEpisode": 2,
+    "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -785,31 +741,9 @@
             "url": "https://pixeldrain.com/u/L6hEuCqc?embed"
           }
         ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/581d70f1f05776c385a64ca728f1b9a0"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/gt4imYpY#ZJ3oD1cCDG1VsxGbgY_0jG4DL7WFNkBh9l93J4Aghz8"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-nzn31qlkrgcp.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/HVQg2oFd?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781365684778,
+    "timestamp": 1781365691896,
     "hasLatino": false
   },
   {
@@ -125104,7 +125038,10 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
