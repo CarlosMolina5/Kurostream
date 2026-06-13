@@ -153,50 +153,6 @@
         ]
       },
       {
-        "num": 7,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/3c9628d30f76fb5333a491d04ab22bb7"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#pox61c"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-x6ibhwo4gi49.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ondeoGSJ?embed"
-          }
-        ]
-      },
-      {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/8a97d042964c8d94797010c5a38318bf"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#gswftn"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-lu2chvpvwubs.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/MDZ2khF3?embed"
-          }
-        ]
-      },
-      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -373,7 +329,7 @@
         ]
       }
     ],
-    "timestamp": 1781366180229,
+    "timestamp": 1781366183894,
     "hasLatino": false
   },
   {
@@ -582,7 +538,7 @@
         ]
       }
     ],
-    "timestamp": 1781366178501,
+    "timestamp": 1781366183187,
     "hasLatino": false
   },
   {
@@ -632,6 +588,28 @@
         "sub": []
       },
       {
+        "num": 2,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/156a529ab976062140a211db0f1e507b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/uIkRFTiT#qXivPN1o2tagTIdferYhawdVbVMhgNjGmcW84ZN0wxM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uma71fp65meq.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/XHRjctQX?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 3,
         "latino": [
           {
@@ -671,6 +649,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/19r3Jtbm?embed"
+          }
+        ],
+        "sub": []
+      },
+      {
+        "num": 5,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1aa3d59da6a12f5300eced501c0feae3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/HNdGDaTb#kisJkY9J7itStSX3AfkB2Q_uGdtjzs-xEWm3XrX0B0A"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-qan3eiagtozy.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/pa3TfUrv?embed"
           }
         ],
         "sub": []
@@ -874,7 +874,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781366179730,
+    "timestamp": 1781366184085,
     "hasLatino": true
   },
   {
@@ -1162,7 +1162,7 @@
         ]
       }
     ],
-    "timestamp": 1781366179252,
+    "timestamp": 1781366183830,
     "hasLatino": false
   },
   {
@@ -1541,7 +1541,7 @@
         ]
       }
     ],
-    "timestamp": 1781366179703,
+    "timestamp": 1781366183632,
     "hasLatino": false
   },
   {
@@ -138006,7 +138006,11 @@
     "rating": 7.63,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -158543,10 +158547,7 @@
     "rating": 8.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Sobrenatural"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
