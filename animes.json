@@ -307,7 +307,7 @@
         ]
       }
     ],
-    "timestamp": 1781359445279,
+    "timestamp": 1781359451009,
     "hasLatino": false
   },
   {
@@ -687,7 +687,7 @@
         ]
       }
     ],
-    "timestamp": 1781359445671,
+    "timestamp": 1781359450573,
     "hasLatino": false
   },
   {
@@ -1129,7 +1129,7 @@
         ]
       }
     ],
-    "timestamp": 1781359445933,
+    "timestamp": 1781359450763,
     "hasLatino": false
   },
   {
@@ -1780,7 +1780,7 @@
         ]
       }
     ],
-    "timestamp": 1781359445594,
+    "timestamp": 1781359450905,
     "hasLatino": true
   },
   {
@@ -2131,7 +2131,7 @@
         ]
       }
     ],
-    "timestamp": 1781359445346,
+    "timestamp": 1781359451009,
     "hasLatino": false
   },
   {
@@ -118261,7 +118261,14 @@
     "rating": 6.68,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Seinen",
+      "Ecchi",
+      "Gore"
+    ],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -141815,14 +141822,7 @@
     "rating": 7.77,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
