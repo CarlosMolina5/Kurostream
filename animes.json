@@ -64,7 +64,7 @@
         ]
       }
     ],
-    "timestamp": 1781370188804,
+    "timestamp": 1781370202367,
     "hasLatino": false
   },
   {
@@ -442,7 +442,7 @@
         ]
       }
     ],
-    "timestamp": 1781370198120,
+    "timestamp": 1781370203835,
     "hasLatino": false
   },
   {
@@ -552,28 +552,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/1e7cQc6S?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c69c2551f01fea90902a7ef03c71cd64"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/PVtHTS4A#auh_kioCM2y2M7173gKbt-JMGPPXHH_mZC8K7PX9vOQ"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-rbdjdpx97ifd.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/mnCo9daN?embed"
           }
         ]
       },
@@ -754,7 +732,7 @@
         ]
       }
     ],
-    "timestamp": 1781370192739,
+    "timestamp": 1781370205377,
     "hasLatino": false
   },
   {
@@ -1040,7 +1018,7 @@
         ]
       }
     ],
-    "timestamp": 1781370191742,
+    "timestamp": 1781370202962,
     "hasLatino": false
   },
   {
@@ -1088,7 +1066,7 @@
         ]
       }
     ],
-    "timestamp": 1781370189171,
+    "timestamp": 1781370201766,
     "hasLatino": false
   },
   {
@@ -175496,15 +175474,7 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -195945,7 +195915,12 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Ecchi",
+      "Escolares"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
