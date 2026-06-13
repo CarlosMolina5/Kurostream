@@ -373,7 +373,7 @@
         ]
       }
     ],
-    "timestamp": 1781378806905,
+    "timestamp": 1781378826789,
     "hasLatino": false
   },
   {
@@ -706,7 +706,7 @@
         ]
       }
     ],
-    "timestamp": 1781378802477,
+    "timestamp": 1781378819048,
     "hasLatino": false
   },
   {
@@ -1083,7 +1083,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781378826819,
+    "timestamp": 1781378825231,
     "hasLatino": true
   },
   {
@@ -1171,28 +1171,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/M61xP3Do?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/1d4887da36bd4fd41ec9e1b1aefd6b0f"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/jEc2wB7Y#qrBqGsOB7EeJL6eq9abncR__j6rfKmjxVAJ41vXft-4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-5km602o4nevk.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/hD8wA8Pb?embed"
           }
         ]
       },
@@ -1373,7 +1351,7 @@
         ]
       }
     ],
-    "timestamp": 1781378802095,
+    "timestamp": 1781378824783,
     "hasLatino": false
   },
   {
@@ -1683,7 +1661,7 @@
         ]
       }
     ],
-    "timestamp": 1781378802515,
+    "timestamp": 1781378818728,
     "hasLatino": false
   },
   {
@@ -208117,10 +208095,7 @@
     "rating": 8.54,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Drama",
-      "Histórico"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
