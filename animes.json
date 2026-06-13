@@ -77,6 +77,24 @@
         ]
       },
       {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/88e0042970a9bf7dd4e34dd541a7cf27"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ak6uk9ybi8s6.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/JE6wg7CW?embed"
+          }
+        ]
+      },
+      {
         "num": 5,
         "latino": [],
         "sub": [
@@ -91,6 +109,24 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/219pSQWK?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f35a4349add389416481865fce6b5dd5"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-e2nrj0avulfi.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/39vb5ZCN?embed"
           }
         ]
       },
@@ -275,7 +311,7 @@
         ]
       }
     ],
-    "timestamp": 1781364540936,
+    "timestamp": 1781364545092,
     "hasLatino": false
   },
   {
@@ -637,7 +673,7 @@
         ]
       }
     ],
-    "timestamp": 1781364541218,
+    "timestamp": 1781364545168,
     "hasLatino": false
   },
   {
@@ -1014,7 +1050,7 @@
         ]
       }
     ],
-    "timestamp": 1781364540689,
+    "timestamp": 1781364544535,
     "hasLatino": false
   },
   {
@@ -1664,7 +1700,7 @@
         ]
       }
     ],
-    "timestamp": 1781364541867,
+    "timestamp": 1781364547461,
     "hasLatino": true
   },
   {
@@ -2042,7 +2078,7 @@
         ]
       }
     ],
-    "timestamp": 1781364541839,
+    "timestamp": 1781364544515,
     "hasLatino": false
   },
   {
@@ -122110,7 +122146,16 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
