@@ -288,7 +288,7 @@
         ]
       }
     ],
-    "timestamp": 1781373118375,
+    "timestamp": 1781373129963,
     "hasLatino": false
   },
   {
@@ -454,7 +454,7 @@
         ]
       }
     ],
-    "timestamp": 1781373118475,
+    "timestamp": 1781373128894,
     "hasLatino": false
   },
   {
@@ -586,7 +586,7 @@
         ]
       }
     ],
-    "timestamp": 1781373118007,
+    "timestamp": 1781373127292,
     "hasLatino": false
   },
   {
@@ -959,7 +959,7 @@
         ]
       }
     ],
-    "timestamp": 1781373119879,
+    "timestamp": 1781373129670,
     "hasLatino": false
   },
   {
@@ -1249,7 +1249,7 @@
         ]
       }
     ],
-    "timestamp": 1781373119724,
+    "timestamp": 1781373128194,
     "hasLatino": false
   },
   {
@@ -173329,7 +173329,11 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen",
+      "Escolares"
+    ],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -186936,15 +186940,7 @@
     "rating": 8.16,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Seinen",
-      "Terror",
-      "Gore",
-      "Militar",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
