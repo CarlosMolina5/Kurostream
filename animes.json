@@ -307,7 +307,7 @@
         ]
       }
     ],
-    "timestamp": 1781359305225,
+    "timestamp": 1781359309418,
     "hasLatino": false
   },
   {
@@ -687,7 +687,7 @@
         ]
       }
     ],
-    "timestamp": 1781359305096,
+    "timestamp": 1781359309625,
     "hasLatino": false
   },
   {
@@ -1129,7 +1129,7 @@
         ]
       }
     ],
-    "timestamp": 1781359304520,
+    "timestamp": 1781359309393,
     "hasLatino": false
   },
   {
@@ -1780,7 +1780,7 @@
         ]
       }
     ],
-    "timestamp": 1781359304960,
+    "timestamp": 1781359309815,
     "hasLatino": true
   },
   {
@@ -2131,7 +2131,7 @@
         ]
       }
     ],
-    "timestamp": 1781359305362,
+    "timestamp": 1781359309609,
     "hasLatino": false
   },
   {
@@ -114004,11 +114004,7 @@
     "rating": 7.31,
     "studio": "",
     "episodesCount": 4,
-    "genres": [
-      "Deportes",
-      "Shounen",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 4,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -119519,7 +119515,13 @@
     "rating": 7.86,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Escolares",
+      "Psicológico",
+      "Shoujo Ai"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
