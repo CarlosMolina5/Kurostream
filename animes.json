@@ -274,7 +274,7 @@
         ]
       }
     ],
-    "timestamp": 1781364711547,
+    "timestamp": 1781364716284,
     "hasLatino": false
   },
   {
@@ -538,7 +538,7 @@
         ]
       }
     ],
-    "timestamp": 1781364712161,
+    "timestamp": 1781364715850,
     "hasLatino": false
   },
   {
@@ -1070,7 +1070,7 @@
         ]
       }
     ],
-    "timestamp": 1781364712424,
+    "timestamp": 1781364716221,
     "hasLatino": true
   },
   {
@@ -1181,6 +1181,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/sFwEjsEL?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/881e14847ce8937b10d7670c557b895b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ydcFlYAL#npB1yYH9MZeAsjiqlxpPNYuC2KfK_02BxHFPflctzJw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-qd2ocl6tia3x.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/w6i7Skig?embed"
           }
         ]
       },
@@ -1361,7 +1383,7 @@
         ]
       }
     ],
-    "timestamp": 1781364712307,
+    "timestamp": 1781364716255,
     "hasLatino": false
   },
   {
@@ -1742,7 +1764,7 @@
         ]
       }
     ],
-    "timestamp": 1781364712864,
+    "timestamp": 1781364716366,
     "hasLatino": false
   },
   {
@@ -145010,14 +145032,7 @@
     "rating": 7.08,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Comedia",
-      "Fantasía",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -154645,7 +154660,11 @@
     "rating": 6.78,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
