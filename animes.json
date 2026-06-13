@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "timestamp": 1781371824315,
+    "timestamp": 1781371828193,
     "hasLatino": false
   },
   {
@@ -205,28 +205,6 @@
         "sub": []
       },
       {
-        "num": 5,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/7a81ec52b9f850eb72dc67c4ee298f0e"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/ycc2FBjJ#1DMhU12j3VByEwxIEobdvINOQYQWKP6aChri0__ulD4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-whx7hstj2j92.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/k3e984kh?embed"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 6,
         "latino": [
           {
@@ -249,7 +227,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781371825602,
+    "timestamp": 1781371829987,
     "hasLatino": true
   },
   {
@@ -296,7 +274,7 @@
         ]
       }
     ],
-    "timestamp": 1781371824102,
+    "timestamp": 1781371830000,
     "hasLatino": false
   },
   {
@@ -339,7 +317,7 @@
         ]
       }
     ],
-    "timestamp": 1781371826009,
+    "timestamp": 1781371826509,
     "hasLatino": false
   },
   {
@@ -716,7 +694,7 @@
         ]
       }
     ],
-    "timestamp": 1781371825713,
+    "timestamp": 1781371828490,
     "hasLatino": false
   },
   {
@@ -157075,14 +157053,7 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Drama",
-      "Suspenso",
-      "Mecha",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -181347,7 +181318,13 @@
     "rating": 7.26,
     "studio": "",
     "episodesCount": 7,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Elenco Adulto",
+      "Mecha"
+    ],
     "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
