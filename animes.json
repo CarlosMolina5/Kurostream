@@ -46,7 +46,7 @@
         ]
       }
     ],
-    "timestamp": 1781313197183,
+    "timestamp": 1781313218581,
     "hasLatino": false
   },
   {
@@ -95,7 +95,7 @@
         ]
       }
     ],
-    "timestamp": 1781313207974,
+    "timestamp": 1781313218126,
     "hasLatino": false
   },
   {
@@ -143,7 +143,7 @@
         ]
       }
     ],
-    "timestamp": 1781313197210,
+    "timestamp": 1781313218130,
     "hasLatino": false
   },
   {
@@ -520,7 +520,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781313200602,
+    "timestamp": 1781313231266,
     "hasLatino": true
   },
   {
@@ -570,7 +570,7 @@
         ]
       }
     ],
-    "timestamp": 1781313197182,
+    "timestamp": 1781313229553,
     "hasLatino": false
   },
   {
@@ -32280,7 +32280,11 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Recuentos de la Vida",
+      "Escolares"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -51040,11 +51044,7 @@
     "rating": 7.32,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
