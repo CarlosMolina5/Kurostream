@@ -77,24 +77,6 @@
         ]
       },
       {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/88e0042970a9bf7dd4e34dd541a7cf27"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ak6uk9ybi8s6.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/JE6wg7CW?embed"
-          }
-        ]
-      },
-      {
         "num": 5,
         "latino": [],
         "sub": [
@@ -109,24 +91,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/219pSQWK?embed"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/f35a4349add389416481865fce6b5dd5"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-e2nrj0avulfi.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/39vb5ZCN?embed"
           }
         ]
       },
@@ -311,7 +275,7 @@
         ]
       }
     ],
-    "timestamp": 1781364537314,
+    "timestamp": 1781364540936,
     "hasLatino": false
   },
   {
@@ -673,7 +637,7 @@
         ]
       }
     ],
-    "timestamp": 1781364537700,
+    "timestamp": 1781364541218,
     "hasLatino": false
   },
   {
@@ -804,6 +768,28 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-5g8jzli7d27a.html"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8b15247fb4d7fc06cf09eefde7ab33f7"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6142SJSI#GNQ35EYhPmnbmkpP49puGXmB9gBeTQfjxNWOwzwpzW0"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#huuiio"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-tsv2otlerx84.html"
           }
         ]
       },
@@ -1028,7 +1014,7 @@
         ]
       }
     ],
-    "timestamp": 1781364537185,
+    "timestamp": 1781364540689,
     "hasLatino": false
   },
   {
@@ -1678,7 +1664,7 @@
         ]
       }
     ],
-    "timestamp": 1781364536965,
+    "timestamp": 1781364541867,
     "hasLatino": true
   },
   {
@@ -2056,7 +2042,7 @@
         ]
       }
     ],
-    "timestamp": 1781364536826,
+    "timestamp": 1781364541839,
     "hasLatino": false
   },
   {
@@ -118255,16 +118241,7 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía",
-      "Romance",
-      "Shoujo",
-      "Artes Marciales",
-      "Histórico",
-      "Isekai"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
