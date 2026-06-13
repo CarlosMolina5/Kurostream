@@ -23,24 +23,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ee8cebf7a27b28ab6ae6f4c9c2915387"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#jtesxr"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-k8q97sd6i0b2.html"
-          }
-        ],
-        "sub": []
-      },
-      {
         "num": 2,
         "latino": [
           {
@@ -307,7 +289,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362794583,
+    "timestamp": 1781362797032,
     "hasLatino": true
   },
   {
@@ -686,7 +668,7 @@
         ]
       }
     ],
-    "timestamp": 1781362794782,
+    "timestamp": 1781362796607,
     "hasLatino": false
   },
   {
@@ -1024,7 +1006,7 @@
         ]
       }
     ],
-    "timestamp": 1781362793355,
+    "timestamp": 1781362795425,
     "hasLatino": false
   },
   {
@@ -1359,7 +1341,7 @@
         ]
       }
     ],
-    "timestamp": 1781362794254,
+    "timestamp": 1781362796891,
     "hasLatino": false
   },
   {
@@ -1737,7 +1719,7 @@
         ]
       }
     ],
-    "timestamp": 1781362794443,
+    "timestamp": 1781362796705,
     "hasLatino": false
   },
   {
@@ -131250,7 +131232,11 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Escolares"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -144176,12 +144162,7 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Ciencia Ficción",
-      "Sobrenatural",
-      "Terror"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
