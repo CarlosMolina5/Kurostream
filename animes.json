@@ -308,7 +308,7 @@
         ]
       }
     ],
-    "timestamp": 1781377483291,
+    "timestamp": 1781377485987,
     "hasLatino": false
   },
   {
@@ -684,7 +684,7 @@
         ]
       }
     ],
-    "timestamp": 1781377483280,
+    "timestamp": 1781377490131,
     "hasLatino": false
   },
   {
@@ -974,7 +974,7 @@
         ]
       }
     ],
-    "timestamp": 1781377482902,
+    "timestamp": 1781377485460,
     "hasLatino": false
   },
   {
@@ -1267,7 +1267,7 @@
         ]
       }
     ],
-    "timestamp": 1781377483280,
+    "timestamp": 1781377488626,
     "hasLatino": false
   },
   {
@@ -1556,7 +1556,7 @@
         ]
       }
     ],
-    "timestamp": 1781377482902,
+    "timestamp": 1781377484806,
     "hasLatino": false
   },
   {
@@ -170004,7 +170004,12 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Shoujo",
+      "Mecha"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
