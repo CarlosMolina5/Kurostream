@@ -377,7 +377,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367225260,
+    "timestamp": 1781367233450,
     "hasLatino": true
   },
   {
@@ -753,7 +753,7 @@
         ]
       }
     ],
-    "timestamp": 1781367225796,
+    "timestamp": 1781367234120,
     "hasLatino": false
   },
   {
@@ -796,6 +796,24 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/zBP6AFPZ?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/eeda17a2c514d9f29c204801a243b6f9"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LmxEGaqC#yLrVkcHewIODqwwOVYt-yh6lfvNEEbPj-leEReSNwqc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3nveul77m1r9.html"
           }
         ]
       },
@@ -1068,7 +1086,7 @@
         ]
       }
     ],
-    "timestamp": 1781367225647,
+    "timestamp": 1781367233622,
     "hasLatino": false
   },
   {
@@ -1446,7 +1464,7 @@
         ]
       }
     ],
-    "timestamp": 1781367225388,
+    "timestamp": 1781367233446,
     "hasLatino": false
   },
   {
@@ -1891,7 +1909,7 @@
         ]
       }
     ],
-    "timestamp": 1781367226011,
+    "timestamp": 1781367234120,
     "hasLatino": false
   },
   {
@@ -158255,7 +158273,12 @@
     "rating": 6.22,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Seinen",
+      "Sobrenatural",
+      "Terror"
+    ],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -178177,11 +178200,7 @@
     "rating": 7.07,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Deportes",
-      "Drama",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
