@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "timestamp": 1781325478725,
+    "timestamp": 1781325476772,
     "hasLatino": false
   },
   {
@@ -734,7 +734,7 @@
         ]
       }
     ],
-    "timestamp": 1781325478725,
+    "timestamp": 1781325482186,
     "hasLatino": false
   },
   {
@@ -1115,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781325474043,
+    "timestamp": 1781325479850,
     "hasLatino": false
   },
   {
@@ -1161,7 +1161,7 @@
         ]
       }
     ],
-    "timestamp": 1781325470562,
+    "timestamp": 1781325474895,
     "hasLatino": false
   },
   {
@@ -1208,7 +1208,7 @@
         ]
       }
     ],
-    "timestamp": 1781325470612,
+    "timestamp": 1781325476339,
     "hasLatino": false
   },
   {
@@ -50314,7 +50314,13 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -58708,15 +58714,7 @@
     "rating": 6.93,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Comedia",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Música"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
