@@ -284,7 +284,7 @@
         ]
       }
     ],
-    "timestamp": 1781369472398,
+    "timestamp": 1781369476267,
     "hasLatino": false
   },
   {
@@ -345,7 +345,7 @@
         ]
       }
     ],
-    "timestamp": 1781369470792,
+    "timestamp": 1781369473610,
     "hasLatino": true
   },
   {
@@ -502,7 +502,7 @@
         ]
       }
     ],
-    "timestamp": 1781369478519,
+    "timestamp": 1781369480863,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781369470253,
+    "timestamp": 1781369473715,
     "hasLatino": false
   },
   {
@@ -614,7 +614,7 @@
         ]
       }
     ],
-    "timestamp": 1781369470153,
+    "timestamp": 1781369473518,
     "hasLatino": false
   },
   {
@@ -175424,7 +175424,14 @@
     "rating": 7.76,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Fantasía",
+      "Shounen",
+      "Mitología"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -183613,11 +183620,7 @@
     "rating": 7.26,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Deportes",
-      "Drama",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
