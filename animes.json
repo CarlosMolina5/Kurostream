@@ -43,7 +43,7 @@
         ]
       }
     ],
-    "timestamp": 1781371414840,
+    "timestamp": 1781371422991,
     "hasLatino": false
   },
   {
@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "timestamp": 1781371421141,
+    "timestamp": 1781371426376,
     "hasLatino": false
   },
   {
@@ -465,28 +465,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/sVktiT17?embed"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/52a585aa3bf4c29767111c4cedcbf95f"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/HPxEQa6Q#hAyDRDkNW70UsfSVeJC6kzDFipFUjwZ7pjgOLLPEJSc"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-zf253izpuhrz.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/f9yKpJkH?embed"
           }
         ]
       },
@@ -733,7 +711,7 @@
         ]
       }
     ],
-    "timestamp": 1781371416774,
+    "timestamp": 1781371426412,
     "hasLatino": false
   },
   {
@@ -993,7 +971,7 @@
         ]
       }
     ],
-    "timestamp": 1781371416881,
+    "timestamp": 1781371425824,
     "hasLatino": false
   },
   {
@@ -1304,7 +1282,7 @@
         ]
       }
     ],
-    "timestamp": 1781371421137,
+    "timestamp": 1781371425086,
     "hasLatino": false
   },
   {
@@ -162433,15 +162411,7 @@
     "rating": 7.45,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Drama",
-      "Fantasía",
-      "Shoujo",
-      "Isekai",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
