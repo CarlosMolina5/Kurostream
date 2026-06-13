@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781374931281,
+    "timestamp": 1781374939915,
     "hasLatino": false
   },
   {
@@ -402,28 +402,6 @@
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/b9a9e54b126d17b9cc4fb248a42179f2"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/gZcQ3JIQ#lLWPjXn5BNJspvFkACnpIQv8zN_nhV5hVZ-BcGY_or4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-c79ccn54rr8e.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/eAwSUnAi?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -667,7 +645,7 @@
         ]
       }
     ],
-    "timestamp": 1781374930449,
+    "timestamp": 1781374935328,
     "hasLatino": false
   },
   {
@@ -1043,7 +1021,7 @@
         ]
       }
     ],
-    "timestamp": 1781374931006,
+    "timestamp": 1781374936321,
     "hasLatino": false
   },
   {
@@ -1091,7 +1069,7 @@
         ]
       }
     ],
-    "timestamp": 1781374928944,
+    "timestamp": 1781374934306,
     "hasLatino": false
   },
   {
@@ -1402,7 +1380,7 @@
         ]
       }
     ],
-    "timestamp": 1781374930662,
+    "timestamp": 1781374937292,
     "hasLatino": false
   },
   {
@@ -164255,7 +164233,15 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -170690,14 +170676,7 @@
     "rating": 6.86,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
