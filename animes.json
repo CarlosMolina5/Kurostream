@@ -288,7 +288,7 @@
         ]
       }
     ],
-    "timestamp": 1781373197483,
+    "timestamp": 1781373207141,
     "hasLatino": false
   },
   {
@@ -454,7 +454,7 @@
         ]
       }
     ],
-    "timestamp": 1781373197287,
+    "timestamp": 1781373206786,
     "hasLatino": false
   },
   {
@@ -586,7 +586,7 @@
         ]
       }
     ],
-    "timestamp": 1781373196590,
+    "timestamp": 1781373206417,
     "hasLatino": false
   },
   {
@@ -959,7 +959,7 @@
         ]
       }
     ],
-    "timestamp": 1781373198988,
+    "timestamp": 1781373208586,
     "hasLatino": false
   },
   {
@@ -1249,7 +1249,7 @@
         ]
       }
     ],
-    "timestamp": 1781373197175,
+    "timestamp": 1781373207363,
     "hasLatino": false
   },
   {
@@ -183624,12 +183624,7 @@
     "rating": 8.23,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Drama",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -192784,7 +192779,14 @@
     "rating": 7.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
