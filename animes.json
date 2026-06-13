@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781370109491,
+    "timestamp": 1781370118361,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781370110396,
+    "timestamp": 1781370119802,
     "hasLatino": false
   },
   {
@@ -1043,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781370110713,
+    "timestamp": 1781370119255,
     "hasLatino": false
   },
   {
@@ -1333,7 +1333,7 @@
         ]
       }
     ],
-    "timestamp": 1781370110268,
+    "timestamp": 1781370118536,
     "hasLatino": false
   },
   {
@@ -1558,6 +1558,28 @@
         ]
       },
       {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/4be259751317cfbaa5c041528372a5ab"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/P14xQLxY#hbLCpuPz9to2jXXSpa6DUMU-4QEgPhhiOIi9FIvBtK8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-6xg8fisgmgcc.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/yBCFFjYQ?embed"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -1690,7 +1712,7 @@
         ]
       }
     ],
-    "timestamp": 1781370110528,
+    "timestamp": 1781370119711,
     "hasLatino": false
   },
   {
@@ -141613,12 +141635,7 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Aventura",
-      "Fantasía",
-      "Shoujo",
-      "Mecha"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -184680,7 +184697,10 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
