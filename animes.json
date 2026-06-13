@@ -64,7 +64,7 @@
         ]
       }
     ],
-    "timestamp": 1781370202367,
+    "timestamp": 1781370212445,
     "hasLatino": false
   },
   {
@@ -442,7 +442,7 @@
         ]
       }
     ],
-    "timestamp": 1781370203835,
+    "timestamp": 1781370213548,
     "hasLatino": false
   },
   {
@@ -552,6 +552,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/1e7cQc6S?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c69c2551f01fea90902a7ef03c71cd64"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/PVtHTS4A#auh_kioCM2y2M7173gKbt-JMGPPXHH_mZC8K7PX9vOQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-rbdjdpx97ifd.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/mnCo9daN?embed"
           }
         ]
       },
@@ -732,7 +754,7 @@
         ]
       }
     ],
-    "timestamp": 1781370205377,
+    "timestamp": 1781370214047,
     "hasLatino": false
   },
   {
@@ -1018,7 +1040,7 @@
         ]
       }
     ],
-    "timestamp": 1781370202962,
+    "timestamp": 1781370213344,
     "hasLatino": false
   },
   {
@@ -1066,7 +1088,7 @@
         ]
       }
     ],
-    "timestamp": 1781370201766,
+    "timestamp": 1781370212451,
     "hasLatino": false
   },
   {
@@ -135722,7 +135744,12 @@
     "rating": 8.36,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Seinen",
+      "Carreras"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -195915,12 +195942,7 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Ecchi",
-      "Escolares"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
