@@ -287,7 +287,7 @@
         ]
       }
     ],
-    "timestamp": 1781327695562,
+    "timestamp": 1781327696231,
     "hasLatino": false
   },
   {
@@ -579,7 +579,7 @@
         ]
       }
     ],
-    "timestamp": 1781327700639,
+    "timestamp": 1781327695296,
     "hasLatino": false
   },
   {
@@ -1010,7 +1010,7 @@
         ]
       }
     ],
-    "timestamp": 1781327696615,
+    "timestamp": 1781327707474,
     "hasLatino": true
   },
   {
@@ -1662,7 +1662,7 @@
         ]
       }
     ],
-    "timestamp": 1781327695256,
+    "timestamp": 1781327695496,
     "hasLatino": true
   },
   {
@@ -1975,7 +1975,7 @@
         ]
       }
     ],
-    "timestamp": 1781327696295,
+    "timestamp": 1781327695805,
     "hasLatino": false
   },
   {
@@ -100166,7 +100166,11 @@
     "rating": 6.65,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Romance"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
