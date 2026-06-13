@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781357995322,
+    "timestamp": 1781357999656,
     "hasLatino": false
   },
   {
@@ -490,7 +490,7 @@
         ]
       }
     ],
-    "timestamp": 1781357993765,
+    "timestamp": 1781357998481,
     "hasLatino": false
   },
   {
@@ -537,7 +537,7 @@
         ]
       }
     ],
-    "timestamp": 1781357993378,
+    "timestamp": 1781357998123,
     "hasLatino": false
   },
   {
@@ -584,7 +584,7 @@
         ]
       }
     ],
-    "timestamp": 1781357993765,
+    "timestamp": 1781357998481,
     "hasLatino": false
   },
   {
@@ -945,7 +945,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781357994830,
+    "timestamp": 1781357999593,
     "hasLatino": true
   },
   {
@@ -104692,7 +104692,14 @@
     "rating": 5.8,
     "studio": "",
     "episodesCount": 5,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Seinen",
+      "Terror",
+      "Gore",
+      "Mecha",
+      "Psicológico"
+    ],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -120220,13 +120227,7 @@
     "rating": 7.85,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Ciencia Ficción",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
