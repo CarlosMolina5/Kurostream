@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363228776,
+    "timestamp": 1781363231646,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363227097,
+    "timestamp": 1781363230506,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781363227415,
+    "timestamp": 1781363230381,
     "hasLatino": false
   },
   {
@@ -672,6 +672,28 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-go6ka5n1941o.html"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ec3aac60ad0e624d6156783d50985075"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/mZtSnLjD#4ksaykGMtOkMmbjpiIZOYsautVPnp6Sj5rv_QS4B1xI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-0vy6x6ainlh5.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/CfdA83sY?embed"
           }
         ]
       },
@@ -828,7 +850,7 @@
         ]
       }
     ],
-    "timestamp": 1781363228776,
+    "timestamp": 1781363231237,
     "hasLatino": false
   },
   {
@@ -873,7 +895,7 @@
         ]
       }
     ],
-    "timestamp": 1781363227088,
+    "timestamp": 1781363229761,
     "hasLatino": false
   },
   {
@@ -136526,14 +136548,7 @@
     "rating": 6.62,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -152700,7 +152715,15 @@
     "rating": 7.89,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Romance",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
