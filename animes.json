@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781369992271,
+    "timestamp": 1781369998628,
     "hasLatino": false
   },
   {
@@ -489,6 +489,94 @@
         ]
       },
       {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bfa28341c55abb3922b82c7be9e6aa47"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/nJNUHJAT#fvMAmO2VkTNHjnUx4iTE_TywSRLY3vy5bLozKWNxba8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-bak1j26g3mp2.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/grFbXHJA?embed"
+          }
+        ]
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bba0a721aba90754d24d1bed5ceeb199"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fQsUjLyR#Y7gW0YvNsu5TUl4_VOHdNlT3nyWDPbErP93XIgtDjtY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-njzlnndzd7ax.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/bGi2cHwg?embed"
+          }
+        ]
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/fa6b10d57d53ae0c4638a82373050251"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/eA9k2ThT#BqTVrmocYPJZUazC6fCLAgLNJ6Fmr17d7Aznb3SPac0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-zhoauvmyc2o7.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wnaKz9rx?embed"
+          }
+        ]
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/5267f0f409980ee4b654d8d26e02853a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fRkUgIAJ#ygMHeWnfOiqM82T7NviZm5okqEtiI2LjKgBJOnLSZWk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xxhjqpc5kdt7.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/4Vqypffk?embed"
+          }
+        ]
+      },
+      {
         "num": 13,
         "latino": [],
         "sub": [
@@ -577,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781369992730,
+    "timestamp": 1781369999475,
     "hasLatino": false
   },
   {
@@ -955,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781369993193,
+    "timestamp": 1781369999665,
     "hasLatino": false
   },
   {
@@ -1245,7 +1333,7 @@
         ]
       }
     ],
-    "timestamp": 1781369991732,
+    "timestamp": 1781369998305,
     "hasLatino": false
   },
   {
@@ -1624,7 +1712,7 @@
         ]
       }
     ],
-    "timestamp": 1781369992621,
+    "timestamp": 1781369999761,
     "hasLatino": false
   },
   {
@@ -142138,16 +142226,7 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía",
-      "Romance",
-      "Shoujo",
-      "Artes Marciales",
-      "Histórico",
-      "Isekai"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
