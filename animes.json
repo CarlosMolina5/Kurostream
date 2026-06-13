@@ -282,7 +282,7 @@
         ]
       }
     ],
-    "timestamp": 1781367797493,
+    "timestamp": 1781367804899,
     "hasLatino": false
   },
   {
@@ -330,7 +330,7 @@
         ]
       }
     ],
-    "timestamp": 1781367795206,
+    "timestamp": 1781367801148,
     "hasLatino": false
   },
   {
@@ -684,7 +684,7 @@
         ]
       }
     ],
-    "timestamp": 1781367797978,
+    "timestamp": 1781367802641,
     "hasLatino": false
   },
   {
@@ -820,7 +820,7 @@
         ]
       }
     ],
-    "timestamp": 1781367795669,
+    "timestamp": 1781367801785,
     "hasLatino": false
   },
   {
@@ -911,7 +911,7 @@
         ]
       }
     ],
-    "timestamp": 1781367795206,
+    "timestamp": 1781367801148,
     "hasLatino": false
   },
   {
@@ -178228,12 +178228,7 @@
     "rating": 7.16,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Comedia",
-      "Deportes",
-      "Shounen",
-      "Ecchi"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -180354,7 +180349,14 @@
     "rating": 8.15,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
