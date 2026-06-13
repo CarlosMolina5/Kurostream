@@ -377,7 +377,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781367307026,
+    "timestamp": 1781367314713,
     "hasLatino": true
   },
   {
@@ -753,7 +753,7 @@
         ]
       }
     ],
-    "timestamp": 1781367306991,
+    "timestamp": 1781367314998,
     "hasLatino": false
   },
   {
@@ -920,6 +920,28 @@
         ]
       },
       {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3786be0fe750fcc9cf04740cfe759fd3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/GjxU1QgZ#GDCakYMEu2LC258ivWqh5r1oVqR2UYgEziOOQPT-Kvo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fxqjm6w9gdh9.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/LuM98YK5?embed"
+          }
+        ]
+      },
+      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -1064,7 +1086,7 @@
         ]
       }
     ],
-    "timestamp": 1781367307640,
+    "timestamp": 1781367313783,
     "hasLatino": false
   },
   {
@@ -1442,7 +1464,7 @@
         ]
       }
     ],
-    "timestamp": 1781367307799,
+    "timestamp": 1781367314956,
     "hasLatino": false
   },
   {
@@ -1887,7 +1909,7 @@
         ]
       }
     ],
-    "timestamp": 1781367307026,
+    "timestamp": 1781367314607,
     "hasLatino": false
   },
   {
@@ -174336,7 +174358,10 @@
     "rating": 7.36,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Shounen"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
