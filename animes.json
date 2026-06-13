@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781366227749,
+    "timestamp": 1781366231919,
     "hasLatino": false
   },
   {
@@ -91,7 +91,7 @@
         ]
       }
     ],
-    "timestamp": 1781366227608,
+    "timestamp": 1781366231361,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781366228649,
+    "timestamp": 1781366232574,
     "hasLatino": false
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781366227849,
+    "timestamp": 1781366231320,
     "hasLatino": false
   },
   {
@@ -1073,7 +1073,7 @@
         ]
       }
     ],
-    "timestamp": 1781366229963,
+    "timestamp": 1781366233044,
     "hasLatino": true
   },
   {
@@ -151288,13 +151288,7 @@
     "rating": 7.86,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Drama",
-      "Shoujo",
-      "Escolares",
-      "Psicológico",
-      "Shoujo Ai"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -160384,7 +160378,13 @@
     "rating": 9.02,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Elenco Adulto",
+      "Espacial",
+      "Militar"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
