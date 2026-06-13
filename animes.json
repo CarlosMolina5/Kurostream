@@ -87,7 +87,7 @@
         ]
       }
     ],
-    "timestamp": 1781376307936,
+    "timestamp": 1781376345253,
     "hasLatino": false
   },
   {
@@ -149,7 +149,7 @@
         ]
       }
     ],
-    "timestamp": 1781376292990,
+    "timestamp": 1781376345566,
     "hasLatino": false
   },
   {
@@ -199,7 +199,7 @@
         ]
       }
     ],
-    "timestamp": 1781376293435,
+    "timestamp": 1781376345565,
     "hasLatino": false
   },
   {
@@ -291,7 +291,7 @@
         ]
       }
     ],
-    "timestamp": 1781376293235,
+    "timestamp": 1781376345306,
     "hasLatino": false
   },
   {
@@ -664,7 +664,7 @@
         ]
       }
     ],
-    "timestamp": 1781376337825,
+    "timestamp": 1781376365385,
     "hasLatino": false
   },
   {
@@ -212526,7 +212526,15 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Shounen",
+      "Espacial",
+      "Militar",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
