@@ -43,7 +43,7 @@
         ]
       }
     ],
-    "timestamp": 1781371429271,
+    "timestamp": 1781371432792,
     "hasLatino": false
   },
   {
@@ -69,94 +69,6 @@
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c0f83cd39e2788920f9ff0b1cef14600"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/ONl1RDwJ#bM0e3f2Y3zC1mCVK7DNrnJ6WbJudOU5iR0yluAUFhDk"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-rril7o2dgzs0.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/gbMGS8WD?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9ce3dd26cf50bc25dc56f7ebe0acc883"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/PYNWgB5J#VMgqtnXkI7o9TWJnEg2PgWW_IDyA6puo5Rbsb-VRmV4"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-l22ho9v1wt26.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/2xuWAH6s?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/79901cdaca70818b9c08dcd4006df35e"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/mZ0SwBCS#WD5OhvUjy3638IbUuTIP4EoVhvV2ukuROH2p56DTEBw"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-ppz0xjkwu516.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/3ZqwxJus?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/35421f28e624cf2690a2cb0a06f99a3c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/zEV2nSQI#Sn0w8MnuzIwRYKQ2e_35FnOCuzIVkV6FYq31Ia2SjMA"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-pz16jvu6tknk.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ddd4vpfQ?embed"
-          }
-        ]
-      },
       {
         "num": 5,
         "latino": [],
@@ -356,7 +268,7 @@
         ]
       }
     ],
-    "timestamp": 1781371431587,
+    "timestamp": 1781371434355,
     "hasLatino": false
   },
   {
@@ -733,7 +645,7 @@
         ]
       }
     ],
-    "timestamp": 1781371431429,
+    "timestamp": 1781371434265,
     "hasLatino": false
   },
   {
@@ -939,24 +851,6 @@
         ]
       },
       {
-        "num": 11,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/100c6a7a30b0fea4cdb33bdaed24f190"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#ilz3nm"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-zlfgwpzm6vl5.html"
-          }
-        ]
-      },
-      {
         "num": 12,
         "latino": [],
         "sub": [
@@ -993,7 +887,7 @@
         ]
       }
     ],
-    "timestamp": 1781371431178,
+    "timestamp": 1781371434397,
     "hasLatino": false
   },
   {
@@ -1304,7 +1198,7 @@
         ]
       }
     ],
-    "timestamp": 1781371431214,
+    "timestamp": 1781371434572,
     "hasLatino": false
   },
   {
@@ -149169,16 +149063,7 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía",
-      "Romance",
-      "Shoujo",
-      "Artes Marciales",
-      "Histórico",
-      "Isekai"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -185978,7 +185863,15 @@
     "rating": 6.68,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Drama",
+      "Espacial",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
