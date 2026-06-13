@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781366382106,
+    "timestamp": 1781366385465,
     "hasLatino": false
   },
   {
@@ -91,7 +91,7 @@
         ]
       }
     ],
-    "timestamp": 1781366382118,
+    "timestamp": 1781366385427,
     "hasLatino": false
   },
   {
@@ -383,7 +383,7 @@
         ]
       }
     ],
-    "timestamp": 1781366383029,
+    "timestamp": 1781366385992,
     "hasLatino": false
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781366382537,
+    "timestamp": 1781366385120,
     "hasLatino": false
   },
   {
@@ -499,6 +499,45 @@
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2ad2a4d5ae61e22120ba4dba4805c565"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/UUozWZrQ#a7AUjBoG024OCp0WaUiXCGRPtlyEKFGNGLnzXb0VlrQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lqn085az1r5y.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/994w4vMQ?embed"
+          }
+        ],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6918779582b6c03ddb61dfd86129d3cd"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/UpwkBbiI#ZXlm-F9AFEnhUcVq0fq8Tdc9InDGKkjpq_3yAIvPxA0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-75yyyc0egrw5.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/qi2eVVgY?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [
@@ -1034,7 +1073,7 @@
         ]
       }
     ],
-    "timestamp": 1781366383062,
+    "timestamp": 1781366386808,
     "hasLatino": true
   },
   {
