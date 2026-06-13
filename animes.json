@@ -43,7 +43,7 @@
         ]
       }
     ],
-    "timestamp": 1781359773466,
+    "timestamp": 1781359776206,
     "hasLatino": false
   },
   {
@@ -113,7 +113,7 @@
         ]
       }
     ],
-    "timestamp": 1781359773705,
+    "timestamp": 1781359775851,
     "hasLatino": false
   },
   {
@@ -160,7 +160,7 @@
         ]
       }
     ],
-    "timestamp": 1781359773705,
+    "timestamp": 1781359775850,
     "hasLatino": false
   },
   {
@@ -210,7 +210,7 @@
         ]
       }
     ],
-    "timestamp": 1781359773267,
+    "timestamp": 1781359775852,
     "hasLatino": false
   },
   {
@@ -497,7 +497,7 @@
         ]
       }
     ],
-    "timestamp": 1781359774130,
+    "timestamp": 1781359776889,
     "hasLatino": false
   },
   {
@@ -114614,7 +114614,13 @@
     "rating": 7.72,
     "studio": "",
     "episodesCount": 12,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Shounen",
+      "Suspenso",
+      "Psicológico"
+    ],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -132214,12 +132220,7 @@
     "rating": 6.7,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
