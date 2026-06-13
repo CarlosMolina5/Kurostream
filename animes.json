@@ -41,6 +41,24 @@
         "sub": []
       },
       {
+        "num": 2,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c2fb3abcbd489757730e72114657a95d"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#cap968"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-dwwwqbekdd4q.html"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 3,
         "latino": [
           {
@@ -185,6 +203,24 @@
         "sub": []
       },
       {
+        "num": 11,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ef4183bdad6cb7f2c114f7013d7800d3"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#xectql"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vmuozgnviz2e.html"
+          }
+        ],
+        "sub": []
+      },
+      {
         "num": 12,
         "latino": [
           {
@@ -271,7 +307,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781362745827,
+    "timestamp": 1781362749399,
     "hasLatino": true
   },
   {
@@ -650,7 +686,7 @@
         ]
       }
     ],
-    "timestamp": 1781362745651,
+    "timestamp": 1781362749623,
     "hasLatino": false
   },
   {
@@ -988,7 +1024,7 @@
         ]
       }
     ],
-    "timestamp": 1781362744538,
+    "timestamp": 1781362750590,
     "hasLatino": false
   },
   {
@@ -1367,7 +1403,7 @@
         ]
       }
     ],
-    "timestamp": 1781362746104,
+    "timestamp": 1781362749508,
     "hasLatino": false
   },
   {
@@ -1745,7 +1781,7 @@
         ]
       }
     ],
-    "timestamp": 1781362745432,
+    "timestamp": 1781362749091,
     "hasLatino": false
   },
   {
@@ -113998,7 +114034,12 @@
     "rating": 7.01,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Shounen",
+      "Mecha"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
