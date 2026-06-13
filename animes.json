@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "timestamp": 1781363096684,
+    "timestamp": 1781363103885,
     "hasLatino": false
   },
   {
@@ -377,7 +377,7 @@
         ]
       }
     ],
-    "timestamp": 1781363097723,
+    "timestamp": 1781363105820,
     "hasLatino": false
   },
   {
@@ -1028,7 +1028,7 @@
         ]
       }
     ],
-    "timestamp": 1781363098457,
+    "timestamp": 1781363106483,
     "hasLatino": true
   },
   {
@@ -1209,6 +1209,28 @@
         ]
       },
       {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/35b9605d41902a08b5adc4596bb995e1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/4MYi3CwI#Th9dymWndXAhDgwRP5ikS5VjJCUOvsLN-oVr24uo5Mc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-8gjslc8bjhw7.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/dc9aEnZY?embed"
+          }
+        ]
+      },
+      {
         "num": 9,
         "latino": [],
         "sub": [
@@ -1385,7 +1407,7 @@
         ]
       }
     ],
-    "timestamp": 1781363098543,
+    "timestamp": 1781363106289,
     "hasLatino": false
   },
   {
@@ -1762,7 +1784,7 @@
         ]
       }
     ],
-    "timestamp": 1781363098189,
+    "timestamp": 1781363107519,
     "hasLatino": false
   },
   {
@@ -113084,7 +113106,10 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
