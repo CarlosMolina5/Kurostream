@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781364267458,
+    "timestamp": 1781364270631,
     "hasLatino": false
   },
   {
@@ -419,28 +419,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/UyYVtTeb?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/6684b925f8ad7b6aaa98e8b4866617b8"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/6nBG3D5L#dD7GuOuJ9tMTIGPvMFL0XO11-TAwSSOuHSlvr45B2ps"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-9dcekcnx86na.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/2HZkwpgX?embed"
           }
         ]
       },
@@ -665,7 +643,7 @@
         ]
       }
     ],
-    "timestamp": 1781364266141,
+    "timestamp": 1781364269958,
     "hasLatino": false
   },
   {
@@ -1043,7 +1021,7 @@
         ]
       }
     ],
-    "timestamp": 1781364266340,
+    "timestamp": 1781364270885,
     "hasLatino": false
   },
   {
@@ -1137,7 +1115,7 @@
         ]
       }
     ],
-    "timestamp": 1781364265555,
+    "timestamp": 1781364268793,
     "hasLatino": false
   },
   {
@@ -1182,7 +1160,7 @@
         ]
       }
     ],
-    "timestamp": 1781364264674,
+    "timestamp": 1781364269501,
     "hasLatino": false
   },
   {
@@ -149735,7 +149713,12 @@
     "rating": 8.07,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -171641,14 +171624,7 @@
     "rating": 7.62,
     "studio": "",
     "episodesCount": 23,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Misterio",
-      "Seinen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 23,
     "lastEpDate": "Hace un momento",
     "episodes": [
