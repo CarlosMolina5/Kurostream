@@ -478,7 +478,7 @@
         ]
       }
     ],
-    "timestamp": 1781363872472,
+    "timestamp": 1781363877945,
     "hasLatino": true
   },
   {
@@ -527,7 +527,7 @@
         ]
       }
     ],
-    "timestamp": 1781363871805,
+    "timestamp": 1781363877196,
     "hasLatino": false
   },
   {
@@ -575,7 +575,7 @@
         ]
       }
     ],
-    "timestamp": 1781363871801,
+    "timestamp": 1781363877196,
     "hasLatino": false
   },
   {
@@ -689,7 +689,7 @@
         ]
       }
     ],
-    "timestamp": 1781363872153,
+    "timestamp": 1781363877582,
     "hasLatino": false
   },
   {
@@ -738,7 +738,7 @@
         ]
       }
     ],
-    "timestamp": 1781363872153,
+    "timestamp": 1781363877471,
     "hasLatino": true
   },
   {
@@ -134668,13 +134668,7 @@
     "rating": 7.72,
     "studio": "",
     "episodesCount": 12,
-    "genres": [
-      "Drama",
-      "Misterio",
-      "Shounen",
-      "Suspenso",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -164851,7 +164845,14 @@
     "rating": 7.77,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
