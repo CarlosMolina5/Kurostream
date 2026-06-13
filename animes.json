@@ -21,78 +21,6 @@
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/5499587d86e27c8ca06a26796ade1983"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-pu1ukd0b8hm0.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/S24REe8v?embed"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/15ab03c1aafe5ac9236e86e57199bcb5"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-5wo9sdx0q3ed.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/ijE3jeq7?embed"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/3f58931b6f2ddd7588d57f5fdbbd14df"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-r6rebwwy5awl.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/tphfH9Tm?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/58c4b5a808d27f877b563e280d16f509"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-5zhjmsbmg0fy.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/138CX7uR?embed"
-          }
-        ]
-      },
-      {
         "num": 5,
         "latino": [],
         "sub": [
@@ -309,7 +237,7 @@
         ]
       }
     ],
-    "timestamp": 1781363464919,
+    "timestamp": 1781363467781,
     "hasLatino": false
   },
   {
@@ -682,7 +610,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363465204,
+    "timestamp": 1781363467569,
     "hasLatino": true
   },
   {
@@ -786,7 +714,7 @@
         ]
       }
     ],
-    "timestamp": 1781363463081,
+    "timestamp": 1781363466305,
     "hasLatino": false
   },
   {
@@ -880,7 +808,7 @@
         ]
       }
     ],
-    "timestamp": 1781363463069,
+    "timestamp": 1781363466359,
     "hasLatino": false
   },
   {
@@ -1163,7 +1091,7 @@
         ]
       }
     ],
-    "timestamp": 1781363464993,
+    "timestamp": 1781363467387,
     "hasLatino": false
   },
   {
@@ -104453,14 +104381,7 @@
     "rating": 8.1,
     "studio": "",
     "episodesCount": 13,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Misterio",
-      "Sobrenatural",
-      "Suspenso",
-      "Psicológico"
-    ],
+    "genres": [],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -121542,7 +121463,13 @@
     "rating": 6.93,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Romance",
+      "Isekai"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
