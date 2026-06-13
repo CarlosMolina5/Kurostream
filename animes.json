@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363394752,
+    "timestamp": 1781363397317,
     "hasLatino": true
   },
   {
@@ -394,32 +394,6 @@
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c1d7d12a6b2dca1c188f9590654f1c86"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/hNtgUDQZ#GhPwWpzLMNClgZN1_s1WJvkkR7A12A3WNiikojPayA8"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#d8legq"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-y0ppaweqxpac.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/HwAcMnfV?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -473,7 +447,7 @@
         ]
       }
     ],
-    "timestamp": 1781363393565,
+    "timestamp": 1781363396352,
     "hasLatino": false
   },
   {
@@ -567,7 +541,7 @@
         ]
       }
     ],
-    "timestamp": 1781363393120,
+    "timestamp": 1781363396428,
     "hasLatino": false
   },
   {
@@ -850,7 +824,7 @@
         ]
       }
     ],
-    "timestamp": 1781363394498,
+    "timestamp": 1781363397361,
     "hasLatino": false
   },
   {
@@ -895,7 +869,7 @@
         ]
       }
     ],
-    "timestamp": 1781363393084,
+    "timestamp": 1781363396231,
     "hasLatino": false
   },
   {
@@ -116572,11 +116546,7 @@
     "rating": 6.6,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Fantasía",
-      "Romance"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
