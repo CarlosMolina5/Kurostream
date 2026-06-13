@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "timestamp": 1781371452996,
+    "timestamp": 1781371457345,
     "hasLatino": false
   },
   {
@@ -353,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781371455824,
+    "timestamp": 1781371458959,
     "hasLatino": false
   },
   {
@@ -730,7 +730,7 @@
         ]
       }
     ],
-    "timestamp": 1781371455919,
+    "timestamp": 1781371459074,
     "hasLatino": false
   },
   {
@@ -770,6 +770,24 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-qp0yxkc0a6ic.html"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/9aeb5aa57ebf10d491388e3c9155e3c3"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#6pwcrc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4clkkn9izm67.html"
           }
         ]
       },
@@ -972,7 +990,7 @@
         ]
       }
     ],
-    "timestamp": 1781371455910,
+    "timestamp": 1781371458713,
     "hasLatino": false
   },
   {
@@ -1037,28 +1055,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-y65wios08rys.html"
-          }
-        ]
-      },
-      {
-        "num": 3,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/be641ac2c5425e2f47e7d8dff8efc7b9"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/60RGUDYD#8GSi_UvNvod0ITlwoyEPBkiKANVsxknkTydiU0Xmyi0"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#8vjby9"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-r88zh6rg9ses.html"
           }
         ]
       },
@@ -1283,7 +1279,7 @@
         ]
       }
     ],
-    "timestamp": 1781371455469,
+    "timestamp": 1781371458838,
     "hasLatino": false
   },
   {
@@ -179381,13 +179377,7 @@
     "rating": 5.58,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Shounen",
-      "Terror",
-      "Gore"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
