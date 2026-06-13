@@ -369,7 +369,7 @@
         "sub": []
       }
     ],
-    "timestamp": 1781363291582,
+    "timestamp": 1781363295515,
     "hasLatino": true
   },
   {
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "timestamp": 1781363290831,
+    "timestamp": 1781363294059,
     "hasLatino": false
   },
   {
@@ -500,28 +500,6 @@
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
-      {
-        "num": 1,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/482b62f1d63d8169f941f39dadfbef6f"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/mUtFDL5Q#AJGqBviUiR_KSINpWpBWI5npklHlbtz0EycUBaDvAc0"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-fvwgget6xp7u.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/bUVV8WpW?embed"
-          }
-        ]
-      },
       {
         "num": 2,
         "latino": [],
@@ -567,7 +545,7 @@
         ]
       }
     ],
-    "timestamp": 1781363290611,
+    "timestamp": 1781363293726,
     "hasLatino": false
   },
   {
@@ -850,7 +828,7 @@
         ]
       }
     ],
-    "timestamp": 1781363291329,
+    "timestamp": 1781363294693,
     "hasLatino": false
   },
   {
@@ -895,7 +873,7 @@
         ]
       }
     ],
-    "timestamp": 1781363290596,
+    "timestamp": 1781363294091,
     "hasLatino": false
   },
   {
@@ -112147,7 +112125,13 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
