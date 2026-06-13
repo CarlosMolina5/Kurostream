@@ -357,7 +357,7 @@
         ]
       }
     ],
-    "timestamp": 1781372236810,
+    "timestamp": 1781372240326,
     "hasLatino": false
   },
   {
@@ -733,7 +733,7 @@
         ]
       }
     ],
-    "timestamp": 1781372237449,
+    "timestamp": 1781372240348,
     "hasLatino": false
   },
   {
@@ -783,7 +783,7 @@
         ]
       }
     ],
-    "timestamp": 1781372234495,
+    "timestamp": 1781372238601,
     "hasLatino": false
   },
   {
@@ -897,24 +897,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-n4wvyak5yro8.html"
-          }
-        ]
-      },
-      {
-        "num": 6,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c1296084a6286dba02621fff56f85dc1"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/JhxRCBiZ#lLwA_ciijM8a6zdp81QRjJBVm_-zy_Fm0olPZEVVYmo"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-p1erfpgcp75z.html"
           }
         ]
       },
@@ -1111,7 +1093,7 @@
         ]
       }
     ],
-    "timestamp": 1781372237869,
+    "timestamp": 1781372240578,
     "hasLatino": false
   },
   {
@@ -1158,7 +1140,7 @@
         ]
       }
     ],
-    "timestamp": 1781372234504,
+    "timestamp": 1781372239451,
     "hasLatino": false
   },
   {
@@ -140534,14 +140516,7 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [
-      "Acción",
-      "Misterio",
-      "Sobrenatural",
-      "Terror",
-      "Detectives",
-      "Vampiros"
-    ],
+    "genres": [],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -163310,7 +163285,13 @@
     "rating": 6.85,
     "studio": "",
     "episodesCount": 15,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Música",
+      "Psicológico"
+    ],
     "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
