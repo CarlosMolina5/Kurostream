@@ -1,5 +1,49 @@
 [
   {
+    "id": "kyou-no-5-no-2-kagai-jugyou-mizukake",
+    "title": "Kyou no 5 no 2 Kagai Jugyou: Mizukake",
+    "status": "Finalizado",
+    "synopsis": "Un corto especial de 5 minutos incluido en la",
+    "poster": "https://cdn.myanimelist.net/images/anime/10/42577l.webp",
+    "cover": "https://cdn.animeando.net/covers/4078.jpg",
+    "banner": "https://cdn.animeando.net/covers/4078.jpg",
+    "type": "Especial",
+    "year": "2008",
+    "rating": 6.84,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Comedia",
+      "Seinen",
+      "Ecchi",
+      "Escolares"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0c4dcffd04fa221bc64241ab68701b2c"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ld1bae"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-raff3gajlzn7.html"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781371452996,
+    "hasLatino": false
+  },
+  {
     "id": "ookami-to-koushinryou",
     "title": "Ookami to Koushinryou",
     "status": "Finalizado",
@@ -309,7 +353,7 @@
         ]
       }
     ],
-    "timestamp": 1781371449310,
+    "timestamp": 1781371455824,
     "hasLatino": false
   },
   {
@@ -686,7 +730,7 @@
         ]
       }
     ],
-    "timestamp": 1781371450222,
+    "timestamp": 1781371455919,
     "hasLatino": false
   },
   {
@@ -726,24 +770,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-qp0yxkc0a6ic.html"
-          }
-        ]
-      },
-      {
-        "num": 2,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/9aeb5aa57ebf10d491388e3c9155e3c3"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#6pwcrc"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-4clkkn9izm67.html"
           }
         ]
       },
@@ -946,7 +972,7 @@
         ]
       }
     ],
-    "timestamp": 1781371449465,
+    "timestamp": 1781371455910,
     "hasLatino": false
   },
   {
@@ -1257,7 +1283,7 @@
         ]
       }
     ],
-    "timestamp": 1781371449539,
+    "timestamp": 1781371455469,
     "hasLatino": false
   },
   {
@@ -179355,7 +179381,13 @@
     "rating": 5.58,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Drama",
+      "Shounen",
+      "Terror",
+      "Gore"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -193078,10 +193110,7 @@
     "rating": 6.48,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Ciencia Ficción",
-      "Espacial"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
