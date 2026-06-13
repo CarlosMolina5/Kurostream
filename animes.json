@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "timestamp": 1781363713602,
+    "timestamp": 1781363716476,
     "hasLatino": false
   },
   {
@@ -447,7 +447,7 @@
         ]
       }
     ],
-    "timestamp": 1781363714489,
+    "timestamp": 1781363717458,
     "hasLatino": false
   },
   {
@@ -491,7 +491,7 @@
         ]
       }
     ],
-    "timestamp": 1781363713074,
+    "timestamp": 1781363716492,
     "hasLatino": false
   },
   {
@@ -578,28 +578,6 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/hnrVeZYs?embed"
-          }
-        ]
-      },
-      {
-        "num": 4,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/c83111e83875cb6c78be7ce2d751de73"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/4l5SBRqT#3rqor5CyWJcexKKbddKQoUdhhD5zLnnEjllbWahP5ec"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-gm0m339kb15b.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/kxqWqhWR?embed"
           }
         ]
       },
@@ -868,7 +846,7 @@
         ]
       }
     ],
-    "timestamp": 1781363714729,
+    "timestamp": 1781363717483,
     "hasLatino": false
   },
   {
@@ -1406,7 +1384,7 @@
         ]
       }
     ],
-    "timestamp": 1781363714402,
+    "timestamp": 1781363717671,
     "hasLatino": true
   },
   {
@@ -135925,7 +135903,11 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Escolares"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -148411,13 +148393,7 @@
     "rating": 9.02,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
