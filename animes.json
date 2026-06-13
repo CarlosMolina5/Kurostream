@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "timestamp": 1781374939915,
+    "timestamp": 1781374942960,
     "hasLatino": false
   },
   {
@@ -402,6 +402,28 @@
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b9a9e54b126d17b9cc4fb248a42179f2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/gZcQ3JIQ#lLWPjXn5BNJspvFkACnpIQv8zN_nhV5hVZ-BcGY_or4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-c79ccn54rr8e.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/eAwSUnAi?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -645,7 +667,7 @@
         ]
       }
     ],
-    "timestamp": 1781374935328,
+    "timestamp": 1781374941976,
     "hasLatino": false
   },
   {
@@ -1021,7 +1043,7 @@
         ]
       }
     ],
-    "timestamp": 1781374936321,
+    "timestamp": 1781374942649,
     "hasLatino": false
   },
   {
@@ -1069,7 +1091,7 @@
         ]
       }
     ],
-    "timestamp": 1781374934306,
+    "timestamp": 1781374940899,
     "hasLatino": false
   },
   {
@@ -1270,72 +1292,6 @@
         ]
       },
       {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ec0561e4d391959864739c3be5fb5d0c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/7khFQYaR#Bz34mC3KIS1LxbgUxetYju7mm_TfUqgrBGnp70P0hvA"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#huol1m"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-194njedgzswl.html"
-          }
-        ]
-      },
-      {
-        "num": 10,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/cd3aada20127896a666a9bb39db2db1d"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/b5wBjTKa#pOqnTxudxg5KVLGxZHhi6a4AovThpPWRfuQtnJ-DqIg"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#mspi5y"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2f92mu5nzyct.html"
-          }
-        ]
-      },
-      {
-        "num": 11,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/8532f04276a5d3f37225bdc91c1c2e49"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/XkpjBSjQ#pE_b8lQ-qU2ZWibaDWpWB2-NmV_96XE814I7Ne0mpF4"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#pdrkyh"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-66ijxp0ap4kh.html"
-          }
-        ]
-      },
-      {
         "num": 12,
         "latino": [],
         "sub": [
@@ -1380,7 +1336,7 @@
         ]
       }
     ],
-    "timestamp": 1781374937292,
+    "timestamp": 1781374941947,
     "hasLatino": false
   },
   {
@@ -164233,15 +164189,7 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Fantasía",
-      "Shounen",
-      "Artes Marciales",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -176213,7 +176161,18 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Espacial",
+      "Mecha",
+      "Militar",
+      "Música"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
