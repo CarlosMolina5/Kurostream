@@ -1,5 +1,55 @@
 [
   {
+    "id": "kaibutsu-oujo-ova",
+    "title": "Kaibutsu Oujo (OVA)",
+    "status": "Finalizado",
+    "synopsis": "Basado en un manga de Mitsunaga Yasunori, serializado en Monthly Shounen Sirius.\n\nHiyorimi Hiro se muda a una nueva ciudad para vivir con su hermana mayor, pero muere antes de que pueda encontrarla. Luego despierta a una nueva vida como sirviente de una Princesa del Reino de los Monstruos, que resulta estar empleando a su hermana. Los monstruos pronto parecen atacar o molestar a la princesa, ya que ella está en línea para el trono real, e Hiro debe protegerla con su vida (y muertes repetidas).\n\n(Soure: ANN)",
+    "poster": "https://cdn.myanimelist.net/images/anime/12/27643l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/12/27643l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/12/27643l.webp",
+    "type": "OVA",
+    "year": "2026",
+    "rating": 7,
+    "studio": "Tatsunoko Production",
+    "episodesCount": 3,
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Terror",
+      "Sobrenatural",
+      "Shonen"
+    ],
+    "currentEpisode": 3,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c77f2ab15c9a6a8fa32f9b1f1623e865"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#5fk1ms"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/n34lnBIQ#r_JU0vXSAzlBIn3ZqSakdWS8ved5d9SG67o91ri9K7E"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-fnrbz74viqmi.html"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781429069759
+  },
+  {
     "id": "mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha",
     "title": "Mob Psycho 100 Reigen: The Miraculous Unknown Psychic",
     "status": "Finalizado",
