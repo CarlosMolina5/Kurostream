@@ -5617,13 +5617,13 @@
     "year": "2025",
     "rating": 7.14,
     "studio": "Toei Animation",
-    "episodesCount": 34,
+    "episodesCount": 35,
     "genres": [
       "Acción",
       "Fantasía",
       "Ciencia Ficción"
     ],
-    "currentEpisode": 34,
+    "currentEpisode": 35,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -6855,10 +6855,41 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 35,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8f88664c3af553088585f08005e9d854"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#xszdhy"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-94srlf2v7i71.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/e4hnxl249mg5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!QCNHHBoL!G5KDL0W8g58U9TzJGDR5AyHe8CEPIM2q1c5F2mHVg8g"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/pLrXxoRKPBhrQRO/"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781428821052
+    "timestamp": 1781468394992
   },
   {
     "id": "jingai-kyoushitsu-no-ningengirai-kyoushi",
