@@ -1,5 +1,55 @@
 [
   {
+    "id": "kaibutsu-oujo-specials",
+    "title": "Kaibutsu Oujo Specials",
+    "status": "Finalizado",
+    "synopsis": "Especiales de 4 minutos que relatan las aventuras de Kerberotte-chan incluyendo personajes de Princess Resurrection.",
+    "poster": "https://cdn.myanimelist.net/images/anime/11/66099l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/11/66099l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/11/66099l.webp",
+    "type": "Especial",
+    "year": "2026",
+    "rating": 6.5,
+    "studio": "Tatsunoko Production",
+    "episodesCount": 3,
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Terror",
+      "Sobrenatural",
+      "Shonen"
+    ],
+    "currentEpisode": 3,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#o8mqyw"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/bbb81e202351436a492d14ab252be567"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/izYShRQJ#eooZNyGggqiyHh5LeLJPngCuOca6SBL9ZmUvgVqpm5Q"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ysc6yybyz8um.html"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781429087760
+  },
+  {
     "id": "kaibutsu-oujo-ova",
     "title": "Kaibutsu Oujo (OVA)",
     "status": "Finalizado",
