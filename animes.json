@@ -10995,13 +10995,13 @@
     "year": "2026",
     "rating": 7.66,
     "studio": "SILVER LINK.",
-    "episodesCount": 9,
+    "episodesCount": 10,
     "genres": [
       "Acción",
       "Comedia",
       "Shonen"
     ],
-    "currentEpisode": 9,
+    "currentEpisode": 10,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -11186,10 +11186,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d5a9660df6bbf980ec12a284b560e336"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#n5karq"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-or63ueqyvho8.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781418738823
+    "timestamp": 1781431470312
   },
   {
     "id": "yamato-yo-towa-ni-rebel-3199",
