@@ -11647,7 +11647,7 @@
       "Sobrenatural",
       "Música"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -11987,10 +11987,41 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b25fffde8fd5db6d2b7ed617e529ffbb"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#kqhvzd"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uwm4qca32bv4.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/zme57m188det"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!YLkXHaTD!5v0bxeCsQYCCOyXgQm5q-xQbeW9G7DdqL7lfA1DA7Q4"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/k0prVgqqeMS87w/"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781418784939
+    "timestamp": 1781457583769
   },
   {
     "id": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
