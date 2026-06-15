@@ -1,5 +1,65 @@
 [
   {
+    "id": "shin-evangelion-movie",
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "status": "Finalizado",
+    "synopsis": "Following NERV's failed attempt to retrieve the Spears of Longinus and carry out the Human Instrumentality Project, the destruction caused by the Fourth Impact has been largely averted. In a state of disarray, Shinji Ikari, Asuka Langley Shikinami, and Rei Ayanami travel to Village 3—a survivor settlement free from Earth's ruination. There, Shinji slowly comes to terms with his past, developing an entirely different life from his days as an Evangelion pilot.\n\nMeanwhile, NERV makes preparations to continue the Instrumentality Project by means of a new Impact. When WILLE's main aerial battleship arrives at the village, Shinji decides to board, believing that he can help by piloting an Evangelion. As new secrets are uncovered and a battle between WILLE and NERV approaches, the future of Earth hangs in the balance. Can Shinji save humanity and the rest of the world one last time?",
+    "poster": "https://cdn.myanimelist.net/images/anime/1422/113533l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1422/113533l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1422/113533l.webp",
+    "type": "Película",
+    "year": "2026",
+    "rating": 8.58,
+    "studio": "Khara",
+    "episodesCount": 1,
+    "genres": [
+      "Premiados",
+      "Drama",
+      "Ciencia Ficción",
+      "Suspenso",
+      "Mecha",
+      "Psicológico"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/p3XFXLss?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7cc01ce930677cf6f5141e30d2ba44ed"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/2fxXHQxC#PYPA1L1BiWwy-oVcTIYrQlUqOspqJU2QewLuxFr2SpY"
+          }
+        ],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/dg6ypzAC?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/48c8742e981130faf185e10d1baaa675"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/CahG2ZqA#p11KassapI_IwljGoJdLSboqz0vNPacbblq6k89AxIg"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781531119933
+  },
+  {
     "id": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze",
     "title": "JoJo's Bizarre Adventure: Golden Wind",
     "status": "Finalizado",
