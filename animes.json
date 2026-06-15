@@ -1,5 +1,53 @@
 [
   {
+    "id": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
+    "title": "Attack on Titan: The Last Attack",
+    "status": "Finalizado",
+    "synopsis": "Una película recopilatoria de Shingeki no Kyojin: The Final Season - Kanketsu-hen.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1379/145452l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1379/145452l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1379/145452l.webp",
+    "type": "Película",
+    "year": "2026",
+    "rating": 8.83,
+    "studio": "MAPPA",
+    "episodesCount": 1,
+    "genres": [
+      "Acción",
+      "Drama",
+      "Suspenso",
+      "Gore",
+      "Militar",
+      "Survival",
+      "Shonen"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/SsVCTgCX?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0c61e98e5c7610ff9521b00574e5efa1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/xhQ1lZwB#sKL1Qy8n8Nb1cC-Es-dlIjEgH-hMoe3lPjiBMJCuvBU"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781529626263
+  },
+  {
     "id": "kimi-no-na-wa",
     "title": "Your Name.",
     "status": "Finalizado",
