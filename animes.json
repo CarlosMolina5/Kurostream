@@ -1,5 +1,89 @@
 [
   {
+    "id": "kimi-no-na-wa",
+    "title": "Your Name.",
+    "status": "Finalizado",
+    "synopsis": "Mitsuha Miyamizu, una chica de secundaria, anhela vivir la vida de un chico en la bulliciosa ciudad de Tokio, un sueño que contrasta con su vida actual en el campo. Mientras tanto, en la ciudad, Taki Tachibana vive una vida ajetreada como estudiante de secundaria mientras hace malabares con su trabajo a tiempo parcial y espera un futuro en la arquitectura.\n\nUn día, Mitsuha se despierta en una habitación que no es la suya y de repente se encuentra viviendo la vida de ensueño en Tokio, pero en el cuerpo de Taki! En otro lugar, Taki se encuentra viviendo la vida de Mitsuha en el humilde campo. En busca de una respuesta a este extraño fenómeno, comienzan a buscarse unos a otros.\n\nKimi no Na wa. gira en torno a las acciones de Mitsuha y Taki, que comienzan a tener un impacto dramático en la vida del otro, tejiéndolos en un tejido unido por el destino y las circunstancias.",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/87048l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/5/87048l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/5/87048l.webp",
+    "type": "Película",
+    "year": "2026",
+    "rating": 8.82,
+    "studio": "CoMix Wave Films",
+    "episodesCount": 1,
+    "genres": [
+      "Premiados",
+      "Drama"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/gce1hqSU?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/97fc82bf93587fb6190b4e601af69c9b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/RzIXxR5K#CTSXQYa6oi9HN5aTYu72YVnOcdv34jNvxPYwEqPxXqM"
+          }
+        ],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/QS8emSL5?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0e3e2086b6d5d8dfe42ac456f5d68f73"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/kZQTFKzC#tjujYEboyy78fBfEUn763_gISQCWE54UJYThEG_JCBM"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/a52phwv2jp5y"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!vnhDSabb!mngqeBtzdEvIyYmRBvD7vgZpAukU1hoHm4oe9uAFQdk"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/jaG5q38prR6c"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/474290719409"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/7qo77y4lwog"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=231276234236275235269228227243260275194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/3WoKJX2dl3idoab/"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781529604099
+  },
+  {
     "id": "boku-no-hero-academia-final-season",
     "title": "My Hero Academia Final Season",
     "status": "Finalizado",
