@@ -1,5 +1,51 @@
 [
   {
+    "id": "suzumiya-haruhi-no-shoushitsu",
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "status": "Finalizado",
+    "synopsis": "On a cold December day, Kyon arrives at school prepared for another outing with his fellow SOS Brigade members. However, much to his surprise, he discovers that almost everything has changed completely: Haruhi Suzumiya and Itsuki Koizumi are nowhere to be found; Mikuru Asahina does not recognize him at all; Yuki Nagato is a regular human; and Ryouko Asakura has mysteriously returned. Although he is no stranger to the supernatural, Kyon is disturbed by this odd turn of events and decides to investigate on his own.\n\nFinding himself to be the only person that is aware of the previous reality, Kyon is now faced with a difficult choice: to finally live the normal life he has always wanted, or uncover a way to turn back the hands of time and restore his chaotic yet familiar world.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
+    "type": "Película",
+    "year": "2026",
+    "rating": 8.59,
+    "studio": "Kyoto Animation",
+    "episodesCount": 1,
+    "genres": [
+      "Premiados",
+      "Misterio",
+      "Ciencia Ficción",
+      "Sobrenatural",
+      "Escolar"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/pcvpDNV5?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d8cf1cf81f31fce8caaaa461c4aff2f1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6YFgDAqY#3uUnIrWZX2nKUzOjuRbJpRMgr-fCRSkHP0IgU4qvGkQ"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781534189385
+  },
+  {
     "id": "natsume-yuujinchou-shi",
     "title": "Natsume's Book of Friends Season 4",
     "status": "Finalizado",
