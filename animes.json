@@ -66,7 +66,7 @@
         ]
       }
     ],
-    "timestamp": 1781558513453,
+    "timestamp": 1781558516689,
     "hasLatino": false
   },
   {
@@ -114,7 +114,7 @@
         ]
       }
     ],
-    "timestamp": 1781558513336,
+    "timestamp": 1781558516666,
     "hasLatino": false
   },
   {
@@ -164,7 +164,7 @@
         ]
       }
     ],
-    "timestamp": 1781558513336,
+    "timestamp": 1781558516689,
     "hasLatino": false
   },
   {
@@ -208,7 +208,7 @@
         ]
       }
     ],
-    "timestamp": 1781558513456,
+    "timestamp": 1781558516810,
     "hasLatino": false
   },
   {
@@ -255,7 +255,7 @@
         ]
       }
     ],
-    "timestamp": 1781558513331,
+    "timestamp": 1781558516805,
     "hasLatino": false
   },
   {
@@ -548,7 +548,7 @@
         ]
       }
     ],
-    "timestamp": 1781558509489,
+    "timestamp": 1781558512521,
     "hasLatino": false
   },
   {
@@ -596,7 +596,7 @@
         ]
       }
     ],
-    "timestamp": 1781558508592,
+    "timestamp": 1781558511717,
     "hasLatino": false
   },
   {
@@ -637,7 +637,7 @@
         ]
       }
     ],
-    "timestamp": 1781558508592,
+    "timestamp": 1781558512101,
     "hasLatino": false
   },
   {
@@ -727,7 +727,7 @@
         ]
       }
     ],
-    "timestamp": 1781558508592,
+    "timestamp": 1781558511717,
     "hasLatino": false
   },
   {
@@ -885,7 +885,7 @@
         ]
       }
     ],
-    "timestamp": 1781558508577,
+    "timestamp": 1781558512320,
     "hasLatino": false
   },
   {
@@ -248317,28 +248317,6 @@
         ]
       },
       {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/87e6d04233de99d5b66536da0816d20a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/U1JA1C5J#mxvdvYdnWf92g8O7T7qsBTM_tWSPukXdHdt5yLnQUfE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-xdkamq93001s.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/cfhFqtno?embed"
-          }
-        ]
-      },
-      {
         "num": 6,
         "latino": [],
         "sub": [
@@ -248493,7 +248471,7 @@
         ]
       }
     ],
-    "timestamp": 1781558510501,
+    "timestamp": 1781372916606,
     "hasLatino": false
   },
   {
@@ -406940,7 +406918,14 @@
     "rating": 7.1,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Misterio",
+      "Seinen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -408381,7 +408366,14 @@
     "rating": 7.65,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Isekai",
+      "Mecha"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -421451,13 +421443,7 @@
     "rating": 7.16,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Shounen",
-      "Sobrenatural",
-      "Artes Marciales",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -436263,10 +436249,7 @@
     "rating": 8.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Sobrenatural"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
