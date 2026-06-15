@@ -1,5 +1,684 @@
 [
   {
+    "id": "usagi-drop",
+    "title": "Bunny Drop",
+    "status": "Finalizado",
+    "synopsis": "Daikichi Kawachi is a 30-year-old bachelor working a respectable job but otherwise wandering aimlessly through life. When his grandfather suddenly passes away, he returns to the family home to pay his respects. Upon arriving at the house, he meets a mysterious young girl named Rin who, to Daikichi’s astonishment, is his grandfather's illegitimate daughter!\n \nThe shy and unapproachable girl is deemed an embarrassment to the family, and finds herself ostracized by her father's relatives, all of them refusing to take care of her in the wake of his death. Daikichi, angered by their coldness toward Rin, announces that he will take her in—despite the fact that he is a young, single man with no prior childcare experience.\n\nUsagi Drop is the story of Daikichi's journey through fatherhood as he raises Rin with his gentle and affectionate nature, as well as an exploration of the warmth and interdependence that are at the heart of a happy, close-knit family.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1460/98853l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1460/98853l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1460/98853l.webp",
+    "type": "Serie",
+    "year": "2011",
+    "rating": 8.31,
+    "studio": "Production I.G",
+    "episodesCount": 11,
+    "genres": [
+      "Recuentos de la vida",
+      "Childcare",
+      "Iyashikei",
+      "Josei"
+    ],
+    "currentEpisode": 15,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/NBipA4MX?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8dfb34b665e3daa7666a3cc86bae24d1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/L3oxzZaR#xovzxbzY_SKI-MESIgcoQbD033SXmJc98hJyYqQXO0g"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vx7u05yzpsx2.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/yjaw42hmo6q6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!MA0jAArS!biJopGojE5pOVn1gYIE_9XoxGBiuPiW5hJ3jy9AxJF8"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/7qC7C25vOu24"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/250996525578"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8pyd0f8wkkplwdd"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=225246245244278239225222207238222274194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/VWo36qL9e2FKW9y/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/hJpSQUZ7?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d0e1798791cf97295af5462939edcbc5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Wu4AQZoa#0uRGpHKui7stIvdmVLMBVg63SMNjkT9tHxdmqz3id3Y"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-or0rpccjotte.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/vinbvfl8ei97"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!IIsxBCJT!X9CpYzMnNZ0YIdnfbXZ9Snj0HLCFQAYYM2Gm_NBg0UU"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/7mS6056FfDuu"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/265585363592"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/1lo6-rgjlo5"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=257255222263270274212243257231275206194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/O6pMQVRjj7HZva3/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1b46cae63a3fb69eba5f963064145fd6"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Dypw3ADR#oSkW7vhFdyB_MmXsLUro8wBTWJZk2P5x-9BoOpEU7dM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-bw2ya2shvmxd.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/2RmciYrD?embed"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/stvu4tmb7lot"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!a2ZSSIyA!MCmJETJRWc24vXwsh7l__YBZOt9Xdp2X3nWH1iOMy6A"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/0582x4l0067j"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/278003845809"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/nyd8gu2r0g546l4"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=228276223225258244239240269255207208194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/gjyg2yZzYpU3w2/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f4fc699e0bbbefe95d4cba9b6e3780d7"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fj4AQAYL#YOiX5pRism7WsNhJ_U8i-pZg9t0UVmf2jj2X3k4Ppk4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4f1lauuucc6v.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/QXjEgZiY?embed"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/c5ve9i9afkaq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!3mRGya7Q!mranihG7ULiQEAh6StdD9G6H9JDJngivYQqqVLjduWc"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/fs1bcCdt3bMp"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/279024962162"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/2w9mdjqnl96"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=256227239277241268267245274239238204194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/dpxbR87zdaTkVR4/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/54da775d4bd5a655c42d2d34a39b20ea"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Dj4ADYbL#9sDg1ZdYUTrLBo75SFvJ9tL1VFgCfkXMIrSqndlmuPA"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-nhh2g0k5li21.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/nWGJPDM6?embed"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/hw2woo31grnc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!CuJWxYYb!-zBE7nb0o0bTvdk7iKwlySmScR28FQbAiDJAeCDJtzA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/f350m4fJ0Fh7"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/263982811737"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/136xyajn11353l6"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=259243264244277231211210268213234225194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/xloZdzlW9DSkGao/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/1d043f9ef93f20b83055721c0912f1bc"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Sqh0SAQQ#4j0n_CYOX4705v6CYI7z89E5BNSrZ0Rr5cI5oeHpNYg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-s1orr8xjml2c.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/B5WVjsWF?embed"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/6ug9yh7eu4ff"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!2rYiQCSS!o61-76iRXEa2v_c2LLJpBSqjj5JfsHdolNvWbU5-BKc"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/g2UHnJkl5k63"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/277564885678"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/pm95-0gj8vl"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=238227271246272273245233211242270269194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/xg8w74M3zMtQQY/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/425fb656a830e161fdcfb32f52a1f893"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/iyhUBQJQ#0wUE2b6-i2b-a_rbxywKKfUjnaA6oGhEUaJoqVoPLYE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-anjwtlszoktc.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Aiym45Qc?embed"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/xob1h47koq02"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!y7Q0SK7Y!TKjSjDhbCwyKERAD_K_W7McVhC6enaN-JAQ6wZ1VCLg"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/Wm82332M1L7g"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/282764249776"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/053yebldzz8q-ee"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=212234242273256267225236212206239224194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/WrVRkpd2gqSbxor/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/kNHPysvQ?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0df7c71b6ebd3404af8a989831edae5a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/H7h10agK#sMRF23XynshXFjeR5bpb1Sr9w62wnsuB9rPZcVzwCgg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4v0kg5uap3jr.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/wxhkfkrs9plv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!ynQ0RSYK!jPiiQ774k87me8-7-KvWkJMoBbKrtmt9ooCOB2a8J_Y"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/8Rj7NuTa32Q5"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/265585429128"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/p6ogxjrnxvj"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=253226275204206231273228241245234276194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/MAo3Yg43LDtmxXJ/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/8R7kWxbd?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d8a876bf3c2935f852b25ec8d490a783"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/3jJgnBJD#xr0NtkPwP827zKTIp1Q-BTxdMi6CsYUrgPOUPwTbUqE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-lror7nyvc2im.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/8ryv9ya4vt8f"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!6uYg1aaK!oqSz3c0mO1bRQwnKTklA4nrZFQ9BpAPNmsJ5LtaWlgI"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/L26Qw21EdC6m"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/265585494664"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/24d8xb2qwx46xy7"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=260224230278235270265213233244221269194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/AKVoA0w43VIX6WV/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/af30459f914fe2b1b33b899475ee5971"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/z6JTAJBZ#_a1XT7DN9yZcJaZD364dVu1mR6skNBKoImgEKIqUu9U"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-cmxsrz6m8prf.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/oRQsS51f?embed"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/ejg73qccavw4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!WnQA3aDD!qsFlOV4UDGnXQY-Nmb9vSzDu29MYJq4MsOka6G36rSA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/WqMoBSY28i6M"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/271091567339"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/4d9j4jqxy91"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=223270230225268233229272261224231227194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/bQQBjmWv1KfPzo2/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c4b6cee16221c47540281548ba089ddc"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/TjwQTSgL#kCqoblkqE-JSUfsuZ20024Np67vrhuQhLBuMBBrvbJI"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-bht34rzxndv5.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ZMpymtWT?embed"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/pq1d600qwgxk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!RUkB3QoA!iRSk4sRNvdtXQXJ7hoC4lOm9cU5vYIouDlPSNUKhZxA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/c1WmHSYv63xo"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/283051756113"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8pyd0f8wkkpk8qr"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=221272211268228241204212207242225225194271217261258"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/KyVp4MwPL1Cay4/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/uSWTsKvY?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ff03d119b3aa8930484061faf2cdfaf3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/j2B31R4A#WhBmUD3GxPQCJXQuEdADVufO4Ceh9LlNbe6AUJOhHAo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-203ah1hpha8t.html"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/TcETBdyS?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/3bd6a1f73a1ec7e85b6a9068e8ff22c4"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LuAzDBRI#KJ_wH8AAHGT4wN7ZZyz1JL49Y-30QNdZnRAl2nSB-Ps"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-1orqec9sgtol.html"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 14,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/18b24d85077b438ab049001312a29604"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Cmx2iT5B#Bghd0rRgE1I6XMersSOb3QeFpYXVp6UAS6ml71kXxaw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-d2x39ra6g6so.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Vus719QQ?embed"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2c002f26337c4ff9d5862fd1b51e24e3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ymxhkbRC#-AxfB943qJvZflXYiKgUbtuYjqQEcTJjqXl_Q62LhHM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-uclrhonhgbd1.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/pUA52ukJ?embed"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781533918486
+  },
+  {
     "id": "kiseijuu-sei-no-kakuritsu",
     "title": "Parasyte: The Maxim",
     "status": "Finalizado",
