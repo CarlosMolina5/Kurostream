@@ -197,6 +197,28 @@
         ]
       },
       {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2b1eb2a959896b15cdb14a2d41016925"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/eu4QGCrb#Me1DuuzR2aCPz_QE7qRwvNKU9XU9-02oVa9IFIPWpGg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-wdslf34gqyzl.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/B9bnHARZ?embed"
+          }
+        ]
+      },
+      {
         "num": 10,
         "latino": [],
         "sub": [
@@ -285,7 +307,7 @@
         ]
       }
     ],
-    "timestamp": 1781564270648,
+    "timestamp": 1781564287118,
     "hasLatino": false
   },
   {
@@ -575,7 +597,7 @@
         ]
       }
     ],
-    "timestamp": 1781564269513,
+    "timestamp": 1781564286982,
     "hasLatino": false
   },
   {
@@ -862,7 +884,7 @@
         ]
       }
     ],
-    "timestamp": 1781564270002,
+    "timestamp": 1781564286617,
     "hasLatino": false
   },
   {
@@ -1453,7 +1475,7 @@
         ]
       }
     ],
-    "timestamp": 1781564273601,
+    "timestamp": 1781564288643,
     "hasLatino": false
   },
   {
@@ -2029,7 +2051,7 @@
         ]
       }
     ],
-    "timestamp": 1781564273630,
+    "timestamp": 1781564288491,
     "hasLatino": false
   },
   {
@@ -410358,7 +410380,15 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -414460,12 +414490,7 @@
     "rating": 7.42,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Misterio",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -416904,11 +416929,7 @@
     "rating": 7.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
