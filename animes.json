@@ -1,5 +1,63 @@
 [
   {
+    "id": "look-back",
+    "title": "Look Back",
+    "status": "Finalizado",
+    "synopsis": "Puede que Ayumu Fujino solo esté en cuarto grado, pero ya disfruta de grandes elogios por sus cómics de cuatro paneles dibujados a mano que aparecen en el periódico de la escuela. Sin embargo, cuando se le pide que comparta la página con Kyoumoto, una estudiante solitaria que nunca ha conocido, Fujino se siente inadecuada por primera vez: sus dibujos de espíritu libre se ven vergonzosamente amateur junto al arte increíblemente detallado de Kyoumoto.\n\nDurante un año, Fujino cierra el mundo, estudiando obsesivamente la creación de manga y dibujando incansablemente para ponerse al día con su competencia sin rostro. Pero el talento de Kyoumoto supera con creces el suyo, y Fujino lo deja todo. Pasa otro año, y el día de su graduación, Fujino finalmente conoce a Kyoumoto. Esta chica descuidada, tímida y tartamuda ha sido la mayor fan de Fujino todo el tiempo. Su encuentro reaviva la pasión de Fujino por el arte y desencadena el comienzo de una amistad de años construido sobre la rivalidad, la admiración y su amor compartido por el manga.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1716/142633l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1716/142633l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1716/142633l.webp",
+    "type": "Película",
+    "year": "2026",
+    "rating": 8.62,
+    "studio": "Studio DURIAN",
+    "episodesCount": 1,
+    "genres": [
+      "Premiados",
+      "Drama",
+      "Otaku Culture",
+      "Shonen"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a976d50d7c6c7be983d763cb0355282b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6J93QbwS#02whDMWTKos5dlYyrPATnkdaCnlZlk-v7Ux2FAwPhP0"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-982xchhlf2op.html"
+          }
+        ],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/accfca03e1d1d486f1390d7dcac91a5f"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/3AUTRQQJ#LMwf8tst4sNH49eutx2vFXNiYM8FwWW1Iq3ZsML0m0o"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-gthoa3srqw54.html"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781530589906
+  },
+  {
     "id": "made-in-abyss",
     "title": "Made in Abyss",
     "status": "Finalizado",
