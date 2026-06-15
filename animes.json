@@ -307,7 +307,7 @@
         ]
       }
     ],
-    "timestamp": 1781564287118,
+    "timestamp": 1781564304282,
     "hasLatino": false
   },
   {
@@ -597,7 +597,7 @@
         ]
       }
     ],
-    "timestamp": 1781564286982,
+    "timestamp": 1781564304141,
     "hasLatino": false
   },
   {
@@ -884,7 +884,7 @@
         ]
       }
     ],
-    "timestamp": 1781564286617,
+    "timestamp": 1781564302905,
     "hasLatino": false
   },
   {
@@ -1475,7 +1475,7 @@
         ]
       }
     ],
-    "timestamp": 1781564288643,
+    "timestamp": 1781564305214,
     "hasLatino": false
   },
   {
@@ -2051,7 +2051,7 @@
         ]
       }
     ],
-    "timestamp": 1781564288491,
+    "timestamp": 1781564305720,
     "hasLatino": false
   },
   {
@@ -406120,7 +406120,12 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Shoujo",
+      "Mecha"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -406711,7 +406716,16 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Shoujo",
+      "Artes Marciales",
+      "Histórico",
+      "Isekai"
+    ],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -410380,15 +410394,7 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Fantasía",
-      "Shounen",
-      "Artes Marciales",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
