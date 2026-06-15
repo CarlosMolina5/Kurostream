@@ -1,5 +1,50 @@
 [
   {
+    "id": "k-on-movie",
+    "title": "K-ON! The Movie",
+    "status": "Finalizado",
+    "synopsis": "Graduation looms for the founding members of the Light Music Club. With only a few precious weeks of school left, the girls decide to make the most of it and plan a trip abroad. Hawaii, New York, Dubai—many destinations are suggested, but after a little help from the club's precious pet turtle, Ton-chan, London is chosen as the host of their next misadventure!\n\nYui Hirasawa, Mio Akiyama, Tsumugi Kotobuki, Ritsu Tainaka, and Azusa Nakano will visit famous landmarks, perform live music for Londoners, and eat all sorts of delicious food, all while stumbling clumsily from place to place. But the fun won't last forever, as heartfelt songs and goodbyes will be made as their high school days together come to a close. One thing is for certain though: the undeniable friendships these girls have formed is something that will carry on long after the final scene rolls.",
+    "poster": "https://cdn.myanimelist.net/images/anime/5/76233l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/5/76233l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/5/76233l.webp",
+    "type": "Película",
+    "year": "2026",
+    "rating": 8.36,
+    "studio": "Kyoto Animation",
+    "episodesCount": 1,
+    "genres": [
+      "Premiados",
+      "Comedia",
+      "CGDCT",
+      "Música"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/sfD11Wry?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/737487acb62de9855c043923351f378d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jkBRxAjI#698GvglSpx0nMTEw4NVx03yLI2981W9xW0dOYnbREQQ"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781533382673
+  },
+  {
     "id": "3-gatsu-no-lion",
     "title": "March Comes In Like a Lion",
     "status": "Finalizado",
