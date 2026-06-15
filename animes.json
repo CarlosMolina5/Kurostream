@@ -219,6 +219,28 @@
         ]
       },
       {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/027212ce66f07159c48c7f62e15b2b9d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/bn5zDarY#NIHS3e2kPUhTIX-QV9DT0whB7QsSNTKUy8uS-nEEN1o"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-t8ick9g4ncbu.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Xdk3rF1Y?embed"
+          }
+        ]
+      },
+      {
         "num": 11,
         "latino": [],
         "sub": [
@@ -285,7 +307,7 @@
         ]
       }
     ],
-    "timestamp": 1781564185376,
+    "timestamp": 1781564201652,
     "hasLatino": false
   },
   {
@@ -575,7 +597,7 @@
         ]
       }
     ],
-    "timestamp": 1781564184869,
+    "timestamp": 1781564201085,
     "hasLatino": false
   },
   {
@@ -862,7 +884,7 @@
         ]
       }
     ],
-    "timestamp": 1781564185101,
+    "timestamp": 1781564201360,
     "hasLatino": false
   },
   {
@@ -1453,7 +1475,7 @@
         ]
       }
     ],
-    "timestamp": 1781564186396,
+    "timestamp": 1781564202688,
     "hasLatino": false
   },
   {
@@ -1585,6 +1607,28 @@
           {
             "name": "PDrain",
             "url": "https://pixeldrain.com/u/GwDr3L4r?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e9c3be3bed3797772d29b20fde888075"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/gy4GwLYY#L4G0paeBzbbcIZR1r35qhi3CMNFkwEVsTJlVLxp9dP8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-dh45ka55jsko.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/7VZJ3tef?embed"
           }
         ]
       },
@@ -2007,7 +2051,7 @@
         ]
       }
     ],
-    "timestamp": 1781564186240,
+    "timestamp": 1781564202899,
     "hasLatino": false
   },
   {
@@ -406186,7 +406230,13 @@
     "rating": 7.33,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -407175,12 +407225,7 @@
     "rating": 7.8,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
