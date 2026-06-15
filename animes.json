@@ -1,5 +1,743 @@
 [
   {
+    "id": "shouwa-genroku-rakugo-shinjuu",
+    "title": "Showa Genroku Rakugo Shinju",
+    "status": "Finalizado",
+    "synopsis": "Yotarou is a former yakuza member fresh out of prison and fixated on just one thing: rather than return to a life of crime, the young man aspires to take to the stage of rakugo, a traditional Japanese form of comedic storytelling. Inspired during his incarceration by the performance of distinguished practitioner Yakumo Yuurakutei, he sets his mind on meeting the man who changed his life. After hearing Yotarou's desperate appeal for his mentorship, Yakumo is left with no choice but to accept his very first apprentice.\n\nAs he eagerly begins his training, Yotarou meets Konatsu, an abrasive young woman who has been under Yakumo's care ever since her beloved father Sukeroku Yuurakutei, another prolific rakugo performer, passed away. Through her hidden passion, Yotarou is drawn to Sukeroku's unique style of rakugo despite learning under contrasting techniques. Upon seeing this, old memories and feelings return to Yakumo who reminisces about a much earlier time when he made a promise with his greatest rival.\n\nShouwa Genroku Rakugo Shinjuu is a story set in both the past and present, depicting the art of rakugo, the relationships it creates, and the lives and hearts of those dedicated to keeping the unique form of storytelling alive.",
+    "poster": "https://cdn.myanimelist.net/images/anime/1354/124768l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1354/124768l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1354/124768l.webp",
+    "type": "Serie",
+    "year": "2016",
+    "rating": 8.54,
+    "studio": "Studio Deen",
+    "episodesCount": 13,
+    "genres": [
+      "Drama",
+      "Histórico",
+      "Love Polygon",
+      "Performing Arts",
+      "Josei"
+    ],
+    "currentEpisode": 13,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/bkpuiPUp?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/dd07be0da7f1d73e7478ef5ecaee164e"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#5fzews"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6ZVhiILY#ndRe34F628eKIGzNKEVuMEKUdHbqh57Oi1vWaXVmV0U"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vxbrrjlhh3y4.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/13rp75ytuwba"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!gL9RQIyZ!hF2YyuM7gef47Vio7-ZP5yeNZJc9bobQTm8YGNDGhUM"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/47RS4D6c0P2B"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/254048733892"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8gozz-y5yod"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=U3JNcnltWlFJbDFQN29Tb3ZsR3MzUT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/DWMY6lKG24sLar/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/18esYWsu?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b95f902996bec3960d21cd5c70345438"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mserin"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/OUFwhapT#SN-zTCdv0lIJbpzOGRrSR5eCag3IlvNzU6yO0oA7dT4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-mj9agusqma8a.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/ngk6wjq9wwol"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!FbcV1bhb!fpjHmOFv2R0Qjgmwy-2w3jr4G9e6ASR-II999wT6FIY"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/I4A15t6U70Cl"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/269207603884"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/6m92-eqzdvr"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=S2Y5RzZzZElSK0RvRmUyWnVnNkpBdz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/MkX7PRxrDlTmpy2/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/ftmWgiE4?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/38fe9ee8280adc3cff1eac3bff371cab"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#xhid6j"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/7UFWnCYS#cVbICwcM2eGwTa9fyop68nyIKs2dobNtXIiaQ7UFsw8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ch8l2jpy5ww4.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/04edhoy9fdyf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!xHEUiZaC!zc_XUDvhPmAfAdeoFxBxB91P6bU5wMpH7SGAnt9ovO8"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/K5X66N3e0Vh7"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/254048996036"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/5jv4-8lgx90"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=VGNDaFQzOGJBcHRIMkxnVlRBaWZ5dz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/kqJ1XprRqXfOOV4/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/stv5qUu3?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ec1c7d837564f4d024268253357225b9"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#8a5mte"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/qNNH0Dia#0anSbOyeYlw1tmwhQ4vfKgSCGqWRXOpkmAENoQ2TLWg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-50ejfi5xbp2k.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/10bdx69t9c8k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!pSkSFBbJ!suMcmX4smj5lmNbex5Hp5-Es1ui5gB-fv-IK4EzFUbs"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/qR8438wd38JO"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/260500556487"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8gvdl-67p9y"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=TzNGKzRWYlFXYkRCNXBsY2xrRTVaQT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/BerrY171QqcyJkL/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/hbsTXgHP?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e5b45d74257eb4145c60827b40fcaf21"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#pdutkz"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jI0QWRSJ#FR7VgWfyxY8R63RPGvtU93_RidFJ7gT0yZrrucEPdpY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-26tnqx4atpiy.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/jrfdxutby6uz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!YXE3CAhZ!uaUFWgZbCxnK5Dw7oMBcfsgiZSj9hdQXcTdhZwRuhFg"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/c43UiNtwOXoR"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/254049061572"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8xvppklqqv7"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=OUhydU5rM0sxby9HU2xQaEFtc05SUT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/Mx7k2exQeLs1J9/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/XN8mypYB?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0944b887ccf9a3c5851dc37f2bb577da"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#gphne5"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zdkkES5b#PAurbKNi2yZnInRPkBB8ALOHBihNyiOkUaqkqsW4PVs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-38tx5gjoqpqe.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/i8vxaawfr445"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/521ntF12mgg5"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/260500753095"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/env8-8xg0o1"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=YWwvZFJuZWFsVjU0dzJ6QXFtelVWdz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/RLKR06bGBJiJXg/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 7,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/9uqwPN4t?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0f08abf300680ab45bd562a10e131cd6"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#vy1hzd"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LZ0ngTYb#iSDfm1mDSooZ4Nxt7tScE6Z9XFiJPYPQ0NuoOBjvgNE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-byiusvm0z0kd.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/6s80t4cxss2q"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!AXkyXLjL!eFDwYCre2cfFizPZJRjPJIQjHsD339A6RrJ3kgImEbo"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/g6LPpm1TPKn2"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/254049127108"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/7zo-yepl29x"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=THFmakdsY2puMXR3c00wbXViYmpvUT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/ay6YJ11mZPhxBvR/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 8,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/DtYsCmc2?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/868631ea156c2772b70b22a7c074ae0b"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#6lsjhw"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/vUFFCLjR#4TN9or1R7e096_gJt4mlBDzU-j40vejwYDI-Dy70elY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-gkt7ro8sni6m.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/49jxe68fu7ax"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!RX1S2bYS!vzSuzumpA7_LVgTDRxlcw9Cj1P9pggLC21EDgXo1DoE"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/eU602Abu16rc"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/254049192644"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/yx93-85dq9l"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=YkRjZ3lEaEhhM0kvQVNlNWJpOUlSQT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/VVeYGVmr0aCxPV/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 9,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/yqMVddWd?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/76c1a152db87bf8979d2bf0df5716e72"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#i9pqs1"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/OBs0gawY#PLahz6EaPazCbZjFzDHEhsqVuZ0QMdOfgDvKMA58Knk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-38i9qsv5hzkt.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/9bk78lgjsgks"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!Zf8nEbiK!ldgadyen0GvE0Pky-_p207YOUcYI1XCbPW2LEgxJd5M"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/Tf27LcBeO58f"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/269207997100"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8godl-60pvy"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=OENnQXoxM25aR1NwMXU1b21aVDU4QT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/0lYX1MQbZGCb1mp/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/GMu6kuaA?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/42d0a65d2c54d87cd1022d342e2de800"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ekl8py"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/mUkRxZga#o3ri_CKuiyfMWI_oAeu5jvepn2edY6Kcfjr5XP07MUc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-zp4tajcasz9q.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/9w0te2x75v1q"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!gOMXjRpC!gKM_q5DP6wNCRxu8kdyISyAx_ktTlIUUkwJ38VYMfFk"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/XcpgmEb3iad5"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/260501146311"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/4lo0-8z4xoq"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=czJoaXd4TGxoaXhDVVdEaUJaSUYwdz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/W9xpeQJkz9sbJyV/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/weRTrTkv?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/aeeebcb4aca51c42be6cfedc6060301b"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#t1wiaj"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6NdCUQBC#ZyAAZGUg-QLJQ8VvQSnRimwDaMvehRtIMkAKPGtRi2Y"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-1ezfr9ncmcab.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/jkalnfizb0n3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!8S1WkBiS!DdHPl6G0y1v0PYj7raKC3BkvlIAZZ1EnK5ALBdXFIWA"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/i5pEFN252unb"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/260501211847"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/8xoppkljqo7"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=VU05VlA5aHA1My9sUVVjbmxLNXU2UT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/AozP6pAq10hXdLb/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/LjXDKze5?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ffe1ca7da12e429efcc70119198702b1"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mserif"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/SQt1SJyB#Fe_LezJeRjYClGK1IGMX2reSYKhlk1Xn2ahQaQVji7M"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-jl86cnfwu2br.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/0tm9mi9fwio9"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!lDMQ3DSR!PbIS4G1VvOOYypuJKmL6qUN-SX0BdijLP2dGtfNVhHU"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/gN6Dj8uhCaoB"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/269208259244"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/2w9mdrm5l96"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=YzR0bmV4eFAzZHRIL05qRENqZHR3QT09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/vVY2vQoB0MHPjZ/"
+          }
+        ],
+        "isNew": false
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/Tm53MiGM?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ca77d971dcedf2d0cbf66bf68f85184c"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#pdutke"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/fUshTADR#_3Iw0NoFNg10Dg89eIjHfN3y4m-kamcmdopD5kUixc4"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-kfltybqyj6dj.html"
+          },
+          {
+            "name": "sw",
+            "url": "https://streamwish.to/e/49y4krwel5uo"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/!RbcXlLpT!PVpsuzad8FBklg3iv1XQyPMoUf8Lgx-igVCv5vq1t_g"
+          },
+          {
+            "name": "yu",
+            "url": "https://www.yourupload.com/embed/Tdah3Q5VXC1b"
+          },
+          {
+            "name": "okru",
+            "url": "https://ok.ru/videoembed/269208324780"
+          },
+          {
+            "name": "fembed",
+            "url": "https://embedsito.com/v/05ol70z5n96"
+          },
+          {
+            "name": "netu",
+            "url": "https://hqq.tv/player/embed_player.php?vid=UXdSWW9Za0cwZERoRkYxcE96TlQ5Zz09"
+          },
+          {
+            "name": "stape",
+            "url": "https://streamtape.com/e/Jpap40jXJkTjMXX/"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1781531402654
+  },
+  {
     "id": "steinsgate-0",
     "title": "Steins;Gate 0",
     "status": "Finalizado",
