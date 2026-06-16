@@ -289,7 +289,7 @@
         ]
       }
     ],
-    "timestamp": 1781654009762,
+    "timestamp": 1781654010074,
     "hasLatino": false
   },
   {
@@ -557,7 +557,7 @@
         ]
       }
     ],
-    "timestamp": 1781654009072,
+    "timestamp": 1781654009056,
     "hasLatino": false
   },
   {
@@ -669,7 +669,7 @@
         ]
       }
     ],
-    "timestamp": 1781654007901,
+    "timestamp": 1781654008804,
     "hasLatino": false
   },
   {
@@ -958,7 +958,7 @@
         ]
       }
     ],
-    "timestamp": 1781654008797,
+    "timestamp": 1781654009747,
     "hasLatino": false
   },
   {
@@ -1512,7 +1512,7 @@
         ]
       }
     ],
-    "timestamp": 1781654010765,
+    "timestamp": 1781654012054,
     "hasLatino": false
   },
   {
@@ -437190,7 +437190,15 @@
     "rating": 4.83,
     "studio": "",
     "episodesCount": 2,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Shounen",
+      "Terror",
+      "Gore",
+      "Mecha",
+      "Mitología",
+      "Superpoderes"
+    ],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -459780,7 +459788,11 @@
     "rating": 7.75,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
