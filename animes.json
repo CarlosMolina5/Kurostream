@@ -550,7 +550,7 @@
         ]
       }
     ],
-    "timestamp": 1781573923427,
+    "timestamp": 1781573935705,
     "hasLatino": false
   },
   {
@@ -841,7 +841,7 @@
         ]
       }
     ],
-    "timestamp": 1781573921632,
+    "timestamp": 1781573935365,
     "hasLatino": false
   },
   {
@@ -867,6 +867,24 @@
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/111c255fe0f48fc235d87b11e6a8df67"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/qIcFyZ6A#NKrmU4e_E81JHAcYRZ4xPIEQCbIqix0iDOhr9Nq5tF8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-anaiqukv7ic1.html"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -1074,7 +1092,7 @@
         ]
       }
     ],
-    "timestamp": 1781573921041,
+    "timestamp": 1781573934071,
     "hasLatino": false
   },
   {
@@ -1367,7 +1385,7 @@
         ]
       }
     ],
-    "timestamp": 1781573922405,
+    "timestamp": 1781573934730,
     "hasLatino": false
   },
   {
@@ -1860,7 +1878,7 @@
         ]
       }
     ],
-    "timestamp": 1781573921318,
+    "timestamp": 1781573933808,
     "hasLatino": true
   },
   {
