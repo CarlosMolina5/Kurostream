@@ -1,5 +1,400 @@
 [
   {
+    "id": "freezing-specials",
+    "title": "Freezing Specials",
+    "status": "Finalizado",
+    "synopsis": "Estos episodios se centran en el ecchi y la comedia, y no tienen nada que ver con la historia principal de Freezing.",
+    "poster": "https://cdn.myanimelist.net/images/anime/9/28079l.webp",
+    "cover": "https://cdn.animeando.net/covers/10172.jpg",
+    "banner": "https://cdn.animeando.net/covers/10172.jpg",
+    "type": "Especial",
+    "year": "2011",
+    "rating": 6.55,
+    "studio": "",
+    "episodesCount": 6,
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Seinen",
+      "Ecchi"
+    ],
+    "currentEpisode": 6,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/721f819903b618c081026e388edc16d2"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/yBh1wACQ#9aLM9_v68jvktYwmDbgSX7rPjvhRfn7k64TnV_9ihRQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-3eerqol7sxjz.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/oAoy2Ndp?embed"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/09121f87686f312a186f72f592cb11dc"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/HQIgBbpL#SJOruBIrGJ_dQAfMVxjGrimBmHoYlduGLsIgtscnpvw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-s1adlunt3zdi.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/gAytaJCZ?embed"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d4957400fa26c87533da2c260f89564e"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/WMJR3KbQ#RBi_1rlOT--GHd-m2wU_Y-w_PgNZH_GRRulr33e6M40"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ra8te3h9an3s.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/wAiPoEFQ?embed"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6da3dcf7e0e1460272b01cd4ca489e94"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/Ccw1QLaJ#WhEfmaNUl09mI3VXkK8-XvdPHN9zu53uLsXRmMtxDuM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-9gppp87b3l7t.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/CFK22R4E?embed"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b97d0c1e673ac207f1135e850f1091d6"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/TZphkCJI#dYrhcMwOr8lK56aqJZZgPcI8A7m2Bju3ejnIWBKSs2Y"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-wy2dolpr68is.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/dAhMnyZD?embed"
+          }
+        ]
+      },
+      {
+        "num": 6,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/f0a3aee93bcf50411dda9dd92f7683ef"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/TNRGRArJ#P9M5cThzIFE4TSI9HDFgacefnQzxAhpbig64xftZcCg"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-da40ah8obf4y.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/n7poK88P?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781590760744,
+    "hasLatino": false
+  },
+  {
+    "id": "break-blade-movie-6-doukoku-no-toride",
+    "title": "Break Blade Movie 6: Doukoku no Toride",
+    "status": "Finalizado",
+    "synopsis": "Sexta y última película de Break Blade.",
+    "poster": "https://cdn.myanimelist.net/images/anime/4/68089l.webp",
+    "cover": "https://cdn.animeando.net/covers/10092.jpg",
+    "banner": "https://cdn.animeando.net/covers/10092.jpg",
+    "type": "Película",
+    "year": "2011",
+    "rating": 7.66,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Shounen",
+      "Elenco Adulto",
+      "Mecha",
+      "Militar"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/090e5f619085536cfb7a554beba95ef7"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/yGRhARDZ#3ey2ARHswx-pEdNl9dlmkLpXlraNk0tf-mCGHg-sVwo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-t8hdisx3n7im.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/KXpDSKPS?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781590760687,
+    "hasLatino": false
+  },
+  {
+    "id": "saiyuuki-gaiden",
+    "title": "Saiyuuki Gaiden",
+    "status": "Finalizado",
+    "synopsis": "En sus vidas anteriores, 500 años antes de que Genjyo Sanzo y su grupo de inadaptados comenzaran su viaje hacia el oeste, eran dioses, pero ser divinos no los hizo actuar de manera más celestial. Cuando Goku entra en una furia asesina tras ver morir a su mejor amigo, ¡el Cielo ha tenido suficiente y quiere que muera! Pero Konzen Douji, el Mariscal de Campo Tenpou y el General Kenren están dispuestos a hacer cualquier cosa para proteger a Goku, incluso si eso significa volverse contra todo el Cielo.",
+    "poster": "https://cdn.animeando.net/covers/9088.jpg",
+    "cover": "https://cdn.animeando.net/covers/9088.jpg",
+    "banner": "https://cdn.animeando.net/covers/9088.jpg",
+    "type": "OVA",
+    "year": "2011",
+    "rating": 7.76,
+    "studio": "",
+    "episodesCount": 3,
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Shounen"
+    ],
+    "currentEpisode": 3,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c59fff0cb7d9887d1847e56683f9f34a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/eFsmmK6R#BIuXkqorv0Nrkhg0uCMzHxCirqT8VxZGyV0_rg7MuzQ"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mhmslw"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-1h9pvvqcc43g.html"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/904611e14824d72b8595040c8ac98fbb"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/DcNjmZAJ#TdJ7kXvhh2e-VNquchd1i1600yftlammOWRMM_F1H_A"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#515fbj"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-gft07qrtuevu.html"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/191f29bedebb923b41905d36152f2b50"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/nRlBBIJJ#IRVImgfWz4yog0Ui00eNxvhnOxKZWrcEF_tK_njakA4"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#xexhpz"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-6xgxcuiwodk7.html"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781590761045,
+    "hasLatino": false
+  },
+  {
+    "id": "one-piece-3d-mugiwara-chase",
+    "title": "One Piece 3D: Mugiwara Chase",
+    "status": "Finalizado",
+    "synopsis": "Según Weekly Shonen Jump, se anunciaron películas en 3D de One Piece y Toriko que se estrenarán el 19 de marzo de 2011. One Piece 3D es una historia original sobre el sombrero de paja perdido de Luffy.",
+    "poster": "https://cdn.animeando.net/covers/9999.jpg",
+    "cover": "https://cdn.animeando.net/covers/9999.jpg",
+    "banner": "https://cdn.animeando.net/backdrops/9999.jpg",
+    "type": "Película",
+    "year": "2011",
+    "rating": 6.88,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/33e412dc331bf19b4e6f1910a51c1d30"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/SRFAnKTJ#rDwA2voxDDfqK3tt0LsPoxEoex90Mc6RFwo-qJ-bRxU"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#9n8n9t"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-4ct2iy7zlnye.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/NA9A6g1M?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781590760701,
+    "hasLatino": false
+  },
+  {
+    "id": "nichijou-nichijou-no-0-wa",
+    "title": "Nichijou: Nichijou no 0-wa",
+    "status": "Finalizado",
+    "synopsis": "Mientras que el título sugiere una historia de la simple y cotidiana vida escolar, el contenido es más bien lo contrario. El escenario es una escuela extraña donde puedes ver al director luchar contra un ciervo o el brazo de un robot esconder un pastel enrollado. Sin embargo, también hay historias normales, como construir un castillo de cartas o presentar un examen para el cual no estudiaste.",
+    "poster": "https://cdn.myanimelist.net/images/anime/6/25521l.jpg",
+    "cover": "https://cdn.animeando.net/covers/8857.jpg",
+    "banner": "https://cdn.animeando.net/covers/8857.jpg",
+    "type": "OVA",
+    "year": "2011",
+    "rating": 7.41,
+    "studio": "",
+    "episodesCount": 1,
+    "genres": [
+      "Comedia",
+      "Shounen",
+      "Escolares"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/0ec23c4c423e8caa09c5b3f10259d1c0"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/jY9lHKpI#CAWSAgackDu6XXhMT3xvUeLTMldNILHzCE8HdnUagCY"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-wx85dcua8jks.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/sZDgCXy4?embed"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1781590760051,
+    "hasLatino": false
+  },
+  {
     "id": "kampfer-fur-die-liebe",
     "title": "Kampfer fur die Liebe",
     "status": "Finalizado",
