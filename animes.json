@@ -454929,7 +454929,14 @@
     "rating": 6.76,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -471038,7 +471045,13 @@
     "rating": 7.91,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen",
+      "Elenco Adulto"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
