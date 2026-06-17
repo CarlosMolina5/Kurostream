@@ -248030,7 +248030,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1589/156720l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 5.21,
+    "rating": 5.2,
     "studio": "Imagica Infos",
     "episodesCount": 12,
     "genres": [
@@ -248041,7 +248041,7 @@
       "Histórico",
       "Shoujo"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -248253,10 +248253,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/fee38a416956d56a379398fb4cfcd5d6"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#eumjvs"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-mhervy389rqm.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781428624293
+    "timestamp": 1781719558158
   },
   {
     "id": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
