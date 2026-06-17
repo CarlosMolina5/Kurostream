@@ -238493,7 +238493,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1956/155456l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.59,
+    "rating": 7.58,
     "studio": "TMS Entertainment",
     "episodesCount": 12,
     "genres": [
@@ -238503,7 +238503,7 @@
       "Escolar",
       "Seinen"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -238715,10 +238715,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/7e476a6c67684cc4392b50377e5d54b7"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#cznj1k"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-iwoheqdnx7e6.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781468468928
+    "timestamp": 1781719383660
   },
   {
     "id": "reincarnation-no-kaben",
