@@ -596,7 +596,7 @@
         ]
       }
     ],
-    "timestamp": 1781737637894,
+    "timestamp": 1781737659868,
     "hasLatino": false
   },
   {
@@ -886,7 +886,7 @@
         ]
       }
     ],
-    "timestamp": 1781737634431,
+    "timestamp": 1781737656066,
     "hasLatino": false
   },
   {
@@ -1990,7 +1990,7 @@
         ]
       }
     ],
-    "timestamp": 1781737639851,
+    "timestamp": 1781737661580,
     "hasLatino": false
   },
   {
@@ -2545,7 +2545,7 @@
         ]
       }
     ],
-    "timestamp": 1781737637158,
+    "timestamp": 1781737659803,
     "hasLatino": false
   },
   {
@@ -3133,7 +3133,7 @@
         ]
       }
     ],
-    "timestamp": 1781737637678,
+    "timestamp": 1781737659760,
     "hasLatino": false
   },
   {
@@ -450451,7 +450451,16 @@
     "rating": 6.4,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -478514,11 +478523,7 @@
     "rating": 6.11,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Mitología"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -502891,7 +502896,11 @@
     "rating": 8.34,
     "studio": "",
     "episodesCount": 40,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 40,
     "lastEpDate": "Hace un momento",
     "episodes": [
