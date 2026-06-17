@@ -255612,7 +255612,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1879/155958l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.28,
+    "rating": 7.29,
     "studio": "Felix Film",
     "episodesCount": 12,
     "genres": [
@@ -255620,7 +255620,7 @@
       "Romance",
       "Escolar"
     ],
-    "currentEpisode": 9,
+    "currentEpisode": 10,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -255813,10 +255813,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 10,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/748339d6c69208c1b70870e58fd54916"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#rtkzux"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ueslzfgsks9u.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415666153
+    "timestamp": 1781720266627
   },
   {
     "id": "tensei-shitara-slime-datta-ken-4th-season",
