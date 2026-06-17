@@ -256665,7 +256665,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1176/153626l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 8.01,
+    "rating": 8,
     "studio": "Lerche",
     "episodesCount": 16,
     "genres": [
@@ -256674,7 +256674,7 @@
       "Psicológico",
       "Escolar"
     ],
-    "currentEpisode": 14,
+    "currentEpisode": 15,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -256966,10 +256966,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 15,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/653ceffd63be7fceb1e8e5171a2911ee"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#bhzwya"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ypfp0jrz33tp.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415582803
+    "timestamp": 1781720326960
   },
   {
     "id": "kanan-sama-wa-akumade-choroi",
