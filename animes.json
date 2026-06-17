@@ -255357,7 +255357,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1015/156388l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 6.12,
+    "rating": 6.11,
     "studio": "Production I.G",
     "episodesCount": 13,
     "genres": [
@@ -255366,7 +255366,7 @@
       "Visual Arts",
       "Shonen"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -255578,10 +255578,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ce9a8db255aa633f710ebc28176b0f4e"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mpfdoj"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-pvd88qjav2z1.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415678979
+    "timestamp": 1781720182235
   },
   {
     "id": "aishiteru-game-wo-owarasetai",
