@@ -251656,7 +251656,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1393/156075l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 5.77,
+    "rating": 5.76,
     "studio": "TMS Entertainment",
     "episodesCount": 12,
     "genres": [
@@ -251666,7 +251666,7 @@
       "Harem",
       "Shonen"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -251882,10 +251882,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8a24baf3ead2f485b9fb94f1c743d17a"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#sd66o8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vzylcxl8az4n.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781418696195
+    "timestamp": 1781719735661
   },
   {
     "id": "koori-no-jouheki",
