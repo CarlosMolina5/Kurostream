@@ -250216,7 +250216,7 @@
     "year": "2026",
     "rating": 6.48,
     "studio": "Tatsunoko Production",
-    "episodesCount": 10,
+    "episodesCount": 11,
     "genres": [
       "Comedia",
       "Romance",
@@ -250224,7 +250224,7 @@
       "Otaku Culture",
       "Shoujo"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -250436,10 +250436,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d8a9cbd793a05f401814e5aaa6d98b6e"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#69bjen"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xtjhc1v5upkf.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781418818939
+    "timestamp": 1781719604805
   },
   {
     "id": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
