@@ -241988,14 +241988,14 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1045/157132l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.23,
+    "rating": 7.22,
     "studio": "TROYCA",
     "episodesCount": 12,
     "genres": [
       "Comedia",
       "Romance"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -242226,10 +242226,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/db7c1cb2a3b95c7517fba0bfb2e0c246"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#prie3o"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-e68a29b6c1bm.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781468305705
+    "timestamp": 1781719470660
   },
   {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
