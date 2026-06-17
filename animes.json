@@ -241390,7 +241390,7 @@
       "Romance",
       "Escolar"
     ],
-    "currentEpisode": 9,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -241579,10 +241579,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b6cb7d383645164b0b69e4d4aa0ed9c4"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#lne3pe"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-2ex7hksk8e3s.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781468355787
+    "timestamp": 1781719424075
   },
   {
     "id": "dr-stone-science-future-part-3",
