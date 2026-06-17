@@ -254872,7 +254872,7 @@
       "Sobrenatural",
       "Escolar"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -255084,10 +255084,29 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/2aa54b1c9141b1d504a7dca46d8ca30c"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mpfoyn"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-g91npdxna9u2.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415706318
+    "timestamp": 1781720144569
   },
   {
     "id": "awajima-hyakkei",
