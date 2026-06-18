@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "timestamp": 1781808788453,
+    "timestamp": 1781808800170,
     "hasLatino": true
   },
   {
@@ -108,7 +108,7 @@
         ]
       }
     ],
-    "timestamp": 1781808788595,
+    "timestamp": 1781808799919,
     "hasLatino": false
   },
   {
@@ -398,7 +398,7 @@
         ]
       }
     ],
-    "timestamp": 1781808789072,
+    "timestamp": 1781808800852,
     "hasLatino": false
   },
   {
@@ -447,7 +447,7 @@
         ]
       }
     ],
-    "timestamp": 1781808788730,
+    "timestamp": 1781808799919,
     "hasLatino": false
   },
   {
@@ -496,7 +496,7 @@
         ]
       }
     ],
-    "timestamp": 1781808788309,
+    "timestamp": 1781808799917,
     "hasLatino": false
   },
   {
@@ -527798,7 +527798,12 @@
     "rating": 7.8,
     "studio": "",
     "episodesCount": 13,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen"
+    ],
     "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
