@@ -42,7 +42,7 @@
         ]
       }
     ],
-    "timestamp": 1781806273505,
+    "timestamp": 1781806286560,
     "hasLatino": false
   },
   {
@@ -521,7 +521,7 @@
         ]
       }
     ],
-    "timestamp": 1781806276080,
+    "timestamp": 1781806288947,
     "hasLatino": false
   },
   {
@@ -567,7 +567,7 @@
         ]
       }
     ],
-    "timestamp": 1781806273962,
+    "timestamp": 1781806286343,
     "hasLatino": false
   },
   {
@@ -700,7 +700,7 @@
         ]
       }
     ],
-    "timestamp": 1781806274130,
+    "timestamp": 1781806286692,
     "hasLatino": false
   },
   {
@@ -832,7 +832,7 @@
         ]
       }
     ],
-    "timestamp": 1781806273921,
+    "timestamp": 1781806286855,
     "hasLatino": false
   },
   {
@@ -332331,28 +332331,6 @@
         ]
       },
       {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/87e6d04233de99d5b66536da0816d20a"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/U1JA1C5J#mxvdvYdnWf92g8O7T7qsBTM_tWSPukXdHdt5yLnQUfE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-xdkamq93001s.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/cfhFqtno?embed"
-          }
-        ]
-      },
-      {
         "num": 6,
         "latino": [],
         "sub": [
@@ -332507,7 +332485,7 @@
         ]
       }
     ],
-    "timestamp": 1781806278060,
+    "timestamp": 1781372916606,
     "hasLatino": false
   },
   {
@@ -505957,7 +505935,11 @@
     "rating": 7.75,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Romance",
+      "Shoujo",
+      "Mahou Shoujo"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -524700,13 +524682,7 @@
     "rating": 7.68,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Ciencia Ficción",
-      "Drama",
-      "Espacial",
-      "Mecha",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
