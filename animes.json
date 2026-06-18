@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "timestamp": 1781808851177,
+    "timestamp": 1781808865057,
     "hasLatino": true
   },
   {
@@ -108,7 +108,7 @@
         ]
       }
     ],
-    "timestamp": 1781808851158,
+    "timestamp": 1781808864721,
     "hasLatino": false
   },
   {
@@ -398,7 +398,7 @@
         ]
       }
     ],
-    "timestamp": 1781808851816,
+    "timestamp": 1781808865956,
     "hasLatino": false
   },
   {
@@ -447,7 +447,7 @@
         ]
       }
     ],
-    "timestamp": 1781808851324,
+    "timestamp": 1781808865015,
     "hasLatino": false
   },
   {
@@ -496,7 +496,7 @@
         ]
       }
     ],
-    "timestamp": 1781808851645,
+    "timestamp": 1781808865050,
     "hasLatino": false
   },
   {
@@ -489945,14 +489945,7 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [
-      "Acción",
-      "Misterio",
-      "Sobrenatural",
-      "Terror",
-      "Detectives",
-      "Vampiros"
-    ],
+    "genres": [],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -502390,7 +502383,15 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Shounen",
+      "Artes Marciales",
+      "Superpoderes"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
