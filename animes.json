@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781804804270,
+    "timestamp": 1781804812822,
     "hasLatino": false
   },
   {
@@ -244,7 +244,7 @@
         ]
       }
     ],
-    "timestamp": 1781804804705,
+    "timestamp": 1781804813039,
     "hasLatino": false
   },
   {
@@ -269,6 +269,28 @@
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
+      {
+        "num": 1,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c44d0af242149ce02290094bdbb956d3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/xUowTQwQ#rOZLIOwG4j93jZ_ydt0bXdjbUEpktSA8iv_L9OOdF3I"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-wlbmcradl54d.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/a6widVyY?embed"
+          }
+        ]
+      },
       {
         "num": 2,
         "latino": [],
@@ -346,7 +368,7 @@
         ]
       }
     ],
-    "timestamp": 1781804803128,
+    "timestamp": 1781804812417,
     "hasLatino": false
   },
   {
@@ -593,7 +615,7 @@
         ]
       }
     ],
-    "timestamp": 1781804804270,
+    "timestamp": 1781804812988,
     "hasLatino": false
   },
   {
@@ -638,7 +660,7 @@
         ]
       }
     ],
-    "timestamp": 1781804804270,
+    "timestamp": 1781804812392,
     "hasLatino": false
   },
   {
@@ -513929,7 +513951,12 @@
     "rating": 6.84,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
