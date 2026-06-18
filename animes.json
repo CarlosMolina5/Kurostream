@@ -255,7 +255,7 @@
         ]
       }
     ],
-    "timestamp": 1781809675758,
+    "timestamp": 1781809690021,
     "hasLatino": false
   },
   {
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "timestamp": 1781809674994,
+    "timestamp": 1781809689936,
     "hasLatino": false
   },
   {
@@ -861,7 +861,7 @@
         ]
       }
     ],
-    "timestamp": 1781809676322,
+    "timestamp": 1781809690028,
     "hasLatino": false
   },
   {
@@ -1173,7 +1173,7 @@
         ]
       }
     ],
-    "timestamp": 1781809676061,
+    "timestamp": 1781809690030,
     "hasLatino": false
   },
   {
@@ -1484,7 +1484,7 @@
         ]
       }
     ],
-    "timestamp": 1781809676092,
+    "timestamp": 1781809689941,
     "hasLatino": false
   },
   {
@@ -493214,7 +493214,14 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Misterio",
+      "Sobrenatural",
+      "Terror",
+      "Detectives",
+      "Vampiros"
+    ],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
