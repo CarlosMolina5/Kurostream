@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781804039136,
+    "timestamp": 1781804043448,
     "hasLatino": false
   },
   {
@@ -621,7 +621,7 @@
         ]
       }
     ],
-    "timestamp": 1781804039919,
+    "timestamp": 1781804043469,
     "hasLatino": false
   },
   {
@@ -914,7 +914,7 @@
         ]
       }
     ],
-    "timestamp": 1781804038475,
+    "timestamp": 1781804040732,
     "hasLatino": false
   },
   {
@@ -1162,7 +1162,7 @@
         ]
       }
     ],
-    "timestamp": 1781804039478,
+    "timestamp": 1781804042564,
     "hasLatino": false
   },
   {
@@ -316540,6 +316540,28 @@
         ]
       },
       {
+        "num": 5,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/87e6d04233de99d5b66536da0816d20a"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/U1JA1C5J#mxvdvYdnWf92g8O7T7qsBTM_tWSPukXdHdt5yLnQUfE"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xdkamq93001s.html"
+          },
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/cfhFqtno?embed"
+          }
+        ]
+      },
+      {
         "num": 6,
         "latino": [],
         "sub": [
@@ -316694,7 +316716,7 @@
         ]
       }
     ],
-    "timestamp": 1781372916606,
+    "timestamp": 1781804046110,
     "hasLatino": false
   },
   {
@@ -497978,13 +498000,7 @@
     "rating": 5.58,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Drama",
-      "Shounen",
-      "Terror",
-      "Gore"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -517498,7 +517514,15 @@
     "rating": 7.54,
     "studio": "",
     "episodesCount": 24,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción",
+      "Drama",
+      "Elenco Adulto",
+      "Espacial",
+      "Militar"
+    ],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
