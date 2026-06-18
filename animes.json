@@ -335208,7 +335208,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1064/155042l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 5.99,
+    "rating": 5.97,
     "studio": "BENTEN Film",
     "episodesCount": 13,
     "genres": [
@@ -335218,7 +335218,7 @@
       "Reincarnation",
       "Shonen"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -335453,10 +335453,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ee9636d70ac1c3cddcf3fa20c2813af4"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ho6uto"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/AvVhlIjS#G7w1WZw8MYvqrKXc6OknCQCZRMPsD25zCT24uaO-Ddo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-pxrravje7we5.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781468453386
+    "timestamp": 1781814395987
   },
   {
     "id": "yi-ren-zhi-xia-6",
