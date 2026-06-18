@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "timestamp": 1781804710447,
+    "timestamp": 1781804714017,
     "hasLatino": false
   },
   {
@@ -1036,7 +1036,7 @@
         ]
       }
     ],
-    "timestamp": 1781804712913,
+    "timestamp": 1781804717187,
     "hasLatino": true
   },
   {
@@ -1348,7 +1348,7 @@
         ]
       }
     ],
-    "timestamp": 1781804711863,
+    "timestamp": 1781804716248,
     "hasLatino": false
   },
   {
@@ -1395,7 +1395,7 @@
         ]
       }
     ],
-    "timestamp": 1781804711419,
+    "timestamp": 1781804715891,
     "hasLatino": false
   },
   {
@@ -1442,7 +1442,7 @@
         ]
       }
     ],
-    "timestamp": 1781804710535,
+    "timestamp": 1781804714318,
     "hasLatino": false
   },
   {
@@ -515802,7 +515802,10 @@
     "rating": 8.26,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
