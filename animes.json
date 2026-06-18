@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781804848735,
+    "timestamp": 1781804856601,
     "hasLatino": false
   },
   {
@@ -244,7 +244,7 @@
         ]
       }
     ],
-    "timestamp": 1781804848988,
+    "timestamp": 1781804857158,
     "hasLatino": false
   },
   {
@@ -368,7 +368,7 @@
         ]
       }
     ],
-    "timestamp": 1781804848770,
+    "timestamp": 1781804856693,
     "hasLatino": false
   },
   {
@@ -615,7 +615,7 @@
         ]
       }
     ],
-    "timestamp": 1781804848895,
+    "timestamp": 1781804856990,
     "hasLatino": false
   },
   {
@@ -660,7 +660,7 @@
         ]
       }
     ],
-    "timestamp": 1781804848603,
+    "timestamp": 1781804856950,
     "hasLatino": false
   },
   {
@@ -495407,7 +495407,17 @@
     "rating": 6.98,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Misterio",
+      "Romance",
+      "Seinen",
+      "Sobrenatural",
+      "Terror",
+      "Mitología"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
