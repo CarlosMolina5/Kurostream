@@ -46,7 +46,7 @@
         ]
       }
     ],
-    "timestamp": 1781807858327,
+    "timestamp": 1781807868354,
     "hasLatino": false
   },
   {
@@ -90,7 +90,7 @@
         ]
       }
     ],
-    "timestamp": 1781807858461,
+    "timestamp": 1781807868405,
     "hasLatino": false
   },
   {
@@ -135,7 +135,7 @@
         ]
       }
     ],
-    "timestamp": 1781807858243,
+    "timestamp": 1781807868424,
     "hasLatino": false
   },
   {
@@ -230,7 +230,7 @@
         ]
       }
     ],
-    "timestamp": 1781807858173,
+    "timestamp": 1781807868405,
     "hasLatino": false
   },
   {
@@ -273,7 +273,7 @@
         ]
       }
     ],
-    "timestamp": 1781807858287,
+    "timestamp": 1781807868491,
     "hasLatino": false
   },
   {
@@ -491439,7 +491439,16 @@
     "rating": 7.12,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Shoujo",
+      "Artes Marciales",
+      "Histórico",
+      "Isekai"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
