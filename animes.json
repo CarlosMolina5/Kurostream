@@ -43,7 +43,7 @@
         ]
       }
     ],
-    "timestamp": 1781805523262,
+    "timestamp": 1781805536159,
     "hasLatino": false
   },
   {
@@ -91,7 +91,7 @@
         ]
       }
     ],
-    "timestamp": 1781805523240,
+    "timestamp": 1781805536443,
     "hasLatino": false
   },
   {
@@ -204,7 +204,7 @@
         ]
       }
     ],
-    "timestamp": 1781805523787,
+    "timestamp": 1781805536885,
     "hasLatino": false
   },
   {
@@ -266,7 +266,7 @@
         ]
       }
     ],
-    "timestamp": 1781805523240,
+    "timestamp": 1781805536317,
     "hasLatino": false
   },
   {
@@ -515,7 +515,7 @@
         ]
       }
     ],
-    "timestamp": 1781805524089,
+    "timestamp": 1781805536976,
     "hasLatino": false
   },
   {
@@ -506749,7 +506749,13 @@
     "rating": 6.03,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Detectives",
+      "Ecchi"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
