@@ -61,7 +61,7 @@
         ]
       }
     ],
-    "timestamp": 1781810894781,
+    "timestamp": 1781810904688,
     "hasLatino": false
   },
   {
@@ -111,7 +111,7 @@
         ]
       }
     ],
-    "timestamp": 1781810894555,
+    "timestamp": 1781810904550,
     "hasLatino": false
   },
   {
@@ -159,7 +159,7 @@
         ]
       }
     ],
-    "timestamp": 1781810894328,
+    "timestamp": 1781810904693,
     "hasLatino": false
   },
   {
@@ -206,7 +206,7 @@
         ]
       }
     ],
-    "timestamp": 1781810894487,
+    "timestamp": 1781810904612,
     "hasLatino": false
   },
   {
@@ -254,7 +254,7 @@
         ]
       }
     ],
-    "timestamp": 1781810894639,
+    "timestamp": 1781810904684,
     "hasLatino": false
   },
   {
@@ -319677,19 +319677,22 @@
   },
   {
     "id": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-    "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+    "title": "Killed Again, Mr. Detective.",
     "status": "En Emisión",
-    "synopsis": "Sakuya Otsuki es el hijo de un detective legendario, trabajando para seguir los pasos de su padre junto a su asistente, Lilithea. Sin embargo, hay algo diferente en este joven detective de secundaria. Dondequiera que va, siempre logra verse envuelto en sus casos—¡como una víctima de asesinato! Cuando Sakuya recibe la tarea de infiltrarse en un lujoso crucero, se encuentra muerto una vez más. Pero cada vez que vuelve a abrir los ojos, Lilithea está a su lado, lista para ayudarle a llegar al fondo del misterio...",
-    "poster": "https://cdn.animeando.net/covers/62964.jpg",
-    "cover": "https://cdn.animeando.net/covers/62964.jpg",
-    "banner": "https://cdn.animeando.net/backdrops/62964.jpg",
-    "type": "TV",
+    "synopsis": "Sakuya Otsuki es el hijo de un legendario detective, que trabaja para seguir los pasos de su padre con su asistente, Lilithea. Sin embargo, hay algo diferente en este detective de secundaria. Donde quiera que vaya, siempre se las arregla para enredarse en sus casos, ¡como una víctima de asesinato! Cuando Sakuya tiene la tarea de infiltrarse en un crucero de lujo, se encuentra asesinado una vez más. Pero cada vez que vuelve a abrir los ojos, Lilithea está allí a su lado, lista para ayudarle a llegar al fondo del misterio...\n\n(Fuente: Yen Press)",
+    "poster": "https://cdn.myanimelist.net/images/anime/1595/156152l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1595/156152l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1595/156152l.webp",
+    "type": "Serie",
     "year": "2026",
-    "rating": 0,
-    "studio": "",
+    "rating": 6.16,
+    "studio": "LIDENFILMS",
     "episodesCount": 12,
-    "genres": [],
-    "currentEpisode": 12,
+    "genres": [
+      "Misterio",
+      "Romance"
+    ],
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -319708,7 +319711,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-r6jey7szzf3o.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 2,
@@ -319726,7 +319730,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-9k3dqkrf5stq.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 3,
@@ -319737,18 +319742,19 @@
             "url": "https://player.zilla-networks.com/play/bf7c3b22d8d1c886af3bcb924d47439b"
           },
           {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/f2RS0QqJ#OcM0TUQxK-X8GPSgarUo2kjfKUDWFxDvmX2bP3cMQHw"
-          },
-          {
             "name": "UPNShare",
             "url": "https://animeav1.uns.bio/#occ56u"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/f2RS0QqJ#OcM0TUQxK-X8GPSgarUo2kjfKUDWFxDvmX2bP3cMQHw"
           },
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-5c8mvh6jxdp5.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 4,
@@ -319770,7 +319776,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-1j37ntqo4doh.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 5,
@@ -319788,7 +319795,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-ewvvmvw504ox.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 6,
@@ -319806,7 +319814,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-w1gt168obcrg.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 7,
@@ -319828,7 +319837,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-hkkr30troh9g.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 8,
@@ -319839,18 +319849,19 @@
             "url": "https://player.zilla-networks.com/play/d6e27926eaace8fd0cb8029fb56a3d4e"
           },
           {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/crdhyQgR#7OkqWBqzwCBq26vrQ_no_gWNiadExrlMYk1PCXK303A"
-          },
-          {
             "name": "UPNShare",
             "url": "https://animeav1.uns.bio/#695uam"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/crdhyQgR#7OkqWBqzwCBq26vrQ_no_gWNiadExrlMYk1PCXK303A"
           },
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-y3luotrwm0ju.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 9,
@@ -319868,7 +319879,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-v0p1q91vu8p1.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 10,
@@ -319879,18 +319891,19 @@
             "url": "https://player.zilla-networks.com/play/9bd875daa4f93a2eaaa0d9b33fa4d809"
           },
           {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/AF0lDTDY#ZlHDBwQoOowKah8V_egv0K3biQGk-uNvmt1HXRk3F70"
-          },
-          {
             "name": "UPNShare",
             "url": "https://animeav1.uns.bio/#9jgjlg"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/AF0lDTDY#ZlHDBwQoOowKah8V_egv0K3biQGk-uNvmt1HXRk3F70"
           },
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-gi0vqq9h5ozl.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 11,
@@ -319912,33 +319925,12 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-8grcjj1cjc7n.html"
           }
-        ]
-      },
-      {
-        "num": 12,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/37fbedfbfbe7f4379d81970c4be54b1c"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/ZMs0xZiQ#SdgLdHcyCsxVJIAcZxHWIkohEgsOUZQrcwadsZe8LLY"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#ikm9ri"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-2y0nfi1w7b7j.html"
-          }
-        ]
+        ],
+        "isNew": false
       }
     ],
-    "timestamp": 1781810895907,
-    "hasLatino": false
+    "isNewEpisode": false,
+    "timestamp": 1781428605148
   },
   {
     "id": "kirio-fanclub",
@@ -510485,15 +510477,7 @@
     "rating": 6.53,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Fantasía",
-      "Shounen",
-      "Artes Marciales",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
