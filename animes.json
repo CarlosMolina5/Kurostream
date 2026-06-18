@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781804770269,
+    "timestamp": 1781804779165,
     "hasLatino": false
   },
   {
@@ -244,7 +244,7 @@
         ]
       }
     ],
-    "timestamp": 1781804771066,
+    "timestamp": 1781804780217,
     "hasLatino": false
   },
   {
@@ -368,7 +368,7 @@
         ]
       }
     ],
-    "timestamp": 1781804770521,
+    "timestamp": 1781804780133,
     "hasLatino": false
   },
   {
@@ -615,7 +615,7 @@
         ]
       }
     ],
-    "timestamp": 1781804772285,
+    "timestamp": 1781804780231,
     "hasLatino": false
   },
   {
@@ -660,7 +660,7 @@
         ]
       }
     ],
-    "timestamp": 1781804770266,
+    "timestamp": 1781804779820,
     "hasLatino": false
   },
   {
@@ -703,7 +703,7 @@
         ]
       }
     ],
-    "timestamp": 1781804766727,
+    "timestamp": 1781804764656,
     "hasLatino": false
   },
   {
@@ -1700,7 +1700,7 @@
         ]
       }
     ],
-    "timestamp": 1781804770518,
+    "timestamp": 1781804767126,
     "hasLatino": true
   },
   {
@@ -2012,7 +2012,7 @@
         ]
       }
     ],
-    "timestamp": 1781804769277,
+    "timestamp": 1781804766376,
     "hasLatino": false
   },
   {
@@ -2059,7 +2059,7 @@
         ]
       }
     ],
-    "timestamp": 1781804768202,
+    "timestamp": 1781804766120,
     "hasLatino": false
   },
   {
@@ -2106,7 +2106,7 @@
         ]
       }
     ],
-    "timestamp": 1781804767701,
+    "timestamp": 1781804764731,
     "hasLatino": false
   },
   {
@@ -478909,16 +478909,7 @@
     "rating": 7.24,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía",
-      "Romance",
-      "Shoujo",
-      "Artes Marciales",
-      "Histórico",
-      "Isekai"
-    ],
+    "genres": [],
     "currentEpisode": 6,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -513840,7 +513831,12 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Sobrenatural",
+      "Terror"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
