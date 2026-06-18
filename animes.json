@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781803997230,
+    "timestamp": 1781804002133,
     "hasLatino": false
   },
   {
@@ -621,7 +621,7 @@
         ]
       }
     ],
-    "timestamp": 1781803997241,
+    "timestamp": 1781804002651,
     "hasLatino": false
   },
   {
@@ -914,7 +914,7 @@
         ]
       }
     ],
-    "timestamp": 1781803996613,
+    "timestamp": 1781804002026,
     "hasLatino": false
   },
   {
@@ -938,7 +938,7 @@
       "Harem",
       "Vampiros"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 7,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -1094,75 +1094,9 @@
             "url": "https://pixeldrain.com/u/SRaVGVrm?embed"
           }
         ]
-      },
-      {
-        "num": 8,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/fd1480d90286984da362ba2e8f9c6854"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/X8hGwK5S#pwLEzAdzYXAS8Y9cV_VdiwgNptCpDkUWlLzTW3ombyE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-pv47i38d2g8p.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/b6SpHfzq?embed"
-          }
-        ]
-      },
-      {
-        "num": 9,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/4e360c35984fd3f914fc06115797397b"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/78JWCJoA#mIzXS6uIo-8J5gdotSA-E3ad0zhQFG_717EKZHI-iPU"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-bzt5h3c4oorp.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/JRpb3SFL?embed"
-          }
-        ]
-      },
-      {
-        "num": 10,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/728a8da82b1b86f2bc1065e531bc72d5"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/DpYUjJwC#EvIA3B0CAhP-Ar1A5W2KtqlHYcEptBS4BwqJYzst3xo"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-05byvmp1xls9.html"
-          },
-          {
-            "name": "PDrain",
-            "url": "https://pixeldrain.com/u/sd51yjqQ?embed"
-          }
-        ]
       }
     ],
-    "timestamp": 1781803996916,
+    "timestamp": 1781804002026,
     "hasLatino": false
   },
   {
@@ -316716,7 +316650,7 @@
         ]
       }
     ],
-    "timestamp": 1781804000541,
+    "timestamp": 1781804005316,
     "hasLatino": false
   },
   {
@@ -470307,7 +470241,12 @@
     "rating": 8.01,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -486273,7 +486212,11 @@
     "rating": 7.19,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Elenco Adulto",
+      "Histórico",
+      "Militar"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -501418,13 +501361,7 @@
     "rating": 7.91,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Misterio",
-      "Shounen",
-      "Elenco Adulto"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -521974,7 +521911,11 @@
     "rating": 8.34,
     "studio": "",
     "episodesCount": 40,
-    "genres": [],
+    "genres": [
+      "Deportes",
+      "Drama",
+      "Shounen"
+    ],
     "currentEpisode": 40,
     "lastEpDate": "Hace un momento",
     "episodes": [
