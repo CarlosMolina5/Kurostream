@@ -87,7 +87,7 @@
         ]
       }
     ],
-    "timestamp": 1781813833127,
+    "timestamp": 1781813848232,
     "hasLatino": false
   },
   {
@@ -134,7 +134,7 @@
         ]
       }
     ],
-    "timestamp": 1781813834115,
+    "timestamp": 1781813848523,
     "hasLatino": false
   },
   {
@@ -189,7 +189,7 @@
         ]
       }
     ],
-    "timestamp": 1781813833498,
+    "timestamp": 1781813848194,
     "hasLatino": true
   },
   {
@@ -257,7 +257,7 @@
         ]
       }
     ],
-    "timestamp": 1781813832982,
+    "timestamp": 1781813848189,
     "hasLatino": true
   },
   {
@@ -303,7 +303,7 @@
         ]
       }
     ],
-    "timestamp": 1781813833870,
+    "timestamp": 1781813848221,
     "hasLatino": false
   },
   {
@@ -332901,19 +332901,25 @@
   },
   {
     "id": "reincarnation-no-kaben",
-    "title": "Reincarnation no Kaben",
+    "title": "Petals of Reincarnation",
     "status": "En Emisión",
-    "synopsis": "Existe un objeto conocido como la",
-    "poster": "https://cdn.animeando.net/covers/59443.jpg",
-    "cover": "https://cdn.animeando.net/covers/59443.jpg",
-    "banner": "https://cdn.animeando.net/backdrops/59443.jpg",
-    "type": "TV",
+    "synopsis": "Existe un objeto conocido como la \"Rama de la Reencarnación\" que puede otorgar a las personas los talentos de las vidas pasadas, siempre y cuando se corten la garganta con él.\n\nTouya Senji es un adolescente que lucha con una baja autoestima después de crecer a la sombra de su talentoso hermano mayor. Llega a la decisión de que los estudios académicos son su último recurso en la búsqueda de talento, pero no logra encontrar satisfacción a pesar de colocarse constantemente en el top 100 para los exámenes nacionales simulados.\n\nEn un giro del destino, Touya se encuentra con uno de sus compañeros de clase, Haito Luo Buffett, un \"Returner\" que ha resucitado los talentos de su vida pasada utilizando la Rama de la Reencarnación, mientras lucha contra un asesino en serie.\n\n(Fuente: Comunicado de prensa)",
+    "poster": "https://cdn.myanimelist.net/images/anime/1064/155042l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1064/155042l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1064/155042l.webp",
+    "type": "Serie",
     "year": "2026",
-    "rating": 0,
-    "studio": "",
-    "episodesCount": 12,
-    "genres": [],
-    "currentEpisode": 12,
+    "rating": 5.99,
+    "studio": "BENTEN Film",
+    "episodesCount": 13,
+    "genres": [
+      "Acción",
+      "Misterio",
+      "Sobrenatural",
+      "Reincarnation",
+      "Shonen"
+    ],
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -332932,7 +332938,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-fkyjoyerjjs8.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 2,
@@ -332950,7 +332957,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-mmtkug2izeaj.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 3,
@@ -332972,7 +332980,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-1ytiris9ar2e.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 4,
@@ -332983,18 +332992,19 @@
             "url": "https://player.zilla-networks.com/play/0999e3748c05b15e1236ece72c127db2"
           },
           {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/ebAmjYID#g7OD9e8rwi8I5tLcLj8eHjp-0OqIl677_WEc77N5Tqg"
-          },
-          {
             "name": "UPNShare",
             "url": "https://animeav1.uns.bio/#tfb91q"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ebAmjYID#g7OD9e8rwi8I5tLcLj8eHjp-0OqIl677_WEc77N5Tqg"
           },
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-rgtk4qen05uu.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 5,
@@ -333012,7 +333022,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-aibmap68xr1k.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 6,
@@ -333030,7 +333041,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-ckja0pdfwc1h.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 7,
@@ -333041,18 +333053,19 @@
             "url": "https://player.zilla-networks.com/play/07923035b56739d54e0bf7d624011c66"
           },
           {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/SCIlkTbI#AWK29sqkUH5fY8r224tdtVJlW4x0fMkamE1hKXxR6Uk"
-          },
-          {
             "name": "UPNShare",
             "url": "https://animeav1.uns.bio/#69calt"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/SCIlkTbI#AWK29sqkUH5fY8r224tdtVJlW4x0fMkamE1hKXxR6Uk"
           },
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-1fr35j6t93t5.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 8,
@@ -333074,7 +333087,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-rc2u620lm5j0.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 9,
@@ -333092,7 +333106,8 @@
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-jh19oxz3b9r8.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 10,
@@ -333103,18 +333118,19 @@
             "url": "https://player.zilla-networks.com/play/e4ef8bad5800dceecc5b50bf5b0bc54d"
           },
           {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/JB1mGRCT#SZ4-nsclKWj1h54vgP-gkyluh9epuOIGOZu3q8wZaaw"
-          },
-          {
             "name": "UPNShare",
             "url": "https://animeav1.uns.bio/#bh5sa6"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/JB1mGRCT#SZ4-nsclKWj1h54vgP-gkyluh9epuOIGOZu3q8wZaaw"
           },
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-ffw8fux51kof.html"
           }
-        ]
+        ],
+        "isNew": false
       },
       {
         "num": 11,
@@ -333125,44 +333141,23 @@
             "url": "https://player.zilla-networks.com/play/3db3202350fafbacc6a79803f1eab357"
           },
           {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/g2ZCWD6J#-3__4xozTvYtwNR9ZqdZ9rJp5j5jbm8iKHz9VLRD1yI"
-          },
-          {
             "name": "UPNShare",
             "url": "https://animeav1.uns.bio/#u8hwjj"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/g2ZCWD6J#-3__4xozTvYtwNR9ZqdZ9rJp5j5jbm8iKHz9VLRD1yI"
           },
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-cpjmghak0s0s.html"
           }
-        ]
-      },
-      {
-        "num": 12,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/ee9636d70ac1c3cddcf3fa20c2813af4"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/AvVhlIjS#G7w1WZw8MYvqrKXc6OknCQCZRMPsD25zCT24uaO-Ddo"
-          },
-          {
-            "name": "UPNShare",
-            "url": "https://animeav1.uns.bio/#ho6uto"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-pxrravje7we5.html"
-          }
-        ]
+        ],
+        "isNew": false
       }
     ],
-    "timestamp": 1781813837371,
-    "hasLatino": false
+    "isNewEpisode": false,
+    "timestamp": 1781468453386
   },
   {
     "id": "yi-ren-zhi-xia-6",
