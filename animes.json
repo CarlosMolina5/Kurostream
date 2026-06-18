@@ -43,7 +43,7 @@
         ]
       }
     ],
-    "timestamp": 1781805947419,
+    "timestamp": 1781805965547,
     "hasLatino": false
   },
   {
@@ -92,7 +92,7 @@
         ]
       }
     ],
-    "timestamp": 1781805947754,
+    "timestamp": 1781805965142,
     "hasLatino": false
   },
   {
@@ -160,7 +160,7 @@
         ]
       }
     ],
-    "timestamp": 1781805947827,
+    "timestamp": 1781805965304,
     "hasLatino": false
   },
   {
@@ -230,7 +230,7 @@
         ]
       }
     ],
-    "timestamp": 1781805947853,
+    "timestamp": 1781805965831,
     "hasLatino": false
   },
   {
@@ -364,7 +364,7 @@
         ]
       }
     ],
-    "timestamp": 1781805947639,
+    "timestamp": 1781805964845,
     "hasLatino": false
   },
   {
@@ -501229,7 +501229,11 @@
     "rating": 7.19,
     "studio": "",
     "episodesCount": 3,
-    "genres": [],
+    "genres": [
+      "Elenco Adulto",
+      "Histórico",
+      "Militar"
+    ],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -509468,12 +509472,7 @@
     "rating": 4.75,
     "studio": "",
     "episodesCount": 2,
-    "genres": [
-      "Comedia",
-      "Romance",
-      "Seinen",
-      "Ecchi"
-    ],
+    "genres": [],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
