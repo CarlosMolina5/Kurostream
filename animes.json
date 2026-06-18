@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "timestamp": 1781805295395,
+    "timestamp": 1781805302164,
     "hasLatino": false
   },
   {
@@ -112,7 +112,7 @@
         ]
       }
     ],
-    "timestamp": 1781805294375,
+    "timestamp": 1781805302238,
     "hasLatino": true
   },
   {
@@ -577,7 +577,7 @@
         ]
       }
     ],
-    "timestamp": 1781805296729,
+    "timestamp": 1781805304706,
     "hasLatino": false
   },
   {
@@ -623,7 +623,7 @@
         ]
       }
     ],
-    "timestamp": 1781805295395,
+    "timestamp": 1781805302377,
     "hasLatino": false
   },
   {
@@ -668,7 +668,7 @@
         ]
       }
     ],
-    "timestamp": 1781805294579,
+    "timestamp": 1781805302649,
     "hasLatino": false
   },
   {
@@ -506319,7 +506319,12 @@
     "rating": 6.22,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Seinen",
+      "Sobrenatural",
+      "Terror"
+    ],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
