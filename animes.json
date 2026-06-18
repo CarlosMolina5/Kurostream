@@ -190,7 +190,7 @@
         ]
       }
     ],
-    "timestamp": 1781802324096,
+    "timestamp": 1781802334097,
     "hasLatino": false
   },
   {
@@ -475,7 +475,7 @@
         ]
       }
     ],
-    "timestamp": 1781802323282,
+    "timestamp": 1781802334047,
     "hasLatino": false
   },
   {
@@ -760,7 +760,7 @@
         ]
       }
     ],
-    "timestamp": 1781802323520,
+    "timestamp": 1781802335452,
     "hasLatino": false
   },
   {
@@ -1250,7 +1250,7 @@
         ]
       }
     ],
-    "timestamp": 1781802323769,
+    "timestamp": 1781802334342,
     "hasLatino": true
   },
   {
@@ -1561,7 +1561,7 @@
         ]
       }
     ],
-    "timestamp": 1781802325154,
+    "timestamp": 1781802335153,
     "hasLatino": false
   },
   {
@@ -445155,7 +445155,14 @@
     "rating": 6.89,
     "studio": "",
     "episodesCount": 12,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Misterio",
+      "Sobrenatural",
+      "Terror",
+      "Detectives",
+      "Vampiros"
+    ],
     "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -461711,12 +461718,7 @@
     "rating": 7.42,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Misterio",
-      "Shounen"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -473264,11 +473266,7 @@
     "rating": 7.91,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Romance",
-      "Shoujo",
-      "Mahou Shoujo"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -480610,12 +480608,7 @@
     "rating": 6.22,
     "studio": "",
     "episodesCount": 6,
-    "genres": [
-      "Comedia",
-      "Seinen",
-      "Sobrenatural",
-      "Terror"
-    ],
+    "genres": [],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -489018,14 +489011,7 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance",
-      "Shounen",
-      "Escolares",
-      "Superpoderes"
-    ],
+    "genres": [],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
