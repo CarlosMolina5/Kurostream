@@ -535024,7 +535024,15 @@
     "rating": 7.57,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Shounen",
+      "Artes Marciales",
+      "Gore",
+      "Superpoderes"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
