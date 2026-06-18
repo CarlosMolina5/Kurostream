@@ -285,7 +285,7 @@
         ]
       }
     ],
-    "timestamp": 1781812290144,
+    "timestamp": 1781812307910,
     "hasLatino": false
   },
   {
@@ -571,7 +571,7 @@
         ]
       }
     ],
-    "timestamp": 1781812289672,
+    "timestamp": 1781812307665,
     "hasLatino": false
   },
   {
@@ -861,7 +861,7 @@
         ]
       }
     ],
-    "timestamp": 1781812289398,
+    "timestamp": 1781812307396,
     "hasLatino": false
   },
   {
@@ -1152,7 +1152,7 @@
         ]
       }
     ],
-    "timestamp": 1781812289916,
+    "timestamp": 1781812307193,
     "hasLatino": false
   },
   {
@@ -1245,24 +1245,6 @@
           {
             "name": "MP4Upload",
             "url": "https://www.mp4upload.com/embed-2dg4eflepp3d.html"
-          }
-        ]
-      },
-      {
-        "num": 5,
-        "latino": [],
-        "sub": [
-          {
-            "name": "HLS",
-            "url": "https://player.zilla-networks.com/play/f144f53de2d9ab11eccdd318cc18f9c9"
-          },
-          {
-            "name": "Mega",
-            "url": "https://mega.nz/embed/KhoAmaBZ#W4UpFRh2mci-R-wvUMAdDSq3fd4jkwkevMlw7Q2WrdE"
-          },
-          {
-            "name": "MP4Upload",
-            "url": "https://www.mp4upload.com/embed-8gft27wk9xfx.html"
           }
         ]
       },
@@ -1407,7 +1389,7 @@
         ]
       }
     ],
-    "timestamp": 1781812290241,
+    "timestamp": 1781812308422,
     "hasLatino": false
   },
   {
@@ -534821,11 +534803,7 @@
     "rating": 7.25,
     "studio": "",
     "episodesCount": 1,
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
+    "genres": [],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -546134,7 +546112,15 @@
     "rating": 8.02,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Misterio",
+      "Detectives",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
