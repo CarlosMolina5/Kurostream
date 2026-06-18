@@ -47,7 +47,7 @@
         ]
       }
     ],
-    "timestamp": 1781813238961,
+    "timestamp": 1781813259757,
     "hasLatino": true
   },
   {
@@ -91,7 +91,7 @@
         ]
       }
     ],
-    "timestamp": 1781813239050,
+    "timestamp": 1781813259750,
     "hasLatino": false
   },
   {
@@ -134,7 +134,7 @@
         ]
       }
     ],
-    "timestamp": 1781813239064,
+    "timestamp": 1781813259402,
     "hasLatino": false
   },
   {
@@ -183,7 +183,7 @@
         ]
       }
     ],
-    "timestamp": 1781813239116,
+    "timestamp": 1781813259417,
     "hasLatino": false
   },
   {
@@ -229,7 +229,7 @@
         ]
       }
     ],
-    "timestamp": 1781813239161,
+    "timestamp": 1781813259538,
     "hasLatino": false
   },
   {
@@ -562376,7 +562376,12 @@
     "rating": 7.05,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Aventura",
+      "Ciencia Ficción",
+      "Sobrenatural",
+      "Terror"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
