@@ -593,7 +593,7 @@
         ]
       }
     ],
-    "timestamp": 1781807071545,
+    "timestamp": 1781807088532,
     "hasLatino": false
   },
   {
@@ -1193,7 +1193,7 @@
         ]
       }
     ],
-    "timestamp": 1781807071430,
+    "timestamp": 1781807088862,
     "hasLatino": false
   },
   {
@@ -1237,7 +1237,7 @@
         ]
       }
     ],
-    "timestamp": 1781807068095,
+    "timestamp": 1781807085369,
     "hasLatino": false
   },
   {
@@ -1530,7 +1530,7 @@
         ]
       }
     ],
-    "timestamp": 1781807068787,
+    "timestamp": 1781807086484,
     "hasLatino": false
   },
   {
@@ -2083,7 +2083,7 @@
         ]
       }
     ],
-    "timestamp": 1781807070837,
+    "timestamp": 1781807088179,
     "hasLatino": false
   },
   {
@@ -512421,7 +512421,13 @@
     "rating": 6.03,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Comedia",
+      "Detectives",
+      "Ecchi"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -537837,15 +537843,7 @@
     "rating": 7.54,
     "studio": "",
     "episodesCount": 24,
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia Ficción",
-      "Drama",
-      "Elenco Adulto",
-      "Espacial",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 24,
     "lastEpDate": "Hace un momento",
     "episodes": [
