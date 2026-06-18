@@ -156,7 +156,7 @@
         ]
       }
     ],
-    "timestamp": 1781813554996,
+    "timestamp": 1781813557281,
     "hasLatino": false
   },
   {
@@ -314,7 +314,7 @@
         ]
       }
     ],
-    "timestamp": 1781813555598,
+    "timestamp": 1781813557043,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781813556231,
+    "timestamp": 1781813558644,
     "hasLatino": false
   },
   {
@@ -713,7 +713,7 @@
         ]
       }
     ],
-    "timestamp": 1781813555152,
+    "timestamp": 1781813556734,
     "hasLatino": false
   },
   {
@@ -833,7 +833,7 @@
         ]
       }
     ],
-    "timestamp": 1781813555163,
+    "timestamp": 1781813556771,
     "hasLatino": true
   },
   {
@@ -562064,7 +562064,10 @@
     "rating": 8.54,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Histórico"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
