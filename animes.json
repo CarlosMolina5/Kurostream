@@ -156,7 +156,7 @@
         ]
       }
     ],
-    "timestamp": 1781813670239,
+    "timestamp": 1781813682773,
     "hasLatino": false
   },
   {
@@ -314,7 +314,7 @@
         ]
       }
     ],
-    "timestamp": 1781813670770,
+    "timestamp": 1781813682843,
     "hasLatino": false
   },
   {
@@ -665,7 +665,7 @@
         ]
       }
     ],
-    "timestamp": 1781813671461,
+    "timestamp": 1781813683251,
     "hasLatino": false
   },
   {
@@ -713,7 +713,7 @@
         ]
       }
     ],
-    "timestamp": 1781813670500,
+    "timestamp": 1781813682205,
     "hasLatino": false
   },
   {
@@ -833,7 +833,7 @@
         ]
       }
     ],
-    "timestamp": 1781813670987,
+    "timestamp": 1781813682491,
     "hasLatino": true
   },
   {
@@ -549805,7 +549805,15 @@
     "rating": 8.02,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Ciencia Ficción",
+      "Drama",
+      "Misterio",
+      "Detectives",
+      "Mecha",
+      "Militar"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
