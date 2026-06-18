@@ -869,7 +869,7 @@
         ]
       }
     ],
-    "timestamp": 1781802956415,
+    "timestamp": 1781802971794,
     "hasLatino": false
   },
   {
@@ -916,7 +916,7 @@
         ]
       }
     ],
-    "timestamp": 1781802954506,
+    "timestamp": 1781802969422,
     "hasLatino": false
   },
   {
@@ -1077,7 +1077,7 @@
         ]
       }
     ],
-    "timestamp": 1781802954263,
+    "timestamp": 1781802969598,
     "hasLatino": false
   },
   {
@@ -1145,7 +1145,7 @@
         ]
       }
     ],
-    "timestamp": 1781802954048,
+    "timestamp": 1781802968732,
     "hasLatino": false
   },
   {
@@ -1189,7 +1189,7 @@
         ]
       }
     ],
-    "timestamp": 1781802953766,
+    "timestamp": 1781802968949,
     "hasLatino": false
   },
   {
@@ -485641,7 +485641,12 @@
     "rating": 4.75,
     "studio": "",
     "episodesCount": 2,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Seinen",
+      "Ecchi"
+    ],
     "currentEpisode": 2,
     "lastEpDate": "Hace un momento",
     "episodes": [
