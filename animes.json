@@ -190,7 +190,7 @@
         ]
       }
     ],
-    "timestamp": 1781802321738,
+    "timestamp": 1781802324096,
     "hasLatino": false
   },
   {
@@ -475,7 +475,7 @@
         ]
       }
     ],
-    "timestamp": 1781802321314,
+    "timestamp": 1781802323282,
     "hasLatino": false
   },
   {
@@ -760,7 +760,7 @@
         ]
       }
     ],
-    "timestamp": 1781802322019,
+    "timestamp": 1781802323520,
     "hasLatino": false
   },
   {
@@ -1250,7 +1250,7 @@
         ]
       }
     ],
-    "timestamp": 1781802322800,
+    "timestamp": 1781802323769,
     "hasLatino": true
   },
   {
@@ -1561,7 +1561,7 @@
         ]
       }
     ],
-    "timestamp": 1781802322961,
+    "timestamp": 1781802325154,
     "hasLatino": false
   },
   {
@@ -461711,7 +461711,12 @@
     "rating": 7.42,
     "studio": "",
     "episodesCount": 1,
-    "genres": [],
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Misterio",
+      "Shounen"
+    ],
     "currentEpisode": 1,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -480605,7 +480610,12 @@
     "rating": 6.22,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Seinen",
+      "Sobrenatural",
+      "Terror"
+    ],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -489008,7 +489018,14 @@
     "rating": 7.5,
     "studio": "",
     "episodesCount": 16,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Shounen",
+      "Escolares",
+      "Superpoderes"
+    ],
     "currentEpisode": 16,
     "lastEpDate": "Hace un momento",
     "episodes": [
