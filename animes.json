@@ -345229,14 +345229,14 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1989/154843l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.42,
+    "rating": 7.37,
     "studio": "Project No.9",
     "episodesCount": 12,
     "genres": [
       "Romance",
       "Escolar"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -345467,10 +345467,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/d835be618f4726894cb2ea7a1a42d06e"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#u8lv9r"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/MvIjVQjS#Hvtkoecazy5a5TsEToRoikvW7MsZareTVZoBz6JnOVU"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-tlh9qcovauvk.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781418767571
+    "timestamp": 1781881447908
   },
   {
     "id": "yamato-yo-towa-ni-rebel-3199",
