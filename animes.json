@@ -335793,7 +335793,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1525/157230l.webp",
     "type": "ONA",
     "year": "2026",
-    "rating": 7.01,
+    "rating": 7.02,
     "studio": "Qiyuan Yinghua",
     "episodesCount": 26,
     "genres": [
@@ -335801,7 +335801,7 @@
       "Sobrenatural",
       "Súper Poderes"
     ],
-    "currentEpisode": 24,
+    "currentEpisode": 25,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -336351,10 +336351,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 25,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/275522da9fbcadb78848b5f031f2bc15"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/pQVljRjB#fGdpgmRP-lR9iG9kWSQNUa3dH2bfvbxBuT28Ti4-ZTU"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#jvdanc"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-5x90d60t7jfg.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781468437259
+    "timestamp": 1781866177568
   },
   {
     "id": "digimon-beatbreak",
