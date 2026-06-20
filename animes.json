@@ -349537,7 +349537,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1171/156397l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.95,
+    "rating": 7.94,
     "studio": "Bones Film",
     "episodesCount": 24,
     "genres": [
@@ -349546,7 +349546,7 @@
       "Sobrenatural",
       "Shonen"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -349794,10 +349794,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/c606e90c4e6014a13b1efa10bb7eaa47"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#69xvdp"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/XWokUQiD#2GDdHoJcVPgbsefO1tN5m2QMPhVoANuwxI6SN7Af8Ig"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-larinl8x4486.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415733877
+    "timestamp": 1781973328792
   },
   {
     "id": "kanan-sama-wa-akumade-choroi",
