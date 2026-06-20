@@ -349832,7 +349832,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1681/154996l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 6.91,
+    "rating": 6.9,
     "studio": "Studio KAI",
     "episodesCount": 12,
     "genres": [
@@ -349843,7 +349843,7 @@
       "Escolar",
       "Shonen"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -350074,10 +350074,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e9028fcedd06de6879423c5498b0dbc8"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#ikmar3"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/ebhTgbLQ#TMXMB2K89fFOopDoUbeG1wHDw4TE1mVjAcVNQlMvR8A"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-0t0yfezdej6n.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415567656
+    "timestamp": 1781973351085
   },
   {
     "id": "akane-banashi",
