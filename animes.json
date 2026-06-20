@@ -347050,7 +347050,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1899/156600l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.48,
+    "rating": 7.45,
     "studio": "Cue",
     "episodesCount": 12,
     "genres": [
@@ -347059,7 +347059,7 @@
       "Escolar",
       "Shonen"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -347267,10 +347267,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#d3kgpz"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/6lxwkS7Q#PXEcnCL9ptiV71wM2587OT8mQ6Y4izex9x6L3ACASIM"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vvvkq2fiprq7.html"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/8ce83e11f0179171375c92facd3dfdd6"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781418654983
+    "timestamp": 1781967720793
   },
   {
     "id": "mao",
