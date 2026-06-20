@@ -350120,7 +350120,7 @@
       "Performing Arts",
       "Shonen"
     ],
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -350351,10 +350351,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 12,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/da6f6e76bd1e4f73e5a70469fec0ddd4"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mpytpq"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/HbhFXA5I#B5yjSPubPhV4TR8x8H8a15pM89fs7DODoeUvoz3jNmk"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-y8exd89z888v.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415554770
+    "timestamp": 1781973373821
   },
   {
     "id": "shunkashuutou-daikousha-haru-no-mai",
