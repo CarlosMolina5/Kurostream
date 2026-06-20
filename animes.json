@@ -350380,7 +350380,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1178/155933l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.42,
     "studio": "PRA",
     "episodesCount": 11,
     "genres": [
@@ -350388,7 +350388,7 @@
       "Ecchi",
       "CGDCT"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -350596,10 +350596,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/ea2b40918351481a035334c9e0319699"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#u8lm6b"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/XeQ1GQ7B#6d4xB1GLJcGjDcHV5peh2LItNnqEcVive76OkEDs8vQ"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-nmza9r6bfm8f.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415747389
+    "timestamp": 1781976975585
   },
   {
     "id": "canaan",
