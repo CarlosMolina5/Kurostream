@@ -348798,15 +348798,15 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1371/155054l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.87,
+    "rating": 7.85,
     "studio": "Wit Studio",
-    "episodesCount": 10,
+    "episodesCount": 11,
     "genres": [
       "Fantasía",
       "Isekai",
       "Reincarnation"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -349018,10 +349018,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/b4298397c8d1386a1d8059c8017e8a0f"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#mpyc8q"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/IRVUSbaL#luaZNERrK9KyMo1OZntzhxvUYD7EI7OwKa8Vo1EDYAo"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-7vwhxepy0hhx.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415625309
+    "timestamp": 1781953272086
   },
   {
     "id": "mairimashita-iruma-kun-4th-season",
