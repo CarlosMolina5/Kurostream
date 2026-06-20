@@ -349877,7 +349877,7 @@
       "Organized Crime",
       "Súper Poderes"
     ],
-    "currentEpisode": 22,
+    "currentEpisode": 23,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -350342,10 +350342,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 23,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/021661b9c74258e1c89be480870b0900"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#9jsbgq"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/LeIXETpL#Y5-WIgjlR5VpkeM8xG3WJec0RAoMCfLCTaF15FaRl7I"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-xptf6o1w7ngm.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415775430
+    "timestamp": 1781976794520
   },
   {
     "id": "ichijouma-mankitsugurashi",
