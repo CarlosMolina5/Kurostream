@@ -350412,7 +350412,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1993/156385l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 7.69,
+    "rating": 7.67,
     "studio": "Wit Studio",
     "episodesCount": 14,
     "genres": [
@@ -350421,7 +350421,7 @@
       "Romance",
       "Urban Fantasy"
     ],
-    "currentEpisode": 12,
+    "currentEpisode": 13,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -350675,10 +350675,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 13,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/6f0b5e8572b5c7d07e7cffd1fc9ee363"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#d3k6bj"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/eaxEjShD#Ad6F2vlyAxdDo-cTTyJCb1Jrxkgu53Z-_pssJTNoP1Y"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-vdbwy3htfxdz.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781415538095
+    "timestamp": 1781975198396
   },
   {
     "id": "canaan",
