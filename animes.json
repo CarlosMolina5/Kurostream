@@ -281,7 +281,7 @@
         ]
       }
     ],
-    "timestamp": 1782013255749,
+    "timestamp": 1782013268497,
     "hasLatino": false
   },
   {
@@ -572,7 +572,7 @@
         ]
       }
     ],
-    "timestamp": 1782013256878,
+    "timestamp": 1782013269679,
     "hasLatino": false
   },
   {
@@ -862,7 +862,7 @@
         ]
       }
     ],
-    "timestamp": 1782013256922,
+    "timestamp": 1782013269117,
     "hasLatino": false
   },
   {
@@ -1152,7 +1152,7 @@
         ]
       }
     ],
-    "timestamp": 1782013256878,
+    "timestamp": 1782013269884,
     "hasLatino": false
   },
   {
@@ -1442,7 +1442,7 @@
         ]
       }
     ],
-    "timestamp": 1782013255451,
+    "timestamp": 1782013269290,
     "hasLatino": false
   },
   {
@@ -553946,11 +553946,7 @@
     "rating": 7.19,
     "studio": "",
     "episodesCount": 3,
-    "genres": [
-      "Elenco Adulto",
-      "Histórico",
-      "Militar"
-    ],
+    "genres": [],
     "currentEpisode": 3,
     "lastEpDate": "Hace un momento",
     "episodes": [
@@ -559937,7 +559933,12 @@
     "rating": 6.22,
     "studio": "",
     "episodesCount": 6,
-    "genres": [],
+    "genres": [
+      "Comedia",
+      "Seinen",
+      "Sobrenatural",
+      "Terror"
+    ],
     "currentEpisode": 5,
     "lastEpDate": "Hace un momento",
     "episodes": [
