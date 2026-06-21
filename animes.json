@@ -457505,7 +457505,7 @@
     "banner": "https://cdn.myanimelist.net/images/anime/1190/155788l.webp",
     "type": "Serie",
     "year": "2026",
-    "rating": 8.23,
+    "rating": 8.24,
     "studio": "Actas",
     "episodesCount": 12,
     "genres": [
@@ -457514,7 +457514,7 @@
       "Escolar",
       "Shonen"
     ],
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "lastEpDate": "Hace un momento",
     "episodes": [
       {
@@ -457718,10 +457718,33 @@
           }
         ],
         "isNew": false
+      },
+      {
+        "num": 11,
+        "latino": [],
+        "sub": [
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/9adb72d68e374781da43dc919d83ef75"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/8iYjTSAA#PC9g-qGY9nVN2i9bi3QnXTDhYjgCvYQW6ZnyC1NEeBY"
+          },
+          {
+            "name": "UPNShare",
+            "url": "https://animeav1.uns.bio/#jvduuf"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-ex013ag684nn.html"
+          }
+        ],
+        "isNew": false
       }
     ],
     "isNewEpisode": false,
-    "timestamp": 1781468211998
+    "timestamp": 1782040223654
   },
   {
     "id": "maid-san-wa-taberu-dake",
