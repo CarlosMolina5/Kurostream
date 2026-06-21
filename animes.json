@@ -1,5 +1,67 @@
 [
   {
+    "id": "tenki-no-ko",
+    "title": "Weathering with You",
+    "status": "Finalizado",
+    "synopsis": "Tokio está experimentando lluvias torrenciales que parecen interrumpir el ritmo habitual de todos los que viven allí sin fin. En medio de este aguacero aparentemente eterno llega el fugitivo estudiante de secundaria Hodaka Morishima, que lucha por mantenerse financieramente, terminando con un trabajo en una editorial de poca monta. Al mismo tiempo, la huérfana Hina Amano también se esfuerza por encontrar trabajo para mantenerse a sí misma y a su hermano menor.\n\nAmbos destinos se entrelazan cuando Hodaka intenta rescatar a Hina de los hombres sombríos, decidiendo huir juntos. Posteriormente, Hodaka descubre que Hina tiene un poder extraño pero asombroso: la capacidad de llamar al sol cada vez que reza por él. Con el clima inusual de Tokio en mente, Hodaka ve el potencial de esta habilidad. Sugiere que Hina debería convertirse en una \"chica del sol\", alguien que despejará el cielo para las personas cuando más lo necesiten.\n\nLas cosas empiezan a mejorar ellos al principio. Sin embargo, es de conocimiento común que el poder siempre viene con un precio considerable...",
+    "poster": "https://cdn.myanimelist.net/images/anime/1880/101146l.webp",
+    "cover": "https://cdn.myanimelist.net/images/anime/1880/101146l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1880/101146l.webp",
+    "type": "Película",
+    "year": "2026",
+    "rating": 8.27,
+    "studio": "CoMix Wave Films",
+    "episodesCount": 1,
+    "genres": [
+      "Premiados",
+      "Drama",
+      "Romance",
+      "Sobrenatural"
+    ],
+    "currentEpisode": 1,
+    "lastEpDate": "Hace un momento",
+    "episodes": [
+      {
+        "num": 1,
+        "latino": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/H4nbQRD3?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/e8c8aaabbb2440460a48ee961613616d"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/zIkiRC5a#pLLZSVoca4VsNn2uchLgyD2jNXpxolY_k9PRzFvtPH8"
+          },
+          {
+            "name": "MP4Upload",
+            "url": "https://www.mp4upload.com/embed-2o8by31n0z21.html"
+          }
+        ],
+        "sub": [
+          {
+            "name": "PDrain",
+            "url": "https://pixeldrain.com/u/34xJKuwT?embed"
+          },
+          {
+            "name": "HLS",
+            "url": "https://player.zilla-networks.com/play/a0785b2ff49d3fb48274156d484d56b0"
+          },
+          {
+            "name": "Mega",
+            "url": "https://mega.nz/embed/CYclDD6C#COF_J5CKKB-eyiilpREKRNaixYOS_GSRP5m3JmTW9eo"
+          }
+        ],
+        "isNew": false
+      }
+    ],
+    "isNewEpisode": false,
+    "timestamp": 1782069559459
+  },
+  {
     "id": "ginga-eiyuu-densetsu-die-neue-these-seiran-3",
     "title": "Legend of the Galactic Heroes: Die Neue These - Stellar War Part 3",
     "status": "Finalizado",
